@@ -2,9 +2,12 @@
 # Annotated Chinese Metaphor Dataset
 An annotated Chinese metaphor dataset
 
-## 📌 引用
+## 📌 引用  Reference
 
 如果使用本项目的代码、数据或模型，请引用本项目。
+
+If you were to use this project's code, dataset, or model please refer to it as following.
+
 ```
 @misc{BELLE,
   author = {Yujie Shao*, Xinrong Yao*, Ge Zhang+, Jie Fu, Linyuan Zhang, Xinyu Gan, Yunji Liu, Siyu Liu, Yaoyao Wu, Shi Wang+},
