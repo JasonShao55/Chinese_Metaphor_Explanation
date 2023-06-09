@@ -1,6 +1,13 @@
 
 # Annotated Chinese Metaphor Dataset
+标注完善的中文隐喻数据集
 An annotated Chinese metaphor dataset
+
+## 💹 统计 Statistics
+
+**Average sentence length: 59.137**
+
+
 
 ## 📌 引用  Reference
 
@@ -18,3 +25,4 @@ If you were to use this project's code, dataset, or model please refer to it as 
   howpublished = {\url{https://github.com/JasonShao55/Chinese_Metaphor_Explanation}},
 }
 ```
+
