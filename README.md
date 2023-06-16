@@ -21,7 +21,7 @@ An annotated Chinese metaphor dataset
 If you were to use this project's code, dataset, or model please refer to it as following.
 
 ```
-@misc{BELLE,
+@misc{cn_metaphor_yujie,
   author = {Yujie Shao*, Xinrong Yao*, Ge Zhang+, Jie Fu, Linyuan Zhang, Xinyu Gan, Yunji Liu, Siyu Liu, Yaoyao Wu, Shi Wang+},
   title = {An Annotated Chinese Metaphor Dataset},
   year = {2023},
