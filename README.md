@@ -23,7 +23,7 @@ If you were to use this project's code, dataset, or model please refer to it as 
 ```
 @misc{cn_metaphor_yujie,
   author = {Yujie Shao*, Xinrong Yao*, Ge Zhang, Jie Fu+, Linyuan Zhang, Zijie Wang, Yifan Liu, Yaoyao Wu, Yunji Liu, Shi Wang+},
-  title = {An Annotated Chinese Metaphor Dataset},
+  title = {CMDAG: A Chinese Metaphor Dataset with Annotated Grounds},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
