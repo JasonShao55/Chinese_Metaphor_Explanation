@@ -1,17 +1,27 @@
 
 # Annotated Chinese Metaphor Dataset
-标注完善的中文隐喻数据集
+一个标注完善的中文隐喻数据集（~31k）
 An annotated Chinese metaphor dataset
 
 ## 💹 统计 Statistics
 
 **Average sentence length: 59.137**
 
-![bar_graph](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/90855b57-e8fe-446c-90fb-c3922fc6b2cf)
-![box_plot](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/735d3246-9f87-4ff2-99c5-e967e032f4ea)
-![Vehicles Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/625be7bd-30c8-4661-b693-8fb3b44e376f)
-![Grounds Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/f940ac97-f337-48d2-8531-b53f5d9fd8df)
-![Tenors Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/464be73b-ed83-49c3-84dd-d9d8226569a9)
+**Number of tenor-vehicle pairs: 46495**
+
+**Visualization:** 
+
+![Tenors Word Cloud_word_cloud](D:\OneDrive\Learning\NLP Metaphor Dataset\corpora_code\Tenors Word Cloud_word_cloud.svg)
+
+![Vehicles Word Cloud_word_cloud](D:\OneDrive\Learning\NLP Metaphor Dataset\corpora_code\Vehicles Word Cloud_word_cloud.svg)
+
+![Grounds Word Cloud_word_cloud](D:\OneDrive\Learning\NLP Metaphor Dataset\corpora_code\Grounds Word Cloud_word_cloud.svg)
+
+![bar_graph_top_items](D:\OneDrive\Learning\NLP Metaphor Dataset\corpora_code\bar_graph_top_items.svg)
+
+![box_plot_lengths_of_items](D:\OneDrive\Learning\NLP Metaphor Dataset\corpora_code\box_plot_lengths_of_items.svg)
+
+![bar_graph_top_ground_items](D:\OneDrive\Learning\NLP Metaphor Dataset\corpora_code\bar_graph_top_ground_items.svg)
 
 
 ## 📌 引用  Reference
