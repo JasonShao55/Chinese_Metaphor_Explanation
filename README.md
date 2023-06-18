@@ -21,9 +21,9 @@ An annotated Chinese metaphor dataset
 If you were to use this project's code, dataset, or model please refer to it as following.
 
 ```
-@misc{BELLE,
-  author = {Yujie Shao*, Xinrong Yao*, Ge Zhang+, Jie Fu, Linyuan Zhang, Xinyu Gan, Yunji Liu, Siyu Liu, Yaoyao Wu, Shi Wang+},
-  title = {An Annotated Chinese Metaphor Dataset},
+@misc{cn_metaphor_yujie,
+  author = {Yujie Shao*, Xinrong Yao*, Ge Zhang, Jie Fu+, Linyuan Zhang, Zijie Wang, Yifan Liu, Yaoyao Wu, Yunji Liu, Shi Wang+},
+  title = {CMDAG: A Chinese Metaphor Dataset with Annotated Grounds},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
