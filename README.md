@@ -1,6 +1,6 @@
 
 # Annotated Chinese Metaphor Dataset
-一个标注完善的中文隐喻数据集（~31k）
+一个标注完善的中文隐喻数据集（~28k）
 An annotated Chinese metaphor dataset
 
 ## 💹 统计 Statistics
