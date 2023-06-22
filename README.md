@@ -7,7 +7,10 @@ An annotated Chinese metaphor dataset
 
 **Average sentence length: 59.137**
 
-**Number of tenor-vehicle pairs: 46495**
+**Number of tenor-vehicle pairs: 36002**
+
+**Number of total contexts: 27989**
+
 
 **Visualization:** 
 ![Tenors Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/8600ef12-aa28-4fbb-a5d3-c70780a92b93)
