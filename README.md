@@ -1,22 +1,27 @@
 
 # Annotated Chinese Metaphor Dataset
-一个标注完善的中文隐喻数据集（~31k）
+一个标注完善的中文隐喻数据集（~28k）
 An annotated Chinese metaphor dataset
 
 ## 💹 统计 Statistics
 
 **Average sentence length: 59.137**
 
-**Number of tenor-vehicle pairs: 46495**
+**Number of tenor-vehicle pairs: 36002**
+
+**Number of total contexts: 27989**
+
 
 **Visualization:** 
-![Tenors Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/8600ef12-aa28-4fbb-a5d3-c70780a92b93)
-![Vehicles Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/fc254814-2da5-4096-ab79-44475be44863)
-![Grounds Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/abc16ba9-23e6-4ab8-a8b2-ca2ea1146ccb)
+![Tenors Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/14e9a9e3-1d3c-4fea-bf38-f963c6d3ad18)
+![Tenors (English) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/a507d29c-0657-47f9-b94d-d166242e3bc0)
+![Vehicles Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/5c15a5bd-1303-491d-8fec-820c6d17e2ab)
+![Vehicles (English) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/6678e5ec-9148-4b8a-84c6-c222f4969e12)
+![Grounds (Noun) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/c5e264e3-9d37-40c2-9d73-8836cc523ec3)
+![Grounds (Noun) (English) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/b930a5c9-dcab-432d-8494-7b6135fdcc9f)
+![Grounds (Adjective) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/d7ed51cb-14b8-4cbf-87e2-bbd1197740c9)
+![Grounds (Adjective) (English) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/1f9a1248-127b-40dd-939d-38ecd2ea7e46)
 
-![bar_graph_top_items](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/96f363ee-3c1b-4e9a-8aa8-2459809c7816)
-![box_plot_lengths_of_items](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/64a39794-3f1d-4930-b25b-3de3e6057aaf)
-![bar_graph_top_ground_items](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/deb0063b-d2a0-46cc-b568-e06fb3a46e21)
 
 
 ## 📌 引用  Reference
@@ -27,7 +32,7 @@ If you were to use this project's code, dataset, or model please refer to it as 
 
 ```
 @misc{cn_metaphor_yujie,
-  author = {Yujie Shao*, Xinrong Yao*, Ge Zhang, Jie Fu+, Linyuan Zhang, Zijie Wang, Yifan Liu, Yaoyao Wu, Yunji Liu, Shi Wang+},
+  author = {Yujie Shao*, Xinrong Yao*, Ge Zhang, Linyuan Zhang, Zijie Wang, Yifan Liu, Yaoyao Wu, Yunji Liu, Jie Fu+, Shi Wang+},
   title = {CMDAG: A Chinese Metaphor Dataset with Annotated Grounds},
   year = {2023},
   publisher = {GitHub},
