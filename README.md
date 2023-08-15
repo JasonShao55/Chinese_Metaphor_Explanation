@@ -50,8 +50,8 @@ A meticulously annotated, rigorously formatted Chinese metaphor dataset (~28k) t
   分别对应`utils\bert_cluster.py`中`cluster_and_save`（以下简称`聚类1`）和`cluster_and_save_word_embeddings`（以下简称`聚类2`）函数
 - 任务类型：2种，基于Ground的CoT的隐喻生成和基于Vehicle的CoT的隐喻生成
   - 基于Ground的CoT：
-   - 实验组：基于CoT, 第一步是**基于已有的聚类采样的范例，本体(Tenor)和喻体(Vehicle)，生成共性(Ground)**，第二步是基于第一步生成的共性，使用已有的本体和喻体，生成隐喻
-   - 对照组：不使用CoT, 直接使用已有的本体和共性，生成隐喻
+    - 实验组：基于CoT, 第一步是**基于已有的聚类采样的范例，本体(Tenor)和喻体(Vehicle)，生成共性(Ground)**，第二步是基于第一步生成的共性，使用已有的本体和喻体，生成隐喻
+    - 对照组：不使用CoT, 直接使用已有的本体和共性，生成隐喻
   - 基于Vehicle的CoT：
     - 实验组：基于CoT, 第一步是**基于已有的聚类采样的范例，本体(Tenor)和共性(Ground)，生成喻体(Vehicle)**，第二步是基于第一步生成的喻体，使用已有的本体和共性，生成隐喻
     - 对照组：不使用CoT, 直接使用已有的本体和共性，生成隐喻
@@ -73,13 +73,12 @@ A meticulously annotated, rigorously formatted Chinese metaphor dataset (~28k) t
 - 示例结果：
 已完成的模型的实验结果在`Experiment_Results/Model_Name`目录下，每个模型的结果是6个json文件，记录上述6种设定下模型的prompt和输出等信息，**要求格式， tenor，每条语料顺序等严格一致**，建议每条语料内按输入在前，输出在后的顺序排列，比如基于Ground的CoT的任务的结果截取如下：
 ```json
-...
     {
         "tenor": "语言",
         "vehicle": "刀",
         "ground": "XXX",
         "metaphor": "XXXX"
-    },...
+    },
 ```
 相应地，基于Vehicle的CoT的任务的结果截取如下：
 ```json
