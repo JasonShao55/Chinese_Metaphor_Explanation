@@ -21,7 +21,7 @@ A meticulously annotated, rigorously formatted Chinese metaphor dataset (~28k) t
 ![Grounds (Adjective) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/d7ed51cb-14b8-4cbf-87e2-bbd1197740c9)
 ![Grounds (Adjective) (English) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/1f9a1248-127b-40dd-939d-38ecd2ea7e46)
 
-## :airplane: 大模型（LLM）试验进度
+## :airplane: 大模型（LLM）实验进度
 - [X] OpenAI Models
   - [X] ChatGPT 3.5 Turbo
   - [X] ChatGPT 4.0
@@ -33,14 +33,14 @@ A meticulously annotated, rigorously formatted Chinese metaphor dataset (~28k) t
 - [ ] Claude
 - [ ] CPM-Bee
 - [ ] Linly
-- and more...
+- [ ] and more...
 
 **模型挑选规则**：
 - 支持中文
 - 版本尽可能新
 - 可以进行CoT和Prompt Engineering
 
-## 大模型实验细节
+## :earth_asia: 大模型实验细节
 ### 实验目的
 证明该标注完善的中文隐喻数据集，尤其在有Ground标注信息的情况下有助于大模型的隐喻生成和喻体生成任务表现，得到每个模型在相同的六个设定下的表现结果
 
@@ -51,10 +51,10 @@ A meticulously annotated, rigorously formatted Chinese metaphor dataset (~28k) t
 - 任务类型：2种，基于Ground的CoT的隐喻生成和基于Vehicle的CoT的隐喻生成
   - 基于Ground的CoT：
     - 实验组：基于CoT, 第一步是**基于已有的聚类采样的范例，本体(Tenor)和喻体(Vehicle)，生成共性(Ground)**，第二步是基于第一步生成的共性，使用已有的本体和喻体，生成隐喻
-    - 对照组：不使用CoT, 直接使用已有的本体和共性，生成隐喻
+    - 对照组：不使用CoT, 直接使用已有的**本体和喻体**，生成隐喻
   - 基于Vehicle的CoT：
     - 实验组：基于CoT, 第一步是**基于已有的聚类采样的范例，本体(Tenor)和共性(Ground)，生成喻体(Vehicle)**，第二步是基于第一步生成的喻体，使用已有的本体和共性，生成隐喻
-    - 对照组：不使用CoT, 直接使用已有的本体和共性，生成隐喻
+    - 对照组：不使用CoT, 直接使用已有的**本体和共性**，生成隐喻
     
 因此，每个模型的实验组数是6组：基于Ground的CoT（聚类1，聚类2），基于Ground的CoT对照组，基于Vehicle的CoT（聚类1，聚类2），基于Vehicle的CoT对照组
 
