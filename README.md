@@ -21,7 +21,7 @@ A meticulously annotated, rigorously formatted Chinese metaphor dataset (~28k) t
 ![Grounds (Adjective) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/d7ed51cb-14b8-4cbf-87e2-bbd1197740c9)
 ![Grounds (Adjective) (English) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/1f9a1248-127b-40dd-939d-38ecd2ea7e46)
 
-## :airplane: 大模型（LLM）实验进度
+## :airplane: 大模型（LLM）实验进度 Large Language Models (LLM) Experiment Progress
 - [X] OpenAI Models
   - [X] ChatGPT 3.5 Turbo
   - [X] ChatGPT 4.0
