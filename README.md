@@ -40,12 +40,18 @@ A meticulously annotated, rigorously formatted Chinese metaphor dataset (~28k) t
 - 版本尽可能新
 - 可以进行CoT和Prompt Engineering
 
-## :earth_asia: 大模型实验细节
-### 实验目的
-证明该标注完善的中文隐喻数据集，尤其在有Ground标注信息的情况下有助于大模型的隐喻生成和喻体生成任务表现，得到每个模型在相同的六个设定下的表现结果
+**Model Selection Criteria**
+- Supports Chinese.
+- Uses the latest version as much as possible.
+- Can perform CoT and Prompt Engineering.
 
-### 实验设定
-**实验变量**：
+## :earth_asia: 大模型实验细节
+### 实验目的 Purpose of the Experiment
+证明该标注完善的中文隐喻数据集，尤其在有Ground标注信息的情况下有助于大模型的隐喻生成和喻体生成任务表现，得到每个模型在相同的六个设定下的表现结果
+To demonstrate that this well-annotated Chinese metaphor dataset, especially with the presence of Ground annotations, can aid large models in metaphor generation and vehicle generation tasks. The aim is to obtain performance results of each model under the same six settings.
+
+### 实验设定 Experimental Setup
+**实验变量** **Variables**：
 - 聚类（cluster）方法：2种，基于[CLS] token的embedding和基于每个单词的embedding，
   分别对应`utils\bert_cluster.py`中`cluster_and_save`（以下简称`聚类1`）和`cluster_and_save_word_embeddings`（以下简称`聚类2`）函数
 - 任务类型：2种，基于Ground的CoT的隐喻生成和基于Vehicle的CoT的隐喻生成
