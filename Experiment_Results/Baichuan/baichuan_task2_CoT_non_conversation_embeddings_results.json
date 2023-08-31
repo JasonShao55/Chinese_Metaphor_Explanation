@@ -1,0 +1,1402 @@
+[
+    {
+        "tenor": "他的温柔",
+        "vehicle": "以",
+        "ground": "包容的能力",
+        "metaphor": "以你为舟，渡过生活的海洋;以你的温柔，抚慰心灵的伤痕。",
+        "sample_id": 0
+    },
+    {
+        "tenor": "现实",
+        "vehicle": "以",
+        "ground": "刺痛的感受",
+        "metaphor": "以金钱为利刃，切割着人们对真挚情感的需求与渴望",
+        "sample_id": 1
+    },
+    {
+        "tenor": "语言",
+        "vehicle": "以",
+        "ground": "无情的伤害",
+        "metaphor": "以冰冷的心去面对曾经深爱过的人，只会让伤口越来越痛。",
+        "sample_id": 2
+    },
+    {
+        "tenor": "他的脚印",
+        "vehicle": "以",
+        "ground": "繁多的数量",
+        "metaphor": "以他为路标，我们沿着他的脚印前行，感受到了一种坚定的力量。",
+        "sample_id": 3
+    },
+    {
+        "tenor": "你的监察",
+        "vehicle": "以",
+        "ground": "残酷的监察、无情的监察",
+        "metaphor": "",
+        "sample_id": 4
+    },
+    {
+        "tenor": "梭罗河",
+        "vehicle": "以",
+        "ground": "美丽的风景",
+        "metaphor": "以梭罗河为镜，映照出你的美丽与宁静。",
+        "sample_id": 5
+    },
+    {
+        "tenor": "说不出滋味的体会",
+        "vehicle": "以",
+        "ground": "苦涩的伪装",
+        "metaphor": "以沉默为代价换取了短暂的安宁，却尝到了说不出的滋味",
+        "sample_id": 6
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "爱",
+        "ground": "下坠的动作",
+        "metaphor": "爱就像是一座桥梁，连接着我们心灵深处的情感与关怀，让我们跨越彼此之间的隔阂，共同走向幸福的彼岸。",
+        "sample_id": 7
+    },
+    {
+        "tenor": "燃尽的烟蒂",
+        "vehicle": "以",
+        "ground": "自损八百的属性",
+        "metaphor": "",
+        "sample_id": 8
+    },
+    {
+        "tenor": "火星",
+        "vehicle": "以",
+        "ground": "闪亮美好的属性",
+        "metaphor": "以火星为舞台，演绎一场璀璨夺目的太空传奇。",
+        "sample_id": 9
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "以",
+        "ground": "苦涩的体验",
+        "metaphor": "以爱为舟，载着我们驶向幸福的彼岸;而你的存在，就是那最美的风景线。",
+        "sample_id": 10
+    },
+    {
+        "tenor": "事物",
+        "vehicle": "以",
+        "ground": "可怕的感觉",
+        "metaphor": "以恐惧为马，我们骑着它穿越黑暗的心灵深处",
+        "sample_id": 11
+    },
+    {
+        "tenor": "我得不到你的爱情",
+        "vehicle": "以",
+        "ground": "得不到的爱情",
+        "metaphor": "以渴望为笔，以泪水为墨，书写出一段无法得到你的爱情的故事。",
+        "sample_id": 12
+    },
+    {
+        "tenor": "白云",
+        "vehicle": "以",
+        "ground": "白色的外形",
+        "metaphor": "",
+        "sample_id": 13
+    },
+    {
+        "tenor": "你的身影",
+        "vehicle": "以",
+        "ground": "漂浮的形态",
+        "metaphor": "以你为舟，载着我的梦想驶向远方",
+        "sample_id": 14
+    },
+    {
+        "tenor": "国王",
+        "vehicle": "以",
+        "ground": "卑微的样子",
+        "metaphor": "以国王般的尊贵姿态，展现出你的独特魅力",
+        "sample_id": 15
+    },
+    {
+        "tenor": "你的消息",
+        "vehicle": "以",
+        "ground": "纪念的价值",
+        "metaphor": "以你为核心，我们共同编织了一张友谊的大网，让彼此的心紧紧相连。",
+        "sample_id": 16
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "以",
+        "ground": "漫长的流淌",
+        "metaphor": "以时间的长河为喻，我们的人生就像是一艘航行在这条长河中的小船，不断前行，不断探索，最终抵达彼岸。",
+        "sample_id": 17
+    },
+    {
+        "tenor": "成长",
+        "vehicle": "以",
+        "ground": "给人的奖励",
+        "metaphor": "以梦想为马，驰骋未来",
+        "sample_id": 18
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "以",
+        "ground": "复杂的状态",
+        "metaphor": "",
+        "sample_id": 19
+    },
+    {
+        "tenor": "自己",
+        "vehicle": "以",
+        "ground": "乱跳的动作",
+        "metaphor": "以我这颗滚烫的心，照亮前行的道路",
+        "sample_id": 20
+    },
+    {
+        "tenor": "我心上",
+        "vehicle": "以",
+        "ground": "闪闪的发亮",
+        "metaphor": "以我的心灵为舟，承载着对你的思念，驶向那遥远的彼岸",
+        "sample_id": 21
+    },
+    {
+        "tenor": "浮雪",
+        "vehicle": "以",
+        "ground": "漂浮的景象",
+        "metaphor": "以漫天的浮雪为背景，那个人仿佛是一位优雅的舞者，轻盈地飘荡在这寒冷的世界里。",
+        "sample_id": 22
+    },
+    {
+        "tenor": "浮游心窝",
+        "vehicle": "以",
+        "ground": "畅快的舞动",
+        "metaphor": "",
+        "sample_id": 23
+    },
+    {
+        "tenor": "兰花草",
+        "vehicle": "以",
+        "ground": "甜美漂亮的样子",
+        "metaphor": "",
+        "sample_id": 24
+    },
+    {
+        "tenor": "擦拭尘土",
+        "vehicle": "以",
+        "ground": "轻柔的动作",
+        "metaphor": "以温柔的手指轻轻拂去桌上的灰尘，仿佛是在为心灵掸去烦恼与忧愁。",
+        "sample_id": 25
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以",
+        "ground": "不一样的存在",
+        "metaphor": "以我这颗炽热的心，照亮了黑暗中的每一个角落。",
+        "sample_id": 26
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以",
+        "ground": "流逝的生机",
+        "metaphor": "以流水般的时间，我在岁月的长河里寻找着属于自己的那份宁静与快乐。",
+        "sample_id": 27
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "以",
+        "ground": "失去生命的状态",
+        "metaphor": "以爱为舟，载着无尽的思念驶向彼岸",
+        "sample_id": 28
+    },
+    {
+        "tenor": "你不给我一颗赤心",
+        "vehicle": "以",
+        "ground": "得不到的痛苦",
+        "metaphor": "以你的沉默为武器，刺穿了我渴望得到一颗赤心的心脏",
+        "sample_id": 29
+    },
+    {
+        "tenor": "坚忍",
+        "vehicle": "以",
+        "ground": "掩盖的状态",
+        "metaphor": "以顽强的毅力为剑，披荆斩棘;以坚定的信念为盾，抵御风雨。",
+        "sample_id": 30
+    },
+    {
+        "tenor": "蓝蓝的天空",
+        "vehicle": "以",
+        "ground": "宽广的样子",
+        "metaphor": "以蓝天为背景，白云犹如一片片飘逸的丝带，轻轻拂过大地，给人一种宁静而美好的感觉。",
+        "sample_id": 31
+    },
+    {
+        "tenor": "青年",
+        "vehicle": "以",
+        "ground": "挺立绷直的状态",
+        "metaphor": "Hooded by the winter chill, a young man stands tall and straight like a newly cut tree.",
+        "sample_id": 32
+    },
+    {
+        "tenor": "男人",
+        "vehicle": "以",
+        "ground": "宽阔的胸襟",
+        "metaphor": "以宽广的心胸面对生活的挑战，如同大海容纳百川般包容一切。",
+        "sample_id": 33
+    },
+    {
+        "tenor": "预告",
+        "vehicle": "以",
+        "ground": "准确的时间",
+        "metaphor": "",
+        "sample_id": 34
+    },
+    {
+        "tenor": "落笔",
+        "vehicle": "以",
+        "ground": "流畅的感觉",
+        "metaphor": "以落笔为剑，书写出属于你的篇章",
+        "sample_id": 35
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "以",
+        "ground": "流泪的动作",
+        "metaphor": "以时间为笔，书写人生的篇章;以岁月为墨，描绘生命的画卷。",
+        "sample_id": 36
+    },
+    {
+        "tenor": "你",
+        "vehicle": "你",
+        "ground": "危险的属性",
+        "metaphor": "你就像是一颗璀璨明亮的星星，照亮了我的世界，让我感受到了温暖与希望。",
+        "sample_id": 37
+    },
+    {
+        "tenor": "常态",
+        "vehicle": "以",
+        "ground": "平常的感觉",
+        "metaphor": "以你为镜，方能看清自己的优点与不足",
+        "sample_id": 38
+    },
+    {
+        "tenor": "我想到你",
+        "vehicle": "以",
+        "ground": "着迷的状态",
+        "metaphor": "以你为引线，点燃了我心中的热情与希望",
+        "sample_id": 39
+    },
+    {
+        "tenor": "落满遗憾的城墙",
+        "vehicle": "以",
+        "ground": "我不在乎的悲伤",
+        "metaphor": "",
+        "sample_id": 40
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以",
+        "ground": "神秘的属性",
+        "metaphor": "以我这颗炽热的心，照亮了黑暗中的每一个角落",
+        "sample_id": 41
+    },
+    {
+        "tenor": "热闹的（场景）",
+        "vehicle": "以",
+        "ground": "热闹的下午",
+        "metaphor": "在这个热闹的下午，人们熙熙攘攘地穿梭于街头巷尾，每个人都带着一种期待的心情，仿佛是一群渴望得到糖果的孩子。",
+        "sample_id": 42
+    },
+    {
+        "tenor": "十二个音",
+        "vehicle": "以",
+        "ground": "动听的声响",
+        "metaphor": "以音乐为语言，奏出和谐旋律;以琴瑟为媒介，传递深情厚意。",
+        "sample_id": 43
+    },
+    {
+        "tenor": "表达孤单",
+        "vehicle": "以",
+        "ground": "堂堂正正的立场",
+        "metaphor": "以孤岛为喻，表达出一个人在茫茫大海中的孤单与无助。",
+        "sample_id": 44
+    },
+    {
+        "tenor": "温柔",
+        "vehicle": "以",
+        "ground": "依偎的行为",
+        "metaphor": "以柔情似水的眼神相拥，仿佛是一对恋人在诉说着千言万语。",
+        "sample_id": 45
+    },
+    {
+        "tenor": "你的眼睛",
+        "vehicle": "以",
+        "ground": "开放的状态",
+        "metaphor": "以我的双眼为窗口，展现出对生活的热爱与执着;而那份专注与坚定，就像是以我为指引，照亮前行的道路。",
+        "sample_id": 46
+    },
+    {
+        "tenor": "你我分离",
+        "vehicle": "以",
+        "ground": "各自远去的背影",
+        "metaphor": "以离别为引线，点燃了我们心中的思念之火;而那句熟悉的“再见”，成为了我们在彼此心中永恒的回音。",
+        "sample_id": 47
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "以",
+        "ground": "保卫的功能",
+        "metaphor": "以我们的梦想为马，驰骋在这人生的道路上。",
+        "sample_id": 48
+    },
+    {
+        "tenor": "酸雨",
+        "vehicle": "以",
+        "ground": "危险的接触",
+        "metaphor": "以我的心为容器，装满了对你的思念，就像那被污染了的空气 richened with sulfur dioxide and nitrogen oxide, making the sky dark and gloomy.",
+        "sample_id": 49
+    },
+    {
+        "tenor": "纸",
+        "vehicle": "以",
+        "ground": "纸张的形状",
+        "metaphor": "以纸为舟，载着梦想驶向未来。",
+        "sample_id": 50
+    },
+    {
+        "tenor": "眼睛",
+        "vehicle": "以",
+        "ground": "闪烁明亮的动态",
+        "metaphor": "以眼前的风景为镜，映射出内心的喜悦与宁静。",
+        "sample_id": 51
+    },
+    {
+        "tenor": "他们",
+        "vehicle": "以",
+        "ground": "茫然的心理",
+        "metaphor": "以无尽的知识为舟，以勤奋为桨，驶向成功的彼岸。",
+        "sample_id": 52
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "以",
+        "ground": "快乐的样子",
+        "metaphor": "以笑脸为引，温暖了冬日的寒冷",
+        "sample_id": 53
+    },
+    {
+        "tenor": "恋情",
+        "vehicle": "以",
+        "ground": "恋情的含蓄",
+        "metaphor": "以爱为舟，载着我们驶向幸福的彼岸",
+        "sample_id": 54
+    },
+    {
+        "tenor": "相思",
+        "vehicle": "以",
+        "ground": "伤害的影响",
+        "metaphor": "以思念为箭，以心弦为靶;",
+        "sample_id": 55
+    },
+    {
+        "tenor": "他们修复历史",
+        "vehicle": "以",
+        "ground": "陈旧的样子",
+        "metaphor": "",
+        "sample_id": 56
+    },
+    {
+        "tenor": "风",
+        "vehicle": "以",
+        "ground": "裹挟的衣服",
+        "metaphor": "以风为衣，披星戴月;以梦为马，驰骋千里。",
+        "sample_id": 57
+    },
+    {
+        "tenor": "稀罕",
+        "vehicle": "以",
+        "ground": "伤人的能力",
+        "metaphor": "以珍珠般闪耀的光芒照亮黑暗的心房",
+        "sample_id": 58
+    },
+    {
+        "tenor": "人",
+        "vehicle": "人",
+        "ground": "野的属性",
+        "metaphor": "人就像是一座桥梁，连接着彼此的心灵世界。",
+        "sample_id": 59
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "以",
+        "ground": "快速的飞驰",
+        "metaphor": "以风为马，我们在时光的长河里奔腾向前",
+        "sample_id": 60
+    },
+    {
+        "tenor": "野性",
+        "vehicle": "以",
+        "ground": "强烈的情感",
+        "metaphor": "以猛虎般的渴望扑向目标",
+        "sample_id": 61
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "以",
+        "ground": "苍老的状态",
+        "metaphor": "以岁月为笔，我们在人生的画卷上描绘出一道道美丽的风景线;而您就是那支神奇的画笔，让我们的生命更加丰富多彩。",
+        "sample_id": 62
+    },
+    {
+        "tenor": "青春时期和爱情相遇",
+        "vehicle": "以",
+        "ground": "默契的遇见",
+        "metaphor": "以青涩年华为笔墨，绘出一段美好的初恋时光;那时的我们如同两颗闪耀的新星，相互吸引、彼此照亮，共同谱写了一段永恒的浪漫篇章。",
+        "sample_id": 63
+    },
+    {
+        "tenor": "往事",
+        "vehicle": "以",
+        "ground": "绚烂的甜美",
+        "metaphor": "以回忆为笔，绘出那些美好的往事;而以岁月为纸，书写着我们曾经走过的路途。",
+        "sample_id": 64
+    },
+    {
+        "tenor": "我和你",
+        "vehicle": "以",
+        "ground": "遥远的距离",
+        "metaphor": "以你为明灯，照亮前行的道路;而我在你的指引下，勇敢追寻梦想的光芒。",
+        "sample_id": 65
+    },
+    {
+        "tenor": "《汇报》副刊的风格",
+        "vehicle": "以",
+        "ground": "另类的感觉",
+        "metaphor": "以简洁明了的方式呈现《汇报》副刊的内容，就像是一位擅长用寥寥数笔勾勒出人物形象的画家。",
+        "sample_id": 66
+    },
+    {
+        "tenor": "迷茫",
+        "vehicle": "以",
+        "ground": "紧密的环绕",
+        "metaphor": "以迷茫为指南针，我们在这人生的道路上寻找方向;而以希望为灯塔，照亮前行的路途。",
+        "sample_id": 67
+    },
+    {
+        "tenor": "人",
+        "vehicle": "以",
+        "ground": "呆滞的行为",
+        "metaphor": "以你为舟，载着我的梦想驶向远方",
+        "sample_id": 68
+    },
+    {
+        "tenor": "雷声",
+        "vehicle": "以",
+        "ground": "咆哮的声音",
+        "metaphor": "以闪电为引线，雷声轰鸣着划破了寂静的长空",
+        "sample_id": 69
+    },
+    {
+        "tenor": "感受",
+        "vehicle": "以",
+        "ground": "甜美的内容",
+        "metaphor": "以温柔的风拂过脸颊，犹如母亲的手轻抚心头，让人感受到无尽的温暖与关爱。",
+        "sample_id": 70
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "以",
+        "ground": "短暂的存在",
+        "metaphor": "以人生为舞台，我们每个人都是自己故事的主角;而时间则是一位公正无私的观众，记录着我们的喜怒哀乐、悲欢离合。",
+        "sample_id": 71
+    },
+    {
+        "tenor": "上演的剧情",
+        "vehicle": "上",
+        "ground": "孤单的内心",
+        "metaphor": "上演了一出名为《心灵独舞》的话剧，主角是一个孤单的灵魂，他在舞台上独自起舞，用优美的身姿诉说着内心的渴望与挣扎。",
+        "sample_id": 72
+    },
+    {
+        "tenor": "声音挤进耳朵里",
+        "vehicle": "当",
+        "ground": "拥挤的状态",
+        "metaphor": "当喧闹的人群中的嘈杂之声如同潮水般汹涌而来，仿佛要 Imperial Palace 的宫门挤开一条缝隙钻进来似的，让人无法忽视这无处不在的噪音。",
+        "sample_id": 73
+    },
+    {
+        "tenor": "太阳",
+        "vehicle": "以",
+        "ground": "光芒万丈的感觉",
+        "metaphor": "以太阳的光辉照耀大地，犹如一道永恒的光芒万丈的希望之光，温暖着每一个渴望光明的心灵。",
+        "sample_id": 74
+    },
+    {
+        "tenor": "你晶莹的双眼",
+        "vehicle": "以",
+        "ground": "闪耀的姿态",
+        "metaphor": "你那双晶莹剔透的眼睛犹如明亮的星星，闪烁着无尽的光芒，仿佛在诉说着你的故事。",
+        "sample_id": 75
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "以",
+        "ground": "弥漫的状态",
+        "metaphor": "以思念为线索，串起我们曾经走过的每一个角落",
+        "sample_id": 76
+    },
+    {
+        "tenor": "乘客的微笑",
+        "vehicle": "以",
+        "ground": "温暖的感觉",
+        "metaphor": "",
+        "sample_id": 77
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以",
+        "ground": "愚蠢的样子",
+        "metaphor": "以我这颗炽热的心，照亮了你的世界，让你感受到了温暖与光明。",
+        "sample_id": 78
+    },
+    {
+        "tenor": "你的温柔",
+        "vehicle": "以",
+        "ground": "短暂的存在",
+        "metaphor": "以你为舟，渡过生活的海洋;用温柔作帆，驶向幸福的彼岸。",
+        "sample_id": 79
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "以",
+        "ground": "沉默的状态",
+        "metaphor": "以沉默为舟，载着我们的心事驶向彼岸",
+        "sample_id": 80
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "以",
+        "ground": "真实的属性",
+        "metaphor": "以时光为箭矢，射向未来",
+        "sample_id": 81
+    },
+    {
+        "tenor": "蒜苔",
+        "vehicle": "以",
+        "ground": "长长的形状",
+        "metaphor": "",
+        "sample_id": 82
+    },
+    {
+        "tenor": "力量",
+        "vehicle": "以",
+        "ground": "支撑的作用",
+        "metaphor": "以力拔千钧之势，他成功地举起了那块巨大的石头。",
+        "sample_id": 83
+    },
+    {
+        "tenor": "全不相干的东西偏有注定的缘分",
+        "vehicle": "全",
+        "ground": "天造地设的关系",
+        "metaphor": "全心全意投入到一段注定无果的感情里，就像把一颗真心交给了一片毫无关联的大海。",
+        "sample_id": 84
+    },
+    {
+        "tenor": "你心肠",
+        "vehicle": "以",
+        "ground": "繁多的变化",
+        "metaphor": "以我的心肠为大地，而你的善良就是那滋润万物的春雨",
+        "sample_id": 85
+    },
+    {
+        "tenor": "职员说流利的意语",
+        "vehicle": "以",
+        "ground": "流畅的感觉",
+        "metaphor": "以一位精通多国语言的职员为例，他就像一台翻译机一样，能够快速、准确地将各种工作任务传达给不同部门的人员，使整个团队的工作效率得到显著提升。",
+        "sample_id": 86
+    },
+    {
+        "tenor": "湖",
+        "vehicle": "以",
+        "ground": "朴素的样子",
+        "metaphor": "以宁静的湖面为镜，映照出周围世界的美好与和谐。",
+        "sample_id": 87
+    },
+    {
+        "tenor": "你的脸",
+        "vehicle": "以",
+        "ground": "鲜艳的外表",
+        "metaphor": "",
+        "sample_id": 88
+    },
+    {
+        "tenor": "诗句",
+        "vehicle": "以",
+        "ground": "划破颜面的利刃",
+        "metaphor": "以诗歌为剑，刺穿生活的迷雾",
+        "sample_id": 89
+    },
+    {
+        "tenor": "瑞士人保护自己的方言",
+        "vehicle": "以",
+        "ground": "小心翼翼的呵护",
+        "metaphor": "",
+        "sample_id": 90
+    },
+    {
+        "tenor": "人",
+        "vehicle": "以",
+        "ground": "失眠的状态",
+        "metaphor": "以疲惫不堪的我为例，睡眠就像是一位温柔的朋友，用无尽的关爱抚慰着我的心灵，让我得以摆脱那令人痛苦的失眠状态。",
+        "sample_id": 91
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "以",
+        "ground": "令人无法自拔的属性",
+        "metaphor": "以丝线串起回忆，思念如同风筝飘向远方。",
+        "sample_id": 92
+    },
+    {
+        "tenor": "恩情",
+        "vehicle": "以",
+        "ground": "难以报答的情感",
+        "metaphor": "以感恩的心来回报你的关爱，就像是一条蜿蜒的小溪流向大海，虽然力量微弱却永不停歇。",
+        "sample_id": 93
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以",
+        "ground": "灿烂的人生",
+        "metaphor": "以我这颗璀璨夺目的星星照耀着你的道路，引导你在人生旅程上不断前行。",
+        "sample_id": 94
+    },
+    {
+        "tenor": "我的爱",
+        "vehicle": "以",
+        "ground": "无私奉献的爱",
+        "metaphor": "",
+        "sample_id": 95
+    },
+    {
+        "tenor": "我们错失的年华",
+        "vehicle": "以",
+        "ground": "消逝的光芒",
+        "metaphor": "",
+        "sample_id": 96
+    },
+    {
+        "tenor": "汉语",
+        "vehicle": "以",
+        "ground": "浩瀚的知识",
+        "metaphor": "以汉语为舟，遨游于文化的海洋;以以为帆，驶向智慧的彼岸。",
+        "sample_id": 97
+    },
+    {
+        "tenor": "把你编剧情节",
+        "vehicle": "以",
+        "ground": "浪漫的情节",
+        "metaphor": "以你为线索，串联起这场充满爱意的浪漫故事。",
+        "sample_id": 98
+    },
+    {
+        "tenor": "白帆",
+        "vehicle": "以",
+        "ground": "相似的颜色、漂浮的动作",
+        "metaphor": "白帆犹如一片洁白无瑕的丝绸，轻轻飘荡在蔚蓝的大海上，与蓝天相映成趣，形成了一幅美丽的画卷。",
+        "sample_id": 99
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "以",
+        "ground": "蕴含希望的属性",
+        "metaphor": "以回忆为笔，书写那些美好的时光;以希望为墨，描绘未来的蓝图。",
+        "sample_id": 100
+    },
+    {
+        "tenor": "心",
+        "vehicle": "以",
+        "ground": "寒冷的温度",
+        "metaphor": "以冰封的心面对世界，却期待着温暖的阳光融化坚硬的外壳。",
+        "sample_id": 101
+    },
+    {
+        "tenor": "我的眼光",
+        "vehicle": "以",
+        "ground": "透彻的状态",
+        "metaphor": "以我敏锐的眼光，洞察生活中的每一个细节;以我为指引，探索未知的领域。",
+        "sample_id": 102
+    },
+    {
+        "tenor": "点点滴滴",
+        "vehicle": "以",
+        "ground": "不曾复原的状态",
+        "metaphor": "",
+        "sample_id": 103
+    },
+    {
+        "tenor": "你",
+        "vehicle": "以",
+        "ground": "正确的选择",
+        "metaphor": "以你为船长，我们共同驶向成功的彼岸。",
+        "sample_id": 104
+    },
+    {
+        "tenor": "陶俑",
+        "vehicle": "以",
+        "ground": "圆且空的形态",
+        "metaphor": "以陶俑为载体，承载着历史文化的厚重与传承。",
+        "sample_id": 105
+    },
+    {
+        "tenor": "你",
+        "vehicle": "你",
+        "ground": "矗立的状态",
+        "metaphor": "你就像是一座屹立不动的高峰，坚定而稳固地守护着周围的一切。",
+        "sample_id": 106
+    },
+    {
+        "tenor": "褪色照片",
+        "vehicle": "以",
+        "ground": "快乐的时光",
+        "metaphor": "",
+        "sample_id": 107
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "以",
+        "ground": "永恒不绝的浮现",
+        "metaphor": "以回忆为笔，书写岁月长河中的点点滴滴;以时光为纸，描绘人生旅途上的斑斓画卷。",
+        "sample_id": 108
+    },
+    {
+        "tenor": "生活",
+        "vehicle": "以",
+        "ground": "甜蜜美好的安定",
+        "metaphor": "以生活中的小确幸为食，品味生活的甜美与美好。",
+        "sample_id": 109
+    },
+    {
+        "tenor": "你",
+        "vehicle": "以",
+        "ground": "小心翼翼的依偎",
+        "metaphor": "以你为舟，载着我的梦想远航;以你为灯塔，照亮前行的道路。",
+        "sample_id": 110
+    },
+    {
+        "tenor": "烦恼",
+        "vehicle": "以",
+        "ground": "平静的心态",
+        "metaphor": "以风平浪静的心境面对生活的波折，烦恼如同海上的涟漪，短暂而微弱，最终会被大海的广阔所包容。",
+        "sample_id": 111
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "以",
+        "ground": "可笑的痴情",
+        "metaphor": "以痴情的眼神凝视着心爱之人，仿佛那份深厚的感情如同无尽的长河般源远流长。",
+        "sample_id": 112
+    },
+    {
+        "tenor": "大家都在传唱",
+        "vehicle": "以",
+        "ground": "被人效仿的行径",
+        "metaphor": "以歌颂的方式来传播美德，就像是在传递一份珍贵的礼物。",
+        "sample_id": 113
+    },
+    {
+        "tenor": "悄静气氛",
+        "vehicle": "以",
+        "ground": "安静的气氛",
+        "metaphor": "以宁静的氛围为背景，仿佛一切都变得更加和谐与美好，就像一首优美的交响乐，让人陶醉其中。",
+        "sample_id": 114
+    },
+    {
+        "tenor": "鱼群悄悄潜行",
+        "vehicle": "以",
+        "ground": "轻柔的感觉",
+        "metaphor": "以鱼群悄然潜行的姿态，如同一条条灵活的小船穿梭于水面之下，悠游自在。",
+        "sample_id": 115
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "爱",
+        "ground": "不可自拔的沉迷",
+        "metaphor": "爱就像是一座灯塔，照亮了我们前行的道路，让我们在这漫长的人生旅途中不再迷茫与彷徨。",
+        "sample_id": 116
+    },
+    {
+        "tenor": "话",
+        "vehicle": "以",
+        "ground": "伤人的能力",
+        "metaphor": "以沉默为剑，刺破虚伪的话语",
+        "sample_id": 117
+    },
+    {
+        "tenor": "飞入寒冷干爽的气候",
+        "vehicle": "以",
+        "ground": "冷的特点",
+        "metaphor": "一只鸟儿振翅高飞， unfortunately, 却误入了寒冷干爽的气候，无法适应这突如其来的变化。",
+        "sample_id": 118
+    },
+    {
+        "tenor": "伤心",
+        "vehicle": "以",
+        "ground": "悲伤的过错",
+        "metaphor": "以泪洗面",
+        "sample_id": 119
+    },
+    {
+        "tenor": "嫉妒者",
+        "vehicle": "以",
+        "ground": "傲岸而又疲惫的神态",
+        "metaphor": "以嫉妒者的眼中闪烁着熊熊燃烧的烈火，他们总是紧盯着你的一举一动，仿佛你是他们的敌人一般。",
+        "sample_id": 120
+    },
+    {
+        "tenor": "我的心",
+        "vehicle": "以",
+        "ground": "奔放的心情",
+        "metaphor": "以我的心为箭，以你的笑容为靶，射出一道美丽的弧线。",
+        "sample_id": 121
+    },
+    {
+        "tenor": "白花盛开",
+        "vehicle": "以",
+        "ground": "五彩缤纷的颜色",
+        "metaphor": "白花的盛开犹如一片银装素裹的世界，而那洁白无瑕的花瓣正是冬日里的一抹温暖阳光，让人心生向往。",
+        "sample_id": 122
+    },
+    {
+        "tenor": "细雨",
+        "vehicle": "以",
+        "ground": "可贵的价值",
+        "metaphor": "以丝丝细雨滋润大地，宛若温柔的手抚摸着大地的脸庞，唤醒了万物生长的希望。",
+        "sample_id": 123
+    },
+    {
+        "tenor": "校园",
+        "vehicle": "以",
+        "ground": "美丽的属性",
+        "metaphor": "以绿草为笔墨，绘出校园的一片生机盎然;",
+        "sample_id": 124
+    },
+    {
+        "tenor": "冷苹果",
+        "vehicle": "以",
+        "ground": "脆弱的状态",
+        "metaphor": "以冷苹果为例，它的状态就像是一颗被遗忘在角落里的果实，等待着被人发现、品尝的那一天。而那个寻找、触碰这枚冷苹果的人，就是那位发现了这个美好世界的知音。",
+        "sample_id": 125
+    },
+    {
+        "tenor": "世界美",
+        "vehicle": "以",
+        "ground": "自由的状态",
+        "metaphor": "以阳光为笔，绘出世界的美好画卷",
+        "sample_id": 126
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以",
+        "ground": "绚烂的开放",
+        "metaphor": "以我这颗炽热的心，犹如熊熊燃烧的烈火，照耀着你的世界，温暖着你的人生旅程。",
+        "sample_id": 127
+    },
+    {
+        "tenor": "你的笑",
+        "vehicle": "以",
+        "ground": "阳光开朗的模样",
+        "metaphor": "以你明媚的笑容为引线，我的心房被点亮了一束光芒",
+        "sample_id": 128
+    },
+    {
+        "tenor": "火焰",
+        "vehicle": "以",
+        "ground": "炙热的状态",
+        "metaphor": "以炽烈的热度为引线，点燃了我们心中的激情与梦想",
+        "sample_id": 129
+    },
+    {
+        "tenor": "清风",
+        "vehicle": "以",
+        "ground": "温暖的属性",
+        "metaphor": "以清风拂面，心生暖意。",
+        "sample_id": 130
+    },
+    {
+        "tenor": "你",
+        "vehicle": "你",
+        "ground": "随遇而安的感觉",
+        "metaphor": "你就像是一座坚实的桥梁，连接着我们彼此的心灵世界，让我们在这纷繁复杂的世界里找到了相互依靠的力量。",
+        "sample_id": 131
+    },
+    {
+        "tenor": "手指的状态",
+        "vehicle": "以",
+        "ground": "动弹的速度",
+        "metaphor": "以我的手为琴弦，你的指尖如同翩翩起舞的蝴蝶，轻盈地拨弄着音符，奏出一首美妙的乐章。",
+        "sample_id": 132
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "爱",
+        "ground": "不可或缺的地位",
+        "metaphor": "爱就像是一座桥梁，连接着两个相隔遥远的心灵世界",
+        "sample_id": 133
+    },
+    {
+        "tenor": "捉回来螃蟹在腿上缚绳",
+        "vehicle": "以",
+        "ground": "玩物的功能",
+        "metaphor": "以捆绑的方式捕获了那些渴望自由的螃蟹们，我们用细绳将它们牢固地束缚在了我们的手掌上。",
+        "sample_id": 134
+    },
+    {
+        "tenor": "您",
+        "vehicle": "以",
+        "ground": "美丽的外表",
+        "metaphor": "以您为美丽的蝴蝶，翩翩起舞于生活的舞台上，展现出无尽的风华与魅力。",
+        "sample_id": 135
+    },
+    {
+        "tenor": "不通亲",
+        "vehicle": "以",
+        "ground": "无言的形象",
+        "metaphor": "以沉默为琴弦，弹奏出一首关于无法沟通与理解的乐章。",
+        "sample_id": 136
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "以",
+        "ground": "未来的希望",
+        "metaphor": "以未来为马，我们共同奔赴美好的明天。",
+        "sample_id": 137
+    },
+    {
+        "tenor": "窗棂上的水滴",
+        "vehicle": "以",
+        "ground": "挥之不去的性质",
+        "metaphor": "",
+        "sample_id": 138
+    },
+    {
+        "tenor": "深情",
+        "vehicle": "以",
+        "ground": "传递感情的功能",
+        "metaphor": "以爱为舟，驶向彼岸",
+        "sample_id": 139
+    },
+    {
+        "tenor": "血滴",
+        "vehicle": "以",
+        "ground": "燃烧的希望",
+        "metaphor": "",
+        "sample_id": 140
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以",
+        "ground": "惬意的享受",
+        "metaphor": "以我这颗炽热的心，如同夏日里的冰淇淋，带给你一种惬意而愉悦的享受。",
+        "sample_id": 141
+    },
+    {
+        "tenor": "你",
+        "vehicle": "你",
+        "ground": "掠过的个体",
+        "metaphor": "你就像是一颗璀璨夺目的明珠，闪耀着独特的光芒，吸引着众人的目光。",
+        "sample_id": 142
+    },
+    {
+        "tenor": "我们的距离",
+        "vehicle": "以",
+        "ground": "遥远的隔阂",
+        "metaphor": "以我们之间的关系而言，就像是一条无尽的长河，而\"以\"就是那道无法逾越的鸿沟，将彼此分割得越来越远。",
+        "sample_id": 143
+    },
+    {
+        "tenor": "一个人的幸福",
+        "vehicle": "以",
+        "ground": "孤独的氛围",
+        "metaphor": "以孤岛为喻，描绘出一个人在这喧嚣世界中的宁静与幸福，正如那独处的小岛，虽然远离繁华，却拥有着无尽的美景和安详的生活。",
+        "sample_id": 144
+    },
+    {
+        "tenor": "肚皮",
+        "vehicle": "以",
+        "ground": "保存知识的功能",
+        "metaphor": "以肚子为容器来储存食物，就像是一个装满了美食的大仓库。",
+        "sample_id": 145
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "爱",
+        "ground": "通向美好的终点",
+        "metaphor": "爱就像是一座桥梁，连接着我们心灵深处的美好与温暖。",
+        "sample_id": 146
+    },
+    {
+        "tenor": "药饵",
+        "vehicle": "以",
+        "ground": "方正的形状",
+        "metaphor": "以药饵为食的大鱼，它们吞噬着人们对健康的渴望与期待，却也可能带来副作用和痛苦。",
+        "sample_id": 147
+    },
+    {
+        "tenor": "你的信",
+        "vehicle": "以",
+        "ground": "残缺的模糊",
+        "metaphor": "",
+        "sample_id": 148
+    },
+    {
+        "tenor": "不计代价爱上你",
+        "vehicle": "以",
+        "ground": "好笑的行为",
+        "metaphor": "以痴情为箭矢，以你的名字刻入我的心头，射出一道永恒的爱意之光。",
+        "sample_id": 149
+    },
+    {
+        "tenor": "摩肩擦踵的稀薄",
+        "vehicle": "以",
+        "ground": "不幸的信号",
+        "metaphor": "以拥挤的人群为本体，以嘈杂的环境为共性，我们可以用“摩肩擦踵的稀薄和以”来描述这个场景。",
+        "sample_id": 150
+    },
+    {
+        "tenor": "心",
+        "vehicle": "以",
+        "ground": "不安宁的状态",
+        "metaphor": "以焦虑为心的旅者，总是在寻找安宁的归宿。",
+        "sample_id": 151
+    },
+    {
+        "tenor": "车队进入沙漠谷地",
+        "vehicle": "以",
+        "ground": "焦黄的样子",
+        "metaphor": "以一条蜿蜒的车队如同长蛇般穿梭于沙漠谷地的边缘，它们正缓缓驶向那神秘而广袤的世界。",
+        "sample_id": 152
+    },
+    {
+        "tenor": "失恋到死",
+        "vehicle": "以",
+        "ground": "糟糕的结局",
+        "metaphor": "以失恋为毒药，吞噬着我的生命;而你的离去如同死亡般冰冷无情，让我无法自拔。",
+        "sample_id": 153
+    },
+    {
+        "tenor": "爱意",
+        "vehicle": "爱",
+        "ground": "耸峙沉默不衰的状态",
+        "metaphor": "爱意如同一座巍峨的大山，矗立在我们心中，无论岁月如何流转，它的存在都让我们感受到深深的温暖与陪伴。",
+        "sample_id": 154
+    },
+    {
+        "tenor": "梦结束了",
+        "vehicle": "以",
+        "ground": "伤心的了结",
+        "metaphor": "以梦为马，驰骋千里;如今梦醒，只留下一片空虚与失落。",
+        "sample_id": 155
+    },
+    {
+        "tenor": "敲碎了我的心",
+        "vehicle": "以",
+        "ground": "扰乱的心绪",
+        "metaphor": "以敲碎了我心中的玻璃杯",
+        "sample_id": 156
+    },
+    {
+        "tenor": "你",
+        "vehicle": "以",
+        "ground": "虚伪的表演",
+        "metaphor": "以你为镜，照见自己的真实面貌;以我为伴，感受彼此的心跳声音。",
+        "sample_id": 157
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "以",
+        "ground": "美丽的存在",
+        "metaphor": "以微笑为阳光，照耀着我们心灵的每一个角落;用笑颜作春风，吹拂过我们的每个日子。",
+        "sample_id": 158
+    },
+    {
+        "tenor": "月亮",
+        "vehicle": "月",
+        "ground": "洁白的颜色",
+        "metaphor": "月亮的皎洁如同一张薄纱覆盖在大地上，给人一种宁静而美好的感觉。",
+        "sample_id": 159
+    },
+    {
+        "tenor": "大爱",
+        "vehicle": "大",
+        "ground": "宽广的样子",
+        "metaphor": "大爱如同大海一般深邃无垠，包容万物，滋养生命。",
+        "sample_id": 160
+    },
+    {
+        "tenor": "月光",
+        "vehicle": "月",
+        "ground": "复杂的形状",
+        "metaphor": "月光皎洁如水，洒在大地上，宛如一轮明镜高悬于夜空之中。",
+        "sample_id": 161
+    },
+    {
+        "tenor": "人",
+        "vehicle": "以",
+        "ground": "狡猾的样子",
+        "metaphor": "以诚实为本的我就像是一把锋利的刀，能切开虚伪的外衣，让人们看到真实的内心。",
+        "sample_id": 162
+    },
+    {
+        "tenor": "爱你",
+        "vehicle": "以",
+        "ground": "难以捉摸的爱",
+        "metaphor": "以爱为舟，载你在我的心海里畅游无垠;用“以”作桨，划向永恒的彼岸。",
+        "sample_id": 163
+    },
+    {
+        "tenor": "束缚",
+        "vehicle": "以",
+        "ground": "捆绑的样子",
+        "metaphor": "以Շինիկիայի պետք է բարձրացնել այս գործը",
+        "sample_id": 164
+    },
+    {
+        "tenor": "无尽的峰峦",
+        "vehicle": "无",
+        "ground": "黄的颜色、无尽的数量",
+        "metaphor": "无尽的峰峦如同一片金色的海洋，而那片海中的岛屿却被无吞噬殆尽，只留下空旷与寂寥。",
+        "sample_id": 165
+    },
+    {
+        "tenor": "我的车",
+        "vehicle": "以",
+        "ground": "单独的行为",
+        "metaphor": "以我这辆破旧的老爷自行车载着你的梦想前行，我们一起穿越风雨，抵达诗与远方。",
+        "sample_id": 166
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "以",
+        "ground": "回忆的美好",
+        "metaphor": "以时光为笔，回忆为墨，绘制出我们曾经走过的岁月长河。",
+        "sample_id": 167
+    },
+    {
+        "tenor": "一丝颤动（传递）",
+        "vehicle": "一",
+        "ground": "摇动的动作",
+        "metaphor": "一丝颤动如同一条细线，轻轻穿过无垠的天际，将我们与彼此紧密相连。",
+        "sample_id": 168
+    },
+    {
+        "tenor": "我怀内那些爱",
+        "vehicle": "以",
+        "ground": "奔流的动作",
+        "metaphor": "以我怀内的爱为源，汇聚成一条永恒的河流，那条河流承载着无尽的温柔与关怀，如同涓涓细流滋润着我的心田，让我在这漫长的人生旅程中感受到温暖的力量。",
+        "sample_id": 169
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以",
+        "ground": "礼貌的行为",
+        "metaphor": "以我这个小小的灯泡照亮你的世界，让我们的友谊永远熠熠生辉。",
+        "sample_id": 170
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "以",
+        "ground": "洁白的颜色",
+        "metaphor": "以爱情为舟，载着彼此驶向幸福的彼岸",
+        "sample_id": 171
+    },
+    {
+        "tenor": "心事",
+        "vehicle": "以",
+        "ground": "搁浅的动作",
+        "metaphor": "以心中的秘密为舟，载着无尽的心事驶向远方",
+        "sample_id": 172
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "以",
+        "ground": "珍贵的财宝",
+        "metaphor": "以爱情为贵金属，我们用心灵锻造出永恒的光环;以信任为钻石，我们在岁月的长河里熠熠生辉。",
+        "sample_id": 173
+    },
+    {
+        "tenor": "飞吻",
+        "vehicle": "以",
+        "ground": "甜蜜的爱情",
+        "metaphor": "",
+        "sample_id": 174
+    },
+    {
+        "tenor": "心慢慢烫",
+        "vehicle": "以",
+        "ground": "缓慢的过程",
+        "metaphor": "以慢火炖汤的心情，品味生活的美好时光。",
+        "sample_id": 175
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "以",
+        "ground": "短暂的感情",
+        "metaphor": "以爱为舟，载着无尽的思念驶向彼岸",
+        "sample_id": 176
+    },
+    {
+        "tenor": "心中花开一朵朵",
+        "vehicle": "以",
+        "ground": "愉快的心情",
+        "metaphor": "",
+        "sample_id": 177
+    },
+    {
+        "tenor": "离别你那夜痛得",
+        "vehicle": "以",
+        "ground": "痛苦的感觉",
+        "metaphor": "以离别的夜晚，疼痛如同被紧紧拥抱一般无法挣脱，而你的身影却渐行渐远，只留下一片模糊的背影。",
+        "sample_id": 178
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "以",
+        "ground": "短暂的时光",
+        "metaphor": "以爱为舟，载着我们驶向永恒的彼岸;而时间则如同流水般匆匆流逝，提醒我们要珍惜当下，把握每一刻相爱的时光。",
+        "sample_id": 179
+    },
+    {
+        "tenor": "思念的眼泪",
+        "vehicle": "以",
+        "ground": "纯净透明的样子",
+        "metaphor": "以泪洗面，心中却依然存留着你的影子",
+        "sample_id": 180
+    },
+    {
+        "tenor": "悲伤",
+        "vehicle": "以",
+        "ground": "飘落的动作",
+        "metaphor": "以泪水为叶片，悲伤化作秋风，一片又一片地飘落在心头",
+        "sample_id": 181
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以",
+        "ground": "迷离的我",
+        "metaphor": "以我这颗充满好奇的心，探索着这个世界的奥秘与美好。",
+        "sample_id": 182
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以",
+        "ground": "抗争的品格",
+        "metaphor": "以钢铁般的意志抵抗诱惑的我，如同一位勇士守护着自己的信念。",
+        "sample_id": 183
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "以",
+        "ground": "无迹的踪影",
+        "metaphor": "以诚信为本，方能兑现诺言",
+        "sample_id": 184
+    },
+    {
+        "tenor": "现代诗的屏障",
+        "vehicle": "以",
+        "ground": "坚固的属性",
+        "metaphor": "以现代诗为屏障，遮挡住那些无尽的喧嚣与纷扰，让我们在这片宁静的世界里，细品那份独特的美丽与深邃。",
+        "sample_id": 185
+    },
+    {
+        "tenor": "钢琴",
+        "vehicle": "以",
+        "ground": "欣赏的感情",
+        "metaphor": "以琴键为音符跳动的舞者，奏出一首优美的旋律，宛若一位优雅的公主在舞台上翩翩起舞。",
+        "sample_id": 186
+    },
+    {
+        "tenor": "人",
+        "vehicle": "人",
+        "ground": "美丽的样子",
+        "metaphor": "人就像是一盏明亮的灯塔，照亮我们 Sherman 前进的道路。",
+        "sample_id": 187
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "以",
+        "ground": "残忍的伤害",
+        "metaphor": "以爱情为箭矢，射向你的心房",
+        "sample_id": 188
+    },
+    {
+        "tenor": "你",
+        "vehicle": "你",
+        "ground": "清纯的样子",
+        "metaphor": "你就像是一颗璀璨夺目的明珠，闪耀着独特的光芒，让人无法忽视你的存在。",
+        "sample_id": 189
+    },
+    {
+        "tenor": "我的拳头",
+        "vehicle": "以",
+        "ground": "坚硬的利器",
+        "metaphor": "以我的拳头为武器，击碎一切阻碍前进道路上的障碍。",
+        "sample_id": 190
+    },
+    {
+        "tenor": "香",
+        "vehicle": "以",
+        "ground": "萦绕的滋味",
+        "metaphor": "以清风为喻，那淡雅的香气就像是一缕轻柔的风儿，轻轻拂过我们的脸颊，让人心旷神怡、陶醉其中。",
+        "sample_id": 191
+    },
+    {
+        "tenor": "你",
+        "vehicle": "以",
+        "ground": "常青的生机",
+        "metaphor": "以你为引路明灯，照亮前行的道路",
+        "sample_id": 192
+    },
+    {
+        "tenor": "你",
+        "vehicle": "你",
+        "ground": "难寻的状态",
+        "metaphor": "你就像是一颗璀璨明珠，闪耀着独特的光芒，吸引着众人的目光。",
+        "sample_id": 193
+    },
+    {
+        "tenor": "上课铃",
+        "vehicle": "以",
+        "ground": "盛大的气势",
+        "metaphor": "",
+        "sample_id": 194
+    },
+    {
+        "tenor": "经典之吻",
+        "vehicle": "以",
+        "ground": "轰轰烈烈的状态",
+        "metaphor": "以经典之吻为引线，点燃了我们心中那团熊熊燃烧的激情烈火",
+        "sample_id": 195
+    },
+    {
+        "tenor": "世界",
+        "vehicle": "以",
+        "ground": "虚幻的感受",
+        "metaphor": "以繁星点缀的黑夜为背景，世界的美好与神秘交织在一起，仿佛是一幅美丽的画卷。",
+        "sample_id": 196
+    },
+    {
+        "tenor": "Flow",
+        "vehicle": "F",
+        "ground": "令人舒服的感觉",
+        "metaphor": "F如同一条蜿蜒流淌的小溪，清澈见底，滋润着沿途的花草树木，带给人一种舒适愉悦的心情。",
+        "sample_id": 197
+    },
+    {
+        "tenor": "巴黎好天气",
+        "vehicle": "以",
+        "ground": "短暂的美好",
+        "metaphor": "以晴朗的日子为笔墨，用阳光描绘出巴黎的好天气;而那句包含着“以”的诗意语言，仿佛是一首赞美这座城市的美丽与浪漫的歌谣。",
+        "sample_id": 198
+    },
+    {
+        "tenor": "山泉",
+        "vehicle": "以",
+        "ground": "晶莹的质地",
+        "metaphor": "以山的巍峨屹立为背景，那清澈见底的山泉水如同一条透明的小溪，缓缓流淌着，诉说着大自然的美丽与宁静。",
+        "sample_id": 199
+    }
+]
