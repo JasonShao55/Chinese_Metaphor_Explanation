@@ -2,7 +2,7 @@
 # CMDAG: A Chinese Metaphor Dataset with Annotated Grounds 附带标注共性的中文隐喻数据集
 这是一个经过精心标注、严格格式化的中文隐喻数据集（~28k），该数据集经过专家的质量检查并具有普遍性特征，适合用于大规模模型预训练等应用场景。
 
-This is a meticulously annotated, rigorously formatted Chinese metaphor dataset (~28k) that's been expertly quality-checked and exhibits universal characteristics, making it suitable for applications such as large-scale model pre-training.
+This dataset provides a meticulously annotated and rigorously formatted collection of Chinese metaphors (~28k entries). The dataset has undergone expert quality checks and demonstrates universal characteristics. This makes it especially suitable for applications such as pre-training large-scale models.
 
 *🔍 Read this in [English](README_en.md).*
 
