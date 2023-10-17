@@ -4,8 +4,7 @@
 
 This dataset provides a meticulously annotated and rigorously formatted collection of Chinese metaphors (~28k entries). The dataset has undergone expert quality checks and demonstrates universal characteristics. This makes it especially suitable for applications such as pre-training large-scale models.
 
-*🔍 Read this in [English](README_en.md).*
-
+***🔍 Read this in [English](README_en.md).***
 ## 💹 统计 Statistics
 
 - 平均句子长度 Average sentence length: 59.137
