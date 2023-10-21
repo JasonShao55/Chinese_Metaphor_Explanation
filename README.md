@@ -71,7 +71,7 @@ This dataset provides a meticulously annotated and rigorously formatted collecti
 Evaluators rated the output on:
 - Clarity
 - Creativity
-- Idiomatic Expression
+- Authentic Expression
 
 And a final score is calculated to determine the quality of the model's output.
 
