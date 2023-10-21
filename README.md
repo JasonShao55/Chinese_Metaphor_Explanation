@@ -82,7 +82,7 @@ To demonstrate that this well-annotated Chinese metaphor dataset, especially wit
 
 ### 🛠️实验设定 Experimental Setup
 **📊实验变量** **Variables**：
-- 📌聚类（cluster）方法：2种，基于[CLS] token的embedding和基于每个单词的embedding，
+- 📌聚类（cluster）方法：2种，基于[CLS] token (句子层面)的embedding和基于每个word token的embedding（单词层面），
   分别对应`utils\bert_cluster.py`中`cluster_and_save`（以下简称`聚类1`）和`cluster_and_save_word_embeddings`（以下简称`聚类2`）函数
 - 🎩任务类型：2种，基于Ground的CoT的隐喻生成和基于Vehicle的CoT的隐喻生成
   - 基于Ground的CoT：

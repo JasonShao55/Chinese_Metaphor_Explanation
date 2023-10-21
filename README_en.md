@@ -83,7 +83,7 @@ The main aim is to showcase that this well-curated dataset, enriched with Ground
 
 **📊 Variables**:
 
-- 📌 Clustering methods: There are two, one based on the [CLS] token embedding and the other on individual word embeddings. These correspond to the functions `cluster_and_save` (referred to as `Cluster 1`) and `cluster_and_save_word_embeddings` (referred to as `Cluster 2`) in `utils\bert_cluster.py`.
+- 📌 Clustering methods: There are two, one based on the [CLS] token embedding (sentence-level clustering) and the other on individual word embeddings （word-level clustering）. These correspond to the functions `cluster_and_save` (referred to as `Cluster 1`) and `cluster_and_save_word_embeddings` (referred to as `Cluster 2`) in `utils\bert_cluster.py`.
 
 - 🎩 Task types: There are two main tasks: metaphor generation based on Ground CoT and metaphor generation based on Vehicle CoT.
 
