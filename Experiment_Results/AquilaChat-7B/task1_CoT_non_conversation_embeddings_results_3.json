@@ -1,0 +1,122 @@
+[
+    {
+        "tenor": "我们",
+        "vehicle": "双翼的神马",
+        "ground": "</s>A. 巨大的\nB. 美丽的\nC. 勇敢的\nD. 聪明的\nE. 善良的\nF. 快乐的\nG. 勤奋的\nH. 勇敢的\nI. 美丽的\nJ. 聪明的\nK. 善良的\nL. 快乐的\nM. 勤奋的\n答案：A. 巨大的\n</s>A. 巨大的\n</s>A. 巨大的\nA. 巨大的\nA. 巨大的\nA.",
+        "metaphor": ""
+    },
+    {
+        "tenor": "野性",
+        "vehicle": "浪漫的事情",
+        "ground": "</s>A. 野性的：野性的动物，野性的风景，野性的音乐。\nB. 浪漫的：浪漫的晚餐，浪漫的旅行，浪漫的歌曲。\nC. 神秘的：神秘的传说，神秘的岛屿，神秘的宝藏。\nD. 可爱的：可爱的宠物，可爱的孩子，可爱的动物。\nE. 勇敢的：勇敢的战士，勇敢的探险家，勇敢的旅行家。\nF. 快乐的：快乐的时光，快乐的心情，快乐的氛围。\nG.",
+        "metaphor": "答案：野性的风景就像一只狮子在草原上奔跑，浪漫的音乐就像一首小夜曲在耳畔回荡。\n</s>A. 野性的动物：狼\nB. 浪漫的晚餐：烛光晚餐\nC. 神秘的传说：神话故事\nD. 可爱的宠物：猫咪\nE. 勇敢的战士：战士\nF. 快乐的氛围：欢乐的氛围\nG. 快乐的时光：快乐的童年时光\n</s>A. 野性的动物："
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "水草",
+        "ground": "</s>Aquatic plants are green and lush.\n</s>Aquatic plants are green and lush.\n</s>Aquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and l",
+        "metaphor": "回答：水草是绿油油的，像一片片翠绿的海洋。\n</s>Aquatic plants are green and lush. They look like a green ocean.\n</s>Aquatic plants are green and lush. They look like a green ocean.\nAquatic plants are green and lush. They look like a green ocean.\nAquatic plants are green and lush. They look like a green ocean.\nAquatic plants are green and l"
+    },
+    {
+        "tenor": "青春时期和爱情相遇",
+        "vehicle": "搭乘列车遇见爱情",
+        "ground": "</s>A. 青春时期遇到爱情时，通常都会感到幸福快乐。\nB. 青春时期遇到爱情时，通常都会感到幸福快乐。\nC. 青春时期遇到爱情时，通常都会感到幸福快乐。\nD. 青春时期遇到爱情时，通常都会感到幸福快乐。\nE. 青春时期遇到爱情时，通常都会感到幸福快乐。\nF. 青春时期遇到爱情时，通常都会感到幸福快乐。\nG.",
+        "metaphor": "答案：青春时期遇到爱情时，通常都会感到幸福快乐。就像乘坐一辆火车，爱情就像列车的目的地，让人充满期待和渴望。\n</s>A. 青春时期遇到爱情时，通常都会感到幸福快乐。\nB. 青春时期遇到爱情时，通常都会感到幸福快乐。\nC. 青春时期遇到爱情时，通常都会感到幸福快乐。\nD. 青春时期遇到爱情时，通常都会感到幸福快乐。\nE."
+    },
+    {
+        "tenor": "往事",
+        "vehicle": "彩虹",
+        "ground": "</s>A: 往事是曾经经历的事情，而彩虹则是美丽的自然现象。因此，往事和彩虹的一个共性可能是“美丽”。\n</s>A: 往事是曾经经历的事情，而彩虹则是美丽的自然现象。因此，往事和彩虹的一个共性可能是“美丽”。\n</s>A: 往事是曾经经历的事情，而彩虹则是美丽的自然现象。因此，往事和彩虹的一个共性可能是“美丽”。\nA: 往事是曾经经历的事情，而彩虹则是",
+        "metaphor": ""
+    },
+    {
+        "tenor": "我和你",
+        "vehicle": "河两岸",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 快乐的\nD. 勇敢的\nE. 聪明的\nF. 温暖的\nG. 勇敢的\nH. 美丽的\nI. 巨大的\nJ. 快乐的\nK. 聪明的\nL. 温暖的\nM. 勇敢的\nN. 美丽的\nO. 巨大的\nP. 快乐的\nQ. 聪明的\nR. 温暖的\nS. 勇敢的\nT.",
+        "metaphor": "回答：河两岸的风景美丽而巨大，河水的快乐声温暖而勇敢，两岸的树木聪明而美丽，阳光聪明而温暖，风勇敢而巨大。\n</s>A. 美丽的\nB. 巨大的\nC. 快乐的\nD. 勇敢的\nE. 聪明的\nF. 温暖的\nG. 勇敢的\nH. 美丽的\nI. 巨大的\nJ. 快乐的\nK. 聪明的\nL. 温暖的\nM."
+    },
+    {
+        "tenor": "《汇报》副刊的风格",
+        "vehicle": "德国哲学",
+        "ground": "</s>Aufgabe:\n\n请用《汇报》风格写一个句子，描述德国哲学的一个共性。\n\nKommentar:\n\n德国哲学的一个共性可以用“哲学是一种思考”来描述。\n\nAufgabe:\n\n请用《汇报》风格写一个句子，描述德国哲学的一个共性。\n\nKommentar:\n\n德国哲学的一个共性可以用“哲学是一种思考”来描述。\n</s>Aufgabe:",
+        "metaphor": "Kommentar:\n德国哲学是一种思考，就像《汇报》副刊是一种思考一样。\n</s>Aufgabe:\n请用《汇报》风格写一个句子，描述德国哲学中的“存在”概念。\nKommentar:\n德国哲学中的存在概念可以用“存在是一种状态”来描述。\nAufgabe:\n请用《汇报》风格写一个句子，描述德国哲学中的“意义”概念。\nKommentar"
+    },
+    {
+        "tenor": "迷茫",
+        "vehicle": "飞沙",
+        "ground": "</s>A. 迷茫的\nB. 飞沙的\n</s>A. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的",
+        "metaphor": "</s>A. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB"
+    },
+    {
+        "tenor": "人",
+        "vehicle": "木偶",
+        "ground": "</s>A man is a man.\n</s>A machine is a machine.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.",
+        "metaphor": "答案：人是一个复杂的机器。\n</s>A man is a complex machine.\n</s>A machine is a man.\n</s>A man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is"
+    },
+    {
+        "tenor": "雷声",
+        "vehicle": "猛兽",
+        "ground": "</s>Avalon\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿",
+        "metaphor": "Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。"
+    },
+    {
+        "tenor": "感受",
+        "vehicle": "诗",
+        "ground": "</s>A. 请用一句话描述这首诗带给你的感受。\nB. 请用一句话描述这首诗带给你的感受。\nC. 请用一句话描述这首诗带给你的感受。\nD. 请用一句话描述这首诗带给你的感受。\nE. 请用一句话描述这首诗带给你的感受。\nF. 请用一句话描述这首诗带给你的感受。\nG. 请用一句话描述这首诗带给你的感受。\nH. 请用一句话描述",
+        "metaphor": "I. 请用一句话描述这首诗带给你的感受。\nJ. 请用一句话描述这首诗带给你的感受。\nK. 请用一句话描述这首诗带给你的感受。\nL. 请用一句话描述这首诗带给你的感受。\nM. 请用一句话描述这首诗带给你的感受。\nN. 请用一句话描述这首诗带给你的感受。\nO. 请用一句话描述这首诗带给你的感受。\nP. 请用一句话描述这首诗"
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "瞬间",
+        "ground": "</s>A. 瞬间\nB. 人生\n</s>A. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB.",
+        "metaphor": "</s>A. 人生就像一场电影，而瞬间则是电影中的电影。\nB. 人生就像一场梦，而瞬间则是梦中梦。\nA. 人生就像一场游戏，而瞬间则是游戏里的游戏。\nB. 人生就像一场旅行，而瞬间则是旅行中的旅行。\nA. 人生就像一场比赛，而瞬间则是比赛中的比赛。\nB. 人生就像一场考试，而瞬间则是考试中的考试。\nA."
+    },
+    {
+        "tenor": "上演的剧情",
+        "vehicle": "你",
+        "ground": "</s>A: 他像一只狼一样，在夜晚潜行。\nB: 她像一只猫一样，在夜晚潜行。\nC: 他像一只狮子一样，在夜晚潜行。\nD: 她像一只狐狸一样，在夜晚潜行。\nE: 他像一只熊一样，在夜晚潜行。\nF: 她像一只蛇一样，在夜晚潜行。\nG: 他像一只鹰一样",
+        "metaphor": "回答：他像一只狼一样，在夜晚潜行。\n</s>A: 他像一只狼一样，在夜晚潜行。\nB: 她像一只猫一样，在夜晚潜行。\nC: 他像一只狮子一样，在夜晚潜行。\nD: 她像一只狐狸一样，在夜晚潜行。\nE: 他像一只熊一样，在夜晚潜行。\nF: 她像一只蛇一样，"
+    },
+    {
+        "tenor": "声音挤进耳朵里",
+        "vehicle": "身躯挤进小木盒里",
+        "ground": "</s>A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。\n</s>A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。",
+        "metaphor": "A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。\n</s>A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。"
+    },
+    {
+        "tenor": "太阳",
+        "vehicle": "人",
+        "ground": "</s>A. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB. 人是有思想、有情感、有情感的动物。\n</s>A. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB. 人是有思想、有情感、有情感的动物。\n</s>A. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB. 人是有思想、有情感、有情感的动物。",
+        "metaphor": "B. 人是有思想、有情感、有情感的动物。\n</s>A. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB. 人是有思想、有情感、有情感的动物。\nA. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB. 人是有思想、有情感、有情感的动物。\nA. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB."
+    },
+    {
+        "tenor": "你晶莹的双眼",
+        "vehicle": "星星",
+        "ground": "</s>A. 晶莹剔透的星星\nB. 闪烁不断的星星\nC. 闪烁不断的晶莹剔透的星星\nD. 闪烁不断的闪烁不断的星星\nE. 闪烁不断的闪烁不断的晶莹剔透的星星\nF. 闪烁不断的闪烁不断的闪烁不断的星星\nG. 闪烁不断的闪烁不断的闪烁不断的晶莹剔透的星星\nH. 闪烁不断的闪烁不断的闪烁不断的闪烁不断的星星\nI. 闪烁不断的闪烁不断的闪烁不断的闪烁不断的晶莹剔透的",
+        "metaphor": "回答：你的眼睛像闪烁不断的星星一样明亮。\n</s>A. 晶莹剔透的星星\nB. 闪烁不断的星星\nC. 闪烁不断的晶莹剔透的星星\nD. 闪烁不断的闪烁不断的星星\nE. 闪烁不断的闪烁不断的晶莹剔透的星星\nF. 闪烁不断的闪烁不断的闪烁不断的星星\nG. 闪烁不断的闪烁不断的闪烁不断的晶莹剔透的星星\nH. 闪烁不断的闪烁不断的闪烁不断的星星\nI. 闪烁"
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "流沙",
+        "ground": "思念和流沙的一个共性（ground）可以是：'动词+的+名词'的形式，例如：思念着你的名字，流沙河。\n</s>A. 思念着你的名字\nB. 流沙河\n</s>A. 思念着你的名字\nB. 流沙河\n</s>A. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着",
+        "metaphor": "B. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA."
+    },
+    {
+        "tenor": "乘客的微笑",
+        "vehicle": "亲人的抚照",
+        "ground": "</s>A smile and a embrace of family members are a universal ground for happiness.\n</s>A smile and a embrace of family members are a universal ground for happiness.\n</s>A smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.",
+        "metaphor": "回答：微笑和拥抱亲人是一种普遍存在的幸福感受。\n</s>A smile and a embrace of family members are a universal ground for happiness.\n</s>A smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.\nA smile and a"
+    },
+    {
+        "tenor": "我",
+        "vehicle": "傻瓜",
+        "ground": "</s>A: 你是个傻瓜。\nB: 你是个大傻瓜。\n</s>A: 你是个非常聪明的傻瓜。\nB: 你是个非常聪明的的大傻瓜。\nA: 你是个非常可爱的傻瓜。\nB: 你是个非常可爱的的大傻瓜。\nA: 你是个非常可爱的聪明傻瓜。\nB: 你是个非常可爱的聪明的大傻瓜。\nA: 你是个非常可爱的聪明的非常聪明的傻瓜。\nB:",
+        "metaphor": "回答：我就像一只可爱的聪明的大傻瓜一样。\n</s>A: 你是个非常可爱的聪明的大傻瓜。\nB: 你是个非常可爱的聪明的大傻瓜。\nA: 你是个非常可爱的聪明的非常聪明的傻瓜。\nB: 你是个非常可爱的聪明的非常聪明的傻瓜。\nA: 你是个非常可爱的聪明的非常聪明的非常聪明的傻瓜。\nB: 你是个非常可爱的聪明的非常聪明的非常聪明的傻瓜。\nA: 你是个非常"
+    },
+    {
+        "tenor": "你的温柔",
+        "vehicle": "日出",
+        "ground": "</s>A warm sunrise.\n</s>A warm sunrise.\n</s>A warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.",
+        "metaphor": "回答：\nA warm sunrise is like a gentle embrace, warming my heart and lighting up the day.\n</s>A warm sunrise is like a warm embrace, lighting up the sky and warming my heart.\nA warm sunrise is like a warm embrace, wrapping me in its gentle warmth and lighting up the day.\nA warm sunrise is like a warm embrace, filling me with its gentle warmth and lighting up the sky.\nA warm sunrise is like a warm embrace"
+    }
+]

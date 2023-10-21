@@ -1,0 +1,1402 @@
+[
+    {
+        "tenor": "他的温柔",
+        "vehicle": "海洋",
+        "ground": "</s>A. 温柔的海水\nB. 蓝色的海水\nC. 平静的海水\nD. 温暖的海水\nE. 美丽的海水\nF. 宁静的海水\nG. 清新的海水\nH. 温暖的阳光\nI. 美丽的沙滩\nJ. 宁静的沙滩\nK. 柔软的沙滩\nL. 美丽的海浪\nM. 温暖的海浪\nN. 平静的海浪\nO. 美丽的海鸥\nP.",
+        "metaphor": "",
+        "sample_id": 0
+    },
+    {
+        "tenor": "现实",
+        "vehicle": "箭",
+        "ground": "</s>A. 美丽的花\nB. 巨大的山\nC. 强烈的情感\nD. 强烈的欲望\nE. 强烈的渴望\nF. 强烈的恐惧\nG. 强烈的愤怒\nH. 强烈的悲伤\nI. 强烈的快乐\nJ. 强烈的幸福\nK. 强烈的孤独\nL. 强烈的希望\nM. 强烈的绝望\nN. 强烈的愤怒\nO. 强烈的悲伤\nP. 强烈的快乐\nQ.",
+        "metaphor": "答案：箭如雨般射向目标，目标却如同一座美丽的花。\n</s>A. 美丽的花\nB. 巨大的山\nC. 强烈的情感\nD. 强烈的欲望\nE. 强烈的渴望\nF. 强烈的恐惧\nG. 强烈的愤怒\nH. 强烈的悲伤\nI. 强烈的快乐\nJ. 强烈的幸福\nK. 强烈的孤独\nL. 强烈的希望\nM. 强烈的绝望\nN",
+        "sample_id": 1
+    },
+    {
+        "tenor": "语言",
+        "vehicle": "刀",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 勇敢的\nE. 快乐的\nF. 聪明的\nG. 美丽的\nH. 巨大的\nI. 冰冷的\nJ. 勇敢的\nK. 快乐的\nL. 聪明的\nM. 美丽的\nN. 巨大的\nO. 冰冷的\nP. 勇敢的\nQ. 快乐的\nR. 聪明的\nS. 美丽的",
+        "metaphor": "答案：刀是语言的锋利工具，锋利的刀能切割万物。\n</s>A. 美丽的 \nB. 巨大的 \nC. 冰冷的 \nD. 勇敢的 \nE. 快乐的 \nF. 聪明的 \nG. 美丽的 \nH. 巨大的 \nI. 冰冷的 \nJ. 勇敢的 \nK. 快乐的 \nL. 聪明的 \nM. 美丽的 \nN",
+        "sample_id": 2
+    },
+    {
+        "tenor": "他的脚印",
+        "vehicle": "落叶",
+        "ground": "</s>A footprint in the snow is a print left by a person's shoes.\nA footprint in the snow is a print left by a person's shoes.\n</s>A print left by a person's shoes is a footprint in the snow.\n</s>A print left by a person's shoes is a footprint in the snow.\nA print left by a person's shoes is a footprint in the snow.\nA print left by a person's shoes is a footprint in the snow.",
+        "metaphor": "回答：他的脚印就像一片落叶，被风儿吹散在雪地上。\n</s>A print left by a person's shoes is like a fallen leaf, blown away by the wind on the snow.\n</s>A print left by a person's shoes is like a fallen leaf, blown away by the wind on the snow.\nA print left by a person's shoes is like a fallen leaf, blown away by the wind on the snow.\nA print left by a person's",
+        "sample_id": 3
+    },
+    {
+        "tenor": "你的监察",
+        "vehicle": "潜望镜",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 美丽的\nH. 巨大的\nI. 冰冷的\nJ. 快乐的\nK. 勇敢的\nL. 聪明的\nM. 美丽的\nN. 巨大的\nO. 冰冷的\nP. 快乐的\nQ. 勇敢的\nR. 聪明的\nS. 美丽的",
+        "metaphor": "",
+        "sample_id": 4
+    },
+    {
+        "tenor": "梭罗河",
+        "vehicle": "画",
+        "ground": "梭罗河和画的一个共性可以是：'一条清澈见底的河流'。\n</s>A river is a body of water that flows over the surface of the Earth. It is typically a narrow, winding stream that is used for transportation, irrigation, and other purposes. Many rivers are also popular for their natural beauty and are considered to be some of the most important sources of water for human use.\n画是一种绘画形式，它使用颜料、油彩等工具在纸上或布上",
+        "metaphor": "",
+        "sample_id": 5
+    },
+    {
+        "tenor": "说不出滋味的体会",
+        "vehicle": "我微笑着流泪",
+        "ground": "</s>A: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了却没有任何的感觉。\nB: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了却没有任何的感觉。\n</s>A: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了",
+        "metaphor": "B: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了却没有任何的感觉。\nA: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了却没有任何的感觉。\nB: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了却没有任何",
+        "sample_id": 6
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "雨滴",
+        "ground": "</s>A爱如雨滴。\n</s>A爱如雨滴。\n</s>A爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴",
+        "metaphor": "回答：A爱如雨滴。\n</s>A爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴",
+        "sample_id": 7
+    },
+    {
+        "tenor": "燃尽的烟蒂",
+        "vehicle": "抽身的代价",
+        "ground": "</s>A. 烟蒂的烟蒂\nB. 烟蒂的烟蒂的烟蒂\nC. 烟蒂的烟蒂的烟蒂的烟蒂\nD. 烟蒂的烟蒂的烟蒂的烟蒂的烟蒂\nE. 烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂\nF. 烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂",
+        "metaphor": "答案：烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟",
+        "sample_id": 8
+    },
+    {
+        "tenor": "火星",
+        "vehicle": "泪滴",
+        "ground": "</s>A. 透明\nB. 巨大的\nC. 美丽的\nD. 快乐的\nE. 冰冷的\nF. 勇敢的\nG. 聪明的\nH. 温暖的\nI. 巨大的\nJ. 快乐的\nK. 冰冷的\nL. 勇敢的\nM. 聪明的\nN. 温暖的\nO. 巨大的\n答案：透明\n</s>A. 透明\nB. 巨大的\nC. 美丽的\nD",
+        "metaphor": "答案：火星上的泪滴，像巨大的珍珠一样美丽。\n</s>A. 透明\nB. 巨大的\nC. 美丽的\nD. 快乐的\nE. 冰冷的\nF. 勇敢的\nG. 聪明的\nH. 温暖的\nI. 巨大的\nJ. 快乐的\nK. 冰冷的\nL. 勇敢的\nM. 聪明的\nN. 温暖的\nO. 巨大的\n答案：透明\n</s>A.",
+        "sample_id": 9
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "苦咖啡",
+        "ground": "</s>A: 爱情是美好的，苦咖啡是苦涩的。\nB: 爱情是甜蜜蜜的，苦咖啡是酸涩涩的。\nC: 爱情是快乐的，苦咖啡是难过的。\nD: 爱情是激情的，苦咖啡是平静的。\nE: 爱情是神秘的，苦咖啡是清晰的。\nF: 爱情是美好的，苦咖啡是难喝的。\nG: 爱情是美好的，苦咖啡是",
+        "metaphor": "答案：爱情就像一杯苦咖啡，虽然苦涩，但越品越香。\n</s>A: 爱情是美好的，苦咖啡是苦涩的。\nB: 爱情是甜蜜蜜的，苦咖啡是酸涩涩的。\nC: 爱情是快乐的，苦咖啡是难过的。\nD: 爱情是激情的，苦咖啡是平静的。\nE: 爱情是神秘的，苦咖啡是清晰的。\nF: 爱情是美好的",
+        "sample_id": 10
+    },
+    {
+        "tenor": "事物",
+        "vehicle": "梦魇",
+        "ground": "</s>A. 请告诉我你的答案。\nB. 请告诉我你的答案。\nC. 请告诉我你的答案。\nD. 请告诉我你的答案。\nE. 请告诉我你的答案。\nF. 请告诉我你的答案。\nG. 请告诉我你的答案。\nH. 请告诉我你的答案。\nI. 请告诉我你的答案。\nJ. 请告诉我你的答案。\nK. 请告诉我你的答案。",
+        "metaphor": "</s>A. 答案：答案。\nB. 答案：答案。\nC. 答案：答案。\nD. 答案：答案。\nE. 答案：答案。\nF. 答案：答案。\nG. 答案：答案。\nH. 答案：答案。\nI. 答案：答案。\nJ. 答案：答案。\nK. 答案：答案。\n</s>A. 答案：答案。\nB",
+        "sample_id": 11
+    },
+    {
+        "tenor": "我得不到你的爱情",
+        "vehicle": "春花没有雨淋",
+        "ground": "</s>A. 爱情是美好的情感，春花是美丽的花卉。\nB. 爱情是美好的情感，春花是美丽的花卉。\nC. 爱情是美好的情感，春花是美丽的花卉。\nD. 爱情是美好的情感，春花是美丽的花卉。\nE. 爱情是美好的情感，春花是美丽的花卉。\nF. 爱情是美好的情感，春花是美丽的花卉。\nG. 爱情是美好的情感，",
+        "metaphor": "</s>A. 爱情是美好的情感，春花是美丽的花卉。\nB. 爱情是美好的情感，春花是美丽的花卉。\nC. 爱情是美好的情感，春花是美丽的花卉。\nD. 爱情是美好的情感，春花是美丽的花卉。\nE. 爱情是美好的情感，春花是美丽的花卉。\nF. 爱情是美好的情感，春花是美丽的花卉。\nG. 爱情是美好的情感，",
+        "sample_id": 12
+    },
+    {
+        "tenor": "白云",
+        "vehicle": "棉花糖",
+        "ground": "</s>A. 轻盈的。\nB. 柔软的。\nC. 蓬松的。\nD. 雪白的。\nE. 香甜的。\nF. 口感丰富的。\nG. 口感松软的。\nH. 口感浓郁的。\nI. 口感鲜美的。\nJ. 口感细腻的。\nK. 口感鲜活的。\nL. 口感丰富的。\nM. 口感松软的。\nN. 口感",
+        "metaphor": "答案：白云像棉花糖一样轻盈柔软。\n</s>A. 轻盈的。\nB. 柔软的。\nC. 蓬松的。\nD. 雪白的。\nE. 香甜的。\nF. 口感丰富的。\nG. 口感松软的。\nH. 口感浓郁的。\nI. 口感鲜美的。\nJ. 口感细腻的。\nK. 口感鲜活的。\nL. 口感丰富的。\nM",
+        "sample_id": 13
+    },
+    {
+        "tenor": "你的身影",
+        "vehicle": "水草",
+        "ground": "</s>Aquatic plant 水草\n</s>Aquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nA",
+        "metaphor": "</s>Aquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAqu",
+        "sample_id": 14
+    },
+    {
+        "tenor": "国王",
+        "vehicle": "牧师的奴隶",
+        "ground": "</s>A. 被剥夺了自由的人\nB. 受苦受难的人\nC. 受尽压迫和剥削的人\nD. 缺乏自由意志的人\nE. 缺乏自我决定能力的人\nF. 缺乏自我管理能力的人\nG. 缺乏自我尊重的人\nH. 缺乏自我认同的人\nI. 缺乏自我表达的人\nJ. 缺乏自我发展的人\nK. 缺乏自我提升的能力\nL. 缺乏自我",
+        "metaphor": "答案：国王和牧师是奴隶的主宰者，他们掌握着他们的命运。\n</s>A. 被剥夺了自由的人\nB. 受苦受难的人\nC. 受尽压迫和剥削的人\nD. 缺乏自由意志的人\nE. 缺乏自我决定能力的人\nF. 缺乏自我管理能力的人\nG. 缺乏自我尊重的人\nH. 缺乏自我认同的人\nI. 缺乏自我表达的人\nJ.",
+        "sample_id": 15
+    },
+    {
+        "tenor": "你的消息",
+        "vehicle": "被回顾的事物",
+        "ground": "</s>A: 你好，我想问一下，你最近有什么有趣的事情发生吗？\nB: 嗨，最近我在学习一门新的编程语言，感觉很有趣。\nA: 哇，听起来很有趣！你学的是哪种语言？\nB: 我学的是Python。\nA: 真的吗？我也学的是Python，你学的是哪个版本？\nB: 我学的是Python 3.x版本。\nA: 哦，那很好啊",
+        "metaphor": "B: Python 3.x版本是我最近学习的编程语言，感觉很有趣。\n</s>A: Python 3.x版本是我最近学习的编程语言，感觉很有趣。\n</s>A: Python 3.x版本是我最近学习的编程语言，感觉很有趣。\nB: Python 3.x版本是我最近学习的编程语言，感觉很有趣。\nA: Python 3.x版本是我最近学习的编程语言，感觉很有趣。\nB: Python 3.x版本是我最近学习的编程语言",
+        "sample_id": 16
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "河",
+        "ground": "</s>A. 时间： 时间是一个抽象的概念，它表示一段时间的长度。时间可以是过去的时间，也可以是未来的时间。时间可以是小时、分钟、秒等长度单位。时间可以是具体的日期和时间，也可以是抽象的概念，如现在的时间。\nB. 河： 河是一种自然的水体，它通常是由雨水、雪水、地下水等水源形成的。河可以是宽度不同的河流，也可以是宽度相同的渠道。河可以是具体的河流名称，也可以是抽象的概念，如",
+        "metaphor": "C. 人： 人是一种具有思维能力的生物，通常是指人类。人可以是具体的生物名称，也可以是抽象的概念，如人类。人可以是具体的姓名或名称，也可以是抽象的概念，如人类。\nD. 音乐： 音乐是一种通过声音来表达情感和思想的艺术形式。音乐可以是具体的歌曲名称，也可以是抽象的概念，如音乐。音乐可以是具体的乐器名称，也可以是抽象的概念，如音乐。\nE. 城市： 城市是一种由人口聚集",
+        "sample_id": 17
+    },
+    {
+        "tenor": "成长",
+        "vehicle": "奖赏",
+        "ground": "</s>A. 成长的过程是一个不断试错的过程，需要不断地尝试新的方法、新的思路，才能找到最适合自己发展的道路。\nB. 成长的过程是一个充满挑战的过程，需要不断地克服自己的恐惧和不安，才能不断地超越自己，实现更高的目标。\nC. 成长的过程是一个充满机遇的过程，需要不断地寻找机会，勇敢地尝试，才能发现更多的可能性，实现更大的价值。\nD. 成长的过程是一个充满快乐的过程，需要不断地享受过程中的",
+        "metaphor": "答案：成长的过程就像一场旅行，奖赏就是过程中的风景。\n</s>A. 成长的过程是一个不断试错的过程，需要不断地尝试新的方法、新的思路，才能找到最适合自己发展的道路。\nB. 成长的过程是一个充满挑战的过程，需要不断地克服自己的恐惧和不安，才能不断地超越自己，实现更高的目标。\nC. 成长的过程是一个充满机遇的过程，需要不断地寻找机会，勇敢地尝试，才能发现更多的可能性，实现更大的价值。",
+        "sample_id": 18
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "象棋",
+        "ground": "</s>A. 人生就像一场游戏，需要不断挑战自我，不断超越自己。\nB. 人生就像一场比赛，需要不断超越对手，不断突破自我。\nC. 人生就像一场旅行，需要不断发现美景，不断体验人生。\nD. 人生就像一场电影，需要不断感受情感，不断体验人生。\nE. 人生就像一场游戏，需要不断挑战自我，不断超越自己。\nF. 人生就像一场比赛，",
+        "metaphor": "答案：人生就像一场象棋比赛，需要不断超越对手，不断突破自我。\n</s>A. 人生就像一场游戏，需要不断挑战自我，不断超越自己。\nB. 人生就像一场比赛，需要不断超越对手，不断突破自我。\nC. 人生就像一场旅行，需要不断发现美景，不断体验人生。\nD. 人生就像一场电影，需要不断感受情感，不断体验人生。\nE. 人生就像一场游戏，",
+        "sample_id": 19
+    },
+    {
+        "tenor": "自己",
+        "vehicle": "神经病",
+        "ground": "</s>A: 你是个神经病。\nB: 神经病？你才神经病呢！\nA: 你才神经病呢！\nB: 神经病？你才神经病呢！\nA: 你才神经病呢！\nB: 神经病？你才神经病呢！\nA: 你才神经病呢！\nB: 神经病？你才神经病呢！\nA: 你才神经病",
+        "metaphor": "回答：神经病？你才神经病呢！\n</s>A: 你才神经病呢！\nB: 神经病？你才神经病呢！\nA: 你才神经病呢！\nB: 神经病？你才神经病呢！\nA: 你才神经病呢！\nB: 神经病？你才神经病呢！\nA: 你才神经病呢！\nB: 神经病？你",
+        "sample_id": 20
+    },
+    {
+        "tenor": "我心上",
+        "vehicle": "飞象",
+        "ground": "</s>A. 巨大的\nB. 美丽的\nC. 勇敢的\nD. 聪明的\nE. 快乐的\nF. 勤奋的\nG. 善良的\nH. 有耐心的\nI. 有创造力的\nJ. 有远见的\nK. 有勇气的\nL. 有毅力的\nM. 有判断力的\nN. 有同情心的\nO. 有创造力的\nP. 有远见的\nQ.",
+        "metaphor": "回答：我像一只飞象，驮着梦想和希望，不断前行。\n</s>A. 巨大的：像一只飞象，驮着梦想和希望，不断前行。\nB. 美丽的：像一只飞象，驮着梦想和希望，不断前行。\nC. 勇敢的：像一只飞象，驮着梦想和希望，不断前行。\nD. 聪明的：像一只飞象，驮着梦想和希望",
+        "sample_id": 21
+    },
+    {
+        "tenor": "浮雪",
+        "vehicle": "流浪的人",
+        "ground": "</s>A. 晶莹剔透的\nB. 巨大的\nC. 快乐的\nD. 冰冷的\nE. 美丽的\nF. 温暖的\nG. 勇敢的\nH. 勇敢的\nI. 快乐的\nJ. 巨大的\nK. 冰冷的\nL. 美丽的\nM. 温暖的\nN. 快乐的\nO. 巨大的\n答案：A. 晶莹剔透的\n</s>A. 晶莹剔透的\n</s>A",
+        "metaphor": "",
+        "sample_id": 22
+    },
+    {
+        "tenor": "浮游心窝",
+        "vehicle": "人",
+        "ground": "</s>A. 轻快的音乐声 B. 美丽的风景 C. 强烈的情感 D. 巨大的力量\n\n答案：A. 轻快的音乐声\n</s>A. 轻快的音乐声\n</s>A. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐",
+        "metaphor": "</s>A. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA. 轻快的音乐声\nA.",
+        "sample_id": 23
+    },
+    {
+        "tenor": "兰花草",
+        "vehicle": "你的微笑",
+        "ground": "</s>A. 美丽\nB. 可爱\nC. 温柔\nD. 善良\nE. 聪明\nF. 勇敢\nG. 坚强\nH. 自信\nI. 快乐\nJ. 健康\nK. 财富\nL. 成功\nM. 自由\nN. 智慧\nO. 快乐\nP. 自由\nQ. 幸福\nR. 成功\nS. 健康\nT.",
+        "metaphor": "例如：兰花草和我微笑时，就像一只快乐的小鸟，自由飞翔。\n</s>A. 美丽\nB. 可爱\nC. 温柔\nD. 善良\nE. 聪明\nF. 勇敢\nG. 坚强\nH. 自信\nI. 快乐\nJ. 健康\nK. 财富\nL. 成功\nM. 自由\nN. 智慧\nO. 快乐\nP.",
+        "sample_id": 24
+    },
+    {
+        "tenor": "擦拭尘土",
+        "vehicle": "抚摸爱情的伤口",
+        "ground": "擦拭尘土和抚摸爱情的伤口时，它们的共性可以是：清洁的状态。\n</s>A. 请提供擦拭和抚摸两个动词和一个名词，表示擦拭尘土和抚摸爱情的伤口时它们之间的共性。\nB. 请提供擦拭和抚摸两个动词和一个名词，表示擦拭尘土和抚摸爱情的伤口时它们之间的共性。\nC. 请提供擦拭和抚摸两个动词和一个名词，表示擦拭尘土和抚摸爱情的伤口时它们之间的共性。\nD. 请提供",
+        "metaphor": "",
+        "sample_id": 25
+    },
+    {
+        "tenor": "我",
+        "vehicle": "烟火",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 快乐的\nD. 勇敢的\nE. 聪明的\nF. 温暖的\nG. 有趣的\nH. 强大的\nI. 美丽的\n答案：美丽的\n</s>A. 巨大的\nB. 快乐的\nC. 勇敢的\nD. 聪明的\nE. 温暖的\nF. 有趣的\nG. 强大的\nH. 美丽的\n答案：美丽的\n</s>A.",
+        "metaphor": "答案：我像一只烟灰缸，平静地等待你的到来。\n</s>A. 巨大的\nB. 快乐的\nC. 勇敢的\nD. 聪明的\nE. 温暖的\nF. 有趣的\nG. 强大的\nH. 美丽的\n答案：美丽的\n</s>A. 巨大的\nB. 快乐的\nC. 勇敢的\nD. 聪明的\nE. 温暖的\nF. 有趣的\nG. 强大的\nH.",
+        "sample_id": 26
+    },
+    {
+        "tenor": "我",
+        "vehicle": "没有根的植物",
+        "ground": "</s>A. 植物是植物界中种类最多的生物之一。\nB. 植物是地球上最重要的生物之一。\nC. 植物是地球上最早出现的生物之一。\nD. 植物是地球上最复杂的生物之一。\nE. 植物是地球上最美丽的生物之一。\nF. 植物是地球上最神秘的生物之一。\nG. 植物是地球上最有趣的生物之一。\nH. 植物是地球上最可爱的生物之一。\nI",
+        "metaphor": "</s>A. 植物是植物界中种类最多的生物之一。\n植物是植物界中种类最多的生物之一。植物是地球上最重要的生物之一。植物是地球上最早出现的生物之一。植物是地球上最复杂的生物之一。植物是地球上最美丽的生物之一。植物是地球上最神秘的生物之一。植物是地球上最有趣的生物之一。植物是地球上最可爱的生物之一。植物是地球上最有趣的生物之一。植物是地球上最可爱的生物之一。植物是地球上",
+        "sample_id": 27
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "人",
+        "ground": "</s>A. 爱情是美好的。\nB. 爱情是强烈的。\nC. 爱情是复杂的。\nD. 爱情是神秘的。\nE. 爱情是感性的。\nF. 爱情是快乐的。\nG. 爱情是美好的。\nH. 爱情是强烈的。\nI. 爱情是复杂的。\nJ. 爱情是神秘的。\nK. 爱情是感性的。\nL. 爱情是快乐的。",
+        "metaphor": "答案：爱情就像一只蝴蝶，美丽而脆弱，随时可能离开。\n</s>A. 爱情是美好的。\nB. 爱情是强烈的。\nC. 爱情是复杂的。\nD. 爱情是神秘的。\nE. 爱情是感性的。\nF. 爱情是快乐的。\nG. 爱情是美好的。\nH. 爱情是强烈的。\nI. 爱情是复杂的。\nJ. 爱情是神秘的。\nK",
+        "sample_id": 28
+    },
+    {
+        "tenor": "你不给我一颗赤心",
+        "vehicle": "黑夜里找不到踪影",
+        "ground": "</s>A. 你的眼睛像星星一样明亮。\nB. 他的声音像音乐一样动听。\nC. 她的性格像阳光一样温暖。\nD. 他的行为像流水一样温柔。\nE. 她的眼睛像黑洞一样深邃。\nF. 他的声音像化石一样古老。\nG. 她的性格像化石一样古老。\nH. 他的行为像化石一样古老。\nI. 她的眼睛像化石一样古老。",
+        "metaphor": "</s>A. 你的眼睛像星星一样明亮。\nB. 他的声音像音乐一样动听。\nC. 她的性格像阳光一样温暖。\nD. 他的行为像流水一样温柔。\nE. 她的眼睛像黑洞一样深邃。\nF. 他的声音像化石一样古老。\nG. 她的性格像化石一样古老。\nH. 他的行为像化石一样古老。\nI. 她的眼睛像化石一样古老。",
+        "sample_id": 29
+    },
+    {
+        "tenor": "坚忍",
+        "vehicle": "外衣",
+        "ground": "</s>A. 坚忍的外衣\nB. 坚韧的外衣\nC. 刚毅的外衣\nD. 刚强的外衣\nE. 坚强的外衣\nF. 硬挺的外衣\nG. 硬壳的外衣\nH. 硬的外衣\nI. 硬挺的外衣\nJ. 硬壳的外衣\nK. 硬的外衣\nL. 硬挺的外衣\nM. 刚毅的外衣",
+        "metaphor": "答案：他的心就像一件坚忍的外衣，无论遇到什么困难都能保持平静。\n</s>A. 坚忍的外衣\nB. 坚韧的外衣\nC. 刚毅的外衣\nD. 刚强的外衣\nE. 坚强的外衣\nF. 硬挺的外衣\nG. 硬壳的外衣\nH. 硬的外衣\nI. 硬挺的外衣\nJ. 硬壳的外衣\nK.",
+        "sample_id": 30
+    },
+    {
+        "tenor": "蓝蓝的天空",
+        "vehicle": "大海",
+        "ground": "</s>A. 蓝蓝的\nB. 碧绿的\nC. 雪白的\nD. 金黄色的\nE. 雪白的\nF. 金黄色的\nG. 蓝蓝的\nH. 碧绿的\nI. 雪白的\nJ. 金黄色的\nK. 蓝蓝的\nL. 碧绿的\nM. 雪白的\nN. 金黄色的\nO. 雪白的\nP. 金黄色的",
+        "metaphor": "答案：蓝蓝的天空和大海像两个巨大的蓝色气球，飘荡在广袤无垠的大海上空。\n</s>A. 蓝蓝的\nB. 碧绿的\nC. 雪白的\nD. 金黄色的\nE. 雪白的\nF. 金黄色的\nG. 蓝蓝的\nH. 碧绿的\nI. 雪白的\nJ. 金黄色的\nK. 蓝蓝的\nL.",
+        "sample_id": 31
+    },
+    {
+        "tenor": "青年",
+        "vehicle": "树",
+        "ground": "</s>A. 青年和树都是植物。\nB. 青年和树都有生命。\nC. 青年和树都有生长的过程。\nD. 青年和树都有生长的环境。\nE. 青年和树都有生长的条件。\nF. 青年和树都有生长的能力。\nG. 青年和树都有生长的目标。\nH. 青年和树都有生长的意义。\nI. 青年和树都有生长的价值。\nJ",
+        "metaphor": "答案：青年就像一棵树，需要阳光、水和土壤才能茁壮成长。\n</s>A. 青年和树都是动物。\nB. 青年和树都有生命。\nC. 青年和树都有生长的过程。\nD. 青年和树都有生长的环境。\nE. 青年和树都有生长的条件。\nF. 青年和树都有生长的能力。\nG. 青年和树都有生长的目标。\nH. 青年和树都有",
+        "sample_id": 32
+    },
+    {
+        "tenor": "男人",
+        "vehicle": "海洋",
+        "ground": "</s>A man is a deep ocean.\n</s>A man is a vast ocean.\nA man is a vast ocean of knowledge.\nA man is a deep ocean of knowledge.\nA man is a vast ocean of emotions.\nA man is a deep ocean of emotions.\nA man is a vast ocean of love.\nA man is a deep ocean of love.\nA man is a vast ocean of wisdom.\nA man is a deep ocean of wisdom.\nA",
+        "metaphor": "答案：男人就像一片海洋，深不可测，有着丰富的内涵。\n</s>A man is a vast ocean of knowledge.\nA man is a deep ocean of emotions.\nA man is a vast ocean of love.\nA man is a deep ocean of wisdom.\n</s>A man is a vast ocean of experiences.\nA man is a deep ocean of experiences.\nA man is a vast ocean of dreams.\nA man is a deep ocean of dreams.\nA",
+        "sample_id": 33
+    },
+    {
+        "tenor": "预告",
+        "vehicle": "预言",
+        "ground": "</s>A. 请告诉我你的答案。\nB. 请告诉我你的答案。\nC. 请告诉我你的答案。\nD. 请告诉我你的答案。\nE. 请告诉我你的答案。\nF. 请告诉我你的答案。\nG. 请告诉我你的答案。\nH. 请告诉我你的答案。\nI. 请告诉我你的答案。\nJ. 请告诉我你的答案。\nK. 请告诉我你的答案。",
+        "metaphor": "答案：A. 请告诉我你的答案。\n</s>A是一个简单的句子，它表示请求或要求对方回答某个问题。在这个句子中，“请告诉我你的答案”是一个请求，要求对方回答某个问题。\n</s>A句子中的“答案”是指对方提供的答案，它可能是正确的答案，也可能是错误的答案。因此，A句子中的“答案”是一个不确定的概念，需要对方提供答案才能确定答案的正确性。\nA句子中的“告诉我”是一个命令句",
+        "sample_id": 34
+    },
+    {
+        "tenor": "落笔",
+        "vehicle": "行云流水",
+        "ground": "落笔：'轻盈'的云朵行云流水：'流畅'的笔触落笔：'温馨'的家庭氛围行云流水：'和谐'的家庭关系落笔：'热情'的夏天行云流水：'热情'的态度落笔：'美味'的食物行云流水：'美味'的味道落笔：'美丽'的城市行云流水：'美丽的'形象落笔：'神秘'的事物行云流水：'神秘'的感觉落笔：",
+        "metaphor": "</s>A. 他的字流畅而轻盈，就像行云流水一样。\nB. 他的文章行云流水般顺畅，让人如痴如醉。\nC. 他的绘画作品轻盈而流畅，让人感受到行云流水的艺术魅力。\nD. 他的音乐作品行云流水般悠扬动听，让人陶醉其中。\n</s>A. 他的字流畅而轻盈，就像行云流水一样。\nB. 他的文章行云流水般",
+        "sample_id": 35
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "人",
+        "ground": "</s>A: 请描述一下你作为人的共性。\nB: 作为一个人，我的共性是喜欢追求知识和成长。\n</s>A: 你的共性是什么？\nB: 我的共性是喜欢追求知识和成长。\nA: 你的共性是什么？\nB: 我的共性是喜欢追求知识和成长。\nA: 你的共性是什么？\nB: 我的共性是喜欢追求知识和成长。\nA: 你的共性是什么？\nB:",
+        "metaphor": "",
+        "sample_id": 36
+    },
+    {
+        "tenor": "你",
+        "vehicle": "毒蛇",
+        "ground": "</s>A: 你的性格很独特，有时候会显得比较固执。\nB: 我的性格比较独特，有时候会显得比较固执。\n</s>A: 你的性格很独特，有时候会显得比较固执。\nB: 我的性格比较独特，有时候会显得比较固执。\nA: 你的性格很独特，有时候会显得比较固执。\nB: 我的性格比较独特，有时候会显得比较固执。\nA: 你的性格很独特",
+        "metaphor": "B: 我的性格比较独特，有时候会显得比较固执。毒蛇就像我一样，有着独特的性格和行为方式。\nA: 你的性格很独特，有时候会显得比较固执。毒蛇就像我一样，有着独特的性格和行为方式。\nB: 我的性格比较独特，有时候会显得比较固执。毒蛇就像我一样，有着独特的性格和行为方式。\nA: 你的性格很独特，有时候会显得比较固执。毒蛇就像我",
+        "sample_id": 37
+    },
+    {
+        "tenor": "常态",
+        "vehicle": "寻常口味",
+        "ground": "</s>A. 他的声音很温柔。\nB. 她的性格很开朗。\nC. 她的眼睛很大。\nD. 他的性格很温和。\nE. 她的声音很动听。\nF. 他的性格很细心。\nG. 她的眼睛很明亮。\nH. 他的声音很雄浑。\nI. 她的性格很温柔。\nJ. 他的声音很清脆。\nK. 她的眼睛很美丽。",
+        "metaphor": "答案：他的声音很温柔，就像一杯温牛奶；她的性格很开朗，就像一只快乐的小鸟；她的眼睛很大，就像一片深邃的海洋；他的性格很温和，就像一位慈爱的父亲；她的声音很动听，就像一根优美的琴弦；他的性格很细心，就像一位体贴的暖男；她的眼睛很明亮，就像一盏照亮黑暗的明灯；他的声音很雄浑，就像一声震撼人心的狮吼；她的性格很温柔，就像一朵",
+        "sample_id": 38
+    },
+    {
+        "tenor": "我想到你",
+        "vehicle": "失眠",
+        "ground": "</s>A. 失眠的夜晚，你总是感觉身体像被虫蛀了一般疼痛。\nB. 你总是感觉身体像被虫蛀了一般疼痛，因此失眠的夜晚让你感到痛苦不堪。\nC. 失眠的夜晚，你总是感觉身体像被虫蛀了一般疼痛，让你难以入睡。\nD. 你总是感觉身体像被虫蛀了一般疼痛，让你难以入睡，失眠的夜晚让你感到痛苦不堪。\n</s>",
+        "metaphor": "回答：失眠的夜晚，你总是感觉身体像被虫蛀了一般疼痛，让你难以入睡，就像一条虫蛀过的苹果，表面虽然还能看到原来的颜色，但是内部却已经烂了。\n</s>A. 你总是感觉身体像被虫蛀了一般疼痛，让你难以入睡，就像一条虫蛀过的苹果，表面虽然还能看到原来的颜色，但是内部却已经烂了。\nB. 你总是感觉身体像被虫蛀了一般",
+        "sample_id": 39
+    },
+    {
+        "tenor": "落满遗憾的城墙",
+        "vehicle": "你心中的慌",
+        "ground": "落满遗憾的城墙和你心中的慌的一个共性可以是：充满遗憾的。落满遗憾的城墙和你心中的慌的一个共性可以是：充满遗憾的。落满遗憾的城墙和你心中的慌的一个共性可以是：充满遗憾的。落满遗憾的城墙和你心中的慌的一个共性可以是：充满遗憾的。落满遗憾的城墙和你心中的慌的一个共性可以是：充满遗憾的。落满遗憾的城墙和你心中的慌的一个共性可以是：充满遗憾的。落满遗憾的",
+        "metaphor": "</s>Abandoned walls and the fear of the unknown are like a bottomless well of regrets.\n</s>Abandoned walls and the fear of the unknown are like a bottomless well of regrets.\n</s>Abandoned walls and the fear of the unknown are like a bottomless well of regrets.\nAbandoned walls and the fear of the unknown are like a bottomless well of regrets.\nAbandoned walls and the fear of the unknown are like",
+        "sample_id": 40
+    },
+    {
+        "tenor": "我",
+        "vehicle": "夜",
+        "ground": "</s>A. 夜是黑夜里最亮的那颗星。\nB. 夜是黑夜里最亮的那颗星。\nC. 夜是黑夜里最亮的那颗星。\nD. 夜是黑夜里最亮的那颗星。\nE. 夜是黑夜里最亮的那颗星。\nF. 夜是黑夜里最亮的那颗星。\nG. 夜是黑夜里最亮的那颗星。",
+        "metaphor": "</s>A. 夜是黑夜里最亮的那颗星。\nB. 夜是黑夜里最亮的那颗星。\nC. 夜是黑夜里最亮的那颗星。\nD. 夜是黑夜里最亮的那颗星。\nE. 夜是黑夜里最亮的那颗星。\nF. 夜是黑夜里最亮的那颗星。\nG. 夜是黑夜里最亮的那颗星。",
+        "sample_id": 41
+    },
+    {
+        "tenor": "热闹的（场景）",
+        "vehicle": "下午两点的场景",
+        "ground": "### Assistant: 热闹的下午两点场景的一个共性（ground）可以是：热闹的状态。\n</s>A. 请给出热闹的（场景）和下午两点的场景的一个共性（ground）。\nB. 请给出热闹的（场景）和下午两点的场景的一个共性（ground）。\nC. 请给出热闹的（场景）和下午两点的场景的一个共性（ground）。\nD. 请给出热闹的（场景）和下午",
+        "metaphor": "",
+        "sample_id": 42
+    },
+    {
+        "tenor": "十二个音",
+        "vehicle": "流星飞",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 美丽的\nH. 巨大的\nI. 冰冷的\nJ. 快乐的\nK. 勇敢的\nL. 聪明的\nM. 美丽的\nN. 巨大的\nO. 冰冷的\nP. 快乐的\nQ. 勇敢的\nR. 聪明的\nS. 美丽的",
+        "metaphor": "答案：流星飞过天空，美丽而巨大，带来快乐与勇敢。\n</s>A. 美丽的 —— 美丽的女孩\nB. 巨大的 —— 巨大的成功\nC. 冰冷的 —— 冰冷的手术\nD. 快乐的 —— 快乐的时光\nE. 勇敢的 —— 勇敢的探险家\nF. 聪明的 —— 聪明的头脑\nG. 美丽的 —— 美丽的风景\nH. 巨大的 —— 巨大的",
+        "sample_id": 43
+    },
+    {
+        "tenor": "表达孤单",
+        "vehicle": "宣言",
+        "ground": "</s>A. 孤独是一种状态，它表示一个人缺乏与他人交往的机会或关系。\nB. 孤独是一种情感，它表示一个人感到缺乏与他人建立联系或关系的感受。\nC. 孤独是一种心态，它表示一个人缺乏与他人交往或建立联系的想法或意愿。\nD. 孤独是一种行为，它表示一个人缺乏与他人交往的行为或习惯。\nE. 孤独是一种心态和行为，它表示一个人缺乏与他人交往的想法和行为。\nF",
+        "metaphor": "答案：孤独就像一片黑暗的海洋，让人迷失方向。\n</s>A. 孤独是一种状态，它表示一个人缺乏与他人交往的机会或关系。\nB. 孤独是一种情感，它表示一个人感到缺乏与他人建立联系或关系的感受。\nC. 孤独是一种心态，它表示一个人缺乏与他人交往或建立联系的想法或意愿。\nD. 孤独是一种行为，它表示一个人缺乏与他人交往的行为或习惯。\nE. 孤独是一种",
+        "sample_id": 44
+    },
+    {
+        "tenor": "温柔",
+        "vehicle": "人",
+        "ground": "</s>A. 温柔的人通常都有一颗善良的心。\nB. 温柔是一种美好的品质，通常与善良联系在一起。\nC. 温柔是一种美好的品质，通常与善良、耐心联系在一起。\nD. 温柔是一种美好的品质，通常与善良、耐心、宽容联系在一起。\nE. 温柔是一种美好的品质，通常与善良、耐心、宽容、宽容联系在一起。\nF. 温柔是一种美好的品质，通常与善良、耐心、宽容、宽容、",
+        "metaphor": "答案：温柔的人通常都有一颗善良的心，就像一只温柔的小猫一样。\n</s>A. 温柔的人通常都有一颗善良的心。\nB. 温柔是一种美好的品质，通常与善良联系在一起。\nC. 温柔是一种美好的品质，通常与善良、耐心联系在一起。\nD. 温柔是一种美好的品质，通常与善良、耐心、宽容联系在一起。\nE. 温柔是一种美好的品质，通常与善良、耐心、宽容、宽容联系在一起。",
+        "sample_id": 45
+    },
+    {
+        "tenor": "你的眼睛",
+        "vehicle": "窗",
+        "ground": "</s>A. 明亮的\nB. 宽敞的\nC. 温暖的\nD. 舒适的\nE. 美丽的\nF. 豪华的\nG. 古老的\nH. 神秘的\nI. 有趣的\nJ. 勇敢的\nK. 快乐的\nL. 勇敢的\nM. 美丽的\nN. 巨大的\nO. 勇敢的\nP. 美丽的\nQ. 古老的\nR. 宽敞的\nS. 明亮的",
+        "metaphor": "回答：我的眼睛就像窗户一样，可以看到美丽的事物。\n</s>A. 明亮的\nB. 宽敞的\nC. 温暖的\nD. 舒适的\nE. 美丽的\nF. 豪华的\nG. 古老的\nH. 神秘的\nI. 有趣的\nJ. 勇敢的\nK. 快乐的\nL. 勇敢的\nM. 美丽的\nN. 巨大的\nO. 勇敢的\nP. 美丽的\nQ.",
+        "sample_id": 46
+    },
+    {
+        "tenor": "你我分离",
+        "vehicle": "鸟",
+        "ground": "</s>A. 分离的\nB. 鸟的\nC. 分离的鸟的\nD. 分离的鸟的\nE. 鸟的分离的\nF. 分离的鸟的\nG. 鸟的分离的鸟的\nH. 分离的鸟的鸟的\nI. 鸟的分离的鸟的鸟的\nJ. 分离的鸟的鸟的鸟的\nK. 鸟的分离的鸟的鸟",
+        "metaphor": "</s>A. 我像一只鸟，一只分离的鸟，飞向你。\nB. 你像一只鸟，一只分离的鸟，飞向我。\nC. 我们像两只鸟，一只分离的鸟，一起飞翔。\nD. 我们的分离像一只鸟，一只分离的鸟，飞向不同的方向。\nE. 我们的分离像一只鸟，一只分离的鸟，飞向不同的天空。\nF. 我们的分离像一只",
+        "sample_id": 47
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "救世主",
+        "ground": "</s>A: 我们都有一颗善良的心。\nB: 救世主也有一颗善良的心。\n</s>A: 我们都有一种渴望爱的情感。\nB: 救世主也有一种渴望爱的情感。\nA: 我们都有一种追求幸福的愿望。\nB: 救世主也有一种追求幸福的愿望。\nA: 我们都有一种渴望成功的信念。\nB: 救世主也有一种渴望成功的信念。\nA:",
+        "metaphor": "B: 我们和救世主都是渴望幸福的人。\n</s>A: 我们和救世主都有一种渴望成功的信念。\n</s>A: 我们都有一颗善良的心。\nB: 救世主也有一颗善良的心。\nA: 我们都有一种渴望爱的情感。\nB: 救世主也有一种渴望爱的情感。\nA: 我们都有一种追求幸福的愿望。\nB: 救世主也有一种追求幸福的愿望",
+        "sample_id": 48
+    },
+    {
+        "tenor": "酸雨",
+        "vehicle": "危险的事物",
+        "ground": "</s>A: 酸雨和危险的事物都有一种“危险”的感觉。\nB: 酸雨和危险的事物都有一种“有害”的感觉。\nC: 酸雨和危险的事物都有一种“有害”的感觉。\nD: 酸雨和危险的事物都有一种“有害”的感觉。\nE: 酸雨和危险的事物都有一种“有害”的感觉。\nF: 酸雨和危险的事物都有一种“有害”的感觉。\nG:",
+        "metaphor": "我的答案是：酸雨和危险的事物都有一种“有害”的感觉。\n</s>A: 酸雨和危险的事物都有一种“危险”的感觉。\nB: 酸雨和危险的事物都有一种“有害”的感觉。\nC: 酸雨和危险的事物都有一种“有害”的感觉。\nD: 酸雨和危险的事物都有一种“有害”的感觉。\nE: 酸雨和危险的事物都有一种“有害”的感觉。\nF:",
+        "sample_id": 49
+    },
+    {
+        "tenor": "纸",
+        "vehicle": "一张符咒",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 温暖的\nE. 快乐的\nF. 悲伤的\nG. 勇敢的\nH. 懦弱的\nI. 聪明的\nJ. 愚蠢的\nK. 强大的\nL. 虚弱的\nM. 快乐的\nN. 悲伤的\nO. 美丽的\n答案：O. 美丽的\n</s>A. 美丽的\nB. 巨大的",
+        "metaphor": "答案：符咒就像一张纸，虽然薄薄一张，却能够控制人的命运。\n</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 温暖的\nE. 快乐的\nF. 悲伤的\nG. 勇敢的\nH. 懦弱的\nI. 聪明的\nJ. 愚蠢的\nK. 强大的\nL. 虚弱的\nM. 快乐的\nN. 悲伤的\nO.",
+        "sample_id": 50
+    },
+    {
+        "tenor": "眼睛",
+        "vehicle": "星星",
+        "ground": "</s>A. 明亮的眼睛\nB. 闪烁的星星\nC. 清澈的眼睛\nD. 闪烁的星星\nE. 明亮的眼睛\nF. 清澈的眼睛\nG. 闪烁的星星\nH. 明亮的眼睛\nI. 闪烁的星星\nJ. 清澈的眼睛\nK. 明亮的眼睛\nL. 闪烁的星星\nM. 清澈的眼睛\nN. 明亮的眼睛\nO. 闪烁的星星\nP.",
+        "metaphor": "答案：闪烁的星星就像明亮的眼睛。\n</s>A. 闪烁的星星就像明亮的眼睛。\nB. 闪烁的星星就像清澈的眼睛。\nC. 闪烁的星星就像清澈的眼睛。\nD. 闪烁的星星就像明亮的眼睛。\nE. 闪烁的星星就像明亮的眼睛。\nF. 闪烁的星星就像清澈的眼睛。\nG. 闪烁的星星就像明亮的眼睛。\nH. 闪烁的星星就像明亮的眼睛。",
+        "sample_id": 51
+    },
+    {
+        "tenor": "他们",
+        "vehicle": "风中的叶子",
+        "ground": "</s>A. 轻盈的\nB. 温暖的\nC. 巨大的\nD. 快乐的\nE. 美丽的\nF. 勇敢的\nG. 聪明的\nH. 快乐的\nI. 美丽的\nJ. 勇敢的\nK. 聪明的\nL. 快乐的\nM. 美丽的\nN. 巨大的\nO. 快乐的\nP. 美丽的\nQ. 勇敢的\nR. 聪明的\nS. 快乐的\nT.",
+        "metaphor": "",
+        "sample_id": 52
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "阳光",
+        "ground": "</s>A smile is like sunshine.\n</s>A warm smile is like sunshine.\nA bright smile is like sunshine.\nA friendly smile is like sunshine.\nA beautiful smile is like sunshine.\nA content smile is like sunshine.\nA satisfied smile is like sunshine.\nA contented smile is like sunshine.\nA cheery smile is like sunshine.\nA bright and cheery smile is like sunshine.\nA radiant smile is like sunshine.\nA radiant and",
+        "metaphor": "回答：阳光是一种温暖的颜色，就像微笑一样。\n</s>A warm color is like a smile.\n</s>A warm and sunny smile is like a warm and sunny day.\n阳光是一种温暖的颜色，就像微笑一样。阳光是一种温暖的颜色，就像微笑一样。阳光是一种温暖的颜色，就像微笑一样。阳光是一种温暖的颜色，就像微笑一样。阳光是一种温暖的颜色，就像微笑一样。阳光是一种温暖的颜色，就像微笑一样。阳光是一种温暖的颜色，就像微笑一样",
+        "sample_id": 53
+    },
+    {
+        "tenor": "恋情",
+        "vehicle": "沉默的风",
+        "ground": "</s>A: 她的眼睛闪烁着温柔的光芒，就像阳光一样温暖。\nB: 他的声音低沉而富有磁性，就像音乐一样动听。\nC: 她的性格温柔而善良，就像月亮一样柔和。\nD: 他的性格冷静而理智，就像大海一样深邃。\nE: 他们的感情坚定而深刻，就像山一样坚定。\nF: 她的心灵纯净而美好，就像天空一样湛蓝。\nG: 他的",
+        "metaphor": "</s>A: 她的眼睛闪烁着温柔的光芒，就像阳光一样温暖。\nB: 他的声音低沉而富有磁性，就像音乐一样动听。\nC: 她的性格温柔而善良，就像月亮一样柔和。\nD: 他的性格冷静而理智，就像大海一样深邃。\nE: 他们的感情坚定而深刻，就像山一样坚定。\nF: 她的心灵纯净而美好，就像天空一样湛蓝。\nG: 他的",
+        "sample_id": 54
+    },
+    {
+        "tenor": "相思",
+        "vehicle": "传染病",
+        "ground": "相思和传染病的一个共性（ground）可以是：相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。",
+        "metaphor": "相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。相思是一种强烈的情感状态，传染病是一种疾病。",
+        "sample_id": 55
+    },
+    {
+        "tenor": "他们修复历史",
+        "vehicle": "修复远年的故事",
+        "ground": "修复历史和修复远年的故事的一个共性（ground）可以是：时间旅行者的属性。\n</s>A: 修复历史和修复远年的故事的一个共性（ground）可以是：时间旅行者的属性。\nB: 修复历史和修复远年的故事的一个共性（ground）可以是：时间旅行者的属性。\nC: 修复历史和修复远年的故事的一个共性（ground）可以是：时间旅行者的属性。\nD: 修复历史和修复远年的故事的一个共性（ground）",
+        "metaphor": "",
+        "sample_id": 56
+    },
+    {
+        "tenor": "风",
+        "vehicle": "外衣",
+        "ground": "</s>A. 轻快的\nB. 巨大的\nC. 美丽的\nD. 勇敢的\nE. 温暖的\nF. 冰冷的\nG. 快乐的\nH. 悲伤的\nI. 聪明的\nJ. 愚蠢的\nK. 强大的\nL. 虚弱的\nM. 勇敢的\nN. 懦弱的\nO. 聪明的\nP. 愚笨的\nQ. 美丽的\nR. 丑陋的",
+        "metaphor": "",
+        "sample_id": 57
+    },
+    {
+        "tenor": "稀罕",
+        "vehicle": "慢性服毒",
+        "ground": "</s>A. 他的声音很温柔。\nB. 她的性格很温和。\nC. 她的眼睛很大很明亮。\nD. 他的性格很温和。\nE. 她的声音很温柔。\nF. 他的性格很温和。\nG. 她的眼睛很大很明亮。\nH. 他的声音很温柔。\nI. 她的性格很温和。\nJ. 她的眼睛很大很明亮。\nK. 他的性格",
+        "metaphor": "</s>A. 他的声音很温柔，就像一只温柔的小猫。\nB. 她的性格很温和，就像一只温顺的小羊。\nC. 她的眼睛很大很明亮，就像一只明亮的眼睛。\nD. 他的性格很温和，就像一只温顺的小猫。\nE. 她的声音很温柔，就像一只温柔的小鸟。\nF. 他的性格很温和，就像一只温顺的小狗。\nG. 她的眼睛",
+        "sample_id": 58
+    },
+    {
+        "tenor": "人",
+        "vehicle": "门前的崖上的野鹞子",
+        "ground": "</s>A. 高耸入云\nB. 波涛汹涌\nC. 光滑如镜\nD. 色彩斑斓\nE. 光滑如镜\nF. 色彩斑斓\nG. 高耸入云\nH. 波涛汹涌\nI. 光滑如镜\nJ. 色彩斑斓\nK. 高耸入云\nL. 波涛汹涌\nM. 光滑如镜\nN. 色彩斑斓\nO",
+        "metaphor": "",
+        "sample_id": 59
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "双翼的神马",
+        "ground": "</s>A. 巨大的\nB. 美丽的\nC. 勇敢的\nD. 聪明的\nE. 善良的\nF. 快乐的\nG. 勤奋的\nH. 勇敢的\nI. 美丽的\nJ. 聪明的\nK. 善良的\nL. 快乐的\nM. 勤奋的\n答案：A. 巨大的\n</s>A. 巨大的\n</s>A. 巨大的\nA. 巨大的\nA. 巨大的\nA.",
+        "metaphor": "",
+        "sample_id": 60
+    },
+    {
+        "tenor": "野性",
+        "vehicle": "浪漫的事情",
+        "ground": "</s>A. 野性的：野性的动物，野性的风景，野性的音乐。\nB. 浪漫的：浪漫的晚餐，浪漫的旅行，浪漫的歌曲。\nC. 神秘的：神秘的传说，神秘的岛屿，神秘的宝藏。\nD. 可爱的：可爱的宠物，可爱的孩子，可爱的动物。\nE. 勇敢的：勇敢的战士，勇敢的探险家，勇敢的旅行家。\nF. 快乐的：快乐的时光，快乐的心情，快乐的氛围。\nG.",
+        "metaphor": "答案：野性的风景就像一只狮子在草原上奔跑，浪漫的音乐就像一首小夜曲在耳畔回荡。\n</s>A. 野性的动物：狼\nB. 浪漫的晚餐：烛光晚餐\nC. 神秘的传说：神话故事\nD. 可爱的宠物：猫咪\nE. 勇敢的战士：战士\nF. 快乐的氛围：欢乐的氛围\nG. 快乐的时光：快乐的童年时光\n</s>A. 野性的动物：",
+        "sample_id": 61
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "水草",
+        "ground": "</s>Aquatic plants are green and lush.\n</s>Aquatic plants are green and lush.\n</s>Aquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and l",
+        "metaphor": "回答：水草是绿油油的，像一片片翠绿的海洋。\n</s>Aquatic plants are green and lush. They look like a green ocean.\n</s>Aquatic plants are green and lush. They look like a green ocean.\nAquatic plants are green and lush. They look like a green ocean.\nAquatic plants are green and lush. They look like a green ocean.\nAquatic plants are green and l",
+        "sample_id": 62
+    },
+    {
+        "tenor": "青春时期和爱情相遇",
+        "vehicle": "搭乘列车遇见爱情",
+        "ground": "</s>A. 青春时期遇到爱情时，通常都会感到幸福快乐。\nB. 青春时期遇到爱情时，通常都会感到幸福快乐。\nC. 青春时期遇到爱情时，通常都会感到幸福快乐。\nD. 青春时期遇到爱情时，通常都会感到幸福快乐。\nE. 青春时期遇到爱情时，通常都会感到幸福快乐。\nF. 青春时期遇到爱情时，通常都会感到幸福快乐。\nG.",
+        "metaphor": "答案：青春时期遇到爱情时，通常都会感到幸福快乐。就像乘坐一辆火车，爱情就像列车的目的地，让人充满期待和渴望。\n</s>A. 青春时期遇到爱情时，通常都会感到幸福快乐。\nB. 青春时期遇到爱情时，通常都会感到幸福快乐。\nC. 青春时期遇到爱情时，通常都会感到幸福快乐。\nD. 青春时期遇到爱情时，通常都会感到幸福快乐。\nE.",
+        "sample_id": 63
+    },
+    {
+        "tenor": "往事",
+        "vehicle": "彩虹",
+        "ground": "</s>A: 往事是曾经经历的事情，而彩虹则是美丽的自然现象。因此，往事和彩虹的一个共性可能是“美丽”。\n</s>A: 往事是曾经经历的事情，而彩虹则是美丽的自然现象。因此，往事和彩虹的一个共性可能是“美丽”。\n</s>A: 往事是曾经经历的事情，而彩虹则是美丽的自然现象。因此，往事和彩虹的一个共性可能是“美丽”。\nA: 往事是曾经经历的事情，而彩虹则是",
+        "metaphor": "",
+        "sample_id": 64
+    },
+    {
+        "tenor": "我和你",
+        "vehicle": "河两岸",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 快乐的\nD. 勇敢的\nE. 聪明的\nF. 温暖的\nG. 勇敢的\nH. 美丽的\nI. 巨大的\nJ. 快乐的\nK. 聪明的\nL. 温暖的\nM. 勇敢的\nN. 美丽的\nO. 巨大的\nP. 快乐的\nQ. 聪明的\nR. 温暖的\nS. 勇敢的\nT.",
+        "metaphor": "回答：河两岸的风景美丽而巨大，河水的快乐声温暖而勇敢，两岸的树木聪明而美丽，阳光聪明而温暖，风勇敢而巨大。\n</s>A. 美丽的\nB. 巨大的\nC. 快乐的\nD. 勇敢的\nE. 聪明的\nF. 温暖的\nG. 勇敢的\nH. 美丽的\nI. 巨大的\nJ. 快乐的\nK. 聪明的\nL. 温暖的\nM.",
+        "sample_id": 65
+    },
+    {
+        "tenor": "《汇报》副刊的风格",
+        "vehicle": "德国哲学",
+        "ground": "</s>Aufgabe:\n\n请用《汇报》风格写一个句子，描述德国哲学的一个共性。\n\nKommentar:\n\n德国哲学的一个共性可以用“哲学是一种思考”来描述。\n\nAufgabe:\n\n请用《汇报》风格写一个句子，描述德国哲学的一个共性。\n\nKommentar:\n\n德国哲学的一个共性可以用“哲学是一种思考”来描述。\n</s>Aufgabe:",
+        "metaphor": "Kommentar:\n德国哲学是一种思考，就像《汇报》副刊是一种思考一样。\n</s>Aufgabe:\n请用《汇报》风格写一个句子，描述德国哲学中的“存在”概念。\nKommentar:\n德国哲学中的存在概念可以用“存在是一种状态”来描述。\nAufgabe:\n请用《汇报》风格写一个句子，描述德国哲学中的“意义”概念。\nKommentar",
+        "sample_id": 66
+    },
+    {
+        "tenor": "迷茫",
+        "vehicle": "飞沙",
+        "ground": "</s>A. 迷茫的\nB. 飞沙的\n</s>A. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的",
+        "metaphor": "</s>A. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB. 飞沙的\nA. 迷茫的\nB",
+        "sample_id": 67
+    },
+    {
+        "tenor": "人",
+        "vehicle": "木偶",
+        "ground": "</s>A man is a man.\n</s>A machine is a machine.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.",
+        "metaphor": "答案：人是一个复杂的机器。\n</s>A man is a complex machine.\n</s>A machine is a man.\n</s>A man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is a machine.\nA machine is a man.\nA man is",
+        "sample_id": 68
+    },
+    {
+        "tenor": "雷声",
+        "vehicle": "猛兽",
+        "ground": "</s>Avalon\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿",
+        "metaphor": "Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。",
+        "sample_id": 69
+    },
+    {
+        "tenor": "感受",
+        "vehicle": "诗",
+        "ground": "</s>A. 请用一句话描述这首诗带给你的感受。\nB. 请用一句话描述这首诗带给你的感受。\nC. 请用一句话描述这首诗带给你的感受。\nD. 请用一句话描述这首诗带给你的感受。\nE. 请用一句话描述这首诗带给你的感受。\nF. 请用一句话描述这首诗带给你的感受。\nG. 请用一句话描述这首诗带给你的感受。\nH. 请用一句话描述",
+        "metaphor": "I. 请用一句话描述这首诗带给你的感受。\nJ. 请用一句话描述这首诗带给你的感受。\nK. 请用一句话描述这首诗带给你的感受。\nL. 请用一句话描述这首诗带给你的感受。\nM. 请用一句话描述这首诗带给你的感受。\nN. 请用一句话描述这首诗带给你的感受。\nO. 请用一句话描述这首诗带给你的感受。\nP. 请用一句话描述这首诗",
+        "sample_id": 70
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "瞬间",
+        "ground": "</s>A. 瞬间\nB. 人生\n</s>A. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB.",
+        "metaphor": "</s>A. 人生就像一场电影，而瞬间则是电影中的电影。\nB. 人生就像一场梦，而瞬间则是梦中梦。\nA. 人生就像一场游戏，而瞬间则是游戏里的游戏。\nB. 人生就像一场旅行，而瞬间则是旅行中的旅行。\nA. 人生就像一场比赛，而瞬间则是比赛中的比赛。\nB. 人生就像一场考试，而瞬间则是考试中的考试。\nA.",
+        "sample_id": 71
+    },
+    {
+        "tenor": "上演的剧情",
+        "vehicle": "你",
+        "ground": "</s>A: 他像一只狼一样，在夜晚潜行。\nB: 她像一只猫一样，在夜晚潜行。\nC: 他像一只狮子一样，在夜晚潜行。\nD: 她像一只狐狸一样，在夜晚潜行。\nE: 他像一只熊一样，在夜晚潜行。\nF: 她像一只蛇一样，在夜晚潜行。\nG: 他像一只鹰一样",
+        "metaphor": "回答：他像一只狼一样，在夜晚潜行。\n</s>A: 他像一只狼一样，在夜晚潜行。\nB: 她像一只猫一样，在夜晚潜行。\nC: 他像一只狮子一样，在夜晚潜行。\nD: 她像一只狐狸一样，在夜晚潜行。\nE: 他像一只熊一样，在夜晚潜行。\nF: 她像一只蛇一样，",
+        "sample_id": 72
+    },
+    {
+        "tenor": "声音挤进耳朵里",
+        "vehicle": "身躯挤进小木盒里",
+        "ground": "</s>A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。\n</s>A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。",
+        "metaphor": "A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。\n</s>A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。",
+        "sample_id": 73
+    },
+    {
+        "tenor": "太阳",
+        "vehicle": "人",
+        "ground": "</s>A. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB. 人是有思想、有情感、有情感的动物。\n</s>A. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB. 人是有思想、有情感、有情感的动物。\n</s>A. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB. 人是有思想、有情感、有情感的动物。",
+        "metaphor": "B. 人是有思想、有情感、有情感的动物。\n</s>A. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB. 人是有思想、有情感、有情感的动物。\nA. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB. 人是有思想、有情感、有情感的动物。\nA. 太阳是地球生命之源，它的能量带来了温暖和光明。\nB.",
+        "sample_id": 74
+    },
+    {
+        "tenor": "你晶莹的双眼",
+        "vehicle": "星星",
+        "ground": "</s>A. 晶莹剔透的星星\nB. 闪烁不断的星星\nC. 闪烁不断的晶莹剔透的星星\nD. 闪烁不断的闪烁不断的星星\nE. 闪烁不断的闪烁不断的晶莹剔透的星星\nF. 闪烁不断的闪烁不断的闪烁不断的星星\nG. 闪烁不断的闪烁不断的闪烁不断的晶莹剔透的星星\nH. 闪烁不断的闪烁不断的闪烁不断的闪烁不断的星星\nI. 闪烁不断的闪烁不断的闪烁不断的闪烁不断的晶莹剔透的",
+        "metaphor": "回答：你的眼睛像闪烁不断的星星一样明亮。\n</s>A. 晶莹剔透的星星\nB. 闪烁不断的星星\nC. 闪烁不断的晶莹剔透的星星\nD. 闪烁不断的闪烁不断的星星\nE. 闪烁不断的闪烁不断的晶莹剔透的星星\nF. 闪烁不断的闪烁不断的闪烁不断的星星\nG. 闪烁不断的闪烁不断的闪烁不断的晶莹剔透的星星\nH. 闪烁不断的闪烁不断的闪烁不断的星星\nI. 闪烁",
+        "sample_id": 75
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "流沙",
+        "ground": "思念和流沙的一个共性（ground）可以是：'动词+的+名词'的形式，例如：思念着你的名字，流沙河。\n</s>A. 思念着你的名字\nB. 流沙河\n</s>A. 思念着你的名字\nB. 流沙河\n</s>A. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着",
+        "metaphor": "B. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA. 思念着你的名字\nB. 流沙河\nA.",
+        "sample_id": 76
+    },
+    {
+        "tenor": "乘客的微笑",
+        "vehicle": "亲人的抚照",
+        "ground": "</s>A smile and a embrace of family members are a universal ground for happiness.\n</s>A smile and a embrace of family members are a universal ground for happiness.\n</s>A smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.",
+        "metaphor": "回答：微笑和拥抱亲人是一种普遍存在的幸福感受。\n</s>A smile and a embrace of family members are a universal ground for happiness.\n</s>A smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.\nA smile and a embrace of family members are a universal ground for happiness.\nA smile and a",
+        "sample_id": 77
+    },
+    {
+        "tenor": "我",
+        "vehicle": "傻瓜",
+        "ground": "</s>A: 你是个傻瓜。\nB: 你是个大傻瓜。\n</s>A: 你是个非常聪明的傻瓜。\nB: 你是个非常聪明的的大傻瓜。\nA: 你是个非常可爱的傻瓜。\nB: 你是个非常可爱的的大傻瓜。\nA: 你是个非常可爱的聪明傻瓜。\nB: 你是个非常可爱的聪明的大傻瓜。\nA: 你是个非常可爱的聪明的非常聪明的傻瓜。\nB:",
+        "metaphor": "回答：我就像一只可爱的聪明的大傻瓜一样。\n</s>A: 你是个非常可爱的聪明的大傻瓜。\nB: 你是个非常可爱的聪明的大傻瓜。\nA: 你是个非常可爱的聪明的非常聪明的傻瓜。\nB: 你是个非常可爱的聪明的非常聪明的傻瓜。\nA: 你是个非常可爱的聪明的非常聪明的非常聪明的傻瓜。\nB: 你是个非常可爱的聪明的非常聪明的非常聪明的傻瓜。\nA: 你是个非常",
+        "sample_id": 78
+    },
+    {
+        "tenor": "你的温柔",
+        "vehicle": "日出",
+        "ground": "</s>A warm sunrise.\n</s>A warm sunrise.\n</s>A warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.",
+        "metaphor": "回答：\nA warm sunrise is like a gentle embrace, warming my heart and lighting up the day.\n</s>A warm sunrise is like a warm embrace, lighting up the sky and warming my heart.\nA warm sunrise is like a warm embrace, wrapping me in its gentle warmth and lighting up the day.\nA warm sunrise is like a warm embrace, filling me with its gentle warmth and lighting up the sky.\nA warm sunrise is like a warm embrace",
+        "sample_id": 79
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "无声演员",
+        "ground": "</s>A. 我们的声音很独特。\nB. 他的声音很独特。\nC. 他们的声音很独特。\nD. 他们的声音很独特。\nE. 他们的声音很独特。\nF. 他们的声音很独特。\nG. 他们的声音很独特。\nH. 他们的声音很独特。\nI. 他们的声音很独特。\nJ. 他们的声音很独特。\nK. 他们的声音很独特。",
+        "metaphor": "</s>A. 我们的声音很独特。\n我们的声音很独特。我们的声音就像是一把独特的钥匙，能够打开人们的心扉，让他们感受到我们的温暖和关爱。我们的声音就像是一面旗帜，能够指引人们前进的方向，让他们感受到我们的力量和希望。我们的声音就像是一首歌曲，能够唱出我们的心情和感受，让他们感受到我们的情感和真诚。我们的声音就像是一面镜子，能够反映我们的内心和形象，让他们感受到我们的美丽和自信。我们的声音",
+        "sample_id": 80
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "最真的情话",
+        "ground": "</s>A: 你的眼睛真美，像星星一样闪烁着光芒。\nB: 你的微笑真甜，让我感到温暖和幸福。\nC: 你的声音真动听，像音乐一样让人陶醉。\nD: 你的心灵真强大，让我感到安全和可靠。\nE: 你的性格真温柔，让我感到舒适和放松。\nF: 你的行为真优雅，让我感到欣赏和尊重。\nG: 你的谈吐真文明",
+        "metaphor": "答案：你的时间是我生命中最美的风景。\n</s>A: 你的眼睛真美，像星星一样闪烁着光芒。\nB: 你的微笑真甜，让我感到温暖和幸福。\nC: 你的声音真动听，像音乐一样让人陶醉。\nD: 你的心灵真强大，让我感到安全和可靠。\nE: 你的性格真温柔，让我感到舒适和放松。\nF: 你的行为真优雅，让我感到欣赏和",
+        "sample_id": 81
+    },
+    {
+        "tenor": "蒜苔",
+        "vehicle": "青箭",
+        "ground": "</s>A. 蒜苔的口感。\nB. 青箭的口感。\n</s>A. 蒜苔的口感。\nB. 青箭的口感。\n</s>A. 蒜苔的口感。\nB. 青箭的口感。\nA. 蒜苔的口感。\nB. 青箭的口感。\nA. 蒜苔的口感。\nB. 青箭的口感。\nA. 蒜苔的",
+        "metaphor": "</s>A. 蒜苔的口感就像青箭一样。\nB. 青箭的口感就像蒜苔一样。\nA. 蒜苔的口感就像青箭一样。\nB. 青箭的口感就像蒜苔一样。\nA. 蒜苔的口感就像青箭一样。\nB. 青箭的口感就像蒜苔一样。\nA. 蒜苔的口感就像青箭一样。\nB. 青箭的口感",
+        "sample_id": 82
+    },
+    {
+        "tenor": "力量",
+        "vehicle": "有力臂膀",
+        "ground": "</s>A. 力量\nB. 有力臂膀\nC. 强大的力量\nD. 强大的有力臂膀\nE. 强大的力量\nF. 有力的臂膀\nG. 强大的有力臂膀\nH. 强大的力量\nI. 有力的臂膀\nJ. 强大的力量\nK. 有力的臂膀\nL. 强大的力量\nM. 有力的臂膀\n答案：E. 强大的力量\n</s>A.",
+        "metaphor": "答案：他的力量就像一只强大的手臂，支撑着他走过人生的每一个阶段。\n</s>A. 力量\nB. 有力臂膀\nC. 强大的力量\nD. 强大的有力臂膀\nE. 强大的力量\nF. 有力的臂膀\nG. 强大的有力臂膀\nH. 强大的力量\nI. 有力的臂膀\nJ. 强大的力量\nK. 有力的臂膀\nL. 强大的力量\nM.",
+        "sample_id": 83
+    },
+    {
+        "tenor": "全不相干的东西偏有注定的缘分",
+        "vehicle": "母猪和癞象",
+        "ground": "</s>A: 请告诉我你的名字。\nB: 我的名字是李华。\nA: 你好，李华。\nB: 你好，A。\nA: 你来自哪里？\nB: 我来自北京。\nA: 北京？那是一个很好的城市。\nB: 是的，北京是一个有着丰富历史和文化底蕴的城市。\nA: 北京有很多著名的景点，比如长城和故宫。\nB: 是的，长城",
+        "metaphor": "",
+        "sample_id": 84
+    },
+    {
+        "tenor": "你心肠",
+        "vehicle": "今晚月亮",
+        "ground": "</s>A. 心肠软的人通常都很善良。\nB. 今晚的月亮很圆。\nC. 心肠软的人通常都很温柔。\nD. 今晚的月亮很明亮。\nE. 心肠软的人通常都很体贴。\nF. 今晚的月亮很皎洁。\nG. 心肠软的人通常都很关心他人。\nH. 今晚的月亮很神秘。\nI. 心肠软的人",
+        "metaphor": "</s>A. 心肠软的人通常都很善良。\nB. 今晚的月亮很圆。\nC. 心肠软的人通常都很温柔。\nD. 今晚的月亮很明亮。\nE. 心肠软的人通常都很体贴。\nF. 今晚的月亮很皎洁。\nG. 心肠软的人通常都很关心他人。\nH. 今晚的月亮很神秘。\nI. 心肠软的人",
+        "sample_id": 85
+    },
+    {
+        "tenor": "职员说流利的意语",
+        "vehicle": "唱歌",
+        "ground": "</s>A: 她唱歌很好听。\nB: 她唱歌的声音很动听。\nC: 她的歌声很动听。\nD: 她的声音很动听。\nE: 她的声音很美妙。\nF: 她的声音很动听。\nG: 她的声音很悠扬。\nH: 她的声音很悠扬。\nI: 她的声音很悠扬。\nJ: 她的声音很悠扬。\nK: 她的声音很悠扬",
+        "metaphor": "回答：她的声音像悠扬的歌声一样动听。\n</s>A: 她唱歌很好听。\nB: 她唱歌的声音很动听。\nC: 她的歌声很动听。\nD: 她的声音很动听。\nE: 她的声音很美妙。\nF: 她的声音很动听。\nG: 她的声音很悠扬。\nH: 她的声音很悠扬。\nI: 她的声音很悠扬。\nJ: 她的",
+        "sample_id": 86
+    },
+    {
+        "tenor": "湖",
+        "vehicle": "真理",
+        "ground": "湖和真理的一个共性（ground）可以是：'宁静的湖泊'。\n</s>Aqueducts are an essential part of the Roman water supply system. They were built to bring water from distant sources to Rome, and were often built in a series of aqueducts, each one feeding into the next. The aqueducts were built to last for centuries, and some of them still stand to this day.\n</s>Aqueducts are an essential part of",
+        "metaphor": "",
+        "sample_id": 87
+    },
+    {
+        "tenor": "你的脸",
+        "vehicle": "年轻的羽毛",
+        "ground": "</s>A. 美丽的\nB. 年轻的\nC. 轻盈的\nD. 勇敢的\nE. 聪明的\nF. 快乐的\nG. 勇敢的\nH. 美丽的\nI. 年轻的\nJ. 轻盈的\nK. 勇敢的\nL. 聪明的\nM. 快乐的\n答案：B. 年轻的\n</s>A. 美丽的\nC. 轻盈的\nD. 勇敢的\nE. 聪明的\nF.",
+        "metaphor": "答案：我的脸庞就像一株年轻的羽毛，轻盈而美丽。\n</s>A. 美丽的\nB. 年轻的\nC. 轻盈的\nD. 勇敢的\nE. 聪明的\nF. 快乐的\nG. 勇敢的\nH. 美丽的\nI. 年轻的\nJ. 轻盈的\nK. 勇敢的\nL. 聪明的\nM. 快乐的\n答案：B. 年轻的\n</s>A. 美丽的\nC.",
+        "sample_id": 88
+    },
+    {
+        "tenor": "诗句",
+        "vehicle": "钢刀",
+        "ground": "</s>A. 请用一句话描述钢刀的特点。\nB. 请用一句话描述你的特点。\nC. 请用一句话描述你的性格。\nD. 请用一句话描述你的爱好。\nE. 请用一句话描述你的梦想。\nF. 请用一句话描述你的缺点。\nG. 请用一句话描述你的优点。\nH. 请用一句话描述你的目标。\nI. 请用一句话描述你的信仰",
+        "metaphor": "A. 钢刀的特点：锋利无比，能削铁如泥。\nB. 我的特点：性格坚强，意志坚定。\nC. 我的性格：外刚内柔，富有同情心。\nD. 我的爱好：音乐创作。\nE. 我的梦想：成为一名成功的音乐制作人。\nF. 我的缺点：有时候会过于追求完美。\nG. 我的优点：音乐才华突出，善于沟通。\nH. 我的",
+        "sample_id": 89
+    },
+    {
+        "tenor": "瑞士人保护自己的方言",
+        "vehicle": "园丁保护玻璃房里的奇花异草",
+        "ground": "</s>A similar pattern can be seen in the way that Swiss people protect their local dialects, which are often referred to as \"dialekt.\" Swiss people are known for their love of their language and their willingness to fight for its preservation. This love of language is not only a cultural value, but also a practical one, as it allows individuals to connect with their community and to communicate with others who speak different languages. As a result, many Swiss people are willing to invest time and",
+        "metaphor": "瑞士人保护方言就像园丁保护玻璃房里的奇花异草一样。\n\n瑞士人保护他们的语言就像园丁保护他们的玻璃温室一样。\n\n瑞士人就像园丁一样保护自己的语言，以便与其他语言的人交流。\n\n瑞士人就像园丁一样保护自己的语言，以便保持瑞士的文化多样性。\n\n瑞士人就像园丁一样保护自己的语言，以便让瑞士人能够保持联系。\n\n瑞士人就像园丁一样保护自己的语言，以便让瑞士人能够保持联系",
+        "sample_id": 90
+    },
+    {
+        "tenor": "人",
+        "vehicle": "古人",
+        "ground": "</s>A. 美丽的人\nB. 聪明的人\nC. 善良的人\nD. 勇敢的人\nE. 有智慧的人\nF. 有勇气的人\nG. 有才华的人\nH. 有道德的人\nI. 有信仰的人\nJ. 有追求的人\nK. 有梦想的人\nL. 有追求的人\nM. 有信仰的人\n答案：K. 有梦想的人\n</s>",
+        "metaphor": "答案：他就像一只鹰，追求着天空中最高的梦想。\n</s>A. 美丽的人\nB. 聪明的人\nC. 善良的人\nD. 勇敢的人\nE. 有智慧的人\nF. 有勇气的人\nG. 有才华的人\nH. 有道德的人\nI. 有信仰的人\nJ. 有追求的人\nK. 有梦想的人\nL. 有追求的人\nM.",
+        "sample_id": 91
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "海水",
+        "ground": "思念和海水的一个共性（ground）可以是：咸的。\n</s>A. 思念是一种强烈的情感状态，通常与强烈的情感状态相关。思念通常与强烈的情感状态相关，例如爱、失望、孤独、焦虑等。思念通常是一种强烈的情感状态，它可能会让人感到焦虑、不安、孤独或其他的情感反应。思念通常是一种强烈的情感状态，它可能会让人感到焦虑、不安、孤独或其他的情感反应。思念通常是一种强烈的情感状态，它可能会让人感到焦虑",
+        "metaphor": "B. 思念是一种强烈的情感状态，通常与强烈的情感状态相关。思念通常与强烈的情感状态相关，例如爱、失望、孤独、焦虑等。思念通常是一种强烈的情感状态，它可能会让人感到焦虑、不安、孤独或其他的情感反应。思念通常是一种强烈的情感状态，它可能会让人感到焦虑、不安、孤独或其他的情感反应。思念通常是一种强烈的情感状态，它可能会让人感到焦虑、不安、孤独或其他的情感反应。思念通常是一种强烈的情感",
+        "sample_id": 92
+    },
+    {
+        "tenor": "恩情",
+        "vehicle": "日",
+        "ground": "</s>A. 恩情：深厚的感情\nB. 日：强烈的感情\n</s>A. 恩情：深厚的感情\nB. 日：强烈的感情\n</s>A. 恩情：深厚的感情\nB. 日：强烈的感情\nA. 恩情：深厚的感情\nB. 日：强烈的感情\nA. 恩情：深厚的感情\nB. 日：强烈的感情\nA. 恩情：深厚的感情\nB.",
+        "metaphor": "答案：恩情似水，日若阳光。\n</s>A. 恩情：深厚的感情\nB. 日：强烈的感情\nA. 恩情：深厚的感情\nB. 日：强烈的感情\nA. 恩情：深厚的感情\nB. 日：强烈的感情\nA. 恩情：深厚的感情\nB. 日：强烈的感情\nA. 恩情：深厚的感情\nB. 日：强烈的感情\nA",
+        "sample_id": 93
+    },
+    {
+        "tenor": "我",
+        "vehicle": "花朵",
+        "ground": "</s>A. 美丽的\nB. 芳香的\nC. 柔软的\nD. 明亮的\nE. 温暖的\nF. 潮湿的\nG. 快乐的\nH. 勇敢的\nI. 聪明的\nJ. 美丽的\nK. 芳香的\nL. 柔软的\nM. 明亮的\nN. 温暖的\nO. 潮湿的\nP. 快乐的\nQ. 勇敢的\nR. 聪明的\nS. 美丽的",
+        "metaphor": "回答：我就像一朵美丽的花朵，散发着芳香，柔软而明亮。\n</s>A. 美丽的\nB. 芳香的\nC. 柔软的\nD. 明亮的\nE. 温暖的\nF. 潮湿的\nG. 快乐的\nH. 勇敢的\nI. 聪明的\nJ. 美丽的\nK. 芳香的\nL. 柔软的\nM. 明亮的\nN. 温暖的\nO. 潮湿的\nP.",
+        "sample_id": 94
+    },
+    {
+        "tenor": "我的爱",
+        "vehicle": "翅膀",
+        "ground": "</s>A. 轻盈的\nB. 巨大的\nC. 美丽的\nD. 勇敢的\nE. 温暖的\nF. 冰冷的\nG. 快乐的\nH. 悲伤的\nI. 神秘的\nJ. 勇敢的\nK. 美丽的\nL. 温暖的\nM. 冰冷的\nN. 快乐的\nO. 悲伤的\nP. 神秘的\nQ. 勇敢的\nR. 美丽的\nS.",
+        "metaphor": "回答：我的爱就像一只美丽的翅膀，它让我飞翔，让我感受到温暖和力量。\n</s>A. 轻盈的\nB. 巨大的\nC. 美丽的\nD. 勇敢的\nE. 温暖的\nF. 冰冷的\nG. 快乐的\nH. 悲伤的\nI. 神秘的\nJ. 勇敢的\nK. 美丽的\nL. 温暖的\nM. 冰冷的\nN. 快乐的\nO. 悲伤",
+        "sample_id": 95
+    },
+    {
+        "tenor": "我们错失的年华",
+        "vehicle": "日落晚霞",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 明亮的\nD. 温暖的\nE. 快乐的\nF. 勇敢的\nG. 聪明的\nH. 美丽的\nI. 巨大的\nJ. 明亮的\nK. 温暖的\nL. 快乐的\nM. 勇敢的\nN. 聪明的\nO. 美丽的\nP. 巨大的\nQ. 明亮的\nR. 温暖的\nS. 快乐的\nT.",
+        "metaphor": "答案：我们的青春就像日落一样短暂而美丽，但晚霞却永远留在我们的心中。\n</s>A. 美丽的\nB. 巨大的\nC. 明亮的\nD. 温暖的\nE. 快乐的\nF. 勇敢的\nG. 聪明的\nH. 美丽的\nI. 巨大的\nJ. 明亮的\nK. 温暖的\nL. 快乐的\nM. 勇敢的\nN. 聪明的\nO. 美丽的\nP.",
+        "sample_id": 96
+    },
+    {
+        "tenor": "汉语",
+        "vehicle": "书房",
+        "ground": "</s>A. 这本书很薄。薄是这本书的一个共性。\nB. 这本书很脆。脆是这本书的一个共性。\nC. 这本书很旧。旧是这本书的一个共性。\nD. 这本书很新。新是这本书的一个共性。\nE. 这本书很轻。轻是这本书的一个共性。\nF. 这本书很厚。厚是这本书的一个共性。\nG. 这本书很宽。宽是这本书的一个共性。",
+        "metaphor": "</s>A. 这本书很薄，就像书房的空气一样。\nB. 这本书很脆，就像书房的窗户一样。\nC. 这本书很旧，就像书房的家具一样。\nD. 这本书很新，就像书房的墙壁一样。\nE. 这本书很轻，就像书房的窗帘一样。\nF. 这本书很厚，就像书房的地板一样。\nG. 这本书很宽，就像书房的门一样。",
+        "sample_id": 97
+    },
+    {
+        "tenor": "把你编剧情节",
+        "vehicle": "偶像剧",
+        "ground": "</s>A: 请告诉我你的电视剧情节，让我看看你的电视剧是否有共通之处。\nB: 我的电视剧是一部青春偶像剧，讲述了一群年轻人之间的爱情、友情和成长的故事。\nA: 青春偶像剧，这是一个共通之处。那么，请问你的电视剧是否有某个具体的场景或情节让你觉得比较特别呢？\nB: 是的，我的电视剧中有这样一个情节：女主角因为家庭原因不得不离开学校，但她并没有放弃自己的梦想，而是选择了一条更加",
+        "metaphor": "A: 你的电视剧情节中有这样的情节：女主角因为家庭原因不得不离开学校，但她并没有放弃自己的梦想，而是选择了一条更加艰难的道路。这个情节可以用“梦想的力量”来形容。\nB: 谢谢你的理解。你的电视剧情节中有哪些让你觉得比较特别的地方呢？\nA: 我的电视剧情节中有许多让我感到特别的地方。其中一个让我印象比较深刻的地方是女主角的内心独白。女主角经常会在内心中思考自己的未来，思考自己的梦想和目标。",
+        "sample_id": 98
+    },
+    {
+        "tenor": "白帆",
+        "vehicle": "云儿",
+        "ground": "</s>A. 轻盈的\nB. 巨大的\nC. 美丽的\nD. 坚定的\nE. 温暖的\nF. 冰冷的\nG. 勇敢的\nH. 聪明的\nI. 善良的\nJ. 快乐的\nK. 勇敢的\nL. 美丽的\nM. 巨大的\nN. 轻盈的\nO. 冰冷的\nP. 坚定的\nQ. 快乐的\nR. 聪明的\nS. 冰",
+        "metaphor": "例如：\n\nA. 白帆像一只轻盈的蝴蝶，在云儿的陪伴下，在海洋上翩翩起舞。\nB. 白帆巨大而美丽，像一只高贵的白天鹅，在云儿的陪伴下，在海洋上翱翔。\nC. 白帆美丽而快乐，像一只快乐的鸟，在云儿的陪伴下，在海洋上飞翔。\nD. 白帆坚定而勇敢，像一只勇敢的狮子，在云",
+        "sample_id": 99
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "种子",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 快乐的\nD. 勇敢的\nE. 聪明的\nF. 美丽的\nG. 巨大的\nH. 快乐的\nI. 勇敢的\nJ. 聪明的\nK. 美丽的\nL. 巨大的\nM. 快乐的\nN. 勇敢的\nO. 聪明的\n答案：美丽的\n</s>A. 美丽的\nB. 巨大的\nC. 快乐的\nD.",
+        "metaphor": "答案：种子破土而出，回忆涌上心头。\n</s>A. 美丽的\nB. 巨大的\nC. 快乐的\nD. 勇敢的\nE. 聪明的\nF. 美丽的\nG. 巨大的\nH. 快乐的\nI. 勇敢的\nJ. 聪明的\nK. 美丽的\nL. 巨大的\nM. 快乐的\nN. 勇敢的\nO. 聪明的\n</s>A. 美丽的\nB. 巨大的",
+        "sample_id": 100
+    },
+    {
+        "tenor": "心",
+        "vehicle": "冰",
+        "ground": "</s>A. 透明\nB. 寒冷\nC. 快乐\nD. 快乐\nE. 快乐\nF. 快乐\nG. 快乐\nH. 快乐\nI. 快乐\nJ. 快乐\nK. 快乐\nL. 快乐\nM. 快乐\nN. 快乐\nO. 快乐\nP. 快乐\nQ. 快乐\nR. 快乐\nS. 快乐\nT.",
+        "metaphor": "",
+        "sample_id": 101
+    },
+    {
+        "tenor": "我的眼光",
+        "vehicle": "蔚蓝",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 温暖的\nH. 勇敢的\nI. 美丽的\nJ. 巨大的\nK. 冰冷的\nL. 快乐的\nM. 勇敢的\nN. 聪明的\nO. 温暖的\n答案：美丽的\n</s>A. 美丽的\nB. 巨大的\nC. 冰冷的",
+        "metaphor": "答案：我的眼睛就像一片蔚蓝的天空，充满了美丽和智慧。\n</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 温暖的\nH. 勇敢的\nI. 美丽的\nJ. 巨大的\nK. 冰冷的\nL. 快乐的\nM. 勇敢的\nN. 聪明的\nO. 温暖的\n答案：我的眼睛就像",
+        "sample_id": 102
+    },
+    {
+        "tenor": "点点滴滴",
+        "vehicle": "伤口",
+        "ground": "</s>A. 请描述一下你的感情经历。\nB. 请描述一下你的性格特征。\nC. 请描述一下你的兴趣爱好。\nD. 请描述一下你的工作/学习经历。\nE. 请描述一下你的家庭背景。\nF. 请描述一下你的理想和目标。\nG. 请描述一下你的缺点和优点。\nH. 请描述一下你的消费习惯。\nI. 请描述一下你的生活方式",
+        "metaphor": "</s>A. 我的感情经历就像一条曲折的小溪，虽然有时平静有时汹涌，却始终离不开它的源头发源处。\nB. 我的性格特征就像一座高耸的山峰，虽然高不可攀，却永远无法被征服。\nC. 我的兴趣爱好就像一片广袤的草原，虽然广阔无垠，却永远无法被完全占据。\nD. 我的工作/学习经历就像一片广袤的草原，虽然有时",
+        "sample_id": 103
+    },
+    {
+        "tenor": "你",
+        "vehicle": "答案",
+        "ground": "</s>A. 你的性格很温和。\nB. 你的声音很温柔。\nC. 你的态度很温和。\nD. 你的行为很温和。\nE. 你的心灵很温和。\nF. 你的性格很温和。\nG. 你的声音很温柔。\nH. 你的态度很温和。\nI. 你的行为很温和。\nJ. 你的心灵很温和。\nK. 你的性格很温和。",
+        "metaphor": "我的答案：你的心灵很温和，就像春天里的阳光一样温暖。\n</s>A. 你的性格很温和。 - 你的性格就像春天里的阳光一样温暖。\nB. 你的声音很温柔。 - 你的声音就像春天里的微风一样温柔。\nC. 你的态度很温和。 - 你的态度就像春天里的温度一样温和。\nD. 你的行为很温和。 - 你的行为就像春天里的植物一样温和。\nE.",
+        "sample_id": 104
+    },
+    {
+        "tenor": "陶俑",
+        "vehicle": "器皿的盖子",
+        "ground": "</s>A. 陶俑的盖子是陶制的。\nB. 器物的盖子是金属做的。\nC. 杯子的盖子是塑料做的。\nD. 碗的盖子是玻璃做的。\nE. 花瓶的盖子是石头做的。\nF. 锅的盖子是陶瓷做的。\nG. 茶壶的盖子是玻璃做的。\nH. 咖啡杯的盖子是金属做的。\nI. 烤面包机的盖子",
+        "metaphor": "答案：陶俑的盖子是陶制的，就像陶器一样。\n</s>A. 器物的盖子是金属做的，就像金质容器一样。\nB. 杯子的盖子是塑料做的，就像塑料杯一样。\nC. 碗的盖子是玻璃做的，就像玻璃碗一样。\nD. 锅的盖子是陶瓷做的，就像陶瓷锅一样。\nE. 花瓶的盖子是石头做的，就像石头花瓶一样。\nF",
+        "sample_id": 105
+    },
+    {
+        "tenor": "你",
+        "vehicle": "树桩",
+        "ground": "</s>A: 你像一棵树桩，坚定而稳定。\nB: 树桩像你一样坚定而稳定。\n</s>A: 你像一棵树桩，坚定而稳定。\nB: 树桩像你一样坚定而稳定。\nA: 你像一棵树桩，坚定而稳定。\nB: 树桩像你一样坚定而稳定。\nA: 你像一棵树桩，坚定而稳定。\nB:",
+        "metaphor": "答案：你像一棵树桩，坚定而稳定。树桩像你一样坚定而稳定。你像一棵树桩，坚定而稳定。树桩像你一样坚定而稳定。你像一棵树桩，坚定而稳定。树桩像你一样坚定而稳定。你像一棵树桩，坚定而稳定。树桩像你一样坚定而稳定。\n</s>A: 你像一棵树桩，坚定而稳定。\nB: 树桩",
+        "sample_id": 106
+    },
+    {
+        "tenor": "褪色照片",
+        "vehicle": "花",
+        "ground": "</s>A. 照片上的景色变得模糊不清了。\nB. 照片上的花朵变得枯萎了。\nC. 照片上的景色变得单调了。\nD. 照片上的花朵变得凋谢了。\nE. 照片上的景色变得平静了。\nF. 照片上的花朵变得凋零了。\nG. 照片上的景色变得平静而单调。\nH. 照片上的花朵变得凋零而枯萎。\nI. 照片",
+        "metaphor": "",
+        "sample_id": 107
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "心头火",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 美丽的\nH. 巨大的\nI. 冰冷的\nJ. 快乐的\nK. 勇敢的\nL. 聪明的\nM. 美丽的\nN. 巨大的\nO. 冰冷的\nP. 快乐的\nQ. 勇敢的\nR. 聪明的\nS. 美丽的",
+        "metaphor": "答案：她的美丽像一朵怒放的鲜花，她的快乐像一只快乐的小鸟，她的聪明像一位智慧的老人，她的美丽像一朵怒放的鲜花，她的快乐像一只快乐的小鸟，她的聪明像一位智慧的老人。\n</s>A. 美丽的 \nB. 巨大的 \nC. 冰冷的 \nD. 快乐的 \nE. 勇敢的 \nF. 聪明的 \nG. 美丽的 \nH. 巨大的",
+        "sample_id": 108
+    },
+    {
+        "tenor": "生活",
+        "vehicle": "蜜",
+        "ground": "</s>A. 生活就像一杯酒，有苦有甜。\nB. 生活就像一场梦，有时快乐，有时悲伤。\nC. 生活就像一首歌，有节奏，有旋律。\nD. 生活就像一场戏，有开始，有结束。\nE. 生活就像一场梦，有时清晰，有时模糊。\nF. 生活就像一场比赛，有胜利，有失败。\nG. 生活就像一场电影，有",
+        "metaphor": "</s>A. 生活就像一杯酒，有苦有甜。\nB. 生活就像一场梦，有时快乐，有时悲伤。\nC. 生活就像一首歌，有节奏，有旋律。\nD. 生活就像一场戏，有开始，有结束。\nE. 生活就像一场梦，有时清晰，有时模糊。\nF. 生活就像一场比赛，有胜利，有失败。\nG. 生活就像一场电影，有",
+        "sample_id": 109
+    },
+    {
+        "tenor": "你",
+        "vehicle": "一只小鸟",
+        "ground": "</s>A: 你的眼睛像星星一样明亮。\nB: 他的声音像鸟鸣一样清脆。\nC: 她的微笑像阳光一样温暖。\nD: 他的性格像猫一样独立。\nE: 她的眼睛像月亮一样温柔。\nF: 他的声音像风一样温柔。\nG: 她的性格像狮子一样勇敢。\nH: 他的眼睛像星星一样明亮。\nI: 她的微笑像阳光一样温暖",
+        "metaphor": "</s>A: 你的眼睛像星星一样明亮。\nB: 他的声音像鸟鸣一样清脆。\nC: 她的微笑像阳光一样温暖。\nD: 他的性格像猫一样独立。\nE: 她的眼睛像月亮一样温柔。\nF: 他的声音像风一样温柔。\nG: 她的性格像狮子一样勇敢。\nH: 他的眼睛像星星一样明亮。\nI: 她的微笑像阳光一样温暖",
+        "sample_id": 110
+    },
+    {
+        "tenor": "烦恼",
+        "vehicle": "菩提",
+        "ground": "烦恼：我总感到自己很孤独，菩提：我总感到自己很快乐。烦恼：我总感到自己很无助，菩提：我总感到自己很自信。烦恼：我总感到自己很疲惫，菩提：我总感到自己很轻松。烦恼：我总感到自己很焦虑，菩提：我总感到自己很平静。烦恼：我总感到自己很愤怒，菩提：我总感到自己很喜悦。烦恼：我总感到自己很恐惧，菩提",
+        "metaphor": "烦恼：我总感到自己很孤独，菩提：我总感到自己很快乐。烦恼：我总感到自己很无助，菩提：我总感到自己很自信。烦恼：我总感到自己很疲惫，菩提：我总感到自己很轻松。烦恼：我总感到自己很焦虑，菩提：我总感到自己很平静。烦恼：我总感到自己很愤怒，菩提：我总感到自己很喜悦。烦恼：我总感到自己很恐惧，菩提",
+        "sample_id": 111
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "笑话",
+        "ground": "</s>A: 爱情和笑话的一个共性是什么？\nB: 爱情和笑话的一个共性是它们都可以让人发笑。\n</s>A: 发笑的原因是什么？\nB: 发笑的原因是因为它们都包含了幽默的因素。\nA: 幽默的因素是什么？\nB: 幽默的因素包括语言、情节、人物性格等。\nA: 语言方面有哪些特点？\nB: 语言方面，爱情和笑话都有一些幽默的语言元素，",
+        "metaphor": "B: 爱情就像一场游戏，需要双方的不断努力才能玩得好；而笑话则像一面哈哈镜，能够让人在最短的时间内感受到欢乐。\nA: 语言方面有哪些特点？\nB: 语言方面，爱情和笑话都有一些幽默的语言元素，比如爱情中的“情话”，笑话中的“冷笑话”。\nA: 情节方面有哪些特点？\nB: 情节方面，爱情和笑话都有一些意外和反转的情节元素，让人",
+        "sample_id": 112
+    },
+    {
+        "tenor": "大家都在传唱",
+        "vehicle": "爱德华的小说",
+        "ground": "</s>A. 美丽的\nB. 勇敢的\nC. 聪明的\nD. 善良的\nE. 勇敢的\nF. 美丽的\nG. 聪明的\nH. 善良的\nI. 美丽的\nJ. 勇敢的\nK. 聪明的\nL. 善良的\nM. 勇敢的\nN. 美丽的\nO. 聪明的\nP. 善良的\nQ. 勇敢的\nR. 美丽的\nS. 聪明的\nT.",
+        "metaphor": "",
+        "sample_id": 113
+    },
+    {
+        "tenor": "悄静气氛",
+        "vehicle": "关了灯",
+        "ground": "</s>A. 灯下的悄悄声\nB. 灯下的宁静\nC. 灯下的沉默\nD. 灯下的安详\nE. 灯下的平静\nF. 灯下的宁谧\nG. 灯下的静谧\nH. 灯下的宁静\nI. 灯下的安详\nJ. 灯下的平静\nK. 灯下的宁谧\nL. 灯下的静谧\nM. 灯下的宁静\n答案：",
+        "metaphor": "</s>A. 灯下的悄悄声\nB. 灯下的宁静\nC. 灯下的沉默\nD. 灯下的安详\nE. 灯下的平静\nF. 灯下的宁谧\nG. 灯下的静谧\nH. 灯下的宁静\nI. 灯下的安详\nJ. 灯下的平静\nK. 灯下的宁谧\nL. 灯下的静谧\nM. 灯下的宁静\n</s>A",
+        "sample_id": 114
+    },
+    {
+        "tenor": "鱼群悄悄潜行",
+        "vehicle": "在一个做梦少女怀中",
+        "ground": "</s>Aquaticus 鱼群\n\nAquaticus is a collective noun that refers to a group of fish swimming in the water.\n</s>Aquaticus is a collective noun that refers to a group of fish swimming in the water.\n</s>Aquaticus is a collective noun that refers to a group of fish swimming in the water.\n\nAquaticus is a collective noun that refers to a group of fish swimming in the water.\n</s>A",
+        "metaphor": "回答：\nAquaticus is a collective noun that refers to a group of fish swimming in the water. \n鱼群悄悄潜行，在一个做梦少女怀中。\n</s>Aquaticus is a collective noun that refers to a group of fish swimming in the water. \n鱼群悄悄潜行，在一个做梦少女怀中。\n</s>Aquaticus is a collective noun that refers to a group of fish swimming in the water. \n鱼群",
+        "sample_id": 115
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "残忍有毒的甜品",
+        "ground": "</s>A sweet treat can be both delicious and toxic.\n</s>A toxic sweet treat can be both delicious and harmful.\nA harmful sweet treat can be both delicious and dangerous.\nA dangerous sweet treat can be both delicious and deadly.\nA deadly sweet treat can be both delicious and fatal.\nA fatal sweet treat can be both delicious and unbearable.\nA unbearable sweet treat can be both delicious and unappetizing.\nA unappetizing sweet treat",
+        "metaphor": "回答：一个有毒的甜蜜食品，既美味又危险。\n</s>A toxic sweet treat can be both delicious and harmful.\n</s>A harmful sweet treat can be both delicious and dangerous.\nA dangerous sweet treat can be both delicious and deadly.\nA deadly sweet treat can be both delicious and fatal.\nA fatal sweet treat can be both delicious and unbearable.\nA unbearable sweet treat can be both delicious and unappetizing.\n</s>A unapp",
+        "sample_id": 116
+    },
+    {
+        "tenor": "话",
+        "vehicle": "嘲笑",
+        "ground": "</s>A: 你看看你，一天天的，就像个神经病一样。\nB: 神经病？你才神经病呢！\nA: 你看看你，一天天的，就像个神经病一样。\nB: 神经病？你才神经病呢！\n回答：神经病。\n</s>A: 你看看你，一天天的，就像个神经病一样。\nB: 神经病？你才神经病呢！\n回答",
+        "metaphor": "回答：你就像一只神经病一样一天到晚都在发神经。\n</s>A: 你看看你，一天天的，就像一只神经病一样。\nB: 神经病？你才神经病呢！\n回答：你就像一只神经病一样一天到晚都在发神经。\n</s>A: 你看看你，一天天的，就像一只神经病一样。\nB: 神经病？你才神经病呢！\n回答：你就像一只神经病",
+        "sample_id": 117
+    },
+    {
+        "tenor": "飞入寒冷干爽的气候",
+        "vehicle": "重践北美大陆",
+        "ground": "</s>A. 干爽的气候\nB. 寒冷的季节\nC. 广袤的大地\nD. 巨大的山脉\nE. 美丽的风景\nF. 良好的天气\nG. 良好的路况\nH. 良好的氛围\nI. 良好的心情\nJ. 良好的状态\nK. 良好的健康\nL. 良好的关系\nM. 良好的习惯\nN. 良好的性格\nO. 良好的文化\nP.",
+        "metaphor": "</s>A. 干爽的气候\nB. 寒冷的季节\nC. 广袤的大地\nD. 巨大的山脉\nE. 美丽的风景\nF. 良好的天气\nG. 良好的路况\nH. 良好的氛围\nI. 良好的心情\nJ. 良好的状态\nK. 良好的健康\nL. 良好的关系\nM. 良好的习惯\nN. 良好的性格\nO. 良好的文化\nP.",
+        "sample_id": 118
+    },
+    {
+        "tenor": "伤心",
+        "vehicle": "罪",
+        "ground": "伤心和罪的一个共性可以是：。\n</s>A. 伤心的感觉\nB. 罪孽的感觉\nC. 悲伤的感觉\nD. 痛苦的感觉\nE. 版权或其它问题请于作品发表后的的感觉\nF. 恐惧的感觉\nG. 焦虑的感觉\nH. 孤独的感觉\nI. 绝望的感觉\nJ. 愤怒的感觉\nK. 版权或其它问题请于作品发表后的的感觉\nL. 恐惧的感觉\nM. 焦虑的感觉\nN. 孤独",
+        "metaphor": "</s>A. 伤心的感觉就像一只受伤的小鸟，它无法飞翔，只能等待人们的关爱。\nB. 罪孽的感觉就像一只吃人的野兽，它让人无法摆脱内心的恐惧，只能不断逃避。\nC. 悲伤的感觉就像一片黑暗的海洋，让人无法自拔，只能等待阳光的出现。\nD. 痛苦的感觉就像一把锋利的刀子，不断地切割着人的身体和内心，让人无法承受。\nE. 日内与新浪网联系的感觉就像",
+        "sample_id": 119
+    },
+    {
+        "tenor": "嫉妒者",
+        "vehicle": "勇士",
+        "ground": "</s>A: 嫉妒者通常都是内心缺乏安全感的人，他们害怕自己的付出和所得不成正比，害怕自己的权利被剥夺。而勇士则通常都是勇敢坚定的人，他们敢于挑战自己的恐惧，追求更高的目标。\n</s>A: 所以，嫉妒者和勇士的一个共性是：勇敢坚定。\n</s>A: 很好，你的回答正确。\n</s>A: 现在，请你根据这个共性，描述一下嫉妒者和勇士的区别。\nB:",
+        "metaphor": "B: 嫉妒者像一只狗，总是追逐着自己的尾巴，而勇士则像一只狮子，总是勇敢地向着目标前进。\nA: 你的比喻很生动形象，你的语言组织也很流畅。\nB: 谢谢你的夸奖。\nA: 现在，请你根据你的比喻，描述一下嫉妒者和勇士的区别。\nB: 嫉妒者总是追逐着自己的尾巴，而勇士则总是勇敢地向着目标前进。\nA: 你的比喻很生动",
+        "sample_id": 120
+    },
+    {
+        "tenor": "我的心",
+        "vehicle": "烈火",
+        "ground": "</s>A. 热情\nB. 快乐\nC. 勇敢\nD. 坚定\nE. 自信\nF. 坚定\nG. 快乐\nH. 勇敢\nI. 热情\nJ. 快乐\nK. 勇敢\nL. 坚定\nM. 自信\nN. 快乐\nO. 勇敢\nP. 坚定\nQ. 快乐\nR. 勇敢\nS. 坚定\nT.",
+        "metaphor": "回答：我的内心就像一团烈焰，热情四溢，让我充满力量，让我勇敢前行。\n</s>A. 热情\nB. 快乐\nC. 勇敢\nD. 坚定\nE. 自信\nF. 坚定\nG. 快乐\nH. 勇敢\nI. 热情\nJ. 快乐\nK. 勇敢\nL. 坚定\nM. 自信\nN. 快乐\nO. 勇敢\nP",
+        "sample_id": 121
+    },
+    {
+        "tenor": "白花盛开",
+        "vehicle": "花园",
+        "ground": "花园里白花盛开，=形容词+名词+名词。\n</s>A. 美丽的\nB. 芳香的\nC. 芬芳美丽的\nD. 美丽的芬芳的\nE. 芳香美丽的\nF. 美丽的芳香的\nG. 芳香美丽的\nH. 美丽的芳香的\nI. 芳香美丽的\nJ. 美丽的芳香的\nK. 芳香美丽的\nL. 美丽的芳香的\nM.",
+        "metaphor": "答案：美丽的芬芳的花园里白花盛开。\n</s>A. 美丽的\nB. 芳香的\nC. 芬芳美丽的\nD. 美丽的芬芳的\nE. 芳香美丽的\nF. 美丽的芳香的\nG. 芳香美丽的\nH. 美丽的芳香的\nI. 芳香美丽的\nJ. 美丽的芳香的\nK. 芳香美丽的\nL. 美丽的芳香的\nM.\n</s>A. 美丽的\nB",
+        "sample_id": 122
+    },
+    {
+        "tenor": "细雨",
+        "vehicle": "梨花泪",
+        "ground": "</s>A common ground between the two is that they are both beautiful in their own way.\n</s>A common ground between the two is that they are both beautiful in their own way.\n</s>A common ground between the two is that they are both beautiful in their own way.\nA common ground between the two is that they are both beautiful in their own way.\nA common ground between the two is that they are both beautiful in their own way.\nA common ground between the two",
+        "metaphor": "回答：细雨轻轻飘落，仿佛是梨花的泪珠。\n</s>A common ground between the two is that they are both beautiful in their own way. 这句话的意思是“细雨轻轻飘落，仿佛是梨花的泪珠。”这句话是一个比喻句，将细雨比喻为梨花的泪珠，强调细雨与梨花一样美丽。\n</s>A common ground between the two is that they are both beautiful in their own way.这句话的意思是“细雨轻轻飘落，",
+        "sample_id": 123
+    },
+    {
+        "tenor": "校园",
+        "vehicle": "祖国",
+        "ground": "</s>A. 青春\nB. 希望\nC. 快乐\nD. 自由\nE. 成长\nF. 梦想\nG. 友谊\nH. 爱情\nI. 希望\nJ. 快乐\nK. 自由\nL. 成长\nM. 梦想\nN. 友谊\nO. 爱情\n答案：A. 青春\n</s>A. 青春\n</s>A. 青春\nA. 青春",
+        "metaphor": "答案：青春就像校园一样，是我们成长的地方，是我们梦想开始的地方。\n</s>A. 青春就像校园一样，是我们成长的地方，是我们梦想开始的地方。\n</s>A. 青春就像校园一样，是我们成长的地方，是我们梦想开始的地方。\nA. 青春就像校园一样，是我们成长的地方，是我们梦想开始的地方。\nA. 青春就像校园一样，是我们成长的地方，是我们梦想开始的地方。\nA. 青春就像校园一样，",
+        "sample_id": 124
+    },
+    {
+        "tenor": "冷苹果",
+        "vehicle": "你的轮廓",
+        "ground": "</s>A. 冷苹果\nB. 冷人\nC. 冷心\nD. 冷情\nE. 冷意\nF. 冷感\nG. 冷冷的人\nH. 冷冷的心\nI. 冷冷的情\nJ. 冷冷的意\nK. 冷冷却感\nL. 冷冷却冷的人\nM. 冷冷却冷的心\nN. 冷冷却冷的情\nO.",
+        "metaphor": "</s>A. 冷苹果\nB. 冷人\nC. 冷心\nD. 冷情\nE. 冷意\nF. 冷感\nG. 冷冷的人\nH. 冷冷的心\nI. 冷冷的情\nJ. 冷冷的意\nK. 冷冷却感\nL. 冷冷却冷的人\nM. 冷冷却冷的心\nN. 冷冷却冷的情\nO.",
+        "sample_id": 125
+    },
+    {
+        "tenor": "世界美",
+        "vehicle": "鸟儿在飞翔",
+        "ground": "</s>A. 美丽的鸟在飞翔。\nB. 鸟在飞翔，很美丽。\nC. 飞翔的鸟很美丽。\nD. 美丽的鸟飞翔。\nE. 飞翔的鸟很美丽。\nF. 美丽的鸟飞翔。\nG. 飞翔的鸟很美丽。\nH. 美丽的鸟飞翔。\nI. 飞翔的鸟很美丽。\nJ. 美丽的鸟飞翔。\nK. 飞翔的鸟",
+        "metaphor": "答案：美丽的鸟飞翔。\n</s>A. 美丽的鸟在飞翔。\nB. 鸟在飞翔，很美丽。\nC. 飞翔的鸟很美丽。\nD. 美丽的鸟飞翔。\nE. 飞翔的鸟很美丽。\nF. 美丽的鸟飞翔。\nG. 飞翔的鸟很美丽。\nH. 美丽的鸟飞翔。\nI. 飞翔的鸟很美丽。\nJ. 美丽的鸟飞翔。",
+        "sample_id": 126
+    },
+    {
+        "tenor": "我",
+        "vehicle": "花",
+        "ground": "</s>A. 美丽的\nB. 可爱的\nC. 有趣的\nD. 好玩的\nE. 有趣的\nF. 美丽的\nG. 可爱的\nH. 好玩的\nI. 美丽的\nJ. 可爱的\nK. 有趣的\nL. 好玩的\nM. 有趣的\nN. 美丽的\nO. 可爱的\nP. 好玩的\nQ. 有趣的\nR. 美丽的\nS. 可爱的",
+        "metaphor": "回答：我就像一朵花，美丽可爱，有趣好玩。\n</s>A. 美丽的\nB. 可爱的\nC. 有趣的\nD. 好玩的\nE. 有趣的\nF. 美丽的\nG. 可爱的\nH. 好玩的\nI. 美丽的\nJ. 可爱的\nK. 有趣的\nL. 好玩的\nM. 有趣的\nN. 美丽的\nO. 可爱的\nP. 好玩的",
+        "sample_id": 127
+    },
+    {
+        "tenor": "你的笑",
+        "vehicle": "春天的阳光",
+        "ground": "</s>A: 笑是开心的事情，春天的阳光是温暖的事情。\nB: 笑是开心的事情，春天的阳光是温暖的事情。\nC: 笑是开心的事情，春天的阳光是温暖的事情。\nD: 笑是开心的事情，春天的阳光是温暖的事情。\nE: 笑是开心的事情，春天的阳光是温暖的事情。\nF: 笑是开心的事情，春天的阳光是温暖的事情。\nG: 笑是开心的事情，",
+        "metaphor": "回答：春天阳光下的笑，是开心的事情。\n</s>A: 笑是开心的事情，春天的阳光是温暖的事情。\nB: 笑是开心的事情，春天的阳光是温暖的事情。\nC: 笑是开心的事情，春天的阳光是温暖的事情。\nD: 笑是开心的事情，春天的阳光是温暖的事情。\nE: 笑是开心的事情，春天的阳光是温暖的事情。\nF: 笑是开心的事情，春天的阳光是",
+        "sample_id": 128
+    },
+    {
+        "tenor": "火焰",
+        "vehicle": "盛开的玫瑰",
+        "ground": "</s>A. 热情\nB. 美丽\nC. 快乐\nD. 温暖\nE. 快乐\nF. 美丽\nG. 热情\nH. 快乐\nI. 温暖\nJ. 美丽\nK. 热情\nL. 快乐\nM. 美丽\nN. 热情\nO. 快乐\nP. 美丽\nQ. 热情\nR. 快乐\nS. 美丽\nT.",
+        "metaphor": "答案：火焰像盛开的玫瑰一样美丽。\n</s>A. 热情\nB. 美丽\nC. 快乐\nD. 温暖\nE. 快乐\nF. 美丽\nG. 热情\nH. 快乐\nI. 温暖\nJ. 美丽\nK. 热情\nL. 快乐\nM. 美丽\nN. 热情\nO. 快乐\nP. 美丽\nQ. 热情\nR.",
+        "sample_id": 129
+    },
+    {
+        "tenor": "清风",
+        "vehicle": "温柔的叮咛",
+        "ground": "</s>A gentle breeze and a soft reminder.\n</s>A gentle breeze and a reminder of kindness.\nA gentle breeze and a reminder of patience.\nA gentle breeze and a reminder of understanding.\nA gentle breeze and a reminder of empathy.\nA gentle breeze and a reminder of compassion.\nA gentle breeze and a reminder of forgiveness.\nA gentle breeze and a reminder of hope.\nA gentle breeze and a reminder of love.\n</s>A gentle breeze and a reminder of",
+        "metaphor": "回答：清风拂面，温柔拂过，仿佛在提醒我们要保持善良、耐心、宽容、理解、关爱、宽容和希望。\n</s>A gentle breeze and a reminder of kindness.\n</s>A gentle breeze and a reminder of patience.\nA gentle breeze and a reminder of understanding.\nA gentle breeze and a reminder of empathy.\nA gentle breeze and a reminder of compassion.\nA gentle breeze and a reminder of forgiveness.\nA gentle breeze and a reminder of",
+        "sample_id": 130
+    },
+    {
+        "tenor": "你",
+        "vehicle": "一片落在天上的叶子",
+        "ground": "</s>A: 一片落在天上的叶子，形状细长而弯曲，表面光滑而透明，颜色淡绿而透明，气息清新而芬芳。\nB: 一片落在天上的叶子，形状细长而弯曲，表面光滑而透明，颜色淡绿而透明，气息清新而芬芳。\n</s>A: 一片落在天上的叶子，形状细长而弯曲，表面光滑而透明，颜色淡绿而透明，气息清新而芬芳。\nB",
+        "metaphor": "A: 一片落在天上的叶子，形状细长而弯曲，表面光滑而透明，颜色淡绿而透明，气息清新而芬芳。\nB: 一片落在天上的叶子，形状细长而弯曲，表面光滑而透明，颜色淡绿而透明，气息清新而芬芳。\n</s>A: 一片落在天上的叶子，形状细长而弯曲，表面光滑而透明，颜色淡绿而透明，气息清新而芬芳。\nB:",
+        "sample_id": 131
+    },
+    {
+        "tenor": "手指的状态",
+        "vehicle": "发报",
+        "ground": "</s>A: 手指是冰冷的。\nB: 手指是冰冷的。\n</s>A: 。\nB: 。\nA: 。\nB: 。\nA: 。\nB: 。\nA: 。\nB: 。\nA: 。\nB: 。\nA: 。\nB: 。\nA: 。\nB: 。\nA: 。\nB: 。",
+        "metaphor": "答案：他们的手指是冰冷的，就像他们的心一样。\n</s>A: 他们的手指是冰冷的，就像他们的心一样。\nB: 他们的手指是冰冷的，就像他们的心一样。\nA: 他们的手指是冰冷的，就像他们的心一样。\nB: 他们的手指是冰冷的，就像他们的心一样。\nA: 他们的手指是冰冷的，就像他们的心一样。\nB: 他们的手指是冰冷的，",
+        "sample_id": 132
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "空气",
+        "ground": "</s>AIR: 空气是轻盈的。\n</s>AFFECTION: 爱是一种强烈的感情。\n</s>AFFECTION: 爱是一种强烈的感情。\n</s>AFFECTION: 爱是一种强烈的感情。\nAFFECTION: 爱是一种强烈的感情。\nAFFECTION: 爱是一种强烈的感情。\nAFFECTION: 爱是一种强烈的感情。\nAFFECTION: 爱是一种强烈的感情。\nA",
+        "metaphor": "答案：爱就像空气一样轻盈。\n</s>AIR: 空气是轻盈的。\nAFFECTION: 爱是一种强烈的感情。\nAFFECTION: 爱就像空气一样轻盈。\nAFFECTION: 爱是一种强烈的感情。\nAFFECTION: 爱就像空气一样轻盈。\nAFFECTION: 爱是一种强烈的感情。\nAFFECTION: 爱就像空气一样轻盈。\nAFFECTION",
+        "sample_id": 133
+    },
+    {
+        "tenor": "捉回来螃蟹在腿上缚绳",
+        "vehicle": "擒到松鼠",
+        "ground": "</s>A. 捉回来螃蟹在腿上缚绳\n捉回来螃蟹在腿上缚绳的共性是：束缚。\nB. 擒到松鼠的一个共性是：捕捉。\n擒到松鼠的一个共性是：捕捉。\n</s>A. 捉回来螃蟹在腿上缚绳的共性是：束缚。\nB. 擒到松鼠的一个共性是：捕捉。\n</s>A. 捉回来螃蟹在腿上缚绳的共性是：束缚。\nB",
+        "metaphor": "",
+        "sample_id": 134
+    },
+    {
+        "tenor": "您",
+        "vehicle": "花瓶",
+        "ground": "</s>A. 美丽\nB. 美丽\nC. 美丽\nD. 美丽\nE. 美丽\nF. 美丽\nG. 美丽\nH. 美丽\nI. 美丽\nJ. 美丽\nK. 美丽\nL. 美丽\nM. 美丽\nN. 美丽\nO. 美丽\nP. 美丽\nQ. 美丽\nR. 美丽\nS. 美丽\nT.",
+        "metaphor": "回答：花瓶是我美丽心灵的窗户。\n</s>A. 美丽\nB. 美丽\nC. 美丽\nD. 美丽\nE. 美丽\nF. 美丽\nG. 美丽\nH. 美丽\nI. 美丽\nJ. 美丽\nK. 美丽\nL. 美丽\nM. 美丽\nN. 美丽\nO. 美丽\nP. 美丽\nQ. 美丽\nR. 美丽",
+        "sample_id": 135
+    },
+    {
+        "tenor": "不通亲",
+        "vehicle": "哑巴",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 豪华的\nF. 勇敢的\nG. 聪明的\nH. 美丽的\nI. 巨大的\nJ. 冰冷的\nK. 快乐的\nL. 豪华的\nM. 勇敢的\nN. 聪明的\nO. 美丽的\nP. 巨大的\nQ. 冰冷的\nR. 快乐的\nS.",
+        "metaphor": "例如：\n\nA. 美丽的眼睛是冰冷的。\nB. 巨大的成功是快乐的。\nC. 冰冷的雨是豪华的。\nD. 勇敢的探险家是聪明的。\nE. 聪明的头脑是美丽的。\nF. 巨大的力量是冰冷的。\nG. 快乐的时光是豪华的。\nH. 美丽的风景是冰冷的。\nI. 巨大的财富是巨大的。\nJ. 冰冷的夜晚",
+        "sample_id": 136
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "种子",
+        "ground": "</s>A. 一个具有“美丽”属性的物体。\nB. 一种具有“快乐”属性的情感状态。\nC. 一种具有“智慧”属性的能力。\nD. 一种具有“自由”属性的状态。\nE. 一种具有“希望”属性的情感。\nF. 一种具有“力量”属性的能力。\nG. 一种具有“信仰”属性的信仰。\nH. 一种具有“忠诚”属性的品质。",
+        "metaphor": "答案：承诺就像种子，一旦种下，便无法轻易放弃。\n</s>A. 一个具有“美丽”属性的物体。\nB. 一种具有“快乐”属性的情感状态。\nC. 一种具有“智慧”属性的能力。\nD. 一种具有“自由”属性的状态。\nE. 一种具有“希望”属性的情感。\nF. 一种具有“力量”属性的能力。\nG. 一种具有“信仰”",
+        "sample_id": 137
+    },
+    {
+        "tenor": "窗棂上的水滴",
+        "vehicle": "你",
+        "ground": "</s>A. 水珠晶莹剔透。\nB. 水珠清澈透明。\nC. 水珠清澈见底。\nD. 水珠清澈透明。\nE. 水珠清澈透明，如水晶般。\nF. 水珠透明如玻璃。\nG. 水珠透明如水晶。\nH. 水珠透明如玻璃。\nI. 水珠透明如水晶，如玻璃般。\nJ. 水珠",
+        "metaphor": "",
+        "sample_id": 138
+    },
+    {
+        "tenor": "深情",
+        "vehicle": "鸿雁",
+        "ground": "</s>A deep sense of loss.\n</s>A sense of loss that is deep.\nA sense of loss that is very deep.\nA sense of loss that is so deep.\nA sense of loss that is extremely deep.\nA sense of loss that is incredibly deep.\nA sense of loss that is absolutely deep.\nA sense of loss that is incredibly profound.\nA sense of loss that is profound.\nA sense of loss that is profound and deep.\nA",
+        "metaphor": "回答：鸿雁是一种深情的食物，比喻深情。\n</s>A deep sense of loss is like a long-distance relationship.\nA sense of loss that is deep is like a long-distance relationship.\n</s>A sense of loss that is very deep is like a long-distance relationship.\nA sense of loss that is so deep is like a long-distance relationship.\nA sense of loss that is incredibly deep is like a long-distance relationship.\nA sense of loss",
+        "sample_id": 139
+    },
+    {
+        "tenor": "血滴",
+        "vehicle": "火种",
+        "ground": "</s>A. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\n</s>A. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\n</s>A. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的",
+        "metaphor": "</s>A. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透",
+        "sample_id": 140
+    },
+    {
+        "tenor": "我",
+        "vehicle": "风中急速着梦",
+        "ground": "</s>A. 轻盈的云朵\nB. 巨大的海浪\nC. 快乐的氛围\nD. 温暖的阳光\nE. 美丽的风景\nF. 强烈的情感\nG. 复杂的情节\nH. 深刻的思考\nI. 强烈的感受\nJ. 复杂的主题\nK. 强烈的情感\nL. 复杂的情节\nM. 深刻的思考\nN. 强烈的感受\nO. 复杂的主题\n答案：K. 强烈的",
+        "metaphor": "回答：我的梦像一阵风，轻盈地飘荡着，像一朵云朵，在天空里轻盈地舞蹈着。\n</s>A. 轻盈的云朵\nB. 巨大的海浪\nC. 快乐的氛围\nD. 温暖的阳光\nE. 美丽的风景\nF. 强烈的情感\nG. 复杂的情节\nH. 深刻的思考\nI. 强烈的感受\nJ. 复杂的主题\nK. 强烈的情感\nL.",
+        "sample_id": 141
+    },
+    {
+        "tenor": "你",
+        "vehicle": "红尘",
+        "ground": "</s>A: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\n</s>A: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\nA: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\nA: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯",
+        "metaphor": "回答：你就像一杯热咖啡，温暖着我。\n</s>A: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\nA: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\nA: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\nA: 你就像一杯热咖啡",
+        "sample_id": 142
+    },
+    {
+        "tenor": "我们的距离",
+        "vehicle": "一光年",
+        "ground": "</s>A: 你离我有多远？\nB: 一光年。\n</s>A: 什么？\nB: 一光年。\nA: 什么？\nB: 一光年。\nA: 什么？\nB: 一光年。\nA: 什么？\nB: 一光年。\nA: 什么？\nB: 一光年。\nA: 什么？\nB:",
+        "metaphor": "B: 我们的距离就像一光年那么远。\n</s>A: 什么？\nB: 我们的距离就像一光年那么远。\nA: 什么？\nB: 我们的距离就像一光年那么远。\nA: 什么？\nB: 我们的距离就像一光年那么远。\nA: 什么？\nB: 我们的距离就像一光年那么远。\nA: 什么？\nB:",
+        "sample_id": 143
+    },
+    {
+        "tenor": "一个人的幸福",
+        "vehicle": "叮嘱",
+        "ground": "</s>A: 幸福是充满爱的状态。\nB: 幸福是充满希望的状态。\nC: 幸福是充满快乐的状态。\nD: 幸福是充满安全感的状态。\nE: 幸福是充满自由的状态。\nF: 幸福是充满成功的状态。\nG: 幸福是充满智慧的状态。\nH: 幸福是充满爱的关系的状态。\nI: 幸福是充满和平的状态。\nJ: 幸福是",
+        "metaphor": "</s>A: 幸福是充满爱的状态。\nB: 幸福是充满希望的状态。\nC: 幸福是充满快乐的状态。\nD: 幸福是充满安全感的状态。\nE: 幸福是充满自由的状态。\nF: 幸福是充满成功的状态。\nG: 幸福是充满智慧的状态。\nH: 幸福是充满爱的关系的状态。\nI: 幸福是充满和平的状态。\nJ: 幸福是充满",
+        "sample_id": 144
+    },
+    {
+        "tenor": "肚皮",
+        "vehicle": "包藏一切学问知识的所在",
+        "ground": "</s>A. 肚皮：指人体腹部的一部分，通常指连接胸廓和骨盆之间的部分。\nB. 包藏一切：指包含所有的事物或知识。\nC. 共性：指两个物体之间相同的属性或特征。\n答案：包藏一切知识。\n</s>A. 肚皮：指人体腹部的一部分，通常指连接胸廓和骨盆之间的部分。\nB. 包藏一切：指包含所有的事物或知识。\nC.",
+        "metaphor": "</s>A. 肚皮：指人体腹部的一部分，通常指连接胸廓和骨盆之间的部分。\nB. 包藏一切：指包含所有的事物或知识。\nC. 知识海洋：知识海洋是一个比喻，用来形容知识范围广泛，知识量巨大。\n答案：知识海洋。\n</s>A. 肚皮：指人体腹部的一部分，通常指连接胸廓和骨盆之间的部分。\nB. 包藏一切：指包含所有的事物或",
+        "sample_id": 145
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "道路",
+        "ground": "</s>A大调的C小调\n</s>A大调的C小调是指C调的A大调，C调的A大调是指A大调中的C调。A大调的C小调是指C调中的A小调，A小调是指A调中的C小调。\n</s>A大调的C小调的调号是C调中的A小调，因此它的音阶是C D E F G A B C D",
+        "metaphor": "答案：爱如一条道路，有时弯曲，有时平坦，却始终引领我们走向幸福。\n</s>A大调的C小调是指C调中的A小调，因此它的音阶是C D E F G A B C D。这句话的意思是，爱情就像一条道路，有时弯曲，有时平坦，却始终引领我们走向幸福。\n</s>A大调的C小调是指C调中的A小调，因此它的音阶是C D E",
+        "sample_id": 146
+    },
+    {
+        "tenor": "药饵",
+        "vehicle": "炒面",
+        "ground": "</s>A. 炒面是一种口感柔软、口感丰富的面食。\nB. 炒面是一种口感柔软、口感丰富的食品。\nC. 炒面是一种口感柔软、口感丰富的食品。\nD. 炒面是一种口感柔软、口感丰富的面食。\nE. 炒面是一种口感柔软、口感丰富的食品。\nF. 炒面是一种口感柔软、口感丰富的食品。\nG. 炒面是一种口感柔软、口感丰富的食品。",
+        "metaphor": "答案：炒面就像是一种药饵，能够治愈人们的味蕾。\n</s>A. 炒面是一种口感柔软、口感丰富的面食。\nB. 炒面是一种口感柔软、口感丰富的食品。\nC. 炒面是一种口感柔软、口感丰富的食品。\nD. 炒面是一种口感柔软、口感丰富的面食。\nE. 炒面是一种口感柔软、口感丰富的食品。\nF. 炒面是一种口感柔软、口感丰富的食品",
+        "sample_id": 147
+    },
+    {
+        "tenor": "你的信",
+        "vehicle": "残碑",
+        "ground": "</s>A. 你的信：你的信里包含了许多形容词，比如：热情、真诚、关心等等。\nB. 残碑：残碑上的字体遒劲有力，表面有些磨损，但整体感觉非常雄浑大气。\n</s>A. 你的信：你的信里包含了许多形容词，比如：热情、真诚、关心等等。\nB. 残碑：残碑上的字体遒劲有力，表面有些磨损，但整体",
+        "metaphor": "A. 你的信：你的信里包含了许多形容词，比如：热情、真诚、关心等等。\nB. 残碑：残碑上的字体遒劲有力，表面有些磨损，但整体感觉非常雄浑大气。\nA. 你的信：你的信里包含了许多形容词，比如：热情、真诚、关心等等。\nB. 残碑：残碑上的字体遒劲有力，表面有些磨损，但整体感觉非常",
+        "sample_id": 148
+    },
+    {
+        "tenor": "不计代价爱上你",
+        "vehicle": "演了一出苦涩的笑话",
+        "ground": "</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\n</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\n</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\n</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\nA. 不计代价地爱上你\nB. 演了一出苦涩的笑话",
+        "metaphor": "回答：不计代价地爱上你就像演了一出苦涩的笑话。\n</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\n</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\nA. 不计代价地爱上你\nB. 演了一出苦涩的笑话\nA. 不计代价地爱上你\nB. 演了一出苦涩的笑话\nA. 不计代价",
+        "sample_id": 149
+    },
+    {
+        "tenor": "摩肩擦踵的稀薄",
+        "vehicle": "假期所剩无几的提醒",
+        "ground": "</s>A. 假期已不足一周，时间过得飞快。\nB. 假期已不足一周，时间过得飞快。\nC. 假期已不足一周，时间过得飞快。\nD. 假期已不足一周，时间过得飞快。\nE. 假期已不足一周，时间过得飞快。\nF. 假期已不足一周，时间过得飞快。\nG. 假期已不足一周，时间过得飞快。",
+        "metaphor": "</s>A. 假期已不足一周，时间过得飞快。\nB. 假期已不足一周，时间过得飞快。\nC. 假期已不足一周，时间过得飞快。\nD. 假期已不足一周，时间过得飞快。\nE. 假期已不足一周，时间过得飞快。\nF. 假期已不足一周，时间过得飞快。\nG. 假期已不足一周，时间过得飞快。",
+        "sample_id": 150
+    },
+    {
+        "tenor": "心",
+        "vehicle": "走马灯",
+        "ground": "</s>A. 心是身体的一部分。\nB. 心是情感的一部分。\nC. 心是思维的一部分。\nD. 心是精神的一部分。\nE. 心是时间的的一部分。\nF. 心是空间的的一部分。\nG. 心是感觉的一部分。\nH. 心是感觉的一部分。\nI. 心是感觉的一部分。\nJ. 心是感觉的一部分。\nK. 心是感觉的一部分。",
+        "metaphor": "</s>A. 心是身体的一部分。\nB. 心是情感的一部分。\nC. 心是思维的一部分。\nD. 心是精神的一部分。\nE. 心是时间的的一部分。\nF. 心是空间的的一部分。\nG. 心是感觉的一部分。\nH. 心是感觉的一部分。\nI. 心是感觉的一部分。\nJ. 心是感觉的一部分。\nK. 心是感觉的一部分。",
+        "sample_id": 151
+    },
+    {
+        "tenor": "车队进入沙漠谷地",
+        "vehicle": "走进了烤焦了的黄山和庐山",
+        "ground": "</s>A. 干燥\nB. 炎热\nC. 荒凉\nD. 危险\nE. 美丽\nF. 神秘\nG. 危险\nH. 美丽\nI. 神秘\nJ. 危险\nK. 美丽\nL. 神秘\nM. 危险\nN. 美丽\nO. 神秘\n答案：干燥\n</s>A. 干燥\nB. 炎热\nC. 荒凉\nD",
+        "metaphor": "答案：他们走进了一个干燥而炎热的沙漠山谷，就像走进了一个烤焦了黄山和庐山的领域。\n</s>A. 干燥\nB. 炎热\nC. 荒凉\nD. 危险\nE. 美丽\nF. 神秘\nG. 危险\nH. 美丽\nI. 神秘\nJ. 危险\nK. 美丽\nL. 神秘\nM. 危险\nN. 美丽\nO.",
+        "sample_id": 152
+    },
+    {
+        "tenor": "失恋到死",
+        "vehicle": "坏结尾",
+        "ground": "</s>A. 心碎的感觉\nB. 绝望的情绪\nC. 孤独的感觉\nD. 无助的感觉\nE. 焦虑的感觉\nF. 恐惧的感觉\nG. 失落的感觉\nH. 痛苦的感觉\nI. 愤怒的感觉\nJ. 悲伤的感觉\nK. 版权或其它问题请于作品发表后的的感觉\nL. 孤独的感觉\nM. 无助的感觉\nN. 焦虑的感觉\nO. 恐惧的感觉\nP. 失落的感觉\nQ",
+        "metaphor": "答案：她的心碎成一片片，像是从她身体里流淌出的血，无法停止地滴落着，直到她的生命耗尽。\n</s>A. 心碎的感觉\nB. 绝望的情绪\nC. 孤独的感觉\nD. 无助的感觉\nE. 焦虑的感觉\nF. 恐惧的感觉\nG. 失落的感觉\nH. 痛苦的感觉\nI. 愤怒的感觉\nJ. 悲伤的感觉\nK. 版权或其它问题请于作品发表后的的感觉",
+        "sample_id": 153
+    },
+    {
+        "tenor": "爱意",
+        "vehicle": "山",
+        "ground": "</s>A. 山高。\nB. 山青。\nC. 山秀。\nD. 山静。\nE. 山美。\nF. 山硬。\nG. 山硬。\nH. 山硬。\nI. 山硬。\nJ. 山硬。\nK. 山硬。\nL. 山硬。\nM. 山硬。\nN. 山硬。",
+        "metaphor": "我的答案是：你是我的山，山一般坚定。\n</s>A. 山高。\nB. 山青。\nC. 山秀。\nD. 山静。\nE. 山美。\nF. 山硬。\nG. 山硬。\nH. 山硬。\nI. 山硬。\nJ. 山硬。\nK. 山硬。\nL. 山硬。\nM.",
+        "sample_id": 154
+    },
+    {
+        "tenor": "梦结束了",
+        "vehicle": "醒了哭了",
+        "ground": "</s>A. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\n</s>A. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\n</s>A. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A",
+        "metaphor": "A. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A或B。",
+        "sample_id": 155
+    },
+    {
+        "tenor": "敲碎了我的心",
+        "vehicle": "打乱了思绪",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 美丽的\nH. 巨大的\nI. 冰冷的\nJ. 快乐的\nK. 勇敢的\nL. 聪明的\nM. 美丽的\nN. 巨大的\nO. 冰冷的\nP. 快乐的\nQ. 勇敢的\nR. 聪明的\nS. 美丽的",
+        "metaphor": "",
+        "sample_id": 156
+    },
+    {
+        "tenor": "你",
+        "vehicle": "心虚的演员",
+        "ground": "</s>A: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\n</s>A: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格",
+        "metaphor": "B: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时",
+        "sample_id": 157
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "花",
+        "ground": "</s>A smile is like a flower.\n</s>A flower is like a smile.\n</s>A smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.",
+        "metaphor": "答案：笑容就像一朵花。\n</s>A smile is like a flower.\n</s>A flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA",
+        "sample_id": 158
+    },
+    {
+        "tenor": "月亮",
+        "vehicle": "牙齿",
+        "ground": "</s>A moon-shaped object is a type of natural satellite that orbits around a celestial body such as a planet or a star.\n</s>A tooth is a small, hard, usually projectile point that is found in the mouth of most warm-blooded animals.\n</s>A moon-shaped object is a natural satellite that orbits around a celestial body, such as a planet or a star.\nA tooth is a small, hard, projectile point that is found in the",
+        "metaphor": "答案：月亮像牙齿一样，围绕地球旋转。\n</s>A tooth is a small, hard, projectile point that is found in the mouth of most warm-blooded animals. \n答案：月亮像牙齿一样，围绕地球旋转。\n</s>A moon-shaped object is a natural satellite that orbits around a celestial body, such as a planet or a star. \n答案：月亮是一个绕行星或其他天体运转的天体，形状像月亮。\n</s>A",
+        "sample_id": 159
+    },
+    {
+        "tenor": "大爱",
+        "vehicle": "水",
+        "ground": "</s>A大爱的水\n</s>A大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大",
+        "metaphor": "</s>A大爱的水\n</s>A大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大",
+        "sample_id": 160
+    },
+    {
+        "tenor": "月光",
+        "vehicle": "情网",
+        "ground": "</s>A. 明亮的\nB. 巨大的\nC. 美丽的\nD. 温暖的\nE. 强大的\nF. 神秘的\nG. 快乐的\nH. 勇敢的\nI. 勇敢的\nJ. 美丽的\nK. 强大的\nL. 快乐的\nM. 神秘的\nN. 勇敢的\nO. 美丽的\n答案：A. 明亮的\n</s>A. 明亮的\n</s>A. 明亮的\nA. 明亮的",
+        "metaphor": "答案：月光下的情网，明亮而温暖。\n</s>A. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\n</s>A. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的",
+        "sample_id": 161
+    },
+    {
+        "tenor": "人",
+        "vehicle": "狐狸",
+        "ground": "</s>A动物是狐狸。\n</s>A动物是狐狸。\n</s>A动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。",
+        "metaphor": "答案：狐狸是人类的老师。\n</s>A动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。",
+        "sample_id": 162
+    },
+    {
+        "tenor": "爱你",
+        "vehicle": "心跳难触摸",
+        "ground": "</s>A. 爱是一种强烈的情感状态，具有强烈的感情色彩。\nB. 心跳是一种生理反应，表示人体内部器官的活动状态。\nC. 爱是一种复杂的情感状态，具有强烈的感情色彩。\nD. 心跳是一种生理反应，表示人体内部器官的活动状态。\nE. 爱是一种强烈的情感状态，具有强烈的感情色彩。\nF. 心跳是一种生理反应，表示人体内部器官的活动状态。\nG. 爱是一种",
+        "metaphor": "答案：你是我心中的心跳，难以触摸却让我感到幸福。\n</s>A. 爱是一种强烈的情感状态，具有强烈的感情色彩。\nB. 心跳是一种生理反应，表示人体内部器官的活动状态。\nC. 爱是一种复杂的情感状态，具有强烈的感情色彩。\nD. 心跳是一种生理反应，表示人体内部器官的活动状态。\nE. 爱是一种强烈的情感状态，具有强烈的感情色彩。\nF. 心跳是一种生理",
+        "sample_id": 163
+    },
+    {
+        "tenor": "束缚",
+        "vehicle": "铁链",
+        "ground": "</s>A chain is a type of material that is used to connect two or more objects together.\n</s>A chain is a long, flexible piece of metal that is used to connect two or more objects together.\nA chain is a long, flexible piece of metal that is used to connect two or more objects together.\n</s>A chain is a long, flexible piece of metal that is used to connect two or more objects together.\nA chain is a long, flexible piece of metal that",
+        "metaphor": "回答：铁链是一种束缚工具，用于连接两个或多个物体。\n</s>A chain is a long, flexible piece of metal that is used to connect two or more objects together.\n</s>A chain is a long, flexible piece of metal that is used to connect two or more objects together.\nA chain is a long, flexible piece of metal that is used to connect two or more objects together.\nA chain is a long, flexible piece of metal that is used to connect",
+        "sample_id": 164
+    },
+    {
+        "tenor": "无尽的峰峦",
+        "vehicle": "姜黄色的骆驼群",
+        "ground": "</s>A. 巨大的\nB. 姜黄色的\nC. 骆驼的\nD. 峰峦的\nE. 巨大的姜黄色的骆驼群的\n\n答案：E. 巨大的姜黄色的骆驼群的\n</s>A. 巨大的\nB. 姜黄色的\nC. 骆驼的\nD. 峰峦的\nE. 巨大的姜黄色的骆驼群的\n</s>A. 巨大的\nB. 姜黄色的\nC. 骆驼的\nD",
+        "metaphor": "答案：巨大的姜黄色的骆驼群像一座座峰峦一样排列在一起。\n</s>A. 巨大的姜黄色的骆驼群的\nB. 巨大的峰峦的\nC. 姜黄色的峰峦的\nD. 巨大的峰峦的姜黄色的骆驼群的\nE. 巨大的峰峦的姜黄色的骆驼群的\n</s>A. 巨大的姜黄色的骆驼群的\nB. 巨大的峰峦的\nC. 姜黄色的峰峦的\nD. 巨大的",
+        "sample_id": 165
+    },
+    {
+        "tenor": "我的车",
+        "vehicle": "迷失的马",
+        "ground": "</s>A. 巨大的\nB. 美丽的\nC. 勇敢的\nD. 聪明的\nE. 快乐的\nF. 勤奋的\nG. 善良的\nH. 美丽的\nI. 勇敢的\nJ. 聪明的\nK. 快乐的\nL. 勤奋的\nM. 善良的\n答案：巨大的\n</s>A. 巨大的\nB. 美丽的\nC. 勇敢的\nD. 聪明的\nE. 快乐的\nF",
+        "metaphor": "答案：我的车就像一匹迷失的马一样，在寻找家的路上。\n</s>A. 巨大的\nB. 美丽的\nC. 勇敢的\nD. 聪明的\nE. 快乐的\nF. 勤奋的\nG. 善良的\nH. 美丽的\nI. 勇敢的\nJ. 聪明的\nK. 快乐的\nL. 勤奋的\nM. 善良的\n答案：我的车就像一匹迷失的马一样，在",
+        "sample_id": 166
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "魔术",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 豪华的\nF. 古老的\nG. 巨大的\nH. 美丽的\nI. 冰冷的\nJ. 快乐的\nK. 豪华的\nL. 古老的\nM. 巨大的\nN. 美丽的\nO. 冰冷的\nP. 快乐的\nQ. 豪华的\nR. 古老的\nS.",
+        "metaphor": "答案：时间像一只巨大的魔法球，不断地旋转着，带走了我们的青春和快乐。\n</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 豪华的\nF. 古老的\nG. 巨大的\nH. 美丽的\nI. 冰冷的\nJ. 快乐的\nK. 豪华的\nL. 古老的\nM. 巨大的\nN. 美丽的\nO. 冰",
+        "sample_id": 167
+    },
+    {
+        "tenor": "一丝颤动（传递）",
+        "vehicle": "有了一道凝碧的波痕",
+        "ground": "</s>Aquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAqu",
+        "metaphor": "Aquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAqu",
+        "sample_id": 168
+    },
+    {
+        "tenor": "我怀内那些爱",
+        "vehicle": "一江河水",
+        "ground": "</s>A. 爱是一种强烈的情感状态，具有强烈的情感和深刻的感受。\nB. 爱是一种复杂的情感状态，具有复杂的情感和丰富的感受。\nC. 爱是一种强烈的情感状态，具有强烈的情感和深刻的感受，同时也具有强烈的渴望和需求。\nD. 爱是一种复杂的情感状态，具有复杂的情感和丰富的感受，同时也具有强烈的渴望和需求。\nE. 爱是一种强烈的情感状态，具有强烈的情感和深刻的感受，同时也具有强烈的渴望和需求，而且",
+        "metaphor": "",
+        "sample_id": 169
+    },
+    {
+        "tenor": "我",
+        "vehicle": "绅士",
+        "ground": "</s>A. 您的名字是什么？\nB. 我的名字是绅士。\nC. 您的名字是？\nD. 我的名字是绅士。\nE. 您的名字是什么？\nF. 我的名字是绅士。\nG. 您的名字是？\nH. 我的名字是绅士。\nI. 您的名字是什么？\nJ. 我的名字是绅士。\nK. 您的名字是？\nL. 我的名字",
+        "metaphor": "答案：我的名字是绅士，就像一只翩翩起舞的蝴蝶。\n</s>A. 您的名字是什么？\nB. 我的名字是绅士。\nC. 您的名字是？\nD. 我的名字是绅士。\nE. 您的名字是什么？\nF. 我的名字是绅士。\nG. 您的名字是？\nH. 我的名字是绅士。\nI. 您的名字是什么？\nJ. 我的名字是绅士",
+        "sample_id": 170
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "雪花",
+        "ground": "</s>A爱如雪花的晶莹剔透。\nB爱如雪花的文采飞扬。\nC爱如雪花的轻盈飘渺。\nD爱如雪花的浪漫温馨。\nE爱如雪花的宁静安详。\nF爱如雪花的温暖舒适。\nG爱如雪花的自由快乐。\nH爱如雪花的神秘莫测。\nI爱如雪花的忠诚坚定。\nJ爱如雪花的勇敢刚毅。\nK爱如雪",
+        "metaphor": "</s>A: 你的爱就像雪一样，透明而美丽。\nB: 你的爱就像雪一样，文采斐然，让人陶醉。\nC: 你的爱就像雪一样，轻盈而曼妙，让人心旷神怡。\nD: 你的爱就像雪一样，温馨而浪漫，让人心醉神迷。\nE: 你的爱就像雪一样，宁静而安详，让人心旷神怡。\nF: 你的",
+        "sample_id": 171
+    },
+    {
+        "tenor": "心事",
+        "vehicle": "船",
+        "ground": "</s>A. 快乐的人\nB. 快乐的家庭\nC. 快乐的城市\nD. 快乐的国家\nE. 快乐的世界\nF. 快乐的人生\n答案：F. 快乐的人生\n</s>A. 快乐的人\nB. 快乐的家庭\nC. 快乐的城市\nD. 快乐的国家\nE. 快乐的世界\nF. 快乐的人生\n</s>A. 快乐的人\nB. 快乐的家庭\nC. 快乐",
+        "metaphor": "答案：她的心就像一艘船，在大海中航行，随时都会遇到风浪。\n</s>A. 快乐的人\nB. 快乐的家庭\nC. 快乐的城市\nD. 快乐的国家\nE. 快乐的世界\nF. 快乐的人生\n答案：F. 快乐的人生\n</s>A. 快乐的人\nB. 快乐的家庭\nC. 快乐的城市\nD. 快乐的国家\nE. 快乐的世界\nF. 快乐",
+        "sample_id": 172
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "遗产",
+        "ground": "</s>A爱B，是因为B是A的遗产。\n</s>A爱B，是因为B是A的遗产。\n</s>A爱B，是因为B是A的遗产。\nA爱B，是因为B是A的遗产。\nA爱B，是因为B是A的遗产。\nA爱B，是因为B是A的遗产。\nA爱B，是因为B是A的遗产。\nA爱B，是因为B是A的遗产。",
+        "metaphor": "答案：A爱B，是因为B是A的遗产，就像父亲爱儿子一样。\n</s>A爱B，是因为B是A的遗产，就像父亲爱儿子一样。\nA爱B，是因为B是A的遗产，就像父亲爱儿子一样。\nA爱B，是因为B是A的遗产，就像父亲爱儿子一样。\nA爱B，是因为B是A的遗产，就像父亲爱儿子一样。\nA爱B，是因为B",
+        "sample_id": 173
+    },
+    {
+        "tenor": "飞吻",
+        "vehicle": "甜蜜",
+        "ground": "</s>A空气里弥漫着甜蜜的味道。\n</s>A他的声音里充满了温柔和幸福。\nA她的眼睛闪烁着幸福的光芒。\nA他的笑容里充满了幸福的感觉。\nA他们的爱情充满了甜蜜的味道。\nA他们的爱情充满了幸福的感觉。\nA他们的爱情充满了温柔和欢乐。\nA他们的爱情充满了快乐和平静。\nA他们的爱情充满了美好和希望。\nA他们的爱情充满了幸福和快乐。\nA他们的爱情充满了幸福和美好。",
+        "metaphor": "</s>A他们的爱情充满了甜蜜的味道。\n</s>A他们的爱情充满了幸福的感觉。\nA他们的爱情充满了温柔和欢乐。\nA他们的爱情充满了快乐和平静。\nA他们的爱情充满了美好和希望。\nA他们的爱情充满了幸福和快乐。\nA他们的爱情充满了幸福和美好。\n</s>A他们的爱情充满了甜蜜的味道。\nA他们的爱情充满了幸福的感觉。\nA他们的爱情充满了温柔和欢乐。\nA他们的爱情充满了快乐和平静。\nA他们的",
+        "sample_id": 174
+    },
+    {
+        "tenor": "心慢慢烫",
+        "vehicle": "细雨飘",
+        "ground": "</s>A. 心慢慢烫\nB. 细雨飘\nC. 心慢慢飘\nD. 心慢慢冷\nE. 心慢慢痛\nF. 心慢慢冷\nG. 心慢慢痛\nH. 心慢慢冷\nI. 心慢慢痛\nJ. 心慢慢冷\nK. 心慢慢痛\nL. 心慢慢冷\nM. 心慢慢痛\nN. 心慢慢冷\nO",
+        "metaphor": "A. 心慢慢烫\nB. 细雨飘\nC. 心慢慢飘\nD. 心慢慢冷\nE. 心慢慢痛\nF. 心慢慢冷\nG. 心慢慢痛\nH. 心慢慢冷\nI. 心慢慢痛\nJ. 心慢慢冷\nK. 心慢慢痛\nL. 心慢慢冷\nM. 心慢慢痛\nN. 心慢慢冷\nO",
+        "sample_id": 175
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "火柴",
+        "ground": "</s>A. 爱情是美好的。\nB. 火柴是光明的。\nC. 爱情是强烈的。\nD. 火柴是温暖的。\nE. 爱情是神秘的。\nF. 火柴是可爱的。\nG. 爱情是美好的。\nH. 火柴是快乐的。\nI. 爱情是美好的。\nJ. 火柴是美丽的。\nK. 爱情是强烈的。\nL. 火柴是温暖的。\nM.",
+        "metaphor": "答案：爱情就像火柴，虽然短暂但照亮了我们的生活。\n</s>A. 爱情是美好的。\nB. 火柴是光明的。\nC. 爱情是强烈的。\nD. 火柴是温暖的。\nE. 爱情是神秘的。\nF. 火柴是可爱的。\nG. 爱情是美好的。\nH. 火柴是快乐的。\nI. 爱情是美好的。\nJ. 火柴是美丽的。\nK. 爱情",
+        "sample_id": 176
+    },
+    {
+        "tenor": "心中花开一朵朵",
+        "vehicle": "烟火",
+        "ground": "</s>A. 美丽\nB. 快乐\nC. 成功\nD. 自由\nE. 智慧\nF. 健康\nG. 幸福\nH. 希望\nI. 快乐\nJ. 成功\nK. 自由\nL. 智慧\nM. 健康\nN. 幸福\nO. 希望\n答案：美丽\n</s>A. 美丽\nB. 快乐\nC. 成功\nD",
+        "metaphor": "答案：心中花开一朵朵，如烟火的美丽。\n</s>A. 美丽\nB. 快乐\nC. 成功\nD. 自由\nE. 智慧\nF. 健康\nG. 幸福\nH. 希望\nI. 快乐\nJ. 成功\nK. 自由\nL. 智慧\nM. 健康\nN. 幸福\nO. 希望\n</s>A. 美丽\nB.",
+        "sample_id": 177
+    },
+    {
+        "tenor": "离别你那夜痛得",
+        "vehicle": "出臼齿",
+        "ground": "</s>A. 疼痛的\nB. 冰冷的\nC. 温暖的\nD. 快乐的\nE. 平静的\nF. 兴奋的\nG. 恐惧的\nH. 快乐的\nI. 平静的\nJ. 冰冷的\nK. 温暖的\nL. 疼痛的\nM. 快乐的\nN. 平静的\nO. 冰冷的\nP. 温暖的\nQ. 恐惧的\nR.",
+        "metaphor": "</s>A. 他的心像被一把锋利的刀子剜开，疼痛不已。\nB. 她的眼睛像两颗冰冷的石头，让他感到寒冷刺骨。\nC. 他的心像一只受伤的小鸟，在疼痛中瑟瑟发抖。\nD. 她的眼睛像一朵绽放的鲜花，美丽而温暖。\nE. 他的心像一只受伤的小鸟，在疼痛中瑟瑟发抖。\nF. 她的眼睛像",
+        "sample_id": 178
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "一阵风",
+        "ground": "</s>A. 轻盈的\nB. 温暖的\nC. 巨大的\nD. 快乐的\nE. 美丽的\nF. 勇敢的\nG. 神秘的\nH. 勇敢的\nI. 快乐的\nJ. 美丽的\nK. 巨大的\nL. 快乐的\nM. 美丽的\nN. 巨大的\nO. 快乐的\nP. 美丽的\nQ. 巨大的\nR. 快乐的\nS. 美丽的\nT.",
+        "metaphor": "",
+        "sample_id": 179
+    },
+    {
+        "tenor": "思念的眼泪",
+        "vehicle": "我爱着你的心",
+        "ground": "</s>A. 思念的眼泪是冰凉的。\nB. 我爱着你的心是温暖的。\nC. 思念的眼泪是咸的。\nD. 我爱着你的心是快乐的。\nE. 思念的眼泪是酸楚的。\nF. 我爱着你的心是坚定的。\nG. 思念的眼泪是晶莹剔透的。\nH. 我爱着你的心是温柔体贴的。\nI. 思念的眼泪",
+        "metaphor": "</s>A. 思念的眼泪是冰凉的。\nB. 我爱着你的心是温暖的。\nC. 思念的眼泪是咸的。\nD. 我爱着你的心是快乐的。\nE. 思念的眼泪是酸楚的。\nF. 我爱着你的心是坚定的。\nG. 思念的眼泪是晶莹剔透的。\nH. 我爱着你的心是温柔体贴的。\nI. 思念的眼泪是疼痛的。",
+        "sample_id": 180
+    },
+    {
+        "tenor": "悲伤",
+        "vehicle": "枯叶",
+        "ground": "悲伤和枯叶的一个共性（ground）可以是：悲伤的枯叶的一个共性（ground）可以是：悲伤的悲伤和枯叶的一个共性（ground）可以是：悲伤的枯叶的一个共性（ground）可以是：悲伤的悲伤和枯叶的一个共性（ground）可以是：悲伤的枯叶的一个共性（ground）可以是：",
+        "metaphor": "</s>A菌落上的细胞不断死亡，形成一片片枯黄的菌落，就像一片片枯黄的树叶飘落在A菌落上。\n</s>A菌落上的细胞不断死亡，形成一片片枯黄的菌落，就像一片片枯黄的树叶飘落在A菌落上。\n</s>A菌落上的细胞不断死亡，形成一片片枯黄的菌落，就像一片片枯黄的树叶飘落在A菌落上。\nA菌落上的细胞不断",
+        "sample_id": 181
+    },
+    {
+        "tenor": "我",
+        "vehicle": "梦幻",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 温暖的\nH. 勇敢的\nI. 美丽的\nJ. 巨大的\nK. 冰冷的\nL. 快乐的\nM. 勇敢的\nN. 聪明的\nO. 温暖的\n答案：美丽的\n</s>A. 美丽的\nB. 巨大的\nC. 冰冷的",
+        "metaphor": "回答：我就像一只飞鸟，在天空翱翔，而梦幻就像一片美丽的云彩，永远在我身边飘荡。\n</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 温暖的\nH. 勇敢的\nI. 美丽的\nJ. 巨大的\nK. 冰冷的\nL. 快乐的\nM. 勇敢的\nN. 聪明的",
+        "sample_id": 182
+    },
+    {
+        "tenor": "我",
+        "vehicle": "雨中的火",
+        "ground": "</s>A. 水做的\nB. 火一样的\nC. 冰冷的\nD. 温暖的\nE. 平静的\nF. 激烈的\nG. 快乐的\nH. 悲伤的\nI. 美丽的\nJ. 丑陋的\nK. 巨大的\nL. 微小的\nM. 巨大的\n答案：M. 巨大的\n</s>A. 水做的\nB. 火一样的\nC. 冰冷的\nD",
+        "metaphor": "答案：我就像雨中的火一样，虽然灭了，但留下了温暖。\n</s>A. 水做的\nB. 火一样的\nC. 冰冷的\nD. 温暖的\nE. 平静的\nF. 激烈的\nG. 快乐的\nH. 悲伤的\nI. 美丽的\nJ. 丑陋的\nK. 巨大的\nL. 微小的\nM. 巨大的\n答案：M. 巨大的\n</s>A",
+        "sample_id": 183
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "空气",
+        "ground": "</s>A. 轻快的音乐声 B. 美丽的风景 C. 强烈的香气 D. 温暖的阳光 E. 巨大的力量 F. 强烈的感情 G. 美丽的笑容 H. 巨大的压力 I. 强烈的渴望 J. 美丽的希望 K. 强烈的自信 L. 美丽的梦想 M. 强烈的热情 N. 美丽的希望 O. 强烈的渴望 P. 美丽的梦想 Q. 强烈的自信 R. 美丽的梦想 S. 强烈的热情 T",
+        "metaphor": "答案：承诺就像空气一样，虽然看不见摸不着，却时刻影响着我们的生活。\n</s>A. 轻快的音乐声\nB. 美丽的风景\nC. 强烈的香气\nD. 温暖的阳光\nE. 巨大的力量\nF. 强烈的感情\nG. 美丽的笑容\nH. 巨大的压力\nI. 强烈的渴望\nJ. 美丽的希望\nK. 强烈的自信\nL. 美丽的梦想\nM. 强烈的热情",
+        "sample_id": 184
+    },
+    {
+        "tenor": "现代诗的屏障",
+        "vehicle": "国防",
+        "ground": "</s>A. 宁静的海洋\nB. 坚定的信念\nC. 美丽的风景\nD. 强大的力量\nE. 智慧的头脑\nF. 良好的习惯\nG. 良好的沟通\nH. 坚定的决心\nI. 良好的态度\nJ. 良好的健康\nK. 良好的关系\nL. 良好的目标\nM. 良好的环境\nN. 良好的时间\nO. 良好的自我控制\nP. 良好的",
+        "metaphor": "答案：宁静的海洋是国防的屏障。\n</s>A. 宁静的海洋\nB. 坚定的信念\nC. 美丽的风景\nD. 强大的力量\nE. 智慧的头脑\nF. 良好的习惯\nG. 良好的沟通\nH. 坚定的决心\nI. 良好的态度\nJ. 良好的健康\nK. 良好的关系\nL. 良好的目标\nM. 良好的环境\nN. 良好的时间",
+        "sample_id": 185
+    },
+    {
+        "tenor": "钢琴",
+        "vehicle": "人",
+        "ground": "</s>A. 钢琴的声音很柔和。\nB. 人都有感情。\nC. 钢琴的声音很美妙。\nD. 人都有梦想。\nE. 钢琴的声音很悠扬。\nF. 人都有个性。\nG. 钢琴的声音很震撼。\nH. 人都有恐惧。\nI. 钢琴的声音很温暖。\nJ. 人都有追求幸福的权利。\nK. 钢琴的声音很激情。\nL.",
+        "metaphor": "答案：钢琴的声音就像人的感情一样，柔和而美妙。\n</s>A. 钢琴的声音很柔和。\nB. 人都有感情。\nC. 钢琴的声音很美妙。\nD. 人都有梦想。\nE. 钢琴的声音很悠扬。\nF. 人都有个性。\nG. 钢琴的声音很震撼。\nH. 人都有恐惧。\nI. 钢琴的声音很温暖。\nJ. 人都有追求幸福",
+        "sample_id": 186
+    },
+    {
+        "tenor": "人",
+        "vehicle": "花儿",
+        "ground": "</s>A. 美丽\nB. 新鲜\nC. 快乐\nD. 健康\nE. 成功\nF. 自由\nG. 智慧\nH. 善良\nI. 勇敢\nJ. 温柔\nK. 坚持\nL. 信任\nM. 希望\nN. 坚持\nO. 快乐\nP. 自由\nQ. 智慧\nR. 善良\nS. 勇敢\nT",
+        "metaphor": "答案：人如花儿，需要美丽、新鲜、快乐、健康、成功、自由、智慧、善良、勇敢、温柔、坚持、信任、希望、快乐、自由、智慧、善良、坚持才能快乐。\n</s>A. 美丽\nB. 新鲜\nC. 快乐\nD. 健康\nE. 成功\nF. 自由\nG. 智慧\nH. 善良\nI. 勇敢\nJ. 温柔",
+        "sample_id": 187
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "刀",
+        "ground": "</s>A爱B，B刀C。\n</s>A爱B，B刀C。\n</s>A爱B，B刀C。\nA爱B，B刀C。\nA爱B，B刀C。\nA爱B，B刀C。\nA爱B，B刀C。\nA爱B，B刀C。\nA爱B，B刀C。\nA爱B，B刀C。\nA爱B，B刀",
+        "metaphor": "答案：A爱B，B刀C，就像一把刀深深地插入了爱。\n</s>A爱B，B刀C，就像一把刀深深地插入了爱。\nA爱B，B刀C，就像一把刀深深地插入了爱。\nA爱B，B刀C，就像一把刀深深地插入了爱。\nA爱B，B刀C，就像一把刀深深地插入了爱。\nA爱B，B刀C，就像一把刀",
+        "sample_id": 188
+    },
+    {
+        "tenor": "你",
+        "vehicle": "百合花",
+        "ground": "</s>A. 美丽的\nB. 香甜的\nC. 勇敢的\nD. 快乐的\nE. 聪明的\nF. 美丽的\nG. 香甜的\nH. 勇敢的\nI. 快乐的\nJ. 聪明的\nK. 美丽的\nL. 香甜的\nM. 勇敢的\nN. 快乐的\nO. 聪明的\n答案：美丽的\n</s>A. 美丽的\nB. 香甜的\nC. 勇敢的",
+        "metaphor": "回答：百合花象征着纯洁的爱情，如同我们的爱情一般美丽而香甜。\n</s>A. 美丽的\nB. 香甜的\nC. 勇敢的\nD. 快乐的\nE. 聪明的\nF. 美丽的\nG. 香甜的\nH. 勇敢的\nI. 快乐的\nJ. 聪明的\nK. 美丽的\nL. 香甜的\nM. 勇敢的\nN. 快乐的\nO. 聪明的\n</s>A.",
+        "sample_id": 189
+    },
+    {
+        "tenor": "我的拳头",
+        "vehicle": "铁",
+        "ground": "</s>A. 硬邦邦的\nB. 凉飕飕的\nC. 热腾腾的\nD. 湿漉漉的\nE. 硬邦邦的\n答案：A. 硬邦邦的\n</s>A. 硬邦邦的\n</s>A. 硬邦邦的\nA. 硬邦邦的\nA. 硬邦邦的\nA. 硬邦邦的\nA.",
+        "metaphor": "答案：我的拳头就像一块硬邦邦的钢铁。\n</s>A. 硬邦邦的\nA. 硬邦邦的\nA. 硬邦邦的\nA. 硬邦邦的\nA. 硬邦邦的\nA. 硬邦邦的\nA. 硬邦邦的\nA. 硬邦邦的\nA. 硬邦邦的\nA. 硬邦邦的\nA. 硬邦",
+        "sample_id": 190
+    },
+    {
+        "tenor": "香",
+        "vehicle": "朝露闪烁绕风中",
+        "ground": "</s>A. 晶莹剔透的\nB. 巨大的\nC. 快乐的\nD. 美丽的\nE. 冰冷的\nF. 巨大的\nG. 快乐的\nH. 美丽的\nI. 冰冷的\nJ. 巨大的\nK. 快乐的\nL. 美丽的\nM. 冰冷的\nN. 巨大的\nO. 快乐的\nP. 美丽的\nQ. 冰冷的\nR. 巨大的\nS.",
+        "metaphor": "答案：朝露闪烁绕风中的香，像一只快乐的小鸟，快乐的飞翔着。\n</s>A. 晶莹剔透的\nB. 巨大的\nC. 快乐的\nD. 美丽的\nE. 冰冷的\nF. 巨大的\nG. 快乐的\nH. 美丽的\nI. 冰冷的\nJ. 巨大的\nK. 快乐的\nL. 美丽的\nM. 冰冷的\nN. 巨大的\nO.",
+        "sample_id": 191
+    },
+    {
+        "tenor": "你",
+        "vehicle": "梅花",
+        "ground": "</s>A. 晶莹剔透的\nB. 巨大的\nC. 快乐的\nD. 美丽的\nE. 勇敢的\nF. 聪明的\nG. 温暖的\nH. 勇敢的\nI. 快乐的\nJ. 美丽的\nK. 聪明的\nL. 冰冷的\nM. 勇敢的\nN. 快乐的\nO. 美丽的\nP. 聪明的\nQ. 冰冷的\nR. 勇敢的\nS. 快乐的",
+        "metaphor": "例如：\n\n你像一只快乐的小鸟，在春天里飞翔。\n\n你的美丽像一朵盛开的花儿，让人心醉神迷。\n\n你的聪明像一位智慧的老人，总是能够看透事物的本质。\n\n你的温暖像一床柔软的被子，让人感受到家的味道。\n\n你的勇敢像一只无所畏惧的狮子，总是能够在困难面前保持平静。\n\n你的快乐像一只可爱的小狗，总是能够让人心情愉悦。",
+        "sample_id": 192
+    },
+    {
+        "tenor": "你",
+        "vehicle": "躲于地心",
+        "ground": "</s>A: 你的性格很独特，就像一只孤独的小猫一样。\nB: 你的声音很温柔，就像一条清澈的小溪一样。\nC: 你的眼睛很明亮，就像两颗明亮的宝石一样。\nD: 你的笑容很温暖，就像阳光一样。\nE: 你的心灵很敏锐，就像一只敏锐的猎犬一样。\nF: 你的身材很均匀，就像一只优美的天鹅一样。\nG: 你的声音很",
+        "metaphor": "回答：我的性格就像一只孤独的小猫一样，躲于地心。\n</s>A: 你的性格很独特，就像一只孤独的小猫一样。\nB: 你的声音很温柔，就像一条清澈的小溪一样。\nC: 你的眼睛很明亮，就像两颗明亮的宝石一样。\nD: 你的笑容很温暖，就像阳光一样。\nE: 你的心灵很敏锐，就像一只敏锐的猎犬一样。\nF: 你的",
+        "sample_id": 193
+    },
+    {
+        "tenor": "上课铃",
+        "vehicle": "暴雨",
+        "ground": "</s>A. 突然的\nB. 巨大的\nC. 猛烈的\nD. 强烈的\nE. 巨大的\nF. 猛烈的\nG. 强烈的\nH. 突然的\nI. 巨大的\nJ. 强烈的\nK. 猛烈的\nL. 突然的\nM. 巨大的\nN. 强烈的\nO. 猛烈的\n答案：E. 巨大的\n</s>A. 突然的\nB.",
+        "metaphor": "答案：上课铃就像暴雨一样突然响起。\n</s>A. 突然的\nB. 巨大的\nC. 猛烈的\nD. 强烈的\nE. 巨大的\nF. 猛烈的\nG. 强烈的\nH. 突然的\nI. 巨大的\nJ. 强烈的\nK. 猛烈的\nL. 突然的\nM. 巨大的\nN. 强烈的\nO. 猛烈的\n</s>A. 突然",
+        "sample_id": 194
+    },
+    {
+        "tenor": "经典之吻",
+        "vehicle": "雪崩地陷",
+        "ground": "</s>A. 冰冷的\nB. 温暖的\nC. 巨大的\nD. 微小的\nE. 平静的\nF. 激烈的\nG. 美丽的\nH. 丑陋的\nI. 快乐的\nJ. 版权或其它问题请于作品发表后的的\nK. 勇敢的\nL. 懦弱的\nM. 聪明的\nN. 愚蠢的\nO. 健康的\nP. 病弱的\nQ. 勇敢的\nR. 懦弱的",
+        "metaphor": "答案：经典之吻是冰冷的，而雪崩地陷则是激烈的。\n</s>A. 冰冷的\nB. 温暖的\nC. 巨大的\nD. 微小的\nE. 平静的\nF. 激烈的\nG. 美丽的\nH. 丑陋的\nI. 快乐的\nJ. 版权或其它问题请于作品发表后的的\nK. 勇敢的\nL. 懦弱的\nM. 聪明的\nN. 愚蠢的\nO. 健康的",
+        "sample_id": 195
+    },
+    {
+        "tenor": "世界",
+        "vehicle": "做梦",
+        "ground": "</s>A. 世界是复杂的。\nB. 做梦是神秘的。\nC. 人生是短暂的。\nD. 音乐是美好的。\nE. 爱人是可爱的。\nF. 成功是喜悦的。\nG. 友谊是珍贵的。\nH. 旅行是愉快的。\nI. 艺术是美丽的。\nJ. 信仰是坚定的。\nK. 自然是指引方向的。\nL. 时间是不等人的。",
+        "metaphor": "答案：世界就像一场梦，人生就像一场梦。\n</s>A. 世界是复杂的。\nB. 做梦是神秘的。\nC. 人生是短暂的。\nD. 音乐是美好的。\nE. 爱人是可爱的。\nF. 成功是喜悦的。\nG. 友谊是珍贵的。\nH. 旅行是愉快的。\nI. 艺术是美丽的。\nJ. 信仰是坚定的。\nK. 自然",
+        "sample_id": 196
+    },
+    {
+        "tenor": "Flow",
+        "vehicle": "小步舞曲",
+        "ground": "</s>A. 轻快的\nB. 优美的\nC. 动听的\nD. 有趣的\nE. 快乐的\nF. 神秘的\nG. 勇敢的\nH. 美丽的\nI. 勇敢的\nJ. 快乐的\nK. 有趣的\nL. 优美的\nM. 动听的\nN. 神秘的\nO. 快乐的\n答案：A. 轻快的\n</s>A. 轻快的：表示物体运动或情感",
+        "metaphor": "",
+        "sample_id": 197
+    },
+    {
+        "tenor": "巴黎好天气",
+        "vehicle": "昙花一现",
+        "ground": "</s>A. 轻盈的云朵飘荡在天空中。\nB. 温暖的阳光洒在大地上。\nC. 美丽的花朵绽放着。\nD. 清新的空气弥漫着。\nE. 柔和的微风拂过你的脸庞。\nF. 宁静的湖泊荡漾着。\nG. 快乐的鸟儿的歌声回荡在空中。\nH. 美丽的彩虹横跨天际。\nI. 温暖的阳光洒在大地上。\nJ.",
+        "metaphor": "</s>A. 轻盈的云朵飘荡在天空中。\nB. 温暖的阳光洒在大地上。\nC. 美丽的花朵绽放着。\nD. 清新的空气弥漫着。\nE. 柔和的微风拂过你的脸庞。\nF. 宁静的湖泊荡漾着。\nG. 快乐的鸟儿的歌声回荡在空中。\nH. 美丽的彩虹横跨天际。\nI. 温暖的阳光洒在大地上。\nJ.",
+        "sample_id": 198
+    },
+    {
+        "tenor": "山泉",
+        "vehicle": "水晶帘",
+        "ground": "</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater.\n</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater.\n</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater.\n</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater.",
+        "metaphor": "答案：山泉的水晶帘比喻为储存着大量水的地下水库。\n</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater. \n水晶帘比喻为储存着大量水的地下水库。\n</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater. \n水晶帘比喻为储存着大量水的地下水库。\nAquifers are a",
+        "sample_id": 199
+    }
+]

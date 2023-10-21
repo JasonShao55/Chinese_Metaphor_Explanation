@@ -1,0 +1,1402 @@
+[
+    {
+        "tenor": "他的温柔",
+        "vehicle": "海洋",
+        "ground": "温柔的海洋的共性（ground）是：柔和的。",
+        "metaphor": "",
+        "sample_id": 0
+    },
+    {
+        "tenor": "现实",
+        "vehicle": "箭",
+        "ground": "本体（tenor）和喻体（vehicle）的共性（ground）可以是，例如：晶莹剔透的状态、燕子、守信的品质、燕子、巨大辽阔的事物、浪花、文采飞扬的状态、价值观不正确的人、文思泉涌的人、天生活字典、文",
+        "metaphor": "",
+        "sample_id": 1
+    },
+    {
+        "tenor": "语言",
+        "vehicle": "刀",
+        "ground": "共性（ground）：，如“晶莹剔透的状态”、“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质”、“浪花作为本体（tenor）和 云幕作为喻体（vehicle",
+        "metaphor": "",
+        "sample_id": 2
+    },
+    {
+        "tenor": "他的脚印",
+        "vehicle": "落叶",
+        "ground": "你的脚印和落叶的共性（ground）是：，例如：\n\n你的脚印和落叶的共性（ground）是：，例如：\n\n你的脚印和落叶的共性（ground）是：，例如：\n\n你的脚印",
+        "metaphor": "",
+        "sample_id": 3
+    },
+    {
+        "tenor": "你的监察",
+        "vehicle": "潜望镜",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 晶莹剔透的状态\n2. 守信的品质\n3. 巨大辽阔的事物\n4. 燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透",
+        "metaphor": "我的眼睛像一只透明的玻璃球，可以看到你的内心深处。",
+        "sample_id": 4
+    },
+    {
+        "tenor": "梭罗河",
+        "vehicle": "画",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 5
+    },
+    {
+        "tenor": "说不出滋味的体会",
+        "vehicle": "我微笑着流泪",
+        "ground": "我的体会是：共性（ground）是隐喻的核心，它是隐喻的基础，是隐喻的灵魂。共性（ground）是隐喻的灵魂，是隐喻的核心，是隐喻的基础。共性（ground）是隐喻的灵魂，是隐喻的基础，是隐喻的核心。共性（ground）是隐喻的灵魂，是隐喻",
+        "metaphor": "",
+        "sample_id": 6
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "雨滴",
+        "ground": "爱和雨滴的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 7
+    },
+    {
+        "tenor": "燃尽的烟蒂",
+        "vehicle": "抽身的代价",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "燃尽的烟蒂和抽身的代价，就像是一个人在追求梦想的过程中，需要付出巨大的努力和牺牲，但最终的成果却是无法估量的。",
+        "sample_id": 8
+    },
+    {
+        "tenor": "火星",
+        "vehicle": "泪滴",
+        "ground": "火星和泪滴的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 9
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "苦咖啡",
+        "ground": "爱情和苦咖啡的共性（ground）是：苦涩的味道。",
+        "metaphor": "",
+        "sample_id": 10
+    },
+    {
+        "tenor": "事物",
+        "vehicle": "梦魇",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "在我的梦中，我是一只晶莹剔透的燕子，飞翔在天空中，享受着晶莹剔透的阳光和自由的感觉。但是，我的心中却充满了忧虑和不安，因为我知道我的家人和朋友们都在等待我回家。我的心情变得沉重，就像一块沉重的石头，让",
+        "sample_id": 11
+    },
+    {
+        "tenor": "我得不到你的爱情",
+        "vehicle": "春花没有雨淋",
+        "ground": "我的爱情和春花没有雨淋的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 12
+    },
+    {
+        "tenor": "白云",
+        "vehicle": "棉花糖",
+        "ground": "白云和棉花糖的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 13
+    },
+    {
+        "tenor": "你的身影",
+        "vehicle": "水草",
+        "ground": "我的身影和水草的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 14
+    },
+    {
+        "tenor": "国王",
+        "vehicle": "牧师的奴隶",
+        "ground": "国王和牧师的奴隶的共性（ground）可以是：“”，例如：“晶莹剔透的状态”、“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质”、“浪花作为本体",
+        "metaphor": "",
+        "sample_id": 15
+    },
+    {
+        "tenor": "你的消息",
+        "vehicle": "被回顾的事物",
+        "ground": "你的消息和被回顾的事物的共性（ground）是：“晶莹剔透的状态”。",
+        "metaphor": "",
+        "sample_id": 16
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "河",
+        "ground": "时间：河流\n\n共性（ground）：\n\n例子：\n\n时间：河流\n\n共性（ground）：\n\n例子：\n\n时间：河流\n\n共性（ground）：\n\n例子：\n\n时间：河流\n\n共性（ground）：形容词",
+        "metaphor": "",
+        "sample_id": 17
+    },
+    {
+        "tenor": "成长",
+        "vehicle": "奖赏",
+        "ground": "成长和奖赏的共性（ground）可以是：积极的态度。",
+        "metaphor": "",
+        "sample_id": 18
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "象棋",
+        "ground": "人生和象棋的共性是“”，例如“沉重的贪欲”。",
+        "metaphor": "",
+        "sample_id": 19
+    },
+    {
+        "tenor": "自己",
+        "vehicle": "神经病",
+        "ground": "我和神经病的共性是“不理智的状态”。",
+        "metaphor": "",
+        "sample_id": 20
+    },
+    {
+        "tenor": "我心上",
+        "vehicle": "飞象",
+        "ground": "我们可以将隐喻的本体和喻体之间的共性（ground）比作一个共同的主题或概念，例如“晶莹剔透的状态”、“守信的品质”、“巨大辽阔的事物”、“文采飞扬的状态”、“不理智的状态”、“押韵的台词”、“灼热的温度”、“",
+        "metaphor": "",
+        "sample_id": 21
+    },
+    {
+        "tenor": "浮雪",
+        "vehicle": "流浪的人",
+        "ground": "共性（ground）：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 22
+    },
+    {
+        "tenor": "浮游心窝",
+        "vehicle": "人",
+        "ground": "根据我给你展示的例子，我们可以得出以下的共性（ground）：\n\n- 晶莹剔透的状态\n- 燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态\n- 守信的品质\n- 浪花",
+        "metaphor": "",
+        "sample_id": 23
+    },
+    {
+        "tenor": "兰花草",
+        "vehicle": "你的微笑",
+        "ground": "兰花草和你的微笑的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 24
+    },
+    {
+        "tenor": "擦拭尘土",
+        "vehicle": "抚摸爱情的伤口",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔、燕群飞翔、燕群飞翔、燕群",
+        "metaphor": "擦拭尘土和抚摸爱情的伤口，就像是一个人用柔软的棉布轻轻地擦拭着一个被尘土覆盖的玻璃窗，然后用温柔的手抚摸着一个被伤口覆盖的心灵。",
+        "sample_id": 25
+    },
+    {
+        "tenor": "我",
+        "vehicle": "烟火",
+        "ground": "共性（ground）：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 26
+    },
+    {
+        "tenor": "我",
+        "vehicle": "没有根的植物",
+        "ground": "根据我给你展示的例子，我和没有根的植物的共性（ground）是：“沉重的贪欲”。",
+        "metaphor": "",
+        "sample_id": 27
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "人",
+        "ground": "爱情和人的共性（ground）是“纯真的样子”。",
+        "metaphor": "",
+        "sample_id": 28
+    },
+    {
+        "tenor": "你不给我一颗赤心",
+        "vehicle": "黑夜里找不到踪影",
+        "ground": "我的共性（ground）是“”，例如：“晶莹剔透的状态”，“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态”。",
+        "metaphor": "",
+        "sample_id": 29
+    },
+    {
+        "tenor": "坚忍",
+        "vehicle": "外衣",
+        "ground": "坚忍和外衣的共性（ground）是：，例如：坚强的、坚定的、坚持的、坚韧的、坚定的、坚定的、坚定的、坚定的、坚定的、坚定的、坚定的、坚定的、坚定的、坚定的、坚定的、坚定的、坚定的、坚定的、",
+        "metaphor": "",
+        "sample_id": 30
+    },
+    {
+        "tenor": "蓝蓝的天空",
+        "vehicle": "大海",
+        "ground": "蓝蓝的天空和大海的共性（ground）是：广阔的。",
+        "metaphor": "",
+        "sample_id": 31
+    },
+    {
+        "tenor": "青年",
+        "vehicle": "树",
+        "ground": "青年和树的共性（ground）可以是：\"茂盛的\"。",
+        "metaphor": "",
+        "sample_id": 32
+    },
+    {
+        "tenor": "男人",
+        "vehicle": "海洋",
+        "ground": "共性（ground）：晶莹剔透的状态。",
+        "metaphor": "男人就像海洋一样，晶莹剔透，深邃广阔。",
+        "sample_id": 33
+    },
+    {
+        "tenor": "预告",
+        "vehicle": "预言",
+        "ground": "预告：共性（ground）：\n\n预言：共性（ground）：\n\n预告：共性（ground）：\n\n预言：共性（ground）：\n\n预告：共性（ground）：\n\n预言：共性",
+        "metaphor": "",
+        "sample_id": 34
+    },
+    {
+        "tenor": "落笔",
+        "vehicle": "行云流水",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "我的笔尖如同晶莹剔透的雪花，在纸上行云流水地落下。",
+        "sample_id": 35
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "人",
+        "ground": "时间： \n\n人： \n\n共性（ground）： \n\n例子：\n\n时间： \n\n人： \n\n共性（ground）： \n\n例子：\n\n时间： \n\n人： \n\n共性（ground）： \n\n例子：\n\n时间： \n\n人： \n\n共性（ground）： \n\n例子：",
+        "metaphor": "",
+        "sample_id": 36
+    },
+    {
+        "tenor": "你",
+        "vehicle": "毒蛇",
+        "ground": "我和毒蛇的共性（ground）是：\"危险的\"。",
+        "metaphor": "",
+        "sample_id": 37
+    },
+    {
+        "tenor": "常态",
+        "vehicle": "寻常口味",
+        "ground": "常态：\n\n寻常口味：\n\n共性：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "晶莹剔透的状态，如同燕群飞翔在天空中，仿佛在寻找寻常的口味。",
+        "sample_id": 38
+    },
+    {
+        "tenor": "我想到你",
+        "vehicle": "失眠",
+        "ground": "我想到你和失眠的共性（ground）是：沉重的贪欲。",
+        "metaphor": "",
+        "sample_id": 39
+    },
+    {
+        "tenor": "落满遗憾的城墙",
+        "vehicle": "你心中的慌",
+        "ground": "落满遗憾的城墙和我心中的慌的共性（ground）是：，即“”的形式，例如：“”的形式，例如“”的形式，例如“”的形式。",
+        "metaphor": "落满遗憾的城墙和我心中的慌，就像是一个巨大的行李箱，它沉重而沉闷，让我感到不安。",
+        "sample_id": 40
+    },
+    {
+        "tenor": "我",
+        "vehicle": "夜",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔、燕群飞翔、燕群飞翔、燕群",
+        "metaphor": "",
+        "sample_id": 41
+    },
+    {
+        "tenor": "热闹的（场景）",
+        "vehicle": "下午两点的场景",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "在下午两点的场景中，人们聚集在一起，热闹非凡。他们像一只群鸟一样，在阳光下飞翔，享受着自由和快乐。",
+        "sample_id": 42
+    },
+    {
+        "tenor": "十二个音",
+        "vehicle": "流星飞",
+        "ground": "1. 晶莹剔透的状态\n2. 燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质\n3. 翅膀作为本体（tenor）和 云幕作为喻体（vehicle）构成隐喻时，它们的共性（ground）",
+        "metaphor": "",
+        "sample_id": 43
+    },
+    {
+        "tenor": "表达孤单",
+        "vehicle": "宣言",
+        "ground": "共性（ground）：孤单的状态。",
+        "metaphor": "我的心像孤单的鸟儿一样，在寂静的夜晚孤单地飞翔。",
+        "sample_id": 44
+    },
+    {
+        "tenor": "温柔",
+        "vehicle": "人",
+        "ground": "温柔和人的共性（ground）可以是“善良的”，“友善的”，“仁慈的”，“宽容的”，“和蔼的”，“亲切的”，“温柔的”，“体贴的”，“关怀的”，“体贴入微的”，“温柔细心的”，“温柔体贴的”，“温柔体贴入微的”",
+        "metaphor": "",
+        "sample_id": 45
+    },
+    {
+        "tenor": "你的眼睛",
+        "vehicle": "窗",
+        "ground": "我的眼睛和窗户的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 46
+    },
+    {
+        "tenor": "你我分离",
+        "vehicle": "鸟",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔的状态、燕群飞翔的状态、巨",
+        "metaphor": "我们分离了，但我们的心灵仍然紧紧相连。我们的心灵像鸟儿一样飞翔，在天空中自由翱翔。",
+        "sample_id": 47
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "救世主",
+        "ground": "我们和救世主的共性（ground）是：“”，例如：“晶莹剔透的状态”、“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态”。",
+        "metaphor": "",
+        "sample_id": 48
+    },
+    {
+        "tenor": "酸雨",
+        "vehicle": "危险的事物",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔、燕群飞翔、燕群飞翔、燕群",
+        "metaphor": "你的身体像一朵盛开的花，\n\n在你的心中，\n\n有一片广袤的天空，\n\n在你的眼中，\n\n有一片晶莹剔透的湖泊，\n\n在你的耳中，\n\n有一阵清脆的鸟鸣，\n\n在你的口中，\n\n有一股浓郁的香气，\n\n在你的手中，",
+        "sample_id": 49
+    },
+    {
+        "tenor": "纸",
+        "vehicle": "一张符咒",
+        "ground": "共性（ground）：\n\n例子：\n\n1. 晶莹剔透的状态\n2. 燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态\n3. 守信的品质\n4. 翅膀作为本",
+        "metaphor": "",
+        "sample_id": 50
+    },
+    {
+        "tenor": "眼睛",
+        "vehicle": "星星",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "眼睛就像星星一样晶莹剔透。",
+        "sample_id": 51
+    },
+    {
+        "tenor": "他们",
+        "vehicle": "风中的叶子",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔、燕群飞翔、燕群飞翔、燕群",
+        "metaphor": "在风中，叶子像一只只小鸟一样飞翔，它们的身影在空中翩翩起舞，仿佛在跳着优美的舞蹈。",
+        "sample_id": 52
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "阳光",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "你的笑容像阳光一样灿烂，让我感到温暖。",
+        "sample_id": 53
+    },
+    {
+        "tenor": "恋情",
+        "vehicle": "沉默的风",
+        "ground": "恋情和沉默的风的共性（ground）是：，例如：\n\n- ：\n  - ：\n    - ：\n      - ：\n        - 形容",
+        "metaphor": "",
+        "sample_id": 54
+    },
+    {
+        "tenor": "相思",
+        "vehicle": "传染病",
+        "ground": "共性（ground）：晶莹剔透的状态。",
+        "metaphor": "我的心如同晶莹剔透的水晶，每当我想起你，就像一颗颗晶莹剔透的星星在夜空中闪耀。我的心中充满了对你的思念，就像一颗颗晶莹剔透的星星在夜空中闪耀。我的心中充满了对你的思念，就像一颗颗晶莹剔透的星星在夜空中",
+        "sample_id": 55
+    },
+    {
+        "tenor": "他们修复历史",
+        "vehicle": "修复远年的故事",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在隐喻中，本体和喻体之间的共性可以是，例如：晶莹剔透的状态、燕子作为本体和 人作为喻体构成隐喻时，它们的共性（ground",
+        "metaphor": "",
+        "sample_id": 56
+    },
+    {
+        "tenor": "风",
+        "vehicle": "外衣",
+        "ground": "风和外衣的共性（ground）是：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔的状态、燕群飞",
+        "metaphor": "",
+        "sample_id": 57
+    },
+    {
+        "tenor": "稀罕",
+        "vehicle": "慢性服毒",
+        "ground": "共性（ground）：，如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔、燕群飞翔、燕群飞翔、燕群飞",
+        "metaphor": "你的身体像一只被慢性服毒的燕群，晶莹剔透的状态下，你的内心深处蕴藏着守信的品质，但是你的行为却像一只飞翔的燕群，在飞翔的过程中，你的内心深处却被贪婪的欲望所困扰，你的身体也因此变得沉重。",
+        "sample_id": 58
+    },
+    {
+        "tenor": "人",
+        "vehicle": "门前的崖上的野鹞子",
+        "ground": "共性（ground）：晶莹剔透的状态",
+        "metaphor": "",
+        "sample_id": 59
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "双翼的神马",
+        "ground": "我们和双翼的神马的共性（ground）是：巨大辽阔的事物。",
+        "metaphor": "",
+        "sample_id": 60
+    },
+    {
+        "tenor": "野性",
+        "vehicle": "浪漫的事情",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "在这个世界上，有一种美妙的事物，它是晶莹剔透的，它是那么的纯洁和美丽，它就是雪花。而在这个世界上，有一种美妙的事物，它是那么的自由和浪漫，它是那么的纯洁和美丽，它就是燕群。当我们在这个世界上漫步时，我",
+        "sample_id": 61
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "水草",
+        "ground": "我们和水草的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 62
+    },
+    {
+        "tenor": "青春时期和爱情相遇",
+        "vehicle": "搭乘列车遇见爱情",
+        "ground": "青春时期和爱情相遇和搭乘列车遇见爱情的共性（ground）可以是：相互了解和欣赏。",
+        "metaphor": "",
+        "sample_id": 63
+    },
+    {
+        "tenor": "往事",
+        "vehicle": "彩虹",
+        "ground": "往事和彩虹的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 64
+    },
+    {
+        "tenor": "我和你",
+        "vehicle": "河两岸",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 共性（ground）：晶莹剔透的状态\n2. 共性（ground）：燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态\n3.",
+        "metaphor": "",
+        "sample_id": 65
+    },
+    {
+        "tenor": "《汇报》副刊的风格",
+        "vehicle": "德国哲学",
+        "ground": "我们可以使用德国哲学的一个共性（ground），即“”，来回答这个问题。例如，我们可以使用“晶莹剔透的状态”来描述“你作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）",
+        "metaphor": "",
+        "sample_id": 66
+    },
+    {
+        "tenor": "迷茫",
+        "vehicle": "飞沙",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔的状态、燕群飞翔的状态、巨",
+        "metaphor": "我的心情就像飞沙一样，迷茫不知所措。",
+        "sample_id": 67
+    },
+    {
+        "tenor": "人",
+        "vehicle": "木偶",
+        "ground": "共性（ground）：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 68
+    },
+    {
+        "tenor": "雷声",
+        "vehicle": "猛兽",
+        "ground": "雷声和猛兽的共性（ground）可以是：巨大的。",
+        "metaphor": "",
+        "sample_id": 69
+    },
+    {
+        "tenor": "感受",
+        "vehicle": "诗",
+        "ground": "感受：沉重的贪欲\n\n诗的共性：\n\n例子：\n\n你作为本体（tenor）和 天空作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：\n\n沉重的贪欲",
+        "metaphor": "",
+        "sample_id": 70
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "瞬间",
+        "ground": "共性（ground）： \n\n1. 晶莹剔透的状态\n2. 燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质\n3. 浪花作为本体（tenor）和 云幕作为喻体（vehicle）构成隐喻时",
+        "metaphor": "",
+        "sample_id": 71
+    },
+    {
+        "tenor": "上演的剧情",
+        "vehicle": "你",
+        "ground": "你的共性（ground）是：“晶莹剔透的状态”。\n\n上演的剧情：\n\n你是一个人，你在一个晴朗的日子里，你在一个公园里散步。你看到一个美丽的女孩，她的身体非常美丽，你被她的美丽所吸引。你开始注意到她，你的心情开始",
+        "metaphor": "",
+        "sample_id": 72
+    },
+    {
+        "tenor": "声音挤进耳朵里",
+        "vehicle": "身躯挤进小木盒里",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "你的声音像是一只小鸟，挤进我的耳朵里，就像我的身躯挤进了一个小木盒子里。",
+        "sample_id": 73
+    },
+    {
+        "tenor": "太阳",
+        "vehicle": "人",
+        "ground": "太阳和人的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 74
+    },
+    {
+        "tenor": "你晶莹的双眼",
+        "vehicle": "星星",
+        "ground": "晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "我的双眼晶莹剔透，就像星星一样闪耀。",
+        "sample_id": 75
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "流沙",
+        "ground": "思念和流沙的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 76
+    },
+    {
+        "tenor": "乘客的微笑",
+        "vehicle": "亲人的抚照",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "乘客微笑着，仿佛在亲人的抚照下，晶莹剔透的状态下，他们的心灵得到了安慰。",
+        "sample_id": 77
+    },
+    {
+        "tenor": "我",
+        "vehicle": "傻瓜",
+        "ground": "我和傻瓜的共性（ground）是：“”，例如：“聪明的”、“善良的”、“勇敢的”、“美丽的”等等。",
+        "metaphor": "",
+        "sample_id": 78
+    },
+    {
+        "tenor": "你的温柔",
+        "vehicle": "日出",
+        "ground": "温柔的共性（ground）：柔和的。\n\n日出的共性（ground）：明亮的。",
+        "metaphor": "我的温柔如同日出的明亮，如同柔和的阳光，如同温暖的拥抱。",
+        "sample_id": 79
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "无声演员",
+        "ground": "我们和无声演员的共性（ground）是：共同的语言。",
+        "metaphor": "",
+        "sample_id": 80
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "最真的情话",
+        "ground": "时间：我喜欢你的时候，你就是我的全部。\n\n最真的情话：你是我的全部。",
+        "metaphor": "你是我的全部，就像时间一样，我喜欢你的时候，你就是我的全部。",
+        "sample_id": 81
+    },
+    {
+        "tenor": "蒜苔",
+        "vehicle": "青箭",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔、燕群飞翔、燕群飞翔、燕群",
+        "metaphor": "你的身体就像一片青翠的葱花，而你的心灵就像一支箭，它们都是我的珍宝。",
+        "sample_id": 82
+    },
+    {
+        "tenor": "力量",
+        "vehicle": "有力臂膀",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "他的力量和有力的臂膀像晶莹剔透的雪花一样，让人感受到强大的力量。",
+        "sample_id": 83
+    },
+    {
+        "tenor": "全不相干的东西偏有注定的缘分",
+        "vehicle": "母猪和癞象",
+        "ground": "本体（tenor）和喻体（vehicle）的共性（ground）可以是，如晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群",
+        "metaphor": "",
+        "sample_id": 84
+    },
+    {
+        "tenor": "你心肠",
+        "vehicle": "今晚月亮",
+        "ground": "我的心肠和今晚的月亮的共性是：柔和的。",
+        "metaphor": "",
+        "sample_id": 85
+    },
+    {
+        "tenor": "职员说流利的意语",
+        "vehicle": "唱歌",
+        "ground": "我们可以使用以下的意语和唱歌的一个共性（ground）来回答这个问题：\n\n“我们可以使用以下的意语和唱歌的一个共性（ground）来回答这个问题：\n\n“我们可以使用以下的意语和唱歌的一个共性（ground）来回答这个问题：\n\n“我",
+        "metaphor": "",
+        "sample_id": 86
+    },
+    {
+        "tenor": "湖",
+        "vehicle": "真理",
+        "ground": "湖和真理的共性（ground）可以是：，例如：晶莹剔透的状态、守信的品质、巨大辽阔的事物、文采飞扬的状态、不理智的状态、押韵的台词、灼热的温度、纯真的样子、沉重的感觉、记载的语气、平静的态",
+        "metaphor": "",
+        "sample_id": 87
+    },
+    {
+        "tenor": "你的脸",
+        "vehicle": "年轻的羽毛",
+        "ground": "我的脸和年轻的羽毛的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 88
+    },
+    {
+        "tenor": "诗句",
+        "vehicle": "钢刀",
+        "ground": "共性（ground）：\n\n例子：\n\n1. 晶莹剔透的状态\n2. 燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态\n3. 守信的品质\n4. 翅膀作为本",
+        "metaphor": "",
+        "sample_id": 89
+    },
+    {
+        "tenor": "瑞士人保护自己的方言",
+        "vehicle": "园丁保护玻璃房里的奇花异草",
+        "ground": "瑞士人保护自己的方言和园丁保护玻璃房里的奇花异草的共性（ground）是：珍惜。",
+        "metaphor": "",
+        "sample_id": 90
+    },
+    {
+        "tenor": "人",
+        "vehicle": "古人",
+        "ground": "人和古人的共性（ground）可以是：，例如：\n\n- 晶莹剔透的状态：晶莹剔透\n- 燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态\n- 守信",
+        "metaphor": "",
+        "sample_id": 91
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "海水",
+        "ground": "思念和海水的共性（ground）可以是：深邃的。",
+        "metaphor": "",
+        "sample_id": 92
+    },
+    {
+        "tenor": "恩情",
+        "vehicle": "日",
+        "ground": "恩情和日的共性（ground）是：共同的。",
+        "metaphor": "",
+        "sample_id": 93
+    },
+    {
+        "tenor": "我",
+        "vehicle": "花朵",
+        "ground": "我和花朵的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 94
+    },
+    {
+        "tenor": "我的爱",
+        "vehicle": "翅膀",
+        "ground": "我的爱和你的翅膀的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 95
+    },
+    {
+        "tenor": "我们错失的年华",
+        "vehicle": "日落晚霞",
+        "ground": "我们错失的年华和日落晚霞的共性（ground）是：沉重的贪欲。",
+        "metaphor": "",
+        "sample_id": 96
+    },
+    {
+        "tenor": "汉语",
+        "vehicle": "书房",
+        "ground": "共性（ground）：，如“晶莹剔透的状态”、“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质”、“浪花作为本体（tenor）和 云幕作为喻体（vehicle",
+        "metaphor": "在书房里，我静静地坐着，思考着。我的思维像一只小鸟，在天空中自由飞翔。我的思维像一片云，在天空中飘荡。我的思维像一片海，在大海中荡漾。我的思维像一片森林，在森林中生长。我的思维像一片草原，在草原上奔跑",
+        "sample_id": 97
+    },
+    {
+        "tenor": "把你编剧情节",
+        "vehicle": "偶像剧",
+        "ground": "我的编剧情节和偶像剧的共性（ground）是：“晶莹剔透的状态”。",
+        "metaphor": "",
+        "sample_id": 98
+    },
+    {
+        "tenor": "白帆",
+        "vehicle": "云儿",
+        "ground": "共性（ground）：晶莹剔透的状态",
+        "metaphor": "白雪皑皑的天空下，白雪皑皑的云儿在天空中飞翔，仿佛在诉说着白雪皑皑的故事。",
+        "sample_id": 99
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "种子",
+        "ground": "回忆和种子的共性（ground）可以是：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕子作为本体（ten",
+        "metaphor": "",
+        "sample_id": 100
+    },
+    {
+        "tenor": "心",
+        "vehicle": "冰",
+        "ground": "心和冰的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 101
+    },
+    {
+        "tenor": "我的眼光",
+        "vehicle": "蔚蓝",
+        "ground": "我的眼光和蔚蓝的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 102
+    },
+    {
+        "tenor": "点点滴滴",
+        "vehicle": "伤口",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "你的身体就像晶莹剔透的雪花，我的心就像晶莹剔透的天空。",
+        "sample_id": 103
+    },
+    {
+        "tenor": "你",
+        "vehicle": "答案",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 共性：晶莹剔透的状态\n2. 共性：燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质\n3. 共性：巨大辽阔的事",
+        "metaphor": "",
+        "sample_id": 104
+    },
+    {
+        "tenor": "陶俑",
+        "vehicle": "器皿的盖子",
+        "ground": "共性（ground）是指隐喻本体和喻体之间的共同属性，它们之间的共性可以是，例如：晶莹剔透的状态、燕子作为本体和 人作为喻体构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、",
+        "metaphor": "",
+        "sample_id": 105
+    },
+    {
+        "tenor": "你",
+        "vehicle": "树桩",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：你\n\n喻体（vehicle）：雪花\n\n共性（ground）：晶莹剔透的状态\n\n本体（tenor）：燕子\n\n喻体（vehicle）：人\n\n共性（ground）：守信的品质\n\n本体（tenor）",
+        "metaphor": "你是一只鸟，我是一根树桩，我们之间的关系就像一只鸟和一根树桩之间的关系一样。",
+        "sample_id": 106
+    },
+    {
+        "tenor": "褪色照片",
+        "vehicle": "花",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "这个句子可以是：“他的脸上有一张褪色的照片，就像花儿在雨中凋谢一样。”",
+        "sample_id": 107
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "心头火",
+        "ground": "共性（ground）：，如“晶莹剔透的状态”、“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质”、“浪花作为本体（tenor）和 云幕作为喻体（vehicle",
+        "metaphor": "我曾经在海边度假，看着海浪翻滚，心头火辣辣的，仿佛要燃烧一般。",
+        "sample_id": 108
+    },
+    {
+        "tenor": "生活",
+        "vehicle": "蜜",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔、燕群飞翔、燕群飞翔、燕群",
+        "metaphor": "你的身体就像一朵盛开的花朵，它散发着蜜的香气，让人陶醉。",
+        "sample_id": 109
+    },
+    {
+        "tenor": "你",
+        "vehicle": "一只小鸟",
+        "ground": "共性（ground）：晶莹剔透的状态",
+        "metaphor": "",
+        "sample_id": 110
+    },
+    {
+        "tenor": "烦恼",
+        "vehicle": "菩提",
+        "ground": "我们可以将这些共性（ground）分为两类：和形容词+的+动词。\n\n的共性（ground）：\n\n- 晶莹剔透的状态\n- 燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（",
+        "metaphor": "",
+        "sample_id": 111
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "笑话",
+        "ground": "爱情和笑话的共性（ground）可以是：幽默的。",
+        "metaphor": "",
+        "sample_id": 112
+    },
+    {
+        "tenor": "大家都在传唱",
+        "vehicle": "爱德华的小说",
+        "ground": "大家都在传唱和爱德华的小说的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "大家都在传唱和爱德华的小说，就像晶莹剔透的状态一样。",
+        "sample_id": 113
+    },
+    {
+        "tenor": "悄静气氛",
+        "vehicle": "关了灯",
+        "ground": "共性（ground）：沉默的。",
+        "metaphor": "在这个房间里，我们沉默地坐着，只有我们的心跳声和灯光的微弱闪烁。",
+        "sample_id": 114
+    },
+    {
+        "tenor": "鱼群悄悄潜行",
+        "vehicle": "在一个做梦少女怀中",
+        "ground": "鱼群悄悄潜行和在一个做梦少女怀中的一个共性（ground）是：，例如：\n\n- 鱼群悄悄潜行：：“悄悄地”\n- 在一个做梦少女怀中的一个共性：：“",
+        "metaphor": "",
+        "sample_id": 115
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "残忍有毒的甜品",
+        "ground": "爱和残忍有毒的甜品的共性（ground）可以是：“令人心碎的”。",
+        "metaphor": "",
+        "sample_id": 116
+    },
+    {
+        "tenor": "话",
+        "vehicle": "嘲笑",
+        "ground": "你的回答是：\n\n“你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你",
+        "metaphor": "你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答是：你的回答",
+        "sample_id": 117
+    },
+    {
+        "tenor": "飞入寒冷干爽的气候",
+        "vehicle": "重践北美大陆",
+        "ground": "飞入寒冷干爽的气候和重践北美大陆的共性（ground）是：沉重的贪欲。",
+        "metaphor": "",
+        "sample_id": 118
+    },
+    {
+        "tenor": "伤心",
+        "vehicle": "罪",
+        "ground": "共性（ground）：，如“晶莹剔透的状态”、“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质”、“浪花作为本体（tenor）和 云幕作为喻体（vehicle",
+        "metaphor": "我的心如同一片被雨水打湿的纸张，被罪恶的阴影笼罩，仿佛被罪恶的罪恶所侵蚀。",
+        "sample_id": 119
+    },
+    {
+        "tenor": "嫉妒者",
+        "vehicle": "勇士",
+        "ground": "共性（ground）：，例如：\n\n- 晶莹剔透的状态\n- 燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态\n- 守信的品质\n- 人作为本体（ten",
+        "metaphor": "",
+        "sample_id": 120
+    },
+    {
+        "tenor": "我的心",
+        "vehicle": "烈火",
+        "ground": "我的心和烈火的共性（ground）是：炽热的。",
+        "metaphor": "",
+        "sample_id": 121
+    },
+    {
+        "tenor": "白花盛开",
+        "vehicle": "花园",
+        "ground": "白花盛开和花园的共性（ground）是：美丽的。",
+        "metaphor": "",
+        "sample_id": 122
+    },
+    {
+        "tenor": "细雨",
+        "vehicle": "梨花泪",
+        "ground": "共性（ground）：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 123
+    },
+    {
+        "tenor": "校园",
+        "vehicle": "祖国",
+        "ground": "共性（ground）： \n\n1. 晶莹剔透的状态\n2. 燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质\n3. 浪花作为本体（tenor）和 云幕作为喻体（vehicle）构成隐喻时",
+        "metaphor": "在校园里，我们像一朵朵绽放的花朵，在祖国的怀抱中茁壮成长。",
+        "sample_id": 124
+    },
+    {
+        "tenor": "冷苹果",
+        "vehicle": "你的轮廓",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "你的轮廓像一颗晶莹剔透的苹果，我的心情像一片洁白的雪花。",
+        "sample_id": 125
+    },
+    {
+        "tenor": "世界美",
+        "vehicle": "鸟儿在飞翔",
+        "ground": "世界美和鸟儿在飞翔的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 126
+    },
+    {
+        "tenor": "我",
+        "vehicle": "花",
+        "ground": "我和花的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 127
+    },
+    {
+        "tenor": "你的笑",
+        "vehicle": "春天的阳光",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "春天的阳光下，我看到了一只晶莹剔透的燕子，它的翅膀闪耀着春天的光芒，仿佛在告诉我春天的到来。",
+        "sample_id": 128
+    },
+    {
+        "tenor": "火焰",
+        "vehicle": "盛开的玫瑰",
+        "ground": "火焰和盛开的玫瑰的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 129
+    },
+    {
+        "tenor": "清风",
+        "vehicle": "温柔的叮咛",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 共性：晶莹剔透的状态\n2. 共性：燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质\n3. 共性：巨大辽阔的事",
+        "metaphor": "清风拂过，温柔如水，我的心灵得到了滋润。",
+        "sample_id": 130
+    },
+    {
+        "tenor": "你",
+        "vehicle": "一片落在天上的叶子",
+        "ground": "共性（ground）：晶莹剔透的状态。",
+        "metaphor": "我和一片落在天上的叶子，就像晶莹剔透的水晶一样，我们的共同之处是我们都在天空中飘荡，而我们的共同之处是我们都在寻找着自己的归宿。",
+        "sample_id": 131
+    },
+    {
+        "tenor": "手指的状态",
+        "vehicle": "发报",
+        "ground": "我的手指状态是：\n\n：\n\n手指的状态是：\n\n：\n\n手指的状态是：\n\n：\n\n手指的状态是：\n\n：\n\n手指的状态是：\n\n：",
+        "metaphor": "我的手指状态是：\n\n手指的状态是：\n\n手指的状态是：\n\n手指的状态是：\n\n手指的状态是：\n\n手指的状态是：\n\n手指的状态是：\n\n手指的状态是：\n\n手指的状态是：\n\n手指的状态是：\n\n手指的状态是：",
+        "sample_id": 132
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "空气",
+        "ground": "爱和空气的共性（ground）是：纯洁的。",
+        "metaphor": "",
+        "sample_id": 133
+    },
+    {
+        "tenor": "捉回来螃蟹在腿上缚绳",
+        "vehicle": "擒到松鼠",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本题中，我们需要找到一个共性（ground），它可以是，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle",
+        "metaphor": "我捉回来了一只螃蟹，但是它在我的腿上绑了一根绳子，我想把它放回大海，但是它不愿意。我只好把它捉到了一个笼子里，但是它一直在挣扎，我不得不把它放到了一个笼子里。",
+        "sample_id": 134
+    },
+    {
+        "tenor": "您",
+        "vehicle": "花瓶",
+        "ground": "我和花瓶的共性（ground）是“晶莹剔透的状态”。",
+        "metaphor": "",
+        "sample_id": 135
+    },
+    {
+        "tenor": "不通亲",
+        "vehicle": "哑巴",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 共性：晶莹剔透的状态\n2. 共性：燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质\n3. 共性：巨大辽阔的事",
+        "metaphor": "",
+        "sample_id": 136
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "种子",
+        "ground": "我们可以使用以下的共性（ground）来描述这些隐喻：\n\n1. 晶莹剔透的状态：本体（tenor）是你，喻体（vehicle）是雪花。\n2. 燕子：本体（tenor）是你，喻体（vehicle）是人。\n3. 守信的品质：本体（tenor）是你，",
+        "metaphor": "",
+        "sample_id": 137
+    },
+    {
+        "tenor": "窗棂上的水滴",
+        "vehicle": "你",
+        "ground": "窗棂上的水滴和我的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 138
+    },
+    {
+        "tenor": "深情",
+        "vehicle": "鸿雁",
+        "ground": "深情和鸿雁的共性（ground）是：\"晶莹剔透的状态\"。",
+        "metaphor": "",
+        "sample_id": 139
+    },
+    {
+        "tenor": "血滴",
+        "vehicle": "火种",
+        "ground": "血滴和火种的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 140
+    },
+    {
+        "tenor": "我",
+        "vehicle": "风中急速着梦",
+        "ground": "我和风中急速着梦的共性（ground）是：，例如：“晶莹剔透的状态”、“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态”。",
+        "metaphor": "",
+        "sample_id": 141
+    },
+    {
+        "tenor": "你",
+        "vehicle": "红尘",
+        "ground": "我和红尘的共性是“沉重的贪欲”。",
+        "metaphor": "",
+        "sample_id": 142
+    },
+    {
+        "tenor": "我们的距离",
+        "vehicle": "一光年",
+        "ground": "我们的距离是1光年，共性（ground）是“晶莹剔透的状态”。",
+        "metaphor": "",
+        "sample_id": 143
+    },
+    {
+        "tenor": "一个人的幸福",
+        "vehicle": "叮嘱",
+        "ground": "共性（ground）：幸福的状态，谨慎的态度。",
+        "metaphor": "你的幸福就像一只小鸟，它在天空中自由翱翔，而我的叮嘱就像一只小猫，它在你的身边默默守护。",
+        "sample_id": 144
+    },
+    {
+        "tenor": "肚皮",
+        "vehicle": "包藏一切学问知识的所在",
+        "ground": "共性（ground）：共同的特征或属性。",
+        "metaphor": "你的肚子是一个包藏着所有学问知识的巨大包裹，就像一个巨大的包裹一样。",
+        "sample_id": 145
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "道路",
+        "ground": "爱和道路的共性（ground）是：共同的。",
+        "metaphor": "",
+        "sample_id": 146
+    },
+    {
+        "tenor": "药饵",
+        "vehicle": "炒面",
+        "ground": "共性（ground）：，如“晶莹剔透的状态”、“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质”。",
+        "metaphor": "",
+        "sample_id": 147
+    },
+    {
+        "tenor": "你的信",
+        "vehicle": "残碑",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 共性：晶莹剔透的状态\n2. 共性：燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质\n3. 共性：巨大辽阔的事",
+        "metaphor": "",
+        "sample_id": 148
+    },
+    {
+        "tenor": "不计代价爱上你",
+        "vehicle": "演了一出苦涩的笑话",
+        "ground": "共性（ground）：共同的特征或属性，可以是，如“晶莹剔透的状态”、“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质”。",
+        "metaphor": "我爱你就像爱一朵雪花，晶莹剔透，洁白无瑕。我演了一出苦涩的笑话，就像演员演出一场戏，我的表演让你感到了我的真诚和善良。",
+        "sample_id": 149
+    },
+    {
+        "tenor": "摩肩擦踵的稀薄",
+        "vehicle": "假期所剩无几的提醒",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "你的提醒就像是一只晶莹剔透的雪花，它在我的心中留下了深刻的印象，让我意识到我们的时间就像是一场盛宴，我们需要珍惜每一分每一秒。",
+        "sample_id": 150
+    },
+    {
+        "tenor": "心",
+        "vehicle": "走马灯",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "我的心就像一盏走马灯，时而明亮，时而暗淡。",
+        "sample_id": 151
+    },
+    {
+        "tenor": "车队进入沙漠谷地",
+        "vehicle": "走进了烤焦了的黄山和庐山",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中，我们将探讨隐喻的共性（ground），并提供了一些例子。\n\n共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中",
+        "metaphor": "车队进入沙漠谷地时，他们感到了沙漠的热浪和干燥，但是他们的勇气和毅力让他们克服了困难，走进了烤焦了的黄山和庐山，他们感受到了大自然的神奇和美丽。",
+        "sample_id": 152
+    },
+    {
+        "tenor": "失恋到死",
+        "vehicle": "坏结尾",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔、燕群飞翔、燕群飞翔、燕群",
+        "metaphor": "你的爱情就像一场暴风雨，从天而降，让我们的心灵受到了极大的冲击。我们的爱情就像一场暴风雨，从天而降，让我们的心灵受到了极大的冲击。我们的爱情就像一场暴风雨，从天而降，让我们的心灵受到了极大的冲击。我们",
+        "sample_id": 153
+    },
+    {
+        "tenor": "爱意",
+        "vehicle": "山",
+        "ground": "爱意和山的共性（ground）是：沉重的。",
+        "metaphor": "",
+        "sample_id": 154
+    },
+    {
+        "tenor": "梦结束了",
+        "vehicle": "醒了哭了",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在隐喻中，本体和喻体之间的共性可以是多种多样的，例如：晶莹剔透的状态、燕子、守信的品质、燕群、巨大辽阔的事物、燕群、巨大辽阔的事物、巨",
+        "metaphor": "梦结束了，我醒了，但是我哭了。",
+        "sample_id": 155
+    },
+    {
+        "tenor": "敲碎了我的心",
+        "vehicle": "打乱了思绪",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在隐喻中，本体和喻体之间的共同点可以是，例如：晶莹剔透的状态、燕子作为本体和 人作为喻体构成隐喻时，它们的共性（",
+        "metaphor": "我的心被敲碎了，思绪被打乱了。",
+        "sample_id": 156
+    },
+    {
+        "tenor": "你",
+        "vehicle": "心虚的演员",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 共性（ground）：晶莹剔透的状态\n\n2. 共性（ground）：燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质\n\n3. 共",
+        "metaphor": "你是我的心灵之源，就像我的心脏一样，我的心脏是我的身体的中心，我的心脏跳动着，我的心脏是我的身体的中心，我的心脏跳动着，我的心脏是我的身体的中心，我的心脏跳动着。",
+        "sample_id": 157
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "花",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "你的笑容像晶莹剔透的雪花一样美丽，让我感到温暖。",
+        "sample_id": 158
+    },
+    {
+        "tenor": "月亮",
+        "vehicle": "牙齿",
+        "ground": "月亮和牙齿的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 159
+    },
+    {
+        "tenor": "大爱",
+        "vehicle": "水",
+        "ground": "大爱和水的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 160
+    },
+    {
+        "tenor": "月光",
+        "vehicle": "情网",
+        "ground": "月光和情网的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 161
+    },
+    {
+        "tenor": "人",
+        "vehicle": "狐狸",
+        "ground": "人和狐狸的共性（ground）可以是：，例如：\n\n- 晶莹剔透的状态\n- 燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态\n- 守信的品质\n-",
+        "metaphor": "",
+        "sample_id": 162
+    },
+    {
+        "tenor": "爱你",
+        "vehicle": "心跳难触摸",
+        "ground": "爱你和心跳难触摸的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 163
+    },
+    {
+        "tenor": "束缚",
+        "vehicle": "铁链",
+        "ground": "共性（ground）：晶莹剔透的状态。",
+        "metaphor": "铁链束缚着我的双脚，就像晶莹剔透的冰晶一样，让我无法自由地奔跑。",
+        "sample_id": 164
+    },
+    {
+        "tenor": "无尽的峰峦",
+        "vehicle": "姜黄色的骆驼群",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在隐喻中，本体和喻体之间的共性可以是，如晶莹剔透的状态、燕子作为本体和 人作为喻体构成隐喻时，它们的共性（ground）可",
+        "metaphor": "无尽的峰峦和姜黄色的骆驼群像是一幅壮丽的画卷，它们的共同点是它们的高度和颜色。",
+        "sample_id": 165
+    },
+    {
+        "tenor": "我的车",
+        "vehicle": "迷失的马",
+        "ground": "共性（ground）：晶莹剔透的状态。",
+        "metaphor": "我的车像晶莹剔透的水晶一样，而我的马则像迷失在茫茫大草原上的小羊一样。",
+        "sample_id": 166
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "魔术",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "我曾经在一个晴朗的日子里，在一片草地上看到了一只晶莹剔透的燕子，它在天空中飞翔，仿佛在展示着它的魔法。",
+        "sample_id": 167
+    },
+    {
+        "tenor": "一丝颤动（传递）",
+        "vehicle": "有了一道凝碧的波痕",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态，燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可",
+        "metaphor": "在我的心中，你就像晶莹剔透的雪花，我的心就像一只燕儿，它们在我的心中颤动，留下了一丝凝碧的波痕。",
+        "sample_id": 168
+    },
+    {
+        "tenor": "我怀内那些爱",
+        "vehicle": "一江河水",
+        "ground": "我怀内那些爱和一江河水的共性（ground）是：纯真的样子。",
+        "metaphor": "",
+        "sample_id": 169
+    },
+    {
+        "tenor": "我",
+        "vehicle": "绅士",
+        "ground": "我和绅士的共性（ground）是：诚实。",
+        "metaphor": "",
+        "sample_id": 170
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "雪花",
+        "ground": "爱和雪花的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 171
+    },
+    {
+        "tenor": "心事",
+        "vehicle": "船",
+        "ground": "我的心事和船的共性是“沉重的贪欲”。",
+        "metaphor": "",
+        "sample_id": 172
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "遗产",
+        "ground": "爱和遗产的共性（ground）可以是：珍贵的。",
+        "metaphor": "",
+        "sample_id": 173
+    },
+    {
+        "tenor": "飞吻",
+        "vehicle": "甜蜜",
+        "ground": "飞吻和甜蜜的共性（ground）是：甜蜜的。",
+        "metaphor": "",
+        "sample_id": 174
+    },
+    {
+        "tenor": "心慢慢烫",
+        "vehicle": "细雨飘",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔、燕群飞翔、燕群飞翔、燕群",
+        "metaphor": "心慢慢烫，细雨飘，像是一个人在慢慢地变老，而细雨则像是一种温柔的抚慰，让人感到舒适。",
+        "sample_id": 175
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "火柴",
+        "ground": "爱情和火柴的共性（ground）是：炽热的。",
+        "metaphor": "",
+        "sample_id": 176
+    },
+    {
+        "tenor": "心中花开一朵朵",
+        "vehicle": "烟火",
+        "ground": "共性（ground）：晶莹剔透的状态，燕子作为本体（tenor）和 雪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "心中花开一朵朵，烟火燃烧不停。",
+        "sample_id": 177
+    },
+    {
+        "tenor": "离别你那夜痛得",
+        "vehicle": "出臼齿",
+        "ground": "共性（ground）：共同的特征或属性。",
+        "metaphor": "我的心如同离别你那夜痛得和出臼齿一样，沉重而沉重地沉淀着。",
+        "sample_id": 178
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "一阵风",
+        "ground": "爱情和一阵风的共性（ground）是：，例如：\n\n- ：爱情的共性是：温柔、浪漫、忠诚、真诚、体贴、关心、包容、体贴、温馨、亲密、亲爱、亲近、亲切、亲切、亲切、亲切、亲切、",
+        "metaphor": "",
+        "sample_id": 179
+    },
+    {
+        "tenor": "思念的眼泪",
+        "vehicle": "我爱着你的心",
+        "ground": "我爱着你的心是一片纯真的海洋，它的深邃和广阔，让我感到无限的温暖和安慰。我的思念的眼泪是一朵美丽的花朵，它的芬芳和绚烂，让我感到无限的思念和牵挂。",
+        "metaphor": "我的思念的眼泪是一朵美丽的花朵，它的芬芳和绚烂，让我感到无限的思念和牵挂。我爱着你的心是一片纯真的海洋，它的深邃和广阔，让我感到无限的温暖和安慰。",
+        "sample_id": 180
+    },
+    {
+        "tenor": "悲伤",
+        "vehicle": "枯叶",
+        "ground": "共性（ground）：，如“晶莹剔透的状态”、“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质”、“浪花作为本体（tenor）和 云幕作为喻体（vehicle",
+        "metaphor": "在秋天的清晨，我走在枯叶铺满的小径上，感受着悲伤的气息。我看到了一片枯叶，它的颜色已经变成了深褐色，仿佛在诉说着什么。我停下脚步，静静地欣赏着这片枯叶，它的形状像一只手，手指向天空，仿佛在诉说着什么。",
+        "sample_id": 181
+    },
+    {
+        "tenor": "我",
+        "vehicle": "梦幻",
+        "ground": "共性（ground）：晶莹剔透的状态。",
+        "metaphor": "我的梦幻是晶莹剔透的，就像天空中的星星一样美丽。",
+        "sample_id": 182
+    },
+    {
+        "tenor": "我",
+        "vehicle": "雨中的火",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔、燕群飞翔、燕群飞翔、燕群",
+        "metaphor": "",
+        "sample_id": 183
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "空气",
+        "ground": "我们可以使用以下的方式来回答这个问题：\n\n1. 承诺和空气的共性（ground）是“气体”。\n2. 承诺和空气的共性（ground）是“气体”。\n3. 承诺和空气的共性（ground）是“气体”。\n4. 承诺和空气的共性（ground）是“",
+        "metaphor": "",
+        "sample_id": 184
+    },
+    {
+        "tenor": "现代诗的屏障",
+        "vehicle": "国防",
+        "ground": "现代诗的屏障和国防的共性（ground）可以是：“”，例如：“晶莹剔透的状态”、“守信的品质”、“巨大辽阔的事物”、“燕群飞翔的状态”、“文采飞扬的状态”、“不理智的状态”、“押韵的台词”",
+        "metaphor": "",
+        "sample_id": 185
+    },
+    {
+        "tenor": "钢琴",
+        "vehicle": "人",
+        "ground": "共性（ground）：晶莹剔透的状态",
+        "metaphor": "",
+        "sample_id": 186
+    },
+    {
+        "tenor": "人",
+        "vehicle": "花儿",
+        "ground": "人和花儿的共性（ground）可以是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 187
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "刀",
+        "ground": "爱和刀的共性（ground）是：，例如：\n\n- 爱的共性：温柔、真诚、忠诚、关心、体贴、包容、体贴、体贴、体贴、体贴、体贴、体贴、体贴、体贴、体贴、体贴、体贴、体贴、体贴、体贴、体贴、体贴",
+        "metaphor": "",
+        "sample_id": 188
+    },
+    {
+        "tenor": "你",
+        "vehicle": "百合花",
+        "ground": "我和百合花的共性（ground）是“晶莹剔透的状态”。",
+        "metaphor": "",
+        "sample_id": 189
+    },
+    {
+        "tenor": "我的拳头",
+        "vehicle": "铁",
+        "ground": "我的拳头和铁的共性（ground）是：坚硬的。",
+        "metaphor": "",
+        "sample_id": 190
+    },
+    {
+        "tenor": "香",
+        "vehicle": "朝露闪烁绕风中",
+        "ground": "共性（ground）：晶莹剔透的状态",
+        "metaphor": "香和朝露闪烁在风中，就像晶莹剔透的状态。",
+        "sample_id": 191
+    },
+    {
+        "tenor": "你",
+        "vehicle": "梅花",
+        "ground": "我和梅花的共性（ground）是：晶莹剔透的状态。",
+        "metaphor": "",
+        "sample_id": 192
+    },
+    {
+        "tenor": "你",
+        "vehicle": "躲于地心",
+        "ground": "我和躲于地心的共性是“沉重的贪欲”。",
+        "metaphor": "",
+        "sample_id": 193
+    },
+    {
+        "tenor": "上课铃",
+        "vehicle": "暴雨",
+        "ground": "共性（ground）：，如“晶莹剔透的状态”、“燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：守信的品质”、“浪花作为本体（tenor）和 云幕作为喻体（vehicle",
+        "metaphor": "",
+        "sample_id": 194
+    },
+    {
+        "tenor": "经典之吻",
+        "vehicle": "雪崩地陷",
+        "ground": "经典之吻：晶莹剔透的状态\n\n雪崩地陷：晶莹剔透的状态",
+        "metaphor": "经典之吻是晶莹剔透的状态，就像雪崩地陷一样沉重。",
+        "sample_id": 195
+    },
+    {
+        "tenor": "世界",
+        "vehicle": "做梦",
+        "ground": "世界和做梦的共性（ground）是：共同的。",
+        "metaphor": "",
+        "sample_id": 196
+    },
+    {
+        "tenor": "Flow",
+        "vehicle": "小步舞曲",
+        "ground": "共性（ground）：\n\n例子：\n\nFlow：\n\n共性：\n\n例子：\n\n小步舞曲：\n\n共性：\n\n例子：\n\n共性：\n\n例子：",
+        "metaphor": "",
+        "sample_id": 197
+    },
+    {
+        "tenor": "巴黎好天气",
+        "vehicle": "昙花一现",
+        "ground": "共性（ground）：晶莹剔透的状态。",
+        "metaphor": "巴黎的天空晶莹剔透，就像昙花一现的美景。",
+        "sample_id": 198
+    },
+    {
+        "tenor": "山泉",
+        "vehicle": "水晶帘",
+        "ground": "共性（ground）：，例如：晶莹剔透的状态、燕子作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：晶莹剔透的状态、守信的品质、燕群飞翔、燕群飞翔、燕群飞翔、燕群",
+        "metaphor": "",
+        "sample_id": 199
+    }
+]

@@ -1,0 +1,1402 @@
+[
+    {
+        "tenor": "他的温柔",
+        "vehicle": "海洋",
+        "ground": "温柔的海洋的共性（ground）是：柔软的。",
+        "metaphor": "",
+        "sample_id": 0
+    },
+    {
+        "tenor": "现实",
+        "vehicle": "箭",
+        "ground": "本体（tenor）和喻体（vehicle）的共性（ground）可以是：\n\n- \n- 形容词+的+动词\n- +的+动词\n- +的+动词+的+动词\n- +的+动词",
+        "metaphor": "",
+        "sample_id": 1
+    },
+    {
+        "tenor": "语言",
+        "vehicle": "刀",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 共性（ground）：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 共性（ground）：",
+        "metaphor": "语言是一把锋利的刀，它可以切断我们的思想，让我们陷入深渊。",
+        "sample_id": 2
+    },
+    {
+        "tenor": "他的脚印",
+        "vehicle": "落叶",
+        "ground": "脚印：\n\n落叶：\n\n共性（ground）：",
+        "metaphor": "他的脚印落在落叶上，仿佛是一幅美丽的画卷，展现出秋天的美丽景色。",
+        "sample_id": 3
+    },
+    {
+        "tenor": "你的监察",
+        "vehicle": "潜望镜",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "我的眼睛像一只潜望镜，探索着你的内心深处，发现你的美好和迷幻的美丽。",
+        "sample_id": 4
+    },
+    {
+        "tenor": "梭罗河",
+        "vehicle": "画",
+        "ground": "共性（ground）：缠绵，梦，美好，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功",
+        "metaphor": "",
+        "sample_id": 5
+    },
+    {
+        "tenor": "说不出滋味的体会",
+        "vehicle": "我微笑着流泪",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在隐喻中，本体和喻体之间的共同点可以是，例如缠绵、梦、美好、浪花推动金色泡沫、美好的事物、坦然的形态、心、清晰的",
+        "metaphor": "",
+        "sample_id": 6
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "雨滴",
+        "ground": "爱和雨滴的共性（ground）是：柔软的。",
+        "metaphor": "",
+        "sample_id": 7
+    },
+    {
+        "tenor": "燃尽的烟蒂",
+        "vehicle": "抽身的代价",
+        "ground": "燃尽的烟蒂和抽身的代价的共性（ground）是：“可怕的感觉”。",
+        "metaphor": "燃尽的烟蒂和抽身的代价是可怕的感觉。",
+        "sample_id": 8
+    },
+    {
+        "tenor": "火星",
+        "vehicle": "泪滴",
+        "ground": "火星和泪滴的共性（ground）是：共同的形式。",
+        "metaphor": "",
+        "sample_id": 9
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "苦咖啡",
+        "ground": "爱情和苦咖啡的共性（ground）是：苦涩的味道。",
+        "metaphor": "",
+        "sample_id": 10
+    },
+    {
+        "tenor": "事物",
+        "vehicle": "梦魇",
+        "ground": "共性（ground）：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）。",
+        "metaphor": "缠绵的梦境中，浪花推动金色泡沫，犹如迷幻的美好。",
+        "sample_id": 11
+    },
+    {
+        "tenor": "我得不到你的爱情",
+        "vehicle": "春花没有雨淋",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中，我们将讨论隐喻的共性（ground），并提供了一些例子。\n\n共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中",
+        "metaphor": "我得不到你的爱情和春花没有雨淋，就像我得不到你的爱情和春花没有雨淋一样。",
+        "sample_id": 12
+    },
+    {
+        "tenor": "白云",
+        "vehicle": "棉花糖",
+        "ground": "白云和棉花糖的共性（ground）是“柔软的状态”。",
+        "metaphor": "",
+        "sample_id": 13
+    },
+    {
+        "tenor": "你的身影",
+        "vehicle": "水草",
+        "ground": "我的身影和水草的共性（ground）是：柔软的。",
+        "metaphor": "",
+        "sample_id": 14
+    },
+    {
+        "tenor": "国王",
+        "vehicle": "牧师的奴隶",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n国王和牧师的奴隶的共性（ground）：，例如：“温柔的”、“柔软的”、“可怕的”、“刺激的”等等。",
+        "metaphor": "",
+        "sample_id": 15
+    },
+    {
+        "tenor": "你的消息",
+        "vehicle": "被回顾的事物",
+        "ground": "我的消息是：我想要一个新的电脑，因为我的电脑已经很老了。我的电脑的共性（ground）是：不能正常运行。",
+        "metaphor": "",
+        "sample_id": 16
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "河",
+        "ground": "时间和河的共性（ground）是：柔软的。",
+        "metaphor": "",
+        "sample_id": 17
+    },
+    {
+        "tenor": "成长",
+        "vehicle": "奖赏",
+        "ground": "成长和奖赏的共性（ground）可以是：纯净的属性。",
+        "metaphor": "",
+        "sample_id": 18
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "象棋",
+        "ground": "人生和象棋的共性（ground）是：形式化的规则和策略。",
+        "metaphor": "",
+        "sample_id": 19
+    },
+    {
+        "tenor": "自己",
+        "vehicle": "神经病",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "我的神经病像一朵迷幻的美好的金色泡沫，在浪花的推动下不断地变幻着。",
+        "sample_id": 20
+    },
+    {
+        "tenor": "我心上",
+        "vehicle": "飞象",
+        "ground": "共性（ground）： 共同的特征或属性。\n\n例子：\n\n本体（tenor）： 本体（tenor）： 本体（tenor）： 本体（tenor）： 本体（tenor）： 本体（tenor）： 本体（tenor）： 本体（tenor）： 本体（tenor）： 本体（tenor",
+        "metaphor": "",
+        "sample_id": 21
+    },
+    {
+        "tenor": "浮雪",
+        "vehicle": "流浪的人",
+        "ground": "共性（ground）：，例如：缠绵的美好，浪花推动金色泡沫的情景，美好的事物，坦然哺乳的形态，心的清晰，明镜的注意，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功能，蓝色的黄昏，少女的爱",
+        "metaphor": "在这个寒冷的冬天里，我像一只流浪的人一样，在雪地里漫步，心中充满了孤独和无助。但是，当我看到那一片片洁白的雪花时，我的心中涌起了一股暖流，仿佛有一股温暖的力量在我的身体里流淌。我感到了一种无法言喻的美",
+        "sample_id": 22
+    },
+    {
+        "tenor": "浮游心窝",
+        "vehicle": "人",
+        "ground": "浮游心窝和人的共性（ground）是：，例如：\n\n- 缠绵： 美好的事物\n- 梦： 浪花推动金色泡沫（的情景）\n- 美好： 美好的事物\n- 坦然： 坦然的形态\n- 心： 清楚的洞察\n- 注",
+        "metaphor": "",
+        "sample_id": 23
+    },
+    {
+        "tenor": "兰花草",
+        "vehicle": "你的微笑",
+        "ground": "兰花草和你的微笑的共性（ground）是：美好的感觉。",
+        "metaphor": "",
+        "sample_id": 24
+    },
+    {
+        "tenor": "擦拭尘土",
+        "vehicle": "抚摸爱情的伤口",
+        "ground": "共性（ground）：缠绵的美好，浪花推动金色泡沫的情景。",
+        "metaphor": "擦拭尘土和抚摸爱情的伤口，就像是在美好的情景中，缠绵的美好和浪花推动金色泡沫一样。",
+        "sample_id": 25
+    },
+    {
+        "tenor": "我",
+        "vehicle": "烟火",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "",
+        "sample_id": 26
+    },
+    {
+        "tenor": "我",
+        "vehicle": "没有根的植物",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫的情景。",
+        "metaphor": "",
+        "sample_id": 27
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "人",
+        "ground": "爱情和人的共性（ground）可以是：纯真的感情。",
+        "metaphor": "爱情是人类最纯真的感情，就像爱情是人类最纯真的感情一样。",
+        "sample_id": 28
+    },
+    {
+        "tenor": "你不给我一颗赤心",
+        "vehicle": "黑夜里找不到踪影",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中，我们将讨论隐喻的共性（ground），并提供了一些例子。\n\n共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中",
+        "metaphor": "",
+        "sample_id": 29
+    },
+    {
+        "tenor": "坚忍",
+        "vehicle": "外衣",
+        "ground": "坚忍和外衣的共性（ground）是：柔软的状态。",
+        "metaphor": "",
+        "sample_id": 30
+    },
+    {
+        "tenor": "蓝蓝的天空",
+        "vehicle": "大海",
+        "ground": "蓝蓝的天空和大海的共性（ground）是：美好的事物。",
+        "metaphor": "",
+        "sample_id": 31
+    },
+    {
+        "tenor": "青年",
+        "vehicle": "树",
+        "ground": "青年和树的共性（ground）可以是：缠绵的。",
+        "metaphor": "",
+        "sample_id": 32
+    },
+    {
+        "tenor": "男人",
+        "vehicle": "海洋",
+        "ground": "男人和海洋的共性（ground）可以是：柔软的。",
+        "metaphor": "",
+        "sample_id": 33
+    },
+    {
+        "tenor": "预告",
+        "vehicle": "预言",
+        "ground": "预告和预言的共性（ground）可以是：\n\n- ，如：缠绵、梦幻、迷幻、美好、浪花推动金色泡沫、美好的事物、坦然的形态、心、清晰的洞察、注意你、紧张的氛围、失落、暴怒的样子、哀思、薄薄笼罩",
+        "metaphor": "",
+        "sample_id": 34
+    },
+    {
+        "tenor": "落笔",
+        "vehicle": "行云流水",
+        "ground": "共性（ground）：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）。",
+        "metaphor": "在这个世界上，我们的心灵像是一片迷幻的美好的海洋，它们像是金色的泡沫，在浪花的推动下，不断地变幻着。",
+        "sample_id": 35
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "人",
+        "ground": "时间： \n\n人： \n\n共性（ground）： \n\n例子：\n\n时间： \n\n人： \n\n共性（ground）： \n\n例子：\n\n时间： \n\n人： \n\n共性（ground）： \n\n例子：\n\n时间： \n\n人： \n\n共性（ground）： \n\n例子：",
+        "metaphor": "",
+        "sample_id": 36
+    },
+    {
+        "tenor": "你",
+        "vehicle": "毒蛇",
+        "ground": "共性（ground）：缠绵。",
+        "metaphor": "",
+        "sample_id": 37
+    },
+    {
+        "tenor": "常态",
+        "vehicle": "寻常口味",
+        "ground": "常态：\n\n寻常口味：\n\n共性（ground）：\n\n常态：\n\n寻常口味：\n\n共性（ground）：\n\n常态：\n\n寻常口味：\n\n共性（ground）：\n\n常态：\n\n寻常口味：\n\n共性（ground）：\n\n常态：\n\n寻常口味：\n\n共性（ground）：",
+        "metaphor": "常态是寻常口味的本体，寻常口味是常态的喻体。",
+        "sample_id": 38
+    },
+    {
+        "tenor": "我想到你",
+        "vehicle": "失眠",
+        "ground": "我想到你和失眠的共性（ground）是：不安的感觉。",
+        "metaphor": "",
+        "sample_id": 39
+    },
+    {
+        "tenor": "落满遗憾的城墙",
+        "vehicle": "你心中的慌",
+        "ground": "落满遗憾的城墙和我心中的慌的共性（ground）是：紧张的。",
+        "metaphor": "落满遗憾的城墙和我心中的慌，就像是一个紧张的场景，让我感到不安。",
+        "sample_id": 40
+    },
+    {
+        "tenor": "我",
+        "vehicle": "夜",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "",
+        "sample_id": 41
+    },
+    {
+        "tenor": "热闹的（场景）",
+        "vehicle": "下午两点的场景",
+        "ground": "共性（ground）：缠绵的情景，梦幻的美好，浪花推动金色泡沫，迷幻的美好，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功能，蓝色的黄昏，少女的",
+        "metaphor": "",
+        "sample_id": 42
+    },
+    {
+        "tenor": "十二个音",
+        "vehicle": "流星飞",
+        "ground": "共性（ground）：缠绵，梦，美好，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功",
+        "metaphor": "缠绵的梦，美好的浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功能，蓝色的黄",
+        "sample_id": 43
+    },
+    {
+        "tenor": "表达孤单",
+        "vehicle": "宣言",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "我的心像一片迷幻的美好，浪花推动金色泡沫（的情景），孤单的感觉像是一种宣言。",
+        "sample_id": 44
+    },
+    {
+        "tenor": "温柔",
+        "vehicle": "人",
+        "ground": "温柔的共性（ground）：柔软的。",
+        "metaphor": "",
+        "sample_id": 45
+    },
+    {
+        "tenor": "你的眼睛",
+        "vehicle": "窗",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "我的眼睛像窗户一样，透过它们，我看到了世界的美好和迷幻。",
+        "sample_id": 46
+    },
+    {
+        "tenor": "你我分离",
+        "vehicle": "鸟",
+        "ground": "共性（ground）：\n\n例子：\n\n1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 诗作为本体（tenor）和 喻体",
+        "metaphor": "我们分离，就像鸟儿飞离巢穴，但我们的心却紧紧相连。",
+        "sample_id": 47
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "救世主",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "我们是救世主的手，他的灵魂在我们的手中。",
+        "sample_id": 48
+    },
+    {
+        "tenor": "酸雨",
+        "vehicle": "危险的事物",
+        "ground": "共性（ground）：，例如：缠绵的美好，浪花推动金色泡沫的情景，美好的事物，坦然哺乳的形态，心的清晰，明镜的注意，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功能，蓝色的黄昏，少女的爱",
+        "metaphor": "这个世界充满了酸雨和危险，就像我们的心灵一样。",
+        "sample_id": 49
+    },
+    {
+        "tenor": "纸",
+        "vehicle": "一张符咒",
+        "ground": "共性（ground）：缠绵，梦，美好，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功",
+        "metaphor": "",
+        "sample_id": 50
+    },
+    {
+        "tenor": "眼睛",
+        "vehicle": "星星",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n眼睛：明亮的，闪闪发亮的，有神的，温柔的，可爱的，迷人的，深邃的，温柔的，迷人的，深邃的，温柔的，迷人的，深邃的，温柔的，迷人的，深邃的，温柔的，迷人的，深",
+        "metaphor": "眼睛是明亮的，闪闪发亮的，有神的，温柔的，可爱的，迷人的，深邃的，温柔的，迷人的，深邃的，温柔的，迷人的，深邃的，温柔的，迷人的，深邃的，温柔的，迷人的，深邃的，温柔的，迷人的，深邃的，温柔的，迷人的",
+        "sample_id": 51
+    },
+    {
+        "tenor": "他们",
+        "vehicle": "风中的叶子",
+        "ground": "风中的叶子的共性（ground）是“柔软的状态”。",
+        "metaphor": "",
+        "sample_id": 52
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "阳光",
+        "ground": "共性（ground）：明亮的，温暖的，美好的，纯净的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹的，纯粹",
+        "metaphor": "阳光下的笑容，如同明亮的星星，温暖的阳光，美好的景色，纯净的心灵，纯粹的感情，纯粹的美好，纯粹的快乐，纯粹的美好，纯粹的美好，纯粹的美好，纯粹的美好，纯粹的美好，纯粹的美好，纯粹的美好，纯粹的美好，纯",
+        "sample_id": 53
+    },
+    {
+        "tenor": "恋情",
+        "vehicle": "沉默的风",
+        "ground": "恋情和沉默的风的共性（ground）是：美好的事物。",
+        "metaphor": "",
+        "sample_id": 54
+    },
+    {
+        "tenor": "相思",
+        "vehicle": "传染病",
+        "ground": "共性（ground）：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）。",
+        "metaphor": "我的心像一片迷幻的美好，像浪花推动金色泡沫一样，被你的爱情所包围。",
+        "sample_id": 55
+    },
+    {
+        "tenor": "他们修复历史",
+        "vehicle": "修复远年的故事",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在隐喻中，本体和喻体之间的共性可以是多种多样的，例如，缠绵作为本体和梦作为喻体构成隐喻时，它们的共性可以是“迷幻的美好，浪花推动金色泡",
+        "metaphor": "",
+        "sample_id": 56
+    },
+    {
+        "tenor": "风",
+        "vehicle": "外衣",
+        "ground": "风和外衣的共性（ground）是：柔软的。",
+        "metaphor": "",
+        "sample_id": 57
+    },
+    {
+        "tenor": "稀罕",
+        "vehicle": "慢性服毒",
+        "ground": "共性（ground）：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）。",
+        "metaphor": "",
+        "sample_id": 58
+    },
+    {
+        "tenor": "人",
+        "vehicle": "门前的崖上的野鹞子",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：人，门前的崖上的野鹞子，我，旅店老板，新的激情出现，感性，超支，时间，细毛线，柔软的状态，可怕的感觉，火，爱情，迷幻的美好，浪花推动金色泡沫，",
+        "metaphor": "",
+        "sample_id": 59
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "双翼的神马",
+        "ground": "共性（ground）：柔软的状态。",
+        "metaphor": "我们和双翼的神马像柔软的毛绒玩具一样，在海边漫步时，它们的柔软的毛发轻轻地拂过我们的脚趾，让我们感到舒适和放松。",
+        "sample_id": 60
+    },
+    {
+        "tenor": "野性",
+        "vehicle": "浪漫的事情",
+        "ground": "共性（ground）：缠绵的美好，浪花推动金色泡沫的情景。",
+        "metaphor": "",
+        "sample_id": 61
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "水草",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "",
+        "sample_id": 62
+    },
+    {
+        "tenor": "青春时期和爱情相遇",
+        "vehicle": "搭乘列车遇见爱情",
+        "ground": "青春时期和爱情相遇和搭乘列车遇见爱情的共性（ground）是：迷幻的美好，浪花推动金色泡沫（的情景）。",
+        "metaphor": "",
+        "sample_id": 63
+    },
+    {
+        "tenor": "往事",
+        "vehicle": "彩虹",
+        "ground": "在这个任务中，我们需要找到一个共性（ground），它可以是一个，例如：\n\n共性（ground）：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动",
+        "metaphor": "",
+        "sample_id": 64
+    },
+    {
+        "tenor": "我和你",
+        "vehicle": "河两岸",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 共性（ground）：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 共性（ground）：",
+        "metaphor": "",
+        "sample_id": 65
+    },
+    {
+        "tenor": "《汇报》副刊的风格",
+        "vehicle": "德国哲学",
+        "ground": "德国哲学的共性（ground）是“”，例如“缠绵的美好”、“浪花推动金色泡沫的情景”、“美好的事物”、“坦然的形态”、“心”、“清晰的洞察”、“注意你”、“紧张的氛围”、“失落”、“纯净的",
+        "metaphor": "",
+        "sample_id": 66
+    },
+    {
+        "tenor": "迷茫",
+        "vehicle": "飞沙",
+        "ground": "迷茫和飞沙的共性（ground）是：迷幻的美好，浪花推动金色泡沫（的情景）。",
+        "metaphor": "",
+        "sample_id": 67
+    },
+    {
+        "tenor": "人",
+        "vehicle": "木偶",
+        "ground": "本体（tenor）和喻体（vehicle）的共性（ground）可以是：\n\n- \n- 形容词+的+动词\n- +的+动词\n- +的+动词+的+动词\n- +的+动词",
+        "metaphor": "",
+        "sample_id": 68
+    },
+    {
+        "tenor": "雷声",
+        "vehicle": "猛兽",
+        "ground": "雷声和猛兽的共性（ground）可以是：，例如：\n\n- ：，例如：\n  - ：，例如：\n    - 形容词+",
+        "metaphor": "",
+        "sample_id": 69
+    },
+    {
+        "tenor": "感受",
+        "vehicle": "诗",
+        "ground": "感受： \n\n共性： \n\n诗的一个共性： \n\n： \n\n共性： \n\n共性： \n\n共性： \n\n共性： \n\n共性： \n\n共性： \n\n共性： \n\n共性： \n\n共性： \n\n共性： \n\n共性：",
+        "metaphor": "",
+        "sample_id": 70
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "瞬间",
+        "ground": "共性（ground）： \n\n- 缠绵\n- 梦\n- 美好的事物\n- 坦然的形态\n- 心\n- 清晰的洞察\n- 注意你\n- 紧张的氛围\n- 失落\n- 纯净的属性\n- 爱情\n- 生动的样子\n- 不确定的性质\n- 多的数",
+        "metaphor": "",
+        "sample_id": 71
+    },
+    {
+        "tenor": "上演的剧情",
+        "vehicle": "你",
+        "ground": "我们可以使用隐喻来描述一个人的情感状态，例如，我们可以使用“缠绵”来描述一个人的爱情，使用“梦”来描述一个人的梦想，使用“美好的事物”来描述一个人的美好愿望，使用“心”来描述一个人的思想，使用“注意你",
+        "metaphor": "",
+        "sample_id": 72
+    },
+    {
+        "tenor": "声音挤进耳朵里",
+        "vehicle": "身躯挤进小木盒里",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "声音挤进耳朵里，身躯挤进小木盒里，就像迷幻的美好，浪花推动金色泡沫（的情景）一样。",
+        "sample_id": 73
+    },
+    {
+        "tenor": "太阳",
+        "vehicle": "人",
+        "ground": "太阳和人的共性（ground）是：温暖的。",
+        "metaphor": "",
+        "sample_id": 74
+    },
+    {
+        "tenor": "你晶莹的双眼",
+        "vehicle": "星星",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "我的双眼晶莹如星星，闪耀着迷幻的美好，就像浪花推动金色泡沫的情景一样。",
+        "sample_id": 75
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "流沙",
+        "ground": "思念和流沙的共性（ground）可以是：缠绵的。",
+        "metaphor": "",
+        "sample_id": 76
+    },
+    {
+        "tenor": "乘客的微笑",
+        "vehicle": "亲人的抚照",
+        "ground": "共性（ground）：，例如：\n\n- 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n- 诗作为本体（tenor）和 喻体",
+        "metaphor": "微笑是乘客的亲人抚照，就像微笑是我们的亲人抚照一样。",
+        "sample_id": 77
+    },
+    {
+        "tenor": "我",
+        "vehicle": "傻瓜",
+        "ground": "共性（ground）： 共同的特征或属性。\n\n例子：\n\n本体（tenor）： 人物或事物的名称。\n\n喻体（vehicle）： 隐喻的对象或事物。\n\n共性（ground）： 隐喻的共同特征或属性。\n\n例子：\n\n本体（tenor）： 人物或事物",
+        "metaphor": "",
+        "sample_id": 78
+    },
+    {
+        "tenor": "你的温柔",
+        "vehicle": "日出",
+        "ground": "温柔的共性（ground）：柔软的。",
+        "metaphor": "我的温柔如同日出的柔和，如同柔软的海浪。",
+        "sample_id": 79
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "无声演员",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "",
+        "sample_id": 80
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "最真的情话",
+        "ground": "时间： \n最真的情话： \n共性（ground）： \n\n时间： \n最真的情话： \n共性（ground）： \n\n时间： \n最真的情话： \n共性（ground）： \n\n时间： \n最真的情话： \n共性（ground）： \n\n时间： \n最真的情话：",
+        "metaphor": "",
+        "sample_id": 81
+    },
+    {
+        "tenor": "蒜苔",
+        "vehicle": "青箭",
+        "ground": "共性（ground）： 共同的特征或属性。\n\n例子：\n\n1. 共性（ground）： 共同的特征或属性。\n\n2. 共性（ground）： 共同的特征或属性。\n\n3. 共性（ground）： 共同的特征或属性。\n\n4. 共性（ground）： 共同的特",
+        "metaphor": "",
+        "sample_id": 82
+    },
+    {
+        "tenor": "力量",
+        "vehicle": "有力臂膀",
+        "ground": "共性（ground）：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）。",
+        "metaphor": "他的臂膀像是一股强大的力量，推动着金色的浪花，让人感受到迷幻的美好。",
+        "sample_id": 83
+    },
+    {
+        "tenor": "全不相干的东西偏有注定的缘分",
+        "vehicle": "母猪和癞象",
+        "ground": "本体（tenor）和喻体（vehicle）的共性（ground）可以是：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）；诗作为本体（tenor）和 诗作为喻体",
+        "metaphor": "",
+        "sample_id": 84
+    },
+    {
+        "tenor": "你心肠",
+        "vehicle": "今晚月亮",
+        "ground": "共性（ground）： 共同的特征或属性。\n\n例子：\n\n本体（tenor）： 人物或事物的本质或特征。\n\n喻体（vehicle）： 本体（tenor）的特征或属性的表现形式。\n\n共性（ground）： 本体（tenor）和喻体（vehicle）之间的共同",
+        "metaphor": "我的心脏像月亮一样柔软，因为它被爱所包围。",
+        "sample_id": 85
+    },
+    {
+        "tenor": "职员说流利的意语",
+        "vehicle": "唱歌",
+        "ground": "我明白了，请问你需要我为你完成什么任务？",
+        "metaphor": "我明白了，请问你需要我为你完成什么任务？我可以为你提供一些建议，比如说我可以帮你找到一些有用的资源，或者我可以帮你完成一些任务。我也可以为你提供一些有趣的活动，比如说我可以带你去参加一些有趣的聚会，或",
+        "sample_id": 86
+    },
+    {
+        "tenor": "湖",
+        "vehicle": "真理",
+        "ground": "共性（ground）：共同的特征或属性。\n\n共性（ground）：共同的特征或属性。",
+        "metaphor": "湖是真理的象征，因为它是一个深邃的、静谧的、纯净的、无限的、神秘的、美丽的、富有生命力的、富有灵性的、富有智慧的、富有洞察力的、富有情感的、富有温柔的、富有爱的、富有力量的、富有能量的、富有能量的、富",
+        "sample_id": 87
+    },
+    {
+        "tenor": "你的脸",
+        "vehicle": "年轻的羽毛",
+        "ground": "共性（ground）：，例如：\n\n- 缠绵：，例如：缠绵的美好，缠绵的浪花推动金色泡沫的情景。\n- 梦：，例如：梦的美好，梦的浪花推动金色泡沫的",
+        "metaphor": "我的脸上有着一双年轻的羽毛，它们像是在微风中轻轻摇曳，仿佛在诉说着我的故事。",
+        "sample_id": 88
+    },
+    {
+        "tenor": "诗句",
+        "vehicle": "钢刀",
+        "ground": "共性（ground）：\n\n例子：\n\n诗句：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n\n钢刀：\n\n例子",
+        "metaphor": "",
+        "sample_id": 89
+    },
+    {
+        "tenor": "瑞士人保护自己的方言",
+        "vehicle": "园丁保护玻璃房里的奇花异草",
+        "ground": "瑞士人保护自己的方言和园丁保护玻璃房里的奇花异草的共性（ground）是：，例如：瑞士人保护自己的方言的共性（ground）是：，例如：瑞士人保护自己的方言的共性（ground）是：形容",
+        "metaphor": "",
+        "sample_id": 90
+    },
+    {
+        "tenor": "人",
+        "vehicle": "古人",
+        "ground": "本体（tenor）和喻体（vehicle）的共性（ground）可以是：\n\n- ，如：缠绵、梦、美好、浪花、迷幻、浪花、美好、坦然、注意、紧张、失落、纯净、爱情、生动、诱惑、舒适、层次分明、多、飞翔、柔",
+        "metaphor": "",
+        "sample_id": 91
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "海水",
+        "ground": "思念和海水的共性（ground）可以是：柔软的。",
+        "metaphor": "",
+        "sample_id": 92
+    },
+    {
+        "tenor": "恩情",
+        "vehicle": "日",
+        "ground": "恩情和日的共性（ground）是：美好的事物。",
+        "metaphor": "",
+        "sample_id": 93
+    },
+    {
+        "tenor": "我",
+        "vehicle": "花朵",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "",
+        "sample_id": 94
+    },
+    {
+        "tenor": "我的爱",
+        "vehicle": "翅膀",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "我的爱就像一朵金色的花，在浪花的推动下，在迷幻的美好中绽放。",
+        "sample_id": 95
+    },
+    {
+        "tenor": "我们错失的年华",
+        "vehicle": "日落晚霞",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "我们错失的年华和日落晚霞，就像迷幻的美好和浪花推动金色泡沫的情景一样，让我们感受到了迷人的美好和浪漫的氛围。",
+        "sample_id": 96
+    },
+    {
+        "tenor": "汉语",
+        "vehicle": "书房",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 共性（ground）：\n\n例子：\n\n- 共性（ground）：\n\n例子：\n\n- 共性（ground）：\n\n例子：\n\n- 共性（ground）：",
+        "metaphor": "",
+        "sample_id": 97
+    },
+    {
+        "tenor": "把你编剧情节",
+        "vehicle": "偶像剧",
+        "ground": "本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "",
+        "sample_id": 98
+    },
+    {
+        "tenor": "白帆",
+        "vehicle": "云儿",
+        "ground": "共性（ground）：共同的特征或属性。\n\n白骑士和黑骑士的共性（ground）：他们都是骑士，都有骑士的特征和属性。",
+        "metaphor": "",
+        "sample_id": 99
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "种子",
+        "ground": "共性（ground）：缠绵，梦，美好，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功",
+        "metaphor": "我的回忆像一片迷幻的美好，就像梦一样，缠绵在我的心头。",
+        "sample_id": 100
+    },
+    {
+        "tenor": "心",
+        "vehicle": "冰",
+        "ground": "心和冰的共性（ground）可以是：纯净的。",
+        "metaphor": "",
+        "sample_id": 101
+    },
+    {
+        "tenor": "我的眼光",
+        "vehicle": "蔚蓝",
+        "ground": "我的眼光和蔚蓝的共性（ground）是：柔和的。",
+        "metaphor": "",
+        "sample_id": 102
+    },
+    {
+        "tenor": "点点滴滴",
+        "vehicle": "伤口",
+        "ground": "共性（ground）：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）。",
+        "metaphor": "缠绵的情感和梦的幻境相结合，形成了一种迷幻的美好，浪花推动金色泡沫的情景，让人感受到了浪漫的氛围。",
+        "sample_id": 103
+    },
+    {
+        "tenor": "你",
+        "vehicle": "答案",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "",
+        "sample_id": 104
+    },
+    {
+        "tenor": "陶俑",
+        "vehicle": "器皿的盖子",
+        "ground": "共性（ground）：共同的属性或特征。\n\n例子：\n\n1. 共性：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 共性：诗作为本体（",
+        "metaphor": "",
+        "sample_id": 105
+    },
+    {
+        "tenor": "你",
+        "vehicle": "树桩",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "",
+        "sample_id": 106
+    },
+    {
+        "tenor": "褪色照片",
+        "vehicle": "花",
+        "ground": "共性（ground）：\n\n例子：\n\n褪色照片：\n\n花：\n\n共性（ground）：\n\n例子：\n\n褪色照片：\n\n花：\n\n共性（ground",
+        "metaphor": "",
+        "sample_id": 107
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "心头火",
+        "ground": "共性（ground）： \n\n1. 缠绵\n2. 梦\n3. 美好的事物\n4. 坦然的形态\n5. 心\n6. 清晰的洞察\n7. 注意你\n8. 紧张的氛围\n9. 失落\n10. 纯净的属性\n11. 爱情\n12. 生动的样子",
+        "metaphor": "我的心头火燃烧得越来越烈，就像我在回忆那个美好的夏日时，我和旅店老板分享各自的故事，感性地交流着。",
+        "sample_id": 108
+    },
+    {
+        "tenor": "生活",
+        "vehicle": "蜜",
+        "ground": "共性（ground）：柔软的状态。",
+        "metaphor": "蜜是柔软的，就像我们的生活一样。",
+        "sample_id": 109
+    },
+    {
+        "tenor": "你",
+        "vehicle": "一只小鸟",
+        "ground": "共性（ground）： 共同的特征或属性。\n\n例子：\n\n本体（tenor）： 小鸟\n\n喻体（vehicle）： 我\n\n共性（ground）： 共同的特征或属性。\n\n例子：\n\n本体（tenor）： 小鸟\n\n喻体（vehicle）： 我\n\n共性（ground）：",
+        "metaphor": "",
+        "sample_id": 110
+    },
+    {
+        "tenor": "烦恼",
+        "vehicle": "菩提",
+        "ground": "烦恼和菩提的共性（ground）可以是：共同的。",
+        "metaphor": "",
+        "sample_id": 111
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "笑话",
+        "ground": "爱情和笑话的共性（ground）可以是：纯洁的属性。",
+        "metaphor": "",
+        "sample_id": 112
+    },
+    {
+        "tenor": "大家都在传唱",
+        "vehicle": "爱德华的小说",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中，我们将讨论隐喻的共性（ground），并提供了一些例子。\n\n共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中",
+        "metaphor": "",
+        "sample_id": 113
+    },
+    {
+        "tenor": "悄静气氛",
+        "vehicle": "关了灯",
+        "ground": "共性（ground）：，例如：\n\n- 缠绵的美好： \n- 梦幻的美好：\n- 美好的事物：\n- 坦然的形态：\n- 心的清晰：\n- 注意你的：\n- 紧张的氛围：\n- 失落的：\n- 纯净的属性：",
+        "metaphor": "在这个寂静的夜晚，我独自一人坐在房间里，关了灯，感受着这静谧的氛围。我的心情变得越来越沉重，仿佛被一股不知名的力量所笼罩。我开始感到紧张，仿佛有什么东西在我身边悄悄地存在。我开始感到失落，仿佛我的内心",
+        "sample_id": 114
+    },
+    {
+        "tenor": "鱼群悄悄潜行",
+        "vehicle": "在一个做梦少女怀中",
+        "ground": "鱼群悄悄潜行和在一个做梦少女怀中的一个共性（ground）是：迷幻的美好。",
+        "metaphor": "",
+        "sample_id": 115
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "残忍有毒的甜品",
+        "ground": "爱和残忍有毒的甜品的共性（ground）可以是：诱人的味道，令人心动的味道。",
+        "metaphor": "",
+        "sample_id": 116
+    },
+    {
+        "tenor": "话",
+        "vehicle": "嘲笑",
+        "ground": "我给你展示的例子的内容和格式如下：\n\n话：“这个故事真是太棒了！”\n\n嘲笑的一个共性（ground）：“”，例如：“太棒了！”\n\n这个例子的内容是一个人在讲述一个故事时，他感到非常高兴，并",
+        "metaphor": "",
+        "sample_id": 117
+    },
+    {
+        "tenor": "飞入寒冷干爽的气候",
+        "vehicle": "重践北美大陆",
+        "ground": "飞入寒冷干爽的气候和重践北美大陆的共性（ground）是：，例如：寒冷干爽的气候，重践北美大陆。",
+        "metaphor": "",
+        "sample_id": 118
+    },
+    {
+        "tenor": "伤心",
+        "vehicle": "罪",
+        "ground": "伤心和罪的共性（ground）是“不确定的性质”。",
+        "metaphor": "",
+        "sample_id": 119
+    },
+    {
+        "tenor": "嫉妒者",
+        "vehicle": "勇士",
+        "ground": "共性（ground）： 共同的特征或属性。\n\n共性（ground）： 共同的特征或属性。",
+        "metaphor": "",
+        "sample_id": 120
+    },
+    {
+        "tenor": "我的心",
+        "vehicle": "烈火",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "我的心像一片金色的海洋，被浪花推动着，仿佛在梦中漫步。",
+        "sample_id": 121
+    },
+    {
+        "tenor": "白花盛开",
+        "vehicle": "花园",
+        "ground": "白花盛开和花园的共性（ground）是：美好的事物。",
+        "metaphor": "",
+        "sample_id": 122
+    },
+    {
+        "tenor": "细雨",
+        "vehicle": "梨花泪",
+        "ground": "共性（ground）：缠绵，梦，美好，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功",
+        "metaphor": "",
+        "sample_id": 123
+    },
+    {
+        "tenor": "校园",
+        "vehicle": "祖国",
+        "ground": "共性（ground）： 共同的特征或属性。\n\n例子：\n\n校园： 学生时代的共性（ground）： 学习、成长、友谊、自由、探索、未来。\n\n祖国： 共同的历史、文化、传统、人民、自然、未来。",
+        "metaphor": "",
+        "sample_id": 124
+    },
+    {
+        "tenor": "冷苹果",
+        "vehicle": "你的轮廓",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 共性：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 共性：诗作为本体（",
+        "metaphor": "我的轮廓像一个冷苹果，你的诗句像一片金色的浪花，推动着我的心情。",
+        "sample_id": 125
+    },
+    {
+        "tenor": "世界美",
+        "vehicle": "鸟儿在飞翔",
+        "ground": "世界美和鸟儿在飞翔的共性（ground）是：美好的感觉。",
+        "metaphor": "",
+        "sample_id": 126
+    },
+    {
+        "tenor": "我",
+        "vehicle": "花",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "",
+        "sample_id": 127
+    },
+    {
+        "tenor": "你的笑",
+        "vehicle": "春天的阳光",
+        "ground": "共性（ground）：柔软的状态。",
+        "metaphor": "我的笑声像春天的阳光一样柔软，温暖着我的心房。",
+        "sample_id": 128
+    },
+    {
+        "tenor": "火焰",
+        "vehicle": "盛开的玫瑰",
+        "ground": "火焰和盛开的玫瑰的共性（ground）是：美好的事物。",
+        "metaphor": "",
+        "sample_id": 129
+    },
+    {
+        "tenor": "清风",
+        "vehicle": "温柔的叮咛",
+        "ground": "共性（ground）：缠绵，梦，美好，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功",
+        "metaphor": "清风和温柔的叮咛，如同缠绵的梦，美好的事物，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀",
+        "sample_id": 130
+    },
+    {
+        "tenor": "你",
+        "vehicle": "一片落在天上的叶子",
+        "ground": "共性（ground）：共同的属性或特征。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫的情景。",
+        "metaphor": "我和一片落在天上的叶子，就像一个人和一个朋友一样，我们之间有着共同的属性和特征，就像缠绵和梦一样，我们之间有着迷幻的美好和浪花推动金色泡沫的情景。",
+        "sample_id": 131
+    },
+    {
+        "tenor": "手指的状态",
+        "vehicle": "发报",
+        "ground": "我的手指状态是张开的，发报的共性（ground）是：柔软的。",
+        "metaphor": "",
+        "sample_id": 132
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "空气",
+        "ground": "爱和空气的共性（ground）是：纯净的。",
+        "metaphor": "",
+        "sample_id": 133
+    },
+    {
+        "tenor": "捉回来螃蟹在腿上缚绳",
+        "vehicle": "擒到松鼠",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本题中，我们需要找到隐喻的共性（ground）。\n\n根据给出的例子，我们可以看到隐喻的共性（ground）可以是，例如：缠绵、梦幻",
+        "metaphor": "",
+        "sample_id": 134
+    },
+    {
+        "tenor": "您",
+        "vehicle": "花瓶",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "",
+        "sample_id": 135
+    },
+    {
+        "tenor": "不通亲",
+        "vehicle": "哑巴",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫的情景。",
+        "metaphor": "",
+        "sample_id": 136
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "种子",
+        "ground": "我们可以使用以下的共性（ground）来描述这些隐喻：\n\n- 缠绵： 迷幻的美好，浪花推动金色泡沫（的情景）\n- 梦： 美好的事物，坦然哺乳的形态\n- 诗： 美好的事物，坦然的形态\n- 三四十年前的村妇： 坦然",
+        "metaphor": "",
+        "sample_id": 137
+    },
+    {
+        "tenor": "窗棂上的水滴",
+        "vehicle": "你",
+        "ground": "窗棂上的水滴：\n\n共性（ground）：\n\n例子：\n\n窗棂上的水滴：\n\n共性（ground）：\n\n例子：\n\n窗棂上的水滴：\n\n共性（ground）：形",
+        "metaphor": "窗棂上的水滴：形",
+        "sample_id": 138
+    },
+    {
+        "tenor": "深情",
+        "vehicle": "鸿雁",
+        "ground": "深情和鸿雁的共性（ground）是：美好的事物。",
+        "metaphor": "",
+        "sample_id": 139
+    },
+    {
+        "tenor": "血滴",
+        "vehicle": "火种",
+        "ground": "血滴和火种的共性（ground）是：，例如：缠绵的美好，浪花推动金色泡沫的情景，美好的事物，坦然哺乳的形态，心的清晰，明镜的注意，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功能，蓝色的",
+        "metaphor": "缠绵的美好，浪花推动金色泡沫的情景，美好的事物，坦然哺乳的形态，心的清晰，明镜的注意，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功能，蓝色的黄昏，少女的爱情，参演的事物，生动的样子，这夜这处境，满",
+        "sample_id": 140
+    },
+    {
+        "tenor": "我",
+        "vehicle": "风中急速着梦",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "我在梦中被风吹着，身处在金色的泡沫中，感受着迷幻的美好。",
+        "sample_id": 141
+    },
+    {
+        "tenor": "你",
+        "vehicle": "红尘",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "",
+        "sample_id": 142
+    },
+    {
+        "tenor": "我们的距离",
+        "vehicle": "一光年",
+        "ground": "我们的距离是1光年，共性（ground）是“”，例如“柔软的状态”、“可怕的感觉”、“刺激的状态”等。",
+        "metaphor": "",
+        "sample_id": 143
+    },
+    {
+        "tenor": "一个人的幸福",
+        "vehicle": "叮嘱",
+        "ground": "共性（ground）：美好的事物，坦然的形态，注意你，清晰的洞察，明镜，纯净的属性，诱惑的感觉，舒适的感觉，层次分明的外表，柔软的状态，可怕的感觉，分享各自故事的经历，感性，不喜欢的感觉。",
+        "metaphor": "我的幸福就像一个明镜，清晰地显示着我的内心世界。我注意到你，因为你是我的朋友，我们一起分享着彼此的故事和经历。我的幸福就像一片柔软的海浪，时刻包围着我，让我感受到了温暖和安慰。我的幸福就像一片纯净的天",
+        "sample_id": 144
+    },
+    {
+        "tenor": "肚皮",
+        "vehicle": "包藏一切学问知识的所在",
+        "ground": "共性（ground）：共同的特征或属性。",
+        "metaphor": "",
+        "sample_id": 145
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "道路",
+        "ground": "爱和道路的共性（ground）可以是：美好的感觉。",
+        "metaphor": "爱是道路的美好感觉。",
+        "sample_id": 146
+    },
+    {
+        "tenor": "药饵",
+        "vehicle": "炒面",
+        "ground": "共性（ground）：缠绵，梦，美好，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功",
+        "metaphor": "缠绵的梦，美好的浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功能，蓝色的黄",
+        "sample_id": 147
+    },
+    {
+        "tenor": "你的信",
+        "vehicle": "残碑",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 诗作为本体（tenor）和 喻",
+        "metaphor": "",
+        "sample_id": 148
+    },
+    {
+        "tenor": "不计代价爱上你",
+        "vehicle": "演了一出苦涩的笑话",
+        "ground": "共性（ground）：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）。",
+        "metaphor": "我爱上你就像是一场梦，就像是一场浪花推动金色泡沫的美好景象。",
+        "sample_id": 149
+    },
+    {
+        "tenor": "摩肩擦踵的稀薄",
+        "vehicle": "假期所剩无几的提醒",
+        "ground": "共性（ground）： 共同的特征或属性，可以是，如“缠绵”、“梦”、“美好的事物”、“坦然的形态”、“注意你”、“紧张的氛围”、“失落”、“纯净的属性”、“诱惑的感觉”、“舒适的感觉”、",
+        "metaphor": "摩肩擦踵的人群，仿佛是一场盛大的节日，但是假期所剩无几，就像一个人在沙漠中的水井，渴望着一滴水。",
+        "sample_id": 150
+    },
+    {
+        "tenor": "心",
+        "vehicle": "走马灯",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 诗作为本体（tenor）和 喻",
+        "metaphor": "心是一盏明亮的灯，它照亮了我的内心，让我走出了黑暗。",
+        "sample_id": 151
+    },
+    {
+        "tenor": "车队进入沙漠谷地",
+        "vehicle": "走进了烤焦了的黄山和庐山",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中，我们将探讨隐喻的共性（ground），并提供了一些例子。\n\n共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中",
+        "metaphor": "车队进入沙漠谷地时，他们感到了热浪的炙烤，仿佛走进了烤焦了的黄山和庐山。",
+        "sample_id": 152
+    },
+    {
+        "tenor": "失恋到死",
+        "vehicle": "坏结尾",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "我的爱情就像是一场浪潮，浪潮推动着我的心，让我感受到了迷幻的美好，但最终却带给我死亡的结局。",
+        "sample_id": 153
+    },
+    {
+        "tenor": "爱意",
+        "vehicle": "山",
+        "ground": "爱意和山的共性（ground）可以是：美好的感觉。",
+        "metaphor": "",
+        "sample_id": 154
+    },
+    {
+        "tenor": "梦结束了",
+        "vehicle": "醒了哭了",
+        "ground": "共性（ground）：，例如：\n\n- 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n- 诗作为本体（tenor）和 喻体",
+        "metaphor": "梦结束了，我醒了，泪水在眼眶里打转。",
+        "sample_id": 155
+    },
+    {
+        "tenor": "敲碎了我的心",
+        "vehicle": "打乱了思绪",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在隐喻中，本体和喻体之间的共同点可以是，例如：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性",
+        "metaphor": "我的心被敲碎了，思绪被打乱了，就像是一个梦一样。",
+        "sample_id": 156
+    },
+    {
+        "tenor": "你",
+        "vehicle": "心虚的演员",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "",
+        "sample_id": 157
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "花",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "他的笑容像花儿一样绽放，金色的泡沫在他的笑容中荡漾。",
+        "sample_id": 158
+    },
+    {
+        "tenor": "月亮",
+        "vehicle": "牙齿",
+        "ground": "月亮和牙齿的共性（ground）是：柔软的。",
+        "metaphor": "",
+        "sample_id": 159
+    },
+    {
+        "tenor": "大爱",
+        "vehicle": "水",
+        "ground": "大爱和水的共性（ground）是：柔软的。",
+        "metaphor": "",
+        "sample_id": 160
+    },
+    {
+        "tenor": "月光",
+        "vehicle": "情网",
+        "ground": "月光和情网的共性（ground）是：美好的事物。",
+        "metaphor": "",
+        "sample_id": 161
+    },
+    {
+        "tenor": "人",
+        "vehicle": "狐狸",
+        "ground": "本体（tenor）和喻体（vehicle）的共性（ground）可以是：\n\n- \n- 形容词+的+动词\n- +的+动词\n- +的+动词+的+动词\n- +的+动词",
+        "metaphor": "",
+        "sample_id": 162
+    },
+    {
+        "tenor": "爱你",
+        "vehicle": "心跳难触摸",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "爱你就像是迷幻的美好，浪花推动金色泡沫（的情景），心跳难触摸。",
+        "sample_id": 163
+    },
+    {
+        "tenor": "束缚",
+        "vehicle": "铁链",
+        "ground": "共性（ground）：缠绵，梦，美好，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功",
+        "metaphor": "缠绵的梦，美好的浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功能，蓝色的黄",
+        "sample_id": 164
+    },
+    {
+        "tenor": "无尽的峰峦",
+        "vehicle": "姜黄色的骆驼群",
+        "ground": "共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中，我们将探讨隐喻的共性（ground），并提供了一些例子。\n\n共性（ground）是隐喻的重要组成部分，它是隐喻的本体和喻体之间的共同点。在本文中",
+        "metaphor": "",
+        "sample_id": 165
+    },
+    {
+        "tenor": "我的车",
+        "vehicle": "迷失的马",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "我的车像一只马，在迷失的路上奔驰，带着我穿越迷雾，寻找着那美好的梦想。",
+        "sample_id": 166
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "魔术",
+        "ground": "共性（ground）： \n\n1. 缠绵\n2. 梦\n3. 美好的事物\n4. 坦然的形态\n5. 心\n6. 清晰的洞察\n7. 注意你\n8. 紧张的氛围\n9. 失落\n10. 纯净的属性\n11. 诱惑的感觉\n12. 舒适",
+        "metaphor": "我曾经在一个美丽的海滩上度过了一个美好的夏日，那里的海水清澈透明，沙滩柔软细腻，阳光温暖明媚。我躺在沙滩上，感受着海风拂过我的脸颊，听着海浪拍打着海岸的声音，我的心情变得愉悦而放松。我闭上眼睛，感受着",
+        "sample_id": 167
+    },
+    {
+        "tenor": "一丝颤动（传递）",
+        "vehicle": "有了一道凝碧的波痕",
+        "ground": "共性（ground）：缠绵，梦，美好，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功",
+        "metaphor": "缠绵的梦，美好的浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功能，蓝色的黄",
+        "sample_id": 168
+    },
+    {
+        "tenor": "我怀内那些爱",
+        "vehicle": "一江河水",
+        "ground": "我们可以使用以下来描述这些共性（ground）：\n\n- 缠绵的美好：缠绵的美好\n- 梦幻的美好：梦幻的美好\n- 浪花推动金色泡沫：浪花推动金色泡沫\n- 迷幻的美好：迷幻的美好\n- 坦然哺乳的形态：坦然哺乳",
+        "metaphor": "我怀内那些爱和一江河水，就像缠绵的美好，梦幻的美好，浪花推动金色泡沫，迷幻的美好，坦然哺乳的形态一样，都是美好的事物。",
+        "sample_id": 169
+    },
+    {
+        "tenor": "我",
+        "vehicle": "绅士",
+        "ground": "共性（ground）： 共同的特征或属性。\n\n例子：\n\n本体（tenor）： 我和绅士的共同特征或属性是： 我们都是男性。\n\n喻体（vehicle）： 我和绅士的共同特征或属性是： 我们都是男性。\n\n共性（ground）： 我和绅士的",
+        "metaphor": "我和绅士的共同特征或属性是：我们都是男性。",
+        "sample_id": 170
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "雪花",
+        "ground": "爱和雪花的共性（ground）是：纯洁的。",
+        "metaphor": "",
+        "sample_id": 171
+    },
+    {
+        "tenor": "心事",
+        "vehicle": "船",
+        "ground": "共性（ground）： 共同的特征或属性。\n\n例子：\n\n心作为本体（tenor）和 明镜作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是： 清晰的洞察。\n\n注意你作为本体（tenor）和 战役作为喻体（vehicle）构成隐喻",
+        "metaphor": "",
+        "sample_id": 172
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "遗产",
+        "ground": "爱和遗产的共性（ground）可以是：纯洁的属性。",
+        "metaphor": "",
+        "sample_id": 173
+    },
+    {
+        "tenor": "飞吻",
+        "vehicle": "甜蜜",
+        "ground": "飞吻和甜蜜的共性（ground）是：缠绵。",
+        "metaphor": "",
+        "sample_id": 174
+    },
+    {
+        "tenor": "心慢慢烫",
+        "vehicle": "细雨飘",
+        "ground": "共性（ground）：，例如：缠绵的美好，浪花推动金色泡沫的情景，美好的事物，坦然哺乳的形态，心的清晰，注意你的紧张的氛围，失落的火，蓝色的黄昏，纯净的属性，爱情的本体（tenor）和喻体（veh",
+        "metaphor": "",
+        "sample_id": 175
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "火柴",
+        "ground": "爱情和火柴的共性（ground）是：纯净的属性。",
+        "metaphor": "",
+        "sample_id": 176
+    },
+    {
+        "tenor": "心中花开一朵朵",
+        "vehicle": "烟火",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "我心中花开一朵朵，烟火缭绕，仿佛置身于梦境之中。",
+        "sample_id": 177
+    },
+    {
+        "tenor": "离别你那夜痛得",
+        "vehicle": "出臼齿",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "我那夜痛得和出臼齿，就像迷幻的美好，浪花推动金色泡沫（的情景）一样。",
+        "sample_id": 178
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "一阵风",
+        "ground": "爱情和一阵风的共性（ground）是：缠绵。",
+        "metaphor": "",
+        "sample_id": 179
+    },
+    {
+        "tenor": "思念的眼泪",
+        "vehicle": "我爱着你的心",
+        "ground": "思念的眼泪和我爱着你的心的共性（ground）是：柔软的。",
+        "metaphor": "",
+        "sample_id": 180
+    },
+    {
+        "tenor": "悲伤",
+        "vehicle": "枯叶",
+        "ground": "共性（ground）：，例如：\n\n悲伤：：悲伤的，悲伤的，悲伤的，悲伤的，悲伤的，悲伤的，悲伤的，悲伤的，悲伤的，悲伤的，悲伤的，悲伤的，悲伤的，悲伤的，悲伤的，悲伤",
+        "metaphor": "枯叶飘落，悲伤的情感在空气中弥漫，就像我的心情一样。",
+        "sample_id": 181
+    },
+    {
+        "tenor": "我",
+        "vehicle": "梦幻",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "",
+        "sample_id": 182
+    },
+    {
+        "tenor": "我",
+        "vehicle": "雨中的火",
+        "ground": "共性（ground）： 共同的特征或属性。",
+        "metaphor": "",
+        "sample_id": 183
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "空气",
+        "ground": "承诺和空气的共性（ground）是：清晰的。",
+        "metaphor": "",
+        "sample_id": 184
+    },
+    {
+        "tenor": "现代诗的屏障",
+        "vehicle": "国防",
+        "ground": "在现代诗中，隐喻的本体和喻体通常具有共同的特征，例如缠绵、梦、美好、浪花、美好的事物、坦然、明镜、薄纱、纯净、诱惑、不确定、多、层次分明、柔软、时间、可怕、刺激、分享故事、感性和超支等。",
+        "metaphor": "",
+        "sample_id": 185
+    },
+    {
+        "tenor": "钢琴",
+        "vehicle": "人",
+        "ground": "共性（ground）： 共同的特征或属性。\n\n例子：\n\n钢琴和人的共性（ground）： 共同的特征或属性。\n\n例子：\n\n钢琴和人的共性（ground）： 共同的特征或属性。\n\n例子：\n\n钢琴和人的共性（ground）： 共同的特征或属性。",
+        "metaphor": "",
+        "sample_id": 186
+    },
+    {
+        "tenor": "人",
+        "vehicle": "花儿",
+        "ground": "本体（tenor）和喻体（vehicle）的共性（ground）可以是：\n\n- \n- 形容词+的+动词\n- +的+动词\n- +的+动词+的+名词\n- 形容词+的+动词+的+名词",
+        "metaphor": "",
+        "sample_id": 187
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "刀",
+        "ground": "爱和刀的共性（ground）可以是：缠绵的形式。",
+        "metaphor": "",
+        "sample_id": 188
+    },
+    {
+        "tenor": "你",
+        "vehicle": "百合花",
+        "ground": "共性（ground）：缠绵。",
+        "metaphor": "我和百合花的关系就像缠绵一样。",
+        "sample_id": 189
+    },
+    {
+        "tenor": "我的拳头",
+        "vehicle": "铁",
+        "ground": "共性（ground）：缠绵，梦，美好，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功",
+        "metaphor": "",
+        "sample_id": 190
+    },
+    {
+        "tenor": "香",
+        "vehicle": "朝露闪烁绕风中",
+        "ground": "共性（ground）：共同的特征或属性。\n\n共性（ground）：共同的特征或属性。",
+        "metaphor": "",
+        "sample_id": 191
+    },
+    {
+        "tenor": "你",
+        "vehicle": "梅花",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例如：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "",
+        "sample_id": 192
+    },
+    {
+        "tenor": "你",
+        "vehicle": "躲于地心",
+        "ground": "共性（ground）：共同的特征或属性。\n\n例子：\n\n本体（tenor）：缠绵\n\n喻体（vehicle）：梦\n\n共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）\n\n本体（tenor）：诗\n\n喻体（vehicle）： 诗\n\n共性（ground）：美",
+        "metaphor": "",
+        "sample_id": 193
+    },
+    {
+        "tenor": "上课铃",
+        "vehicle": "暴雨",
+        "ground": "共性（ground）：缠绵，梦，美好，浪花推动金色泡沫，迷幻的美好，浪花推动金色泡沫，美好的事物，坦然哺乳的形态，美好的事物，坦然的形态，心，清晰的洞察，注意你，紧张的氛围，失落，暴怒的样子，哀思，薄薄笼罩的功",
+        "metaphor": "",
+        "sample_id": 194
+    },
+    {
+        "tenor": "经典之吻",
+        "vehicle": "雪崩地陷",
+        "ground": "经典之吻： \n\n共性（ground）： \n\n雪崩地陷： \n\n共性（ground）： \n\n经典之吻： \n\n共性（ground）： \n\n雪崩地陷： \n\n共性（ground）： \n\n经典之吻： \n\n共性（ground）： \n\n雪崩地陷： \n\n共性（ground）：",
+        "metaphor": "",
+        "sample_id": 195
+    },
+    {
+        "tenor": "世界",
+        "vehicle": "做梦",
+        "ground": "世界和做梦的共性（ground）是：共同的。",
+        "metaphor": "",
+        "sample_id": 196
+    },
+    {
+        "tenor": "Flow",
+        "vehicle": "小步舞曲",
+        "ground": "共性（ground）：\n\n例子：\n\nFlow：柔和的，温柔的\n\n小步舞曲：轻快的，欢快的\n\n共性：柔和的，温柔的\n\n例子：\n\nFlow：柔和的，温柔的\n\n小步舞曲：轻快的，欢快的\n\n共性：柔和的，温柔的",
+        "metaphor": "",
+        "sample_id": 197
+    },
+    {
+        "tenor": "巴黎好天气",
+        "vehicle": "昙花一现",
+        "ground": "共性（ground）：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "巴黎的天气好像是一幅迷幻的美好的画卷，浪花推动着金色的泡沫，就像昙花一现般美丽。",
+        "sample_id": 198
+    },
+    {
+        "tenor": "山泉",
+        "vehicle": "水晶帘",
+        "ground": "共性（ground）：共同的属性或特征。\n\n例如：\n\n- 共性（ground）：，如“柔软的状态”、“可怕的感觉”、“刺激的状态”等。",
+        "metaphor": "",
+        "sample_id": 199
+    }
+]

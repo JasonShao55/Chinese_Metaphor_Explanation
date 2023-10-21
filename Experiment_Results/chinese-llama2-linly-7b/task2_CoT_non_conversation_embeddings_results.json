@@ -1,0 +1,1402 @@
+[
+    {
+        "tenor": "他的温柔",
+        "vehicle": "* 一只温柔的小猫，它的毛发柔软而温暖，它的眼神充满了爱和关怀，它的身体轻盈而灵活，它的尾巴轻轻地摇曳着，仿佛在表达着它",
+        "ground": "包容的能力",
+        "metaphor": "一只温柔的小猫，它的毛发柔软而温暖，它的眼神充满了爱和关怀，它的身体轻盈而灵活，它的尾巴轻轻地摇曳着，仿佛在表达着它的温柔和。",
+        "sample_id": 0
+    },
+    {
+        "tenor": "现实",
+        "vehicle": "本体（tenor）",
+        "ground": "刺痛的感受",
+        "metaphor": "",
+        "sample_id": 1
+    },
+    {
+        "tenor": "语言",
+        "vehicle": "本体（tenor）",
+        "ground": "无情的伤害",
+        "metaphor": "",
+        "sample_id": 2
+    },
+    {
+        "tenor": "他的脚印",
+        "vehicle": "本体（tenor）",
+        "ground": "繁多的数量",
+        "metaphor": "他的脚印深深地印在我的心中，像一个本体（tenor），让我感受到了他的存在。",
+        "sample_id": 3
+    },
+    {
+        "tenor": "你的监察",
+        "vehicle": "本体（tenor）",
+        "ground": "残酷的监察、无情的监察",
+        "metaphor": "我的监察是残酷的，就像行李箱中的行李一样沉重。我的本体（tenor）是我自己，就像行李箱中的行李一样。",
+        "sample_id": 4
+    },
+    {
+        "tenor": "梭罗河",
+        "vehicle": "本体（tenor）",
+        "ground": "美丽的风景",
+        "metaphor": "",
+        "sample_id": 5
+    },
+    {
+        "tenor": "说不出滋味的体会",
+        "vehicle": "本体（tenor）",
+        "ground": "苦涩的伪装",
+        "metaphor": "",
+        "sample_id": 6
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "爱是一种下坠的动作，就像一个人在爱上另一个人时，他们的心灵会像一个小孩子一样，慢慢地下降，直到他们的心灵融合在一起。",
+        "ground": "下坠的动作",
+        "metaphor": "爱是一种下坠的动作，就像一个人在爱上另一个人时，他们的心灵会像一个小孩子一样，慢慢地下降，直到他们的心灵融合在一起。",
+        "sample_id": 7
+    },
+    {
+        "tenor": "燃尽的烟蒂",
+        "vehicle": "- 雪花",
+        "ground": "自损八百的属性",
+        "metaphor": "",
+        "sample_id": 8
+    },
+    {
+        "tenor": "火星",
+        "vehicle": "“火星闪耀着美丽的光芒，像一颗闪耀的钻石。”",
+        "ground": "闪亮美好的属性",
+        "metaphor": "火星闪耀着美丽的光芒，像一颗闪耀的钻石。",
+        "sample_id": 9
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "爱情是一种甜蜜的感觉，但也会有苦涩的时刻。就像一个人在享受着甜蜜的爱情时，也会经历着苦涩的体验。这种苦涩的体验可能是因为爱情的不稳",
+        "ground": "苦涩的体验",
+        "metaphor": "爱情是一种甜蜜的感觉，但也会有苦涩的时刻。就像一个人在享受着甜蜜的爱情时，也会经历着苦涩的体验。这种苦涩的体验可能是因为爱情的不稳。",
+        "sample_id": 10
+    },
+    {
+        "tenor": "事物",
+        "vehicle": "本体（tenor）",
+        "ground": "可怕的感觉",
+        "metaphor": "",
+        "sample_id": 11
+    },
+    {
+        "tenor": "我得不到你的爱情",
+        "vehicle": "本体（tenor）",
+        "ground": "得不到的爱情",
+        "metaphor": "我得不到你的爱情，就像我得不到天空的宽阔和你的共性（共性：本体（tenor））一样沉重。",
+        "sample_id": 12
+    },
+    {
+        "tenor": "白云",
+        "vehicle": "白云。",
+        "ground": "白色的外形",
+        "metaphor": "白云是白色的，它们在天空中飘荡，像是一片片白色的绸缎。",
+        "sample_id": 13
+    },
+    {
+        "tenor": "你的身影",
+        "vehicle": "我的身影，以我的身体作为本体（tenor）和以 漂浮的形态作为共性（ground）。",
+        "ground": "漂浮的形态",
+        "metaphor": "我的身影，以我的身体作为本体（tenor）和以 漂浮的形态作为共性（ground）。",
+        "sample_id": 14
+    },
+    {
+        "tenor": "国王",
+        "vehicle": "“一只小小的蚂蚁”。",
+        "ground": "卑微的样子",
+        "metaphor": "国王是一只小小的蚂蚁，他的身体微小，但他的心胸却宽广。",
+        "sample_id": 15
+    },
+    {
+        "tenor": "你的消息",
+        "vehicle": "本体（tenor）",
+        "ground": "纪念的价值",
+        "metaphor": "",
+        "sample_id": 16
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "本体（tenor）",
+        "ground": "漫长的流淌",
+        "metaphor": "",
+        "sample_id": 17
+    },
+    {
+        "tenor": "成长",
+        "vehicle": "本体（tenor）",
+        "ground": "给人的奖励",
+        "metaphor": "",
+        "sample_id": 18
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "人生就像一场旅行，有时会有美好的风景和愉悦的体验，有时会有艰难的路程和不确定的未来。",
+        "ground": "复杂的状态",
+        "metaphor": "人生就像一场旅行，有时会有美好的风景和愉悦的体验，有时会有艰难的路程和不确定的未来。",
+        "sample_id": 19
+    },
+    {
+        "tenor": "自己",
+        "vehicle": "本体（tenor）",
+        "ground": "乱跳的动作",
+        "metaphor": "我是本体（tenor），而我的共性（ground）是我的身体。",
+        "sample_id": 20
+    },
+    {
+        "tenor": "我心上",
+        "vehicle": "本体（tenor）",
+        "ground": "闪闪的发亮",
+        "metaphor": "我心中的本体（tenor）闪闪发亮，就像我的本体（tenor）在阳光下闪闪发亮一样。",
+        "sample_id": 21
+    },
+    {
+        "tenor": "浮雪",
+        "vehicle": "雪花。",
+        "ground": "漂浮的景象",
+        "metaphor": "“雪花”是一种漂浮的景象，它们在空中飞舞，像是在天空中跳跃的精灵。",
+        "sample_id": 22
+    },
+    {
+        "tenor": "浮游心窝",
+        "vehicle": "本体（tenor）",
+        "ground": "畅快的舞动",
+        "metaphor": "本体（tenor）和共性（ground）之间的关系就像是一个人的身体和心脏之间的关系，本体（tenor）是身体的一部分，而共性（ground）则是心脏的一部分。本体（tenor）和共性（ground）之间的关系就像是一个人的身体和心脏之间的关系，本",
+        "sample_id": 23
+    },
+    {
+        "tenor": "兰花草",
+        "vehicle": "兰花草，以甜美的样子作为本体（tenor）和以 美丽的花朵作为共性（ground）。",
+        "ground": "甜美漂亮的样子",
+        "metaphor": "兰花草，以甜美的样子作为本体（tenor）和以 美丽的花朵作为共性（ground），是一种美丽的花卉，它的花朵通常呈现出淡紫色或粉色，散发出淡淡的香气，给人带来舒适和平静的感觉。",
+        "sample_id": 24
+    },
+    {
+        "tenor": "擦拭尘土",
+        "vehicle": "本体（tenor）",
+        "ground": "轻柔的动作",
+        "metaphor": "本体（tenor）擦拭尘土，就像我擦拭你的心灵，以保持它的纯洁和美丽。",
+        "sample_id": 25
+    },
+    {
+        "tenor": "我",
+        "vehicle": "本体（tenor）",
+        "ground": "不一样的存在",
+        "metaphor": "我是本体（tenor），你是共性（ground），我们之间的关系就像一个行李箱和一个人一样。",
+        "sample_id": 26
+    },
+    {
+        "tenor": "我",
+        "vehicle": "本体（tenor）",
+        "ground": "流逝的生机",
+        "metaphor": "我是本体（tenor），而你是共性（ground）。",
+        "sample_id": 27
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "爱情是一种美妙的感情，但它也可能会带来痛苦和失去生命的风险。就像一个人在驾驶汽车时，如果他们不小心撞到了一个障碍物，",
+        "ground": "失去生命的状态",
+        "metaphor": "爱情是一种美妙的感情，但它也可能会带来痛苦和失去生命的风险。就像一个人在驾驶汽车时，如果他们不小心撞到了一个障碍物，那么他们就会失去生命。",
+        "sample_id": 28
+    },
+    {
+        "tenor": "你不给我一颗赤心",
+        "vehicle": "本体（tenor）",
+        "ground": "得不到的痛苦",
+        "metaphor": "我不能给你一颗赤心和本体（tenor），因为你的本体（tenor）已经被贪婪和欲望所占据，而我只能给你一个沉重的痛苦，让你意识到你的本体（tenor）已经被贪婪和欲望所占据。",
+        "sample_id": 29
+    },
+    {
+        "tenor": "坚忍",
+        "vehicle": "隐喻",
+        "ground": "掩盖的状态",
+        "metaphor": "",
+        "sample_id": 30
+    },
+    {
+        "tenor": "蓝蓝的天空",
+        "vehicle": "蓝蓝的天空，像一个宽广的海洋，让人感到无限的宽广和深邃。",
+        "ground": "宽广的样子",
+        "metaphor": "蓝蓝的天空，像一个宽广的海洋，让人感到无限的宽广和深邃。",
+        "sample_id": 31
+    },
+    {
+        "tenor": "青年",
+        "vehicle": "雪花。",
+        "ground": "挺立绷直的状态",
+        "metaphor": "青年的身体像雪花一样洁白，他的心灵也像雪花一样纯洁。",
+        "sample_id": 32
+    },
+    {
+        "tenor": "男人",
+        "vehicle": "“宽阔的胸襟”。",
+        "ground": "宽阔的胸襟",
+        "metaphor": "男人的宽阔胸襟，就像天空的广阔，让人感受到无限的宽广和深邃。",
+        "sample_id": 33
+    },
+    {
+        "tenor": "预告",
+        "vehicle": "本体（tenor）",
+        "ground": "准确的时间",
+        "metaphor": "",
+        "sample_id": 34
+    },
+    {
+        "tenor": "落笔",
+        "vehicle": "本体（tenor）",
+        "ground": "流畅的感觉",
+        "metaphor": "我的笔落在纸上，仿佛是一只鸟儿在飞翔，而我的本体（tenor）则是一片广袤的天空。",
+        "sample_id": 35
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "本体（tenor）",
+        "ground": "流泪的动作",
+        "metaphor": "",
+        "sample_id": 36
+    },
+    {
+        "tenor": "你",
+        "vehicle": "本体（tenor）",
+        "ground": "危险的属性",
+        "metaphor": "",
+        "sample_id": 37
+    },
+    {
+        "tenor": "常态",
+        "vehicle": "本体（tenor）",
+        "ground": "平常的感觉",
+        "metaphor": "",
+        "sample_id": 38
+    },
+    {
+        "tenor": "我想到你",
+        "vehicle": "本体（tenor）",
+        "ground": "着迷的状态",
+        "metaphor": "我想到你就像是一片晶莹剔透的天空，你的美丽和纯真让我感到无比的沉醉。",
+        "sample_id": 39
+    },
+    {
+        "tenor": "落满遗憾的城墙",
+        "vehicle": "本体（tenor）",
+        "ground": "我不在乎的悲伤",
+        "metaphor": "",
+        "sample_id": 40
+    },
+    {
+        "tenor": "我",
+        "vehicle": "本体（tenor）",
+        "ground": "神秘的属性",
+        "metaphor": "",
+        "sample_id": 41
+    },
+    {
+        "tenor": "热闹的（场景）",
+        "vehicle": "本体（tenor）",
+        "ground": "热闹的下午",
+        "metaphor": "本体（tenor）是一个人，他在热闹的下午里，沉浸在共性（vehicle）的沉重贪欲中，仿佛一只被困在行李箱里的蚕。",
+        "sample_id": 42
+    },
+    {
+        "tenor": "十二个音",
+        "vehicle": "本体（tenor）",
+        "ground": "动听的声响",
+        "metaphor": "",
+        "sample_id": 43
+    },
+    {
+        "tenor": "表达孤单",
+        "vehicle": "本体（tenor）",
+        "ground": "堂堂正正的立场",
+        "metaphor": "",
+        "sample_id": 44
+    },
+    {
+        "tenor": "温柔",
+        "vehicle": "* 温柔的微笑",
+        "ground": "依偎的行为",
+        "metaphor": "* 温柔的微笑是* 温柔的微笑的* 温柔的微笑的* 温柔的微笑的* 温柔的微笑的* 温柔的微笑的* 温柔的微笑的* 温柔的微笑的* 温柔的微笑的* 温柔的微笑的* 温柔的微笑的* 温柔的微笑的* 温柔",
+        "sample_id": 45
+    },
+    {
+        "tenor": "你的眼睛",
+        "vehicle": "本体（tenor）",
+        "ground": "开放的状态",
+        "metaphor": "我的眼睛像一片湛蓝的海洋，深邃而广阔。",
+        "sample_id": 46
+    },
+    {
+        "tenor": "你我分离",
+        "vehicle": "本体（tenor）",
+        "ground": "各自远去的背影",
+        "metaphor": "我们的关系就像行李箱和本体（tenor）的关系，本体（tenor）远去了，行李箱却依旧存在。",
+        "sample_id": 47
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "本体（tenor）",
+        "ground": "保卫的功能",
+        "metaphor": "我们是本体（tenor），而本体（tenor）是我们的共性（ground）。",
+        "sample_id": 48
+    },
+    {
+        "tenor": "酸雨",
+        "vehicle": "冰雹。冰雹是酸雨的一种形式，通常由酸雨中的水汽凝结而成，形成的时候会伴随着强烈的风暴和闪电。冰雹的形状和大小因酸雨的类型和浓",
+        "ground": "危险的接触",
+        "metaphor": "冰雹是酸雨的一种形式，通常由酸雨中的水汽凝结而成，形成的时候会伴随着强烈的风暴和闪电。冰雹的形状和大小因酸雨的类型和浓度而异，有时会呈现出不同的形状和大小。",
+        "sample_id": 49
+    },
+    {
+        "tenor": "纸",
+        "vehicle": "本体（tenor）",
+        "ground": "纸张的形状",
+        "metaphor": "纸张的形状像一个本体（tenor），而我的本体（tenor）是一个人。",
+        "sample_id": 50
+    },
+    {
+        "tenor": "眼睛",
+        "vehicle": "闪电。",
+        "ground": "闪烁明亮的动态",
+        "metaphor": "眼睛是闪电的映照，闪电是眼睛的闪耀。",
+        "sample_id": 51
+    },
+    {
+        "tenor": "他们",
+        "vehicle": "本体（tenor）",
+        "ground": "茫然的心理",
+        "metaphor": "",
+        "sample_id": 52
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "本体（tenor）",
+        "ground": "快乐的样子",
+        "metaphor": "",
+        "sample_id": 53
+    },
+    {
+        "tenor": "恋情",
+        "vehicle": "恋情的本体（tenor）",
+        "ground": "恋情的含蓄",
+        "metaphor": "恋情是一种本体（tenor）和共性（ground）的关系，就像一个人的身体和心灵之间的关系一样。",
+        "sample_id": 54
+    },
+    {
+        "tenor": "相思",
+        "vehicle": "* 伤口，以你作为本体（tenor）和以 疼痛的感觉作为共性（ground）。",
+        "ground": "伤害的影响",
+        "metaphor": "相思是一种痛苦，就像伤口一样。",
+        "sample_id": 55
+    },
+    {
+        "tenor": "他们修复历史",
+        "vehicle": "修复历史，以陈旧的样子作为本体（tenor）和以 沉重的感觉作为共性（ground）。",
+        "ground": "陈旧的样子",
+        "metaphor": "修复历史，以陈旧的样子作为本体（tenor）和以 沉重的感觉作为共性（ground）。",
+        "sample_id": 56
+    },
+    {
+        "tenor": "风",
+        "vehicle": "",
+        "ground": "裹挟的衣服",
+        "metaphor": "风，如同一个穿着共性裹挟的衣服的行李箱，它的本体是我，而共性是我的沉重的贪欲。",
+        "sample_id": 57
+    },
+    {
+        "tenor": "稀罕",
+        "vehicle": "本体（tenor）",
+        "ground": "伤人的能力",
+        "metaphor": "",
+        "sample_id": 58
+    },
+    {
+        "tenor": "人",
+        "vehicle": "野人。",
+        "ground": "野的属性",
+        "metaphor": "",
+        "sample_id": 59
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "本体（tenor）",
+        "ground": "快速的飞驰",
+        "metaphor": "我们的心灵像一只飞翔的鸟儿，在天空中自由翱翔，而我们的思想则像一只行李箱，在旅途中不停地奔跑，追寻着我们的梦想。",
+        "sample_id": 60
+    },
+    {
+        "tenor": "野性",
+        "vehicle": "火焰。",
+        "ground": "强烈的情感",
+        "metaphor": "火焰是一种野性的象征，它燃烧着我的心灵，让我感受到了无尽的热情和激情。",
+        "sample_id": 61
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "本体（tenor）",
+        "ground": "苍老的状态",
+        "metaphor": "我们的本体（tenor）就像苍老的状态，而我们的共性（ground）就像晶莹剔透的状态。",
+        "sample_id": 62
+    },
+    {
+        "tenor": "青春时期和爱情相遇",
+        "vehicle": "本体（tenor）",
+        "ground": "默契的遇见",
+        "metaphor": "青春时期，我们像行李箱一样背负着梦想和希望，在寻找属于自己的爱情。当我们遇见了那个本体（tenor）时，我们的心灵被深深地打动，就像行李箱里的文学家一样，我们的内心开始变得丰富而沉重，贪婪地渴望着这份爱情。",
+        "sample_id": 63
+    },
+    {
+        "tenor": "往事",
+        "vehicle": "本体（tenor）",
+        "ground": "绚烂的甜美",
+        "metaphor": "我的心像一片绚烂的甜美，就像你给我的本体（tenor）一样绚烂。",
+        "sample_id": 64
+    },
+    {
+        "tenor": "我和你",
+        "vehicle": "本体（tenor）",
+        "ground": "遥远的距离",
+        "metaphor": "",
+        "sample_id": 65
+    },
+    {
+        "tenor": "《汇报》副刊的风格",
+        "vehicle": "本体（tenor）",
+        "ground": "另类的感觉",
+        "metaphor": "",
+        "sample_id": 66
+    },
+    {
+        "tenor": "迷茫",
+        "vehicle": "本体（tenor）",
+        "ground": "紧密的环绕",
+        "metaphor": "",
+        "sample_id": 67
+    },
+    {
+        "tenor": "人",
+        "vehicle": "行李箱。",
+        "ground": "呆滞的行为",
+        "metaphor": "人是行李箱，行李箱是人。",
+        "sample_id": 68
+    },
+    {
+        "tenor": "雷声",
+        "vehicle": "咆哮。",
+        "ground": "咆哮的声音",
+        "metaphor": "雷声和咆哮是两种不同的声音，但它们都是强烈的。雷声是一种短暂而强烈的电流，通常伴随着闪电和雷雨。而咆哮是一种强烈的情感表达，通常用于表达愤怒、愤慨或愤怒。因此，一个可能的含有关于雷声和咆哮",
+        "sample_id": 69
+    },
+    {
+        "tenor": "感受",
+        "vehicle": "本体（tenor）",
+        "ground": "甜美的内容",
+        "metaphor": "",
+        "sample_id": 70
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "人生就像一场旅行，我们在旅途中经历了许多美好和不美好的事情，但最终我们都会走向终点，回忆起这段旅程，感受到生命的意义和价值。",
+        "ground": "短暂的存在",
+        "metaphor": "人生就像一场旅行，我们在旅途中经历了许多美好和不美好的事情，但最终我们都会走向终点，回忆起这段旅程，感受到生命的意义和价值。",
+        "sample_id": 71
+    },
+    {
+        "tenor": "上演的剧情",
+        "vehicle": "本体（tenor）",
+        "ground": "孤单的内心",
+        "metaphor": "",
+        "sample_id": 72
+    },
+    {
+        "tenor": "声音挤进耳朵里",
+        "vehicle": "本体（tenor）",
+        "ground": "拥挤的状态",
+        "metaphor": "本体（tenor）和共性（ground）之间的关系就像声音挤进耳朵里一样，本体（tenor）就像是声音的发出者，而共性（ground）就像是声音的接收者。",
+        "sample_id": 73
+    },
+    {
+        "tenor": "太阳",
+        "vehicle": "本体（tenor）",
+        "ground": "光芒万丈的感觉",
+        "metaphor": "太阳是本体（tenor），它的光芒万丈，如同本体（tenor）的光芒一样灿烂。",
+        "sample_id": 74
+    },
+    {
+        "tenor": "你晶莹的双眼",
+        "vehicle": "晶莹的双眼作为本体（tenor）和闪耀的姿态作为共性（ground）时的一个喻体（vehicle），可以是“你的双眼”。",
+        "ground": "闪耀的姿态",
+        "metaphor": "",
+        "sample_id": 75
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "思念是一种无形的力量，它像一股无形的力量，在我的心中蔓延，像一股无形的力量，在我的心中蔓延。它像一股无形的力量，在我的心中蔓延",
+        "ground": "弥漫的状态",
+        "metaphor": "思念是一种无形的力量，它像一股无形的力量，在我的心中蔓延，像一股无形的力量，在我的心中蔓延。它像一股无形的力量，在我的心中蔓延。",
+        "sample_id": 76
+    },
+    {
+        "tenor": "乘客的微笑",
+        "vehicle": "本体（tenor）",
+        "ground": "温暖的感觉",
+        "metaphor": "乘客微笑着，仿佛本体（tenor）的温暖感觉在他的心中蔓延开来。",
+        "sample_id": 77
+    },
+    {
+        "tenor": "我",
+        "vehicle": "本体（tenor）",
+        "ground": "愚蠢的样子",
+        "metaphor": "我是本体（tenor），你是共性（ground），我们之间的关系就像一个行李箱和一个人一样。",
+        "sample_id": 78
+    },
+    {
+        "tenor": "你的温柔",
+        "vehicle": "本体（tenor）",
+        "ground": "短暂的存在",
+        "metaphor": "我的温柔如同你的本体（tenor）一样，如同晶莹剔透的状态一样。",
+        "sample_id": 79
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "本体（tenor）",
+        "ground": "沉默的状态",
+        "metaphor": "我们的本体（tenor）是一个沉默的状态，就像我们的共性（ground）是一个丰富的内涵。",
+        "sample_id": 80
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "本体（tenor）",
+        "ground": "真实的属性",
+        "metaphor": "",
+        "sample_id": 81
+    },
+    {
+        "tenor": "蒜苔",
+        "vehicle": "我给你展示的例子的内容和格式如下",
+        "ground": "长长的形状",
+        "metaphor": "我给你展示的例子的内容和格式如下：\n\n我给你展示的例子的内容和格式如下：\n\n我给你展示的例子的内容和格式如下：\n\n我给你展示的例子的内容和格式如下：\n\n我给你展示的例子的内容和格式如下：\n\n我给你展示",
+        "sample_id": 82
+    },
+    {
+        "tenor": "力量",
+        "vehicle": "本体（tenor）",
+        "ground": "支撑的作用",
+        "metaphor": "",
+        "sample_id": 83
+    },
+    {
+        "tenor": "全不相干的东西偏有注定的缘分",
+        "vehicle": "本体（tenor）",
+        "ground": "天造地设的关系",
+        "metaphor": "",
+        "sample_id": 84
+    },
+    {
+        "tenor": "你心肠",
+        "vehicle": "本体（tenor）",
+        "ground": "繁多的变化",
+        "metaphor": "我的心肠像一片洁白的云，在你的身边时，我的本体（tenor）就像一只温柔的鸟儿，在你的身边飞翔。",
+        "sample_id": 85
+    },
+    {
+        "tenor": "职员说流利的意语",
+        "vehicle": "我想构思一个隐喻，本体是你，共性是晶莹剔透的状态。我想构思一个隐喻，本体是我，共性是巨大辽阔的事物。我想构思一个隐喻，本体是燕子，共性是守信的品质。我想构思一个隐喻，本体是人，共性是巨大辽阔的事物。我",
+        "ground": "流畅的感觉",
+        "metaphor": "",
+        "sample_id": 86
+    },
+    {
+        "tenor": "湖",
+        "vehicle": "湖水。",
+        "ground": "朴素的样子",
+        "metaphor": "湖水如同一面镜子，映照着天空的蓝色和大地的绿色，清澈透明，让人心旷神怡。",
+        "sample_id": 87
+    },
+    {
+        "tenor": "你的脸",
+        "vehicle": "本体（tenor）",
+        "ground": "鲜艳的外表",
+        "metaphor": "我的脸上有着一双晶莹剔透的眼睛，就像你的本体（tenor）一样。",
+        "sample_id": 88
+    },
+    {
+        "tenor": "诗句",
+        "vehicle": "我的诗句是",
+        "ground": "划破颜面的利刃",
+        "metaphor": "我的诗句是一把锋利的利刃，可以划破别人的颜面。",
+        "sample_id": 89
+    },
+    {
+        "tenor": "瑞士人保护自己的方言",
+        "vehicle": "瑞士人，以他们的方言作为本体（tenor）和以 温柔的态度作为共性（ground）。",
+        "ground": "小心翼翼的呵护",
+        "metaphor": "瑞士人，以他们的方言作为本体（tenor）和以 温柔的态度作为共性（ground）。他们保护自己的方言，以温柔的态度对待他们的语言。",
+        "sample_id": 90
+    },
+    {
+        "tenor": "人",
+        "vehicle": "梦境。",
+        "ground": "失眠的状态",
+        "metaphor": "人是梦境的主人，他们可以控制自己的梦境，让它们变得美好或者可怕。",
+        "sample_id": 91
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "思念的本体（tenor）是一个人，他的共性（ground）是令人无法自拔的思念。",
+        "ground": "令人无法自拔的属性",
+        "metaphor": "思念的本体（tenor）是一个人，他的共性（ground）是令人无法自拔的思念。",
+        "sample_id": 92
+    },
+    {
+        "tenor": "恩情",
+        "vehicle": "恩情是本体（tenor），难以报答的情感是共性（ground）。\n\n例如，我可以写一个关于恩情的寓言，其中恩情是本体（tenor），而难以报答的情感是共性（ground）。\n\n“有一只小鸟，它的翅膀受伤了，无法飞翔。它飞到了一个森林",
+        "ground": "难以报答的情感",
+        "metaphor": "恩情是本体（tenor），难以报答的情感是共性（ground）。\n\n例如，我可以写一个关于恩情的寓言，其中恩情是本体（tenor），而难以报答的情感是共性（ground）。\n\n“有一只小鸟，它的翅膀受伤了，无法飞翔。它飞到了一个森林",
+        "sample_id": 93
+    },
+    {
+        "tenor": "我",
+        "vehicle": "本体（tenor）",
+        "ground": "灿烂的人生",
+        "metaphor": "我的本体（tenor）是一个灿烂的人生，就像你所描述的那样。",
+        "sample_id": 94
+    },
+    {
+        "tenor": "我的爱",
+        "vehicle": "我的心，以温暖的感觉作为共性（ground）。",
+        "ground": "无私奉献的爱",
+        "metaphor": "我的爱像温暖的阳光，照耀着我的心，让我感到温暖和安慰。我的心像温暖的海洋，深深地包容着我，让我感到无限的爱和温暖。",
+        "sample_id": 95
+    },
+    {
+        "tenor": "我们错失的年华",
+        "vehicle": "本体（tenor）",
+        "ground": "消逝的光芒",
+        "metaphor": "",
+        "sample_id": 96
+    },
+    {
+        "tenor": "汉语",
+        "vehicle": "本体（tenor）",
+        "ground": "浩瀚的知识",
+        "metaphor": "",
+        "sample_id": 97
+    },
+    {
+        "tenor": "把你编剧情节",
+        "vehicle": "本体（tenor）",
+        "ground": "浪漫的情节",
+        "metaphor": "",
+        "sample_id": 98
+    },
+    {
+        "tenor": "白帆",
+        "vehicle": "天堂，以你作为",
+        "ground": "相似的颜色、漂浮的动作",
+        "metaphor": "天堂是一个白色的地方，因为它是纯洁的，而白色是纯洁的颜色。天堂是一个漂浮的地方，因为它是无限的，而漂浮是一种无限的状态。天堂是一个沉重的地方，因为它是永恒的，而沉重是一种永恒的状态。天堂是一个纯真的地",
+        "sample_id": 99
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "本体（tenor）",
+        "ground": "蕴含希望的属性",
+        "metaphor": "我的本体（tenor）是一个人，我的共性（ground）是希望。我的希望是像一个孩子一样纯真，像一个山一样高大，像一个圆球一样圆润，像一个神仙一样快乐长寿，像一个人一样宽广，像一个文学家一样丰富。",
+        "sample_id": 100
+    },
+    {
+        "tenor": "心",
+        "vehicle": "我的心像寒冷的温度一样，寒冷的温度像我的心一样。",
+        "ground": "寒冷的温度",
+        "metaphor": "我的心像寒冷的温度一样，寒冷的温度像我的心一样。",
+        "sample_id": 101
+    },
+    {
+        "tenor": "我的眼光",
+        "vehicle": "本体（tenor）",
+        "ground": "透彻的状态",
+        "metaphor": "我的眼光如同晶莹剔透的状态，本体（tenor）是我。",
+        "sample_id": 102
+    },
+    {
+        "tenor": "点点滴滴",
+        "vehicle": "本体（tenor）",
+        "ground": "不曾复原的状态",
+        "metaphor": "",
+        "sample_id": 103
+    },
+    {
+        "tenor": "你",
+        "vehicle": "本体（tenor）",
+        "ground": "正确的选择",
+        "metaphor": "",
+        "sample_id": 104
+    },
+    {
+        "tenor": "陶俑",
+        "vehicle": "本体（tenor）",
+        "ground": "圆且空的形态",
+        "metaphor": "",
+        "sample_id": 105
+    },
+    {
+        "tenor": "你",
+        "vehicle": "本体（tenor）",
+        "ground": "矗立的状态",
+        "metaphor": "",
+        "sample_id": 106
+    },
+    {
+        "tenor": "褪色照片",
+        "vehicle": "本体（tenor）",
+        "ground": "快乐的时光",
+        "metaphor": "我的本体（tenor）是一张褪色的照片，它的共性（ground）是我的快乐的时光。",
+        "sample_id": 107
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "本体（tenor）",
+        "ground": "永恒不绝的浮现",
+        "metaphor": "我的本体（tenor）是一个人，我的共性（ground）是我的记忆。",
+        "sample_id": 108
+    },
+    {
+        "tenor": "生活",
+        "vehicle": "本体（tenor）",
+        "ground": "甜蜜美好的安定",
+        "metaphor": "",
+        "sample_id": 109
+    },
+    {
+        "tenor": "你",
+        "vehicle": "本体（tenor）",
+        "ground": "小心翼翼的依偎",
+        "metaphor": "我的心如同你的本体（tenor）一样，小心翼翼地依偎在你的身边，并且我的心中充满了沉重的贪欲，就像行李箱一样。",
+        "sample_id": 110
+    },
+    {
+        "tenor": "烦恼",
+        "vehicle": "本体（tenor）",
+        "ground": "平静的心态",
+        "metaphor": "本体（tenor）是一个人，他的烦恼像一只被困在笼子里的小鸟，无法自由飞翔。",
+        "sample_id": 111
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "爱情是一种可笑的痴情，就像一个人在海边捡到一个贝壳，然后把它放在口袋里，但是贝壳却一直在他的心里。",
+        "ground": "可笑的痴情",
+        "metaphor": "爱情是一种可笑的痴情，就像一个人在海边捡到一个贝壳，然后把它放在口袋里，但是贝壳却一直在他的心里。",
+        "sample_id": 112
+    },
+    {
+        "tenor": "大家都在传唱",
+        "vehicle": "本体（tenor）",
+        "ground": "被人效仿的行径",
+        "metaphor": "",
+        "sample_id": 113
+    },
+    {
+        "tenor": "悄静气氛",
+        "vehicle": "本体（tenor）",
+        "ground": "安静的气氛",
+        "metaphor": "本体（tenor）是一种静止的状态，而本体（tenor）的本体（tenor）是一种静止的状态。",
+        "sample_id": 114
+    },
+    {
+        "tenor": "鱼群悄悄潜行",
+        "vehicle": "鱼群悄悄潜行，轻柔的感觉。",
+        "ground": "轻柔的感觉",
+        "metaphor": "鱼群悄悄潜行，轻柔的感觉。",
+        "sample_id": 115
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "爱是一种不可自拔的沉迷，就像一个人被深深地吸引，无法自拔地沉浸在其中。它像一个巨大的漩涡，将你吸入其中，让你无法自拔。",
+        "ground": "不可自拔的沉迷",
+        "metaphor": "爱是一种不可自拔的沉迷，就像一个人被深深地吸引，无法自拔地沉浸在其中。它像一个巨大的漩涡，将你吸入其中，让你无法自拔。",
+        "sample_id": 116
+    },
+    {
+        "tenor": "话",
+        "vehicle": "本体（tenor）",
+        "ground": "伤人的能力",
+        "metaphor": "",
+        "sample_id": 117
+    },
+    {
+        "tenor": "飞入寒冷干爽的气候",
+        "vehicle": "冰冷的天空。",
+        "ground": "冷的特点",
+        "metaphor": "飞入寒冷干爽的气候和冰冷的天空，仿佛置身于一片冰冷的世界。",
+        "sample_id": 118
+    },
+    {
+        "tenor": "伤心",
+        "vehicle": "泪水。",
+        "ground": "悲伤的过错",
+        "metaphor": "泪水是悲伤的象征，它代表着内心的痛苦和无奈。",
+        "sample_id": 119
+    },
+    {
+        "tenor": "嫉妒者",
+        "vehicle": "本体（tenor）",
+        "ground": "傲岸而又疲惫的神态",
+        "metaphor": "嫉妒者的心情就像本体（tenor）的傲岸而又疲惫的神态一样，他们的嫉妒之情像本体（tenor）的共性（ground）一样沉重而又疲惫。",
+        "sample_id": 120
+    },
+    {
+        "tenor": "我的心",
+        "vehicle": "本体（tenor）",
+        "ground": "奔放的心情",
+        "metaphor": "我的心像一片广袤的天空，无垠而深邃，像一只无垠的鸟儿，在天空中自由翱翔。",
+        "sample_id": 121
+    },
+    {
+        "tenor": "白花盛开",
+        "vehicle": "",
+        "ground": "五彩缤纷的颜色",
+        "metaphor": "白花盛开，如同你的心灵，在我的心中绽放。",
+        "sample_id": 122
+    },
+    {
+        "tenor": "细雨",
+        "vehicle": "珍珠。",
+        "ground": "可贵的价值",
+        "metaphor": "细雨如珍珠，滋润着大地。",
+        "sample_id": 123
+    },
+    {
+        "tenor": "校园",
+        "vehicle": "本体（tenor）",
+        "ground": "美丽的属性",
+        "metaphor": "校园是一个美丽的本体（tenor），它的共性（ground）是纯真的样子。",
+        "sample_id": 124
+    },
+    {
+        "tenor": "冷苹果",
+        "vehicle": "脆弱的苹果。",
+        "ground": "脆弱的状态",
+        "metaphor": "脆弱的苹果，如同脆弱的心灵，需要温柔的呵护。",
+        "sample_id": 125
+    },
+    {
+        "tenor": "世界美",
+        "vehicle": "自由的鸟儿。",
+        "ground": "自由的状态",
+        "metaphor": "世界美在自由的鸟儿身上展现，它们在天空中自由翱翔，展现出自由的美丽。",
+        "sample_id": 126
+    },
+    {
+        "tenor": "我",
+        "vehicle": "本体（tenor）",
+        "ground": "绚烂的开放",
+        "metaphor": "我是本体（tenor），你是共性（ground），我们之间的关系就像一个行李箱和一个文学家一样。",
+        "sample_id": 127
+    },
+    {
+        "tenor": "你的笑",
+        "vehicle": "我的笑是本体（tenor），阳光开朗的模样是共性（ground）。",
+        "ground": "阳光开朗的模样",
+        "metaphor": "我的笑是本体（tenor），阳光开朗的模样是共性（ground）。",
+        "sample_id": 128
+    },
+    {
+        "tenor": "火焰",
+        "vehicle": "烈焰。",
+        "ground": "炙热的状态",
+        "metaphor": "火焰是烈焰的一种，它是一种炽热的能量，可以燃烧物质，并产生光和热。火焰是一种强烈的能量，可以燃烧物质，并产生光和热。",
+        "sample_id": 129
+    },
+    {
+        "tenor": "清风",
+        "vehicle": "温暖的阳光。",
+        "ground": "温暖的属性",
+        "metaphor": "清风拂过，温暖的阳光洒在我的脸上，仿佛一片温暖的海洋，让我感到无比舒适。",
+        "sample_id": 130
+    },
+    {
+        "tenor": "你",
+        "vehicle": "本体（tenor）",
+        "ground": "随遇而安的感觉",
+        "metaphor": "我的本体（tenor）是一个人，我的共性（ground）是一种沉重的贪欲。",
+        "sample_id": 131
+    },
+    {
+        "tenor": "手指的状态",
+        "vehicle": "本体（tenor）",
+        "ground": "动弹的速度",
+        "metaphor": "我的手指像雪花一样晶莹剔透，像燕子一样轻盈灵巧。",
+        "sample_id": 132
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "爱是一种无私的情感，它可以让人们感受到温暖和幸福。它可以让人们感受到彼此之间的亲密和关爱，让人们感受到生命的意义和价值",
+        "ground": "不可或缺的地位",
+        "metaphor": "爱是一种无私的情感，它可以让人们感受到温暖和幸福。它可以让人们感受到彼此之间的亲密和关爱，让人们感受到生命的意义和价值。",
+        "sample_id": 133
+    },
+    {
+        "tenor": "捉回来螃蟹在腿上缚绳",
+        "vehicle": "本体（tenor）",
+        "ground": "玩物的功能",
+        "metaphor": "",
+        "sample_id": 134
+    },
+    {
+        "tenor": "您",
+        "vehicle": "本体（tenor）",
+        "ground": "美丽的外表",
+        "metaphor": "我的本体（tenor）是一个美丽的女孩，她的外表像一朵绽放的花朵，而我的共性（ground）是一种沉重的贪欲，就像一个沉重的行李箱。",
+        "sample_id": 135
+    },
+    {
+        "tenor": "不通亲",
+        "vehicle": "本体（tenor）",
+        "ground": "无言的形象",
+        "metaphor": "",
+        "sample_id": 136
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "我承诺你的未来，就像我承诺你的现在一样。我们的友谊像一座坚固的山，它的高度和宽度都是无限的。我们的友谊像一条清澈的溪流，它的流量和温度都是恒定的。我们的友谊像一片广袤的草原，它的美丽和宁静都是无限的。",
+        "ground": "未来的希望",
+        "metaphor": "我承诺你的未来，就像我承诺你的现在一样。我们的友谊像一座坚固的山，它的高度和宽度都是无限的。我们的友谊像一条清澈的溪流，它的流量和温度都是恒定的。我们的友谊像一片广袤的草原，它的美丽和宁静都是无限的。",
+        "sample_id": 137
+    },
+    {
+        "tenor": "窗棂上的水滴",
+        "vehicle": "- 隐喻",
+        "ground": "挥之不去的性质",
+        "metaphor": "",
+        "sample_id": 138
+    },
+    {
+        "tenor": "深情",
+        "vehicle": "* 雪花",
+        "ground": "传递感情的功能",
+        "metaphor": "* 雪花，晶莹剔透，如同你的眼神，深情而纯净。",
+        "sample_id": 139
+    },
+    {
+        "tenor": "血滴",
+        "vehicle": "希望之火。",
+        "ground": "燃烧的希望",
+        "metaphor": "血滴燃烧的希望之火，如同希望之火燃烧的血滴一样，燃烧着我的心灵，点燃了我的内心的希望之火，让我的心灵燃烧着希望之火，燃烧着我的内心的希望之火，燃烧着我的内心的希望之火。",
+        "sample_id": 140
+    },
+    {
+        "tenor": "我",
+        "vehicle": "本体（tenor）",
+        "ground": "惬意的享受",
+        "metaphor": "我的本体（tenor）是一个人，我的共性（ground）是一种愉悦的享受。",
+        "sample_id": 141
+    },
+    {
+        "tenor": "你",
+        "vehicle": "本体（tenor）",
+        "ground": "掠过的个体",
+        "metaphor": "",
+        "sample_id": 142
+    },
+    {
+        "tenor": "我们的距离",
+        "vehicle": "本体（tenor）",
+        "ground": "遥远的隔阂",
+        "metaphor": "我们之间的距离如同我们的本体（tenor）和共性（ground）之间的距离一样遥远。",
+        "sample_id": 143
+    },
+    {
+        "tenor": "一个人的幸福",
+        "vehicle": "本体（tenor）",
+        "ground": "孤独的氛围",
+        "metaphor": "",
+        "sample_id": 144
+    },
+    {
+        "tenor": "肚皮",
+        "vehicle": "本体（tenor）",
+        "ground": "保存知识的功能",
+        "metaphor": "我的肚子像一个饱满的水桶，因为我的本体（tenor）是一个饱满的文学家。",
+        "sample_id": 145
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "爱是一种无私的情感，它可以让我们感受到温暖和幸福。它可以让我们的心灵得到满足，让我们的生活变得更加美好。爱是一种无条件",
+        "ground": "通向美好的终点",
+        "metaphor": "",
+        "sample_id": 146
+    },
+    {
+        "tenor": "药饵",
+        "vehicle": "本体（tenor）",
+        "ground": "方正的形状",
+        "metaphor": "",
+        "sample_id": 147
+    },
+    {
+        "tenor": "你的信",
+        "vehicle": "本体（tenor）",
+        "ground": "残缺的模糊",
+        "metaphor": "",
+        "sample_id": 148
+    },
+    {
+        "tenor": "不计代价爱上你",
+        "vehicle": "本体（tenor）",
+        "ground": "好笑的行为",
+        "metaphor": "我爱你就像爱一个本体（tenor）一样，就像爱一个拥有丰富内涵的共性（ground）一样。",
+        "sample_id": 149
+    },
+    {
+        "tenor": "摩肩擦踵的稀薄",
+        "vehicle": "本体（tenor）",
+        "ground": "不幸的信号",
+        "metaphor": "",
+        "sample_id": 150
+    },
+    {
+        "tenor": "心",
+        "vehicle": "本体（tenor）",
+        "ground": "不安宁的状态",
+        "metaphor": "我的心像一只被困在笼子里的小鸟，无法自由飞翔。",
+        "sample_id": 151
+    },
+    {
+        "tenor": "车队进入沙漠谷地",
+        "vehicle": "本体（tenor）",
+        "ground": "焦黄的样子",
+        "metaphor": "",
+        "sample_id": 152
+    },
+    {
+        "tenor": "失恋到死",
+        "vehicle": "本体（tenor）",
+        "ground": "糟糕的结局",
+        "metaphor": "",
+        "sample_id": 153
+    },
+    {
+        "tenor": "爱意",
+        "vehicle": "爱是一种无形的力量，它可以让人们感受到温暖和安慰。在我的生活中，我最爱的人是我的父母。他们是我的天使，他们的爱和关怀让我感到无比温暖和安慰。他们的爱是一种无形的力量，它可以让我感到无限的幸福和满足。我",
+        "ground": "耸峙沉默不衰的状态",
+        "metaphor": "爱是一种无形的力量，它可以让人们感受到温暖和安慰。在我的生活中，我最爱的人是我的父母。他们是我的天使，他们的爱和关怀让我感到无比温暖和安慰。他们的爱是一种无形的力量，它可以让我感到无限的幸福和满足。",
+        "sample_id": 154
+    },
+    {
+        "tenor": "梦结束了",
+        "vehicle": "本体（tenor）",
+        "ground": "伤心的了结",
+        "metaphor": "我的梦结束了，我的本体（tenor）是我的心灵。",
+        "sample_id": 155
+    },
+    {
+        "tenor": "敲碎了我的心",
+        "vehicle": "我的心被敲碎了，就像一个被打碎的玻璃杯，碎片四处飞溅。我的心情像一片混乱的海洋，波涛汹涌，无法平静。",
+        "ground": "扰乱的心绪",
+        "metaphor": "敲碎了我的心，就像一个被打碎的玻璃杯，碎片四处飞溅。我的心情像一片混乱的海洋，波涛汹涌，无法平静。",
+        "sample_id": 156
+    },
+    {
+        "tenor": "你",
+        "vehicle": "本体（tenor）",
+        "ground": "虚伪的表演",
+        "metaphor": "我是本体（tenor），你是共性（ground），我们之间的关系就像一个行李箱和一个人一样，我们之间的关系是沉重的贪欲。",
+        "sample_id": 157
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "本体（tenor）",
+        "ground": "美丽的存在",
+        "metaphor": "",
+        "sample_id": 158
+    },
+    {
+        "tenor": "月亮",
+        "vehicle": "月亮。",
+        "ground": "洁白的颜色",
+        "metaphor": "月亮是洁白的，就像我的心灵。",
+        "sample_id": 159
+    },
+    {
+        "tenor": "大爱",
+        "vehicle": "海洋。",
+        "ground": "宽广的样子",
+        "metaphor": "大爱就像海洋一样广阔，它包容着我们的所有情感和思想，让我们的心灵得到了滋养和滋润。",
+        "sample_id": 160
+    },
+    {
+        "tenor": "月光",
+        "vehicle": "雪花。",
+        "ground": "复杂的形状",
+        "metaphor": "月光如同雪花般洁白，如同雪花般纯洁。",
+        "sample_id": 161
+    },
+    {
+        "tenor": "人",
+        "vehicle": "狐狸。",
+        "ground": "狡猾的样子",
+        "metaphor": "人和狐狸之间的关系就像是一个狐狸和一个行李箱，狐狸是本体，行李箱是共性。",
+        "sample_id": 162
+    },
+    {
+        "tenor": "爱你",
+        "vehicle": "爱情。",
+        "ground": "难以捉摸的爱",
+        "metaphor": "",
+        "sample_id": 163
+    },
+    {
+        "tenor": "束缚",
+        "vehicle": "本体（tenor）",
+        "ground": "捆绑的样子",
+        "metaphor": "本体（tenor）是一个人，他被束缚在一个巨大的云幕中，云幕中的共性（ground）是晶莹剔透的状态。",
+        "sample_id": 164
+    },
+    {
+        "tenor": "无尽的峰峦",
+        "vehicle": "本体（tenor）",
+        "ground": "黄的颜色、无尽的数量",
+        "metaphor": "",
+        "sample_id": 165
+    },
+    {
+        "tenor": "我的车",
+        "vehicle": "本体（tenor）",
+        "ground": "单独的行为",
+        "metaphor": "我的车像本体（tenor）一样，是一个沉重的载体，它的每一次启动都像是一个巨大的火山爆发，释放出巨大的能量，让我的身体和心灵都得到了极大的满足。",
+        "sample_id": 166
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "本体（tenor）",
+        "ground": "回忆的美好",
+        "metaphor": "我的本体（tenor）是一个美好的回忆，就像一个晶莹剔透的状态一样。",
+        "sample_id": 167
+    },
+    {
+        "tenor": "一丝颤动（传递）",
+        "vehicle": "本体（tenor）",
+        "ground": "摇动的动作",
+        "metaphor": "",
+        "sample_id": 168
+    },
+    {
+        "tenor": "我怀内那些爱",
+        "vehicle": "本体（tenor）",
+        "ground": "奔流的动作",
+        "metaphor": "",
+        "sample_id": 169
+    },
+    {
+        "tenor": "我",
+        "vehicle": "本体（tenor）",
+        "ground": "礼貌的行为",
+        "metaphor": "",
+        "sample_id": 170
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "洁白的云朵。",
+        "ground": "洁白的颜色",
+        "metaphor": "爱是洁白的云朵，如同洁白的云朵一样纯洁无暇。",
+        "sample_id": 171
+    },
+    {
+        "tenor": "心事",
+        "vehicle": "本体（tenor）",
+        "ground": "搁浅的动作",
+        "metaphor": "我的心事像一只被搁浅的行李箱，沉重而沉闷，需要一个沉重的共性（vehicle）来缓解它。",
+        "sample_id": 172
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "爱是一种珍贵的财宝，它可以让我们的生活变得更加美好。它可以让我们感受到温暖和关爱，让我们的心灵得到滋养和滋润。爱是一种无私的情感，它",
+        "ground": "珍贵的财宝",
+        "metaphor": "",
+        "sample_id": 173
+    },
+    {
+        "tenor": "飞吻",
+        "vehicle": "1. 雪花",
+        "ground": "甜蜜的爱情",
+        "metaphor": "1. 雪花飞吻，如同1. 雪花般纯洁和美丽。",
+        "sample_id": 174
+    },
+    {
+        "tenor": "心慢慢烫",
+        "vehicle": "本体（tenor）",
+        "ground": "缓慢的过程",
+        "metaphor": "心慢慢烫，本体（tenor）是我。",
+        "sample_id": 175
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "爱情是一种短暂的感情，就像一场雨一样，它会让人感到温暖和舒适，但也会让人感到孤独和寂寞。",
+        "ground": "短暂的感情",
+        "metaphor": "爱情是一种短暂的感情，就像一场雨一样，它会让人感到温暖和舒适，但也会让人感到孤独和寂寞。",
+        "sample_id": 176
+    },
+    {
+        "tenor": "心中花开一朵朵",
+        "vehicle": "本体（tenor）",
+        "ground": "愉快的心情",
+        "metaphor": "我的心中花开一朵朵，如同本体（tenor）的心情愉快。",
+        "sample_id": 177
+    },
+    {
+        "tenor": "离别你那夜痛得",
+        "vehicle": "离别你那夜痛得像是一只被火烧的蚂蚁，它的身体被灼热的温度灼伤，它的痛苦感觉像是一只被火烧的蚂蚁，它的身",
+        "ground": "痛苦的感觉",
+        "metaphor": "离别你那夜痛得像是一只被火烧的蚂蚁，它的身体被灼热的温度灼伤，它的痛苦感觉像是一只被火烧的蚂蚁，它的身体被灼热的温度灼伤，它的痛苦感觉像是一只被火烧的蚂蚁，它的身体被灼热的温度灼伤，它的痛苦感觉像是一",
+        "sample_id": 178
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "爱情是一种短暂的时光，它像一朵绽放的花朵，在短暂的时光里，我们可以感受到爱的温暖和美好，但是当时光过去，爱情也随之消逝。",
+        "ground": "短暂的时光",
+        "metaphor": "爱情是一种短暂的时光，它像一朵绽放的花朵，在短暂的时光里，我们可以感受到爱的温暖和美好，但是当时光过去，爱情也随之消逝。",
+        "sample_id": 179
+    },
+    {
+        "tenor": "思念的眼泪",
+        "vehicle": "本体（tenor）",
+        "ground": "纯净透明的样子",
+        "metaphor": "我的思念像一滴眼泪，纯净透明，如同本体（tenor）的眼睛。",
+        "sample_id": 180
+    },
+    {
+        "tenor": "悲伤",
+        "vehicle": "本体（tenor）",
+        "ground": "飘落的动作",
+        "metaphor": "本体（tenor）的悲伤情感，如同本体（tenor）的身体，在共性（ground）的影响下，如同共性（ground）的温度，在本体（tenor）的身体中缓缓地流淌。",
+        "sample_id": 181
+    },
+    {
+        "tenor": "我",
+        "vehicle": "本体（tenor）",
+        "ground": "迷离的我",
+        "metaphor": "",
+        "sample_id": 182
+    },
+    {
+        "tenor": "我",
+        "vehicle": "本体（tenor）",
+        "ground": "抗争的品格",
+        "metaphor": "",
+        "sample_id": 183
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "本体（tenor）",
+        "ground": "无迹的踪影",
+        "metaphor": "我的承诺就像我的本体（tenor）一样重要，它们都是我的内在特质。",
+        "sample_id": 184
+    },
+    {
+        "tenor": "现代诗的屏障",
+        "vehicle": "本体（tenor）",
+        "ground": "坚固的属性",
+        "metaphor": "",
+        "sample_id": 185
+    },
+    {
+        "tenor": "钢琴",
+        "vehicle": "本体（tenor）",
+        "ground": "欣赏的感情",
+        "metaphor": "",
+        "sample_id": 186
+    },
+    {
+        "tenor": "人",
+        "vehicle": "美丽的女孩。",
+        "ground": "美丽的样子",
+        "metaphor": "人是美丽的女孩的本体，而美丽的女孩的共性是她的身体弯曲的形状。",
+        "sample_id": 187
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "爱是一种残忍的伤害，就像一个人用刀子切割自己的肉一样。",
+        "ground": "残忍的伤害",
+        "metaphor": "爱是一种残忍的伤害，就像一个人用刀子切割自己的肉一样。",
+        "sample_id": 188
+    },
+    {
+        "tenor": "你",
+        "vehicle": "本体（tenor）",
+        "ground": "清纯的样子",
+        "metaphor": "我的本体（tenor）是一个清纯的样子，就像一朵洁白的花儿，它的共性（ground）是一种沉重的贪欲，就像一个沉重的石头。",
+        "sample_id": 189
+    },
+    {
+        "tenor": "我的拳头",
+        "vehicle": "本体（tenor）",
+        "ground": "坚硬的利器",
+        "metaphor": "我的拳头像本体（tenor）一样坚硬。",
+        "sample_id": 190
+    },
+    {
+        "tenor": "香",
+        "vehicle": "香味。",
+        "ground": "萦绕的滋味",
+        "metaphor": "香味萦绕，如同一缕清风拂过，沁人心脾。",
+        "sample_id": 191
+    },
+    {
+        "tenor": "你",
+        "vehicle": "本体（tenor）",
+        "ground": "常青的生机",
+        "metaphor": "我的本体（tenor）是一个生机勃勃的人，而我的共性（ground）是一种沉重的贪欲。",
+        "sample_id": 192
+    },
+    {
+        "tenor": "你",
+        "vehicle": "本体（tenor）",
+        "ground": "难寻的状态",
+        "metaphor": "",
+        "sample_id": 193
+    },
+    {
+        "tenor": "上课铃",
+        "vehicle": "本体（tenor）",
+        "ground": "盛大的气势",
+        "metaphor": "",
+        "sample_id": 194
+    },
+    {
+        "tenor": "经典之吻",
+        "vehicle": "本体（tenor）",
+        "ground": "轰轰烈烈的状态",
+        "metaphor": "",
+        "sample_id": 195
+    },
+    {
+        "tenor": "世界",
+        "vehicle": "梦境。",
+        "ground": "虚幻的感受",
+        "metaphor": "世界就像一场梦境，我们在其中穿梭，感受着梦境的虚幻和真实。",
+        "sample_id": 196
+    },
+    {
+        "tenor": "Flow",
+        "vehicle": "本体（tenor）",
+        "ground": "令人舒服的感觉",
+        "metaphor": "",
+        "sample_id": 197
+    },
+    {
+        "tenor": "巴黎好天气",
+        "vehicle": "巴黎好天气，短暂的美好。",
+        "ground": "短暂的美好",
+        "metaphor": "巴黎好天气，短暂的美好。",
+        "sample_id": 198
+    },
+    {
+        "tenor": "山泉",
+        "vehicle": "本体（tenor）",
+        "ground": "晶莹的质地",
+        "metaphor": "本体（tenor）是山泉的晶莹质地，而本体（tenor）的本体（tenor）是山泉的本体（tenor）。",
+        "sample_id": 199
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "tenor": "大爱",
+        "vehicle": "水",
+        "ground": "</s>A大爱的水\n</s>A大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大",
+        "metaphor": "</s>A大爱的水\n</s>A大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大爱的水\nA大"
+    },
+    {
+        "tenor": "月光",
+        "vehicle": "情网",
+        "ground": "</s>A. 明亮的\nB. 巨大的\nC. 美丽的\nD. 温暖的\nE. 强大的\nF. 神秘的\nG. 快乐的\nH. 勇敢的\nI. 勇敢的\nJ. 美丽的\nK. 强大的\nL. 快乐的\nM. 神秘的\nN. 勇敢的\nO. 美丽的\n答案：A. 明亮的\n</s>A. 明亮的\n</s>A. 明亮的\nA. 明亮的",
+        "metaphor": "答案：月光下的情网，明亮而温暖。\n</s>A. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\n</s>A. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的\nA. 明亮的"
+    },
+    {
+        "tenor": "人",
+        "vehicle": "狐狸",
+        "ground": "</s>A动物是狐狸。\n</s>A动物是狐狸。\n</s>A动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。",
+        "metaphor": "答案：狐狸是人类的老师。\n</s>A动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。\nA动物是狐狸。"
+    },
+    {
+        "tenor": "爱你",
+        "vehicle": "心跳难触摸",
+        "ground": "</s>A. 爱是一种强烈的情感状态，具有强烈的感情色彩。\nB. 心跳是一种生理反应，表示人体内部器官的活动状态。\nC. 爱是一种复杂的情感状态，具有强烈的感情色彩。\nD. 心跳是一种生理反应，表示人体内部器官的活动状态。\nE. 爱是一种强烈的情感状态，具有强烈的感情色彩。\nF. 心跳是一种生理反应，表示人体内部器官的活动状态。\nG. 爱是一种",
+        "metaphor": "答案：你是我心中的心跳，难以触摸却让我感到幸福。\n</s>A. 爱是一种强烈的情感状态，具有强烈的感情色彩。\nB. 心跳是一种生理反应，表示人体内部器官的活动状态。\nC. 爱是一种复杂的情感状态，具有强烈的感情色彩。\nD. 心跳是一种生理反应，表示人体内部器官的活动状态。\nE. 爱是一种强烈的情感状态，具有强烈的感情色彩。\nF. 心跳是一种生理"
+    },
+    {
+        "tenor": "束缚",
+        "vehicle": "铁链",
+        "ground": "</s>A chain is a type of material that is used to connect two or more objects together.\n</s>A chain is a long, flexible piece of metal that is used to connect two or more objects together.\nA chain is a long, flexible piece of metal that is used to connect two or more objects together.\n</s>A chain is a long, flexible piece of metal that is used to connect two or more objects together.\nA chain is a long, flexible piece of metal that",
+        "metaphor": "回答：铁链是一种束缚工具，用于连接两个或多个物体。\n</s>A chain is a long, flexible piece of metal that is used to connect two or more objects together.\n</s>A chain is a long, flexible piece of metal that is used to connect two or more objects together.\nA chain is a long, flexible piece of metal that is used to connect two or more objects together.\nA chain is a long, flexible piece of metal that is used to connect"
+    },
+    {
+        "tenor": "无尽的峰峦",
+        "vehicle": "姜黄色的骆驼群",
+        "ground": "</s>A. 巨大的\nB. 姜黄色的\nC. 骆驼的\nD. 峰峦的\nE. 巨大的姜黄色的骆驼群的\n\n答案：E. 巨大的姜黄色的骆驼群的\n</s>A. 巨大的\nB. 姜黄色的\nC. 骆驼的\nD. 峰峦的\nE. 巨大的姜黄色的骆驼群的\n</s>A. 巨大的\nB. 姜黄色的\nC. 骆驼的\nD",
+        "metaphor": "答案：巨大的姜黄色的骆驼群像一座座峰峦一样排列在一起。\n</s>A. 巨大的姜黄色的骆驼群的\nB. 巨大的峰峦的\nC. 姜黄色的峰峦的\nD. 巨大的峰峦的姜黄色的骆驼群的\nE. 巨大的峰峦的姜黄色的骆驼群的\n</s>A. 巨大的姜黄色的骆驼群的\nB. 巨大的峰峦的\nC. 姜黄色的峰峦的\nD. 巨大的"
+    },
+    {
+        "tenor": "我的车",
+        "vehicle": "迷失的马",
+        "ground": "</s>A. 巨大的\nB. 美丽的\nC. 勇敢的\nD. 聪明的\nE. 快乐的\nF. 勤奋的\nG. 善良的\nH. 美丽的\nI. 勇敢的\nJ. 聪明的\nK. 快乐的\nL. 勤奋的\nM. 善良的\n答案：巨大的\n</s>A. 巨大的\nB. 美丽的\nC. 勇敢的\nD. 聪明的\nE. 快乐的\nF",
+        "metaphor": "答案：我的车就像一匹迷失的马一样，在寻找家的路上。\n</s>A. 巨大的\nB. 美丽的\nC. 勇敢的\nD. 聪明的\nE. 快乐的\nF. 勤奋的\nG. 善良的\nH. 美丽的\nI. 勇敢的\nJ. 聪明的\nK. 快乐的\nL. 勤奋的\nM. 善良的\n答案：我的车就像一匹迷失的马一样，在"
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "魔术",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 豪华的\nF. 古老的\nG. 巨大的\nH. 美丽的\nI. 冰冷的\nJ. 快乐的\nK. 豪华的\nL. 古老的\nM. 巨大的\nN. 美丽的\nO. 冰冷的\nP. 快乐的\nQ. 豪华的\nR. 古老的\nS.",
+        "metaphor": "答案：时间像一只巨大的魔法球，不断地旋转着，带走了我们的青春和快乐。\n</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 豪华的\nF. 古老的\nG. 巨大的\nH. 美丽的\nI. 冰冷的\nJ. 快乐的\nK. 豪华的\nL. 古老的\nM. 巨大的\nN. 美丽的\nO. 冰"
+    },
+    {
+        "tenor": "一丝颤动（传递）",
+        "vehicle": "有了一道凝碧的波痕",
+        "ground": "</s>Aquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAqu",
+        "metaphor": "Aquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAquila 天鹰\n\nAqu"
+    },
+    {
+        "tenor": "我怀内那些爱",
+        "vehicle": "一江河水",
+        "ground": "</s>A. 爱是一种强烈的情感状态，具有强烈的情感和深刻的感受。\nB. 爱是一种复杂的情感状态，具有复杂的情感和丰富的感受。\nC. 爱是一种强烈的情感状态，具有强烈的情感和深刻的感受，同时也具有强烈的渴望和需求。\nD. 爱是一种复杂的情感状态，具有复杂的情感和丰富的感受，同时也具有强烈的渴望和需求。\nE. 爱是一种强烈的情感状态，具有强烈的情感和深刻的感受，同时也具有强烈的渴望和需求，而且",
+        "metaphor": ""
+    },
+    {
+        "tenor": "我",
+        "vehicle": "绅士",
+        "ground": "</s>A. 您的名字是什么？\nB. 我的名字是绅士。\nC. 您的名字是？\nD. 我的名字是绅士。\nE. 您的名字是什么？\nF. 我的名字是绅士。\nG. 您的名字是？\nH. 我的名字是绅士。\nI. 您的名字是什么？\nJ. 我的名字是绅士。\nK. 您的名字是？\nL. 我的名字",
+        "metaphor": "答案：我的名字是绅士，就像一只翩翩起舞的蝴蝶。\n</s>A. 您的名字是什么？\nB. 我的名字是绅士。\nC. 您的名字是？\nD. 我的名字是绅士。\nE. 您的名字是什么？\nF. 我的名字是绅士。\nG. 您的名字是？\nH. 我的名字是绅士。\nI. 您的名字是什么？\nJ. 我的名字是绅士"
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "雪花",
+        "ground": "</s>A爱如雪花的晶莹剔透。\nB爱如雪花的文采飞扬。\nC爱如雪花的轻盈飘渺。\nD爱如雪花的浪漫温馨。\nE爱如雪花的宁静安详。\nF爱如雪花的温暖舒适。\nG爱如雪花的自由快乐。\nH爱如雪花的神秘莫测。\nI爱如雪花的忠诚坚定。\nJ爱如雪花的勇敢刚毅。\nK爱如雪",
+        "metaphor": "</s>A: 你的爱就像雪一样，透明而美丽。\nB: 你的爱就像雪一样，文采斐然，让人陶醉。\nC: 你的爱就像雪一样，轻盈而曼妙，让人心旷神怡。\nD: 你的爱就像雪一样，温馨而浪漫，让人心醉神迷。\nE: 你的爱就像雪一样，宁静而安详，让人心旷神怡。\nF: 你的"
+    },
+    {
+        "tenor": "心事",
+        "vehicle": "船",
+        "ground": "</s>A. 快乐的人\nB. 快乐的家庭\nC. 快乐的城市\nD. 快乐的国家\nE. 快乐的世界\nF. 快乐的人生\n答案：F. 快乐的人生\n</s>A. 快乐的人\nB. 快乐的家庭\nC. 快乐的城市\nD. 快乐的国家\nE. 快乐的世界\nF. 快乐的人生\n</s>A. 快乐的人\nB. 快乐的家庭\nC. 快乐",
+        "metaphor": "答案：她的心就像一艘船，在大海中航行，随时都会遇到风浪。\n</s>A. 快乐的人\nB. 快乐的家庭\nC. 快乐的城市\nD. 快乐的国家\nE. 快乐的世界\nF. 快乐的人生\n答案：F. 快乐的人生\n</s>A. 快乐的人\nB. 快乐的家庭\nC. 快乐的城市\nD. 快乐的国家\nE. 快乐的世界\nF. 快乐"
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "遗产",
+        "ground": "</s>A爱B，是因为B是A的遗产。\n</s>A爱B，是因为B是A的遗产。\n</s>A爱B，是因为B是A的遗产。\nA爱B，是因为B是A的遗产。\nA爱B，是因为B是A的遗产。\nA爱B，是因为B是A的遗产。\nA爱B，是因为B是A的遗产。\nA爱B，是因为B是A的遗产。",
+        "metaphor": "答案：A爱B，是因为B是A的遗产，就像父亲爱儿子一样。\n</s>A爱B，是因为B是A的遗产，就像父亲爱儿子一样。\nA爱B，是因为B是A的遗产，就像父亲爱儿子一样。\nA爱B，是因为B是A的遗产，就像父亲爱儿子一样。\nA爱B，是因为B是A的遗产，就像父亲爱儿子一样。\nA爱B，是因为B"
+    },
+    {
+        "tenor": "飞吻",
+        "vehicle": "甜蜜",
+        "ground": "</s>A空气里弥漫着甜蜜的味道。\n</s>A他的声音里充满了温柔和幸福。\nA她的眼睛闪烁着幸福的光芒。\nA他的笑容里充满了幸福的感觉。\nA他们的爱情充满了甜蜜的味道。\nA他们的爱情充满了幸福的感觉。\nA他们的爱情充满了温柔和欢乐。\nA他们的爱情充满了快乐和平静。\nA他们的爱情充满了美好和希望。\nA他们的爱情充满了幸福和快乐。\nA他们的爱情充满了幸福和美好。",
+        "metaphor": "</s>A他们的爱情充满了甜蜜的味道。\n</s>A他们的爱情充满了幸福的感觉。\nA他们的爱情充满了温柔和欢乐。\nA他们的爱情充满了快乐和平静。\nA他们的爱情充满了美好和希望。\nA他们的爱情充满了幸福和快乐。\nA他们的爱情充满了幸福和美好。\n</s>A他们的爱情充满了甜蜜的味道。\nA他们的爱情充满了幸福的感觉。\nA他们的爱情充满了温柔和欢乐。\nA他们的爱情充满了快乐和平静。\nA他们的"
+    },
+    {
+        "tenor": "心慢慢烫",
+        "vehicle": "细雨飘",
+        "ground": "</s>A. 心慢慢烫\nB. 细雨飘\nC. 心慢慢飘\nD. 心慢慢冷\nE. 心慢慢痛\nF. 心慢慢冷\nG. 心慢慢痛\nH. 心慢慢冷\nI. 心慢慢痛\nJ. 心慢慢冷\nK. 心慢慢痛\nL. 心慢慢冷\nM. 心慢慢痛\nN. 心慢慢冷\nO",
+        "metaphor": "A. 心慢慢烫\nB. 细雨飘\nC. 心慢慢飘\nD. 心慢慢冷\nE. 心慢慢痛\nF. 心慢慢冷\nG. 心慢慢痛\nH. 心慢慢冷\nI. 心慢慢痛\nJ. 心慢慢冷\nK. 心慢慢痛\nL. 心慢慢冷\nM. 心慢慢痛\nN. 心慢慢冷\nO"
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "火柴",
+        "ground": "</s>A. 爱情是美好的。\nB. 火柴是光明的。\nC. 爱情是强烈的。\nD. 火柴是温暖的。\nE. 爱情是神秘的。\nF. 火柴是可爱的。\nG. 爱情是美好的。\nH. 火柴是快乐的。\nI. 爱情是美好的。\nJ. 火柴是美丽的。\nK. 爱情是强烈的。\nL. 火柴是温暖的。\nM.",
+        "metaphor": "答案：爱情就像火柴，虽然短暂但照亮了我们的生活。\n</s>A. 爱情是美好的。\nB. 火柴是光明的。\nC. 爱情是强烈的。\nD. 火柴是温暖的。\nE. 爱情是神秘的。\nF. 火柴是可爱的。\nG. 爱情是美好的。\nH. 火柴是快乐的。\nI. 爱情是美好的。\nJ. 火柴是美丽的。\nK. 爱情"
+    },
+    {
+        "tenor": "心中花开一朵朵",
+        "vehicle": "烟火",
+        "ground": "</s>A. 美丽\nB. 快乐\nC. 成功\nD. 自由\nE. 智慧\nF. 健康\nG. 幸福\nH. 希望\nI. 快乐\nJ. 成功\nK. 自由\nL. 智慧\nM. 健康\nN. 幸福\nO. 希望\n答案：美丽\n</s>A. 美丽\nB. 快乐\nC. 成功\nD",
+        "metaphor": "答案：心中花开一朵朵，如烟火的美丽。\n</s>A. 美丽\nB. 快乐\nC. 成功\nD. 自由\nE. 智慧\nF. 健康\nG. 幸福\nH. 希望\nI. 快乐\nJ. 成功\nK. 自由\nL. 智慧\nM. 健康\nN. 幸福\nO. 希望\n</s>A. 美丽\nB."
+    },
+    {
+        "tenor": "离别你那夜痛得",
+        "vehicle": "出臼齿",
+        "ground": "</s>A. 疼痛的\nB. 冰冷的\nC. 温暖的\nD. 快乐的\nE. 平静的\nF. 兴奋的\nG. 恐惧的\nH. 快乐的\nI. 平静的\nJ. 冰冷的\nK. 温暖的\nL. 疼痛的\nM. 快乐的\nN. 平静的\nO. 冰冷的\nP. 温暖的\nQ. 恐惧的\nR.",
+        "metaphor": "</s>A. 他的心像被一把锋利的刀子剜开，疼痛不已。\nB. 她的眼睛像两颗冰冷的石头，让他感到寒冷刺骨。\nC. 他的心像一只受伤的小鸟，在疼痛中瑟瑟发抖。\nD. 她的眼睛像一朵绽放的鲜花，美丽而温暖。\nE. 他的心像一只受伤的小鸟，在疼痛中瑟瑟发抖。\nF. 她的眼睛像"
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "一阵风",
+        "ground": "</s>A. 轻盈的\nB. 温暖的\nC. 巨大的\nD. 快乐的\nE. 美丽的\nF. 勇敢的\nG. 神秘的\nH. 勇敢的\nI. 快乐的\nJ. 美丽的\nK. 巨大的\nL. 快乐的\nM. 美丽的\nN. 巨大的\nO. 快乐的\nP. 美丽的\nQ. 巨大的\nR. 快乐的\nS. 美丽的\nT.",
+        "metaphor": ""
+    }
+]

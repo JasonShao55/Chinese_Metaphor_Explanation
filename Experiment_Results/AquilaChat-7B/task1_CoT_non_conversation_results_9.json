@@ -1,0 +1,122 @@
+[
+    {
+        "tenor": "思念的眼泪",
+        "vehicle": "我爱着你的心",
+        "ground": "</s>A. 思念的眼泪是咸的。\nB. 思念的眼泪是苦味的。\nC. 思念的眼泪是酸甜的。\nD. 思念的眼泪是辣味的。\nE. 思念的眼泪是苦辣的。\nF. 思念的眼泪是麻辣的。\nG. 思念的眼泪是麻辣咸甜的。\nH. 思念的眼泪是麻辣咸酸的。\nI. 思念的眼泪是麻辣",
+        "metaphor": "</s>A. 思念的眼泪是咸的。\nB. 思念的眼泪是苦味的。\nC. 思念的眼泪是酸甜的。\nD. 思念的眼泪是辣味的。\nE. 思念的眼泪是苦辣的。\nF. 思念的眼泪是麻辣的。\nG. 思念的眼泪是麻辣咸甜的。\nH. 思念的眼泪是麻辣咸酸的。\nI. 思念的眼泪是麻辣"
+    },
+    {
+        "tenor": "悲伤",
+        "vehicle": "枯叶",
+        "ground": "悲伤和枯叶的一个共性可以是：悲伤的枯叶。\n</s>A. 悲伤的枯叶\nB. 枯黄的落叶\nC. 凋零的叶子\nD. 失落的叶子\n答案：A. 悲伤的枯叶\n</s>A. 悲伤的枯叶\n</s>A. 悲伤的枯叶\nA. 悲伤的枯叶\nA. 悲伤的枯叶\nA. 悲伤的枯叶\nA.",
+        "metaphor": "答案：枯黄的落叶像极了悲伤的心情。\n</s>A. 枯黄的落叶像极了悲伤的心情。\nA. 枯黄的落叶像极了悲伤的心情。\nA. 枯黄的落叶像极了悲伤的心情。\nA. 枯黄的落叶像极了悲伤的心情。\nA. 枯黄的落叶像极了悲伤的心情。\nA. 枯黄的落叶像极了悲伤的心情。\nA. 枯黄的落叶像极了悲伤的心情。\nA."
+    },
+    {
+        "tenor": "我",
+        "vehicle": "梦幻",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 温暖的\nE. 有趣的\nF. 无聊的\nG. 好玩的\nH. 难玩的\nI. 好笑的\nJ. 难笑的\nK. 好听的\nL. 难听的\nM. 好学的\nN. 难学的\nO. 好用的\nP. 难用的\nQ. 好大的",
+        "metaphor": "回答：我和梦幻就像两个大小不一的球，大的球是我，小的球是梦幻。\n</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 温暖的\nE. 有趣的\nF. 无聊的\nG. 好玩的\nH. 难玩的\nI. 好笑的\nJ. 难笑的\nK. 好听的\nL. 难听的\nM. 好学的\nN."
+    },
+    {
+        "tenor": "我",
+        "vehicle": "雨中的火",
+        "ground": "</s>A. 热情\nB. 温暖\nC. 快乐\nD. 幸福\nE. 快乐\nF. 幸福\nG. 热情\nH. 温暖\nI. 快乐\nJ. 幸福\nK. 热情\nL. 温暖\nM. 快乐\nN. 幸福\nO. 热情\nP. 温暖\nQ. 快乐\nR. 幸福\nS. 热情\nT.",
+        "metaphor": "回答：我像雨中的火一样热情。\n</s>A. 热情\nB. 温暖\nC. 快乐\nD. 幸福\nE. 快乐\nF. 幸福\nG. 热情\nH. 温暖\nI. 快乐\nJ. 幸福\nK. 热情\nL. 温暖\nM. 快乐\nN. 幸福\nO. 热情\nP. 温暖\nQ. 快乐\nR."
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "空气",
+        "ground": "</s>A. 请告诉我承诺是什么？\nB. 承诺是空气吗？\n</s>A. 承诺是空气吗？\nB. 承诺是什么？\nA. 承诺是什么？\nB. 承诺是空气吗？\nA. 承诺是空气吗？\nB. 承诺是什么？\nA. 承诺是什么？\nB. 承诺是什么？\nA. 承诺是什么？\nB. 承诺是什么？\nA.",
+        "metaphor": "A. 承诺就像空气一样，虽然看不见摸不着，却时刻存在于我们的生活中。\nB. 承诺就像空气一样，虽然有时可能无法达到我们的期望，但它始终存在，并影响着我们的生活。\nA. 承诺就像空气一样，虽然有时可能无法达到我们的期望，但它始终存在，并影响着我们的生活。\nB. 承诺就像空气一样，虽然看不见摸不着，却时刻存在于我们的生活中。\nA. 承诺就像空气一样，虽然"
+    },
+    {
+        "tenor": "现代诗的屏障",
+        "vehicle": "国防",
+        "ground": "</s>A. 屏障\nB. 国防\n答案：A. 屏障\n</s>A. 军事\nB. 国防\n答案：B. 国防\nA. 军事\nB. 军事安全\n答案：B. 军事安全\nA. 军事安全\nB. 军事力量\n答案：B. 军事力量\nA. 军事力量\nB. 军事训练\n答案：B. 军事训练\nA. 军事",
+        "metaphor": ""
+    },
+    {
+        "tenor": "钢琴",
+        "vehicle": "人",
+        "ground": "</s>A. 钢琴的声音很柔和。\nB. 这个人的性格很温和。\nC. 这个城市的氛围很浪漫。\nD. 这个人的名字很独特。\nE. 这个城市的天气很炎热。\nF. 这个人的性格很开朗。\nG. 这个城市的建筑很高大。\nH. 这个人的名字很常见。\nI. 这个城市的交通很拥堵。\nJ. 这个人的性格很谨慎。",
+        "metaphor": "答案：钢琴的声音很柔和，就像这个人的性格很温和。\n</s>A. 钢琴的声音很柔和。\nB. 这个人的性格很温和。\nC. 这个城市的氛围很浪漫。\nD. 这个人的名字很独特。\nE. 这个城市的天气很炎热。\nF. 这个人的性格很开朗。\nG. 这个城市的建筑很高大。\nH. 这个人的名字很常见。\nI. 这个"
+    },
+    {
+        "tenor": "人",
+        "vehicle": "花儿",
+        "ground": "</s>A. 美丽的花\nB. 美丽的城市\nC. 美丽的音乐\nD. 美丽的电影\nE. 美丽的动物\nF. 美丽的风景\nG. 美丽的语言\nH. 美丽的文化\nI. 美丽的艺术\nJ. 美丽的食品\nK. 美丽的时尚\nL. 美丽的建筑\nM. 美丽的时尚\nN. 美丽的艺术\nO. 美丽的音乐\nP. 美丽的电影\nQ.",
+        "metaphor": "答案：花儿是美丽的，就像人。\n</s>A. 美丽的花\nB. 美丽的城市\nC. 美丽的音乐\nD. 美丽的电影\nE. 美丽的动物\nF. 美丽的风景\nG. 美丽的语言\nH. 美丽的文化\nI. 美丽的艺术\nJ. 美丽的食品\nK. 美丽的时尚\nL. 美丽的建筑\nM. 美丽的时尚\nN. 美丽的艺术\nO. 美丽的"
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "刀",
+        "ground": "</s>A与B的共性（ ground）是什么？\n回答：A与B的共性（ ground）是“美丽”。\n</s>A与B的共性（ ground）是什么？\n回答：A与B的共性（ ground）是“美丽”。\nA与B的共性（ ground）是什么？\n回答：A与B的共性（ ground）是“美丽”。\nA与B的共性（ ground）是什么？\n回答：A与B的共性（",
+        "metaphor": ""
+    },
+    {
+        "tenor": "你",
+        "vehicle": "百合花",
+        "ground": "</s>A. 美丽的\nB. 香甜的\nC. 勇敢的\nD. 快乐的\nE. 温暖的\nF. 有趣的\nG. 神秘的\nH. 勇敢的\nI. 美丽的\nJ. 香甜的\nK. 快乐的\nL. 温暖的\nM. 有趣的\nN. 神秘的\nO. 勇敢的\n答案：美丽的\n</s>A. 美丽的\nB. 香甜的\nC. 勇敢的",
+        "metaphor": "回答：百合花象征着纯洁的爱情，如同我和百合花的感情一般美丽而温暖。\n</s>A. 美丽的\nB. 香甜的\nC. 勇敢的\nD. 快乐的\nE. 温暖的\nF. 有趣的\nG. 神秘的\nH. 勇敢的\nI. 美丽的\nJ. 香甜的\nK. 快乐的\nL. 温暖的\nM. 有趣的\nN. 神秘的\nO. 勇敢的\n答案："
+    },
+    {
+        "tenor": "我的拳头",
+        "vehicle": "铁",
+        "ground": "</s>A. 铁的颜色是黑色的。\nB. 铁的声音是低沉的。\nC. 铁的味道是苦涩的。\nD. 铁的数量是巨大的。\nE. 铁的数量是少量的。\nF. 铁的数量是微小的。\nG. 铁的数量是巨大的。\nH. 铁的数量是少量的。\nI. 铁的数量是微小的。\nJ. 铁的数量是巨大的。\nK. 铁的数量",
+        "metaphor": "我的答案：我的拳头就像一块巨大的铁块，沉重而强大。\n</s>A. 我的拳头是黑色的。\nB. 我的拳头是低沉的。\nC. 我的拳头是苦涩的。\nD. 我的拳头数量巨大。\nE. 我的拳头数量少量。\nF. 我的拳头数量微小。\nG. 我的拳头数量巨大。\nH. 我的拳头数量少量。\nI. 我的拳头数量微小"
+    },
+    {
+        "tenor": "香",
+        "vehicle": "朝露闪烁绕风中",
+        "ground": "</s>A. 美丽的\nB. 清新的\nC. 温暖的\nD. 冰冷的\nE. 激烈的\nF. 平静的\nG. 快乐的\nH. 版权或其它问题请于作品发表后的的\nI. 悲伤的\nJ. 神秘的\nK. 勇敢的\nL. 懦弱的\nM. 巨大的\nN. 微小的\nO. 强烈的\nP. 柔和的\nQ. 勇敢的\nR. 懦弱的\nS",
+        "metaphor": "答案：朝露闪烁绕风中的香，美丽而清新。\n</s>A. 美丽的\nB. 清新的\nC. 温暖的\nD. 冰冷的\nE. 激烈的\nF. 平静的\nG. 快乐的\nH. 快乐的\nI. 悲伤的\nJ. 神秘的\nK. 勇敢的\nL. 懦弱的\nM. 巨大的\nN. 微小的\nO. 强烈的\nP. 柔和"
+    },
+    {
+        "tenor": "你",
+        "vehicle": "梅花",
+        "ground": "</s>A. 美丽的\nB. 勇敢的\nC. 聪明的\nD. 可爱的\nE. 勇敢的\nF. 美丽的\nG. 聪明的\nH. 可爱的\nI. 勇敢的\nJ. 美丽的\nK. 聪明的\nL. 可爱的\nM. 勇敢的\n答案：M. 勇敢的\n</s>A. 美丽的\nB. 勇敢的\nC. 聪明的\nD. 可爱的\nE. 勇敢的",
+        "metaphor": "回答：梅花象征坚强勇敢，就像你一样。\n</s>A. 美丽的\nB. 勇敢的\nC. 聪明的\nD. 可爱的\nE. 勇敢的\nF. 美丽的\nG. 聪明的\nH. 可爱的\nI. 勇敢的\nJ. 美丽的\nK. 聪明的\nL. 可爱的\nM. 勇敢的\n答案：M. 勇敢的\n</s>A. 美丽的\nB. 勇敢的\nC."
+    },
+    {
+        "tenor": "你",
+        "vehicle": "躲于地心",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 温暖的\nE. 有趣的\nF. 无聊的\nG. 好玩的\nH. 难玩的\nI. 好用的\nJ. 版权或其它问题请于作品发表后的的\nK. 好学的\nL. 难学的\nM. 好做的\nN. 难做的\nO. 好吃的\nP. 难吃的\nQ. 好喝的",
+        "metaphor": "例如：\n\n我就像一只猫，躲在地心，等待时机。\n\n我就像一只猫，躲在地心，寻找猎物。\n\n我就像一只猫，躲在地心，等待阳光。\n\n我就像一只猫，躲在地心，寻找温暖。\n\n我就像一只猫，躲在地心，等待机会。\n\n我就像一只猫，躲在地心，寻找快乐。\n\n我就像一只猫，躲在地心，等待"
+    },
+    {
+        "tenor": "上课铃",
+        "vehicle": "暴雨",
+        "ground": "</s>A. 突然的\nB. 巨大的\nC. 猛烈的\nD. 激烈的\nE. 强烈的\nF. 巨大的\nG. 猛烈的\nH. 激烈的\nI. 突然的\nJ. 巨大的\nK. 猛烈的\nL. 激烈的\nM. 突然的\nN. 巨大的\nO. 猛烈的\nP. 激烈的\nQ. 突然的\nR. 巨大的",
+        "metaphor": "答案：上课铃像暴雨一样突然响起。\n</s>A. 突然的\nB. 巨大的\nC. 猛烈的\nD. 激烈的\nE. 强烈的\nF. 巨大的\nG. 猛烈的\nH. 激烈的\nI. 突然的\nJ. 巨大的\nK. 猛烈的\nL. 激烈的\nM. 突然的\nN. 巨大的\nO. 猛烈的\nP. 激烈的"
+    },
+    {
+        "tenor": "经典之吻",
+        "vehicle": "雪崩地陷",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 强烈的\nD. 巨大的\nE. 美丽的\nF. 强烈的\nG. 巨大的\n答案：C. 强烈的\n</s>A. 美丽的\nB. 巨大的\nC. 强烈的\nD. 巨大的\nE. 美丽的\nF. 强烈的\nG. 巨大的\n</s>A. 美丽的\nB. 巨大的\nC. 强烈的\nD. 巨大的",
+        "metaphor": "答案：经典之吻就像雪崩地陷，强烈的情感瞬间爆发，让人无法阻挡。\n</s>A. 美丽的\nB. 巨大的\nC. 强烈的\nD. 巨大的\nE. 美丽的\nF. 强烈的\nG. 巨大的\nA. 美丽的\nB. 巨大的\nC. 强烈的\nD. 巨大的\nE. 美丽的\nF. 强烈的\nG. 巨大的\nA. 美丽的\nB."
+    },
+    {
+        "tenor": "世界",
+        "vehicle": "做梦",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 强烈的\nD. 巨大的\nE. 美丽的\nF. 强烈的\nG. 巨大的\nH. 美丽的\nI. 强烈的\nJ. 巨大的\nK. 美丽的\nL. 强烈的\nM. 巨大的\nN. 美丽的\nO. 强烈的\n答案：A. 美丽的\n</s>A. 美丽的\n</s>A. 美丽的\nA. 美丽的",
+        "metaphor": "答案：世界就像一场梦，而我们的梦就像我们的世界。\n</s>A. 美丽的\nA. 美丽的\nA. 美丽的\nA. 美丽的\n</s>A. 美丽的\nA. 美丽的\nA. 美丽的\nA. 美丽的\nA. 美丽的\nA. 美丽的\nA. 美丽的\nA. 美丽的\nA. 美丽的\nA. 美丽的\nA. 美丽的\nA. 美丽的\nA."
+    },
+    {
+        "tenor": "Flow",
+        "vehicle": "小步舞曲",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 强烈的\nD. 巨大的\nE. 美丽的\n\n答案：B. 巨大的\n</s>A. 美丽的\nC. 强烈的\nD. 巨大的\nE. 美丽的\n</s>A. 美丽的\nC. 强烈的\nD. 巨大的\nE. 美丽的\n</s>A. 美丽的\nC. 强烈的\nD. 巨大的\nE. 美丽的\n</s>A",
+        "metaphor": "答案：Flow就像一首小步舞曲，让人沉浸其中，忘记时间。\n</s>A. 美丽的\nB. 巨大的\nC. 强烈的\nD. 巨大的\nE. 美丽的\nA. 美丽的\nC. 强烈的\nD. 巨大的\nE. 美丽的\nA. 美丽的\nC. 强烈的\nD. 巨大的\nE. 美丽的\nA. 美丽的\nC. 强烈的\nD. 巨大的\nE"
+    },
+    {
+        "tenor": "巴黎好天气",
+        "vehicle": "昙花一现",
+        "ground": "</s>A. 阳光灿烂\nB. 短暂而美丽\nC. 美丽而短暂\nD. 短暂而美丽\nE. 美丽而短暂\nF. 短暂而美丽\nG. 美丽而短暂\nH. 短暂而美丽\nI. 美丽而短暂\nJ. 短暂而美丽\nK. 美丽而短暂\nL. 短暂而美丽\nM. 美丽而短暂\n答案：B. 短暂而美丽",
+        "metaphor": "答案：阳光灿烂，短暂而美丽。\n</s>A. 阳光灿烂\nB. 短暂而美丽\nC. 美丽而短暂\nD. 短暂而美丽\nE. 美丽而短暂\nF. 短暂而美丽\nG. 美丽而短暂\nH. 短暂而美丽\nI. 美丽而短暂\nJ. 短暂而美丽\nK. 美丽而短暂\nL. 短暂而美丽\nM. 美丽而"
+    },
+    {
+        "tenor": "山泉",
+        "vehicle": "水晶帘",
+        "ground": "</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater.\n</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater.\n</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater.\n</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater.",
+        "metaphor": "答案：山泉的水晶帘比喻为储存着大量水的地下水库。\n</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater. \n水晶帘比喻为储存着大量水的地下水库。\n</s>Aquifers are a type of geological formation that store large amounts of water in the form of groundwater. \n水晶帘比喻为储存着大量水的地下水库。\nAquifers are a"
+    }
+]

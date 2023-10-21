@@ -10,35 +10,63 @@ This dataset provides a meticulously annotated and rigorously formatted collecti
 - 🚀 Number of tenor-vehicle pairs: 36002
 - 📄 Total contexts: 27989
 
-## :sunrise: Visualization of Dataset Statistics
-
-Various word clouds depicting the frequency and variety of terms used in the dataset:
-
-![Tenors Word Cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/14e9a9e3-1d3c-4fea-bf38-f963c6d3ad18)
-![Tenors Word Cloud in English](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/a507d29c-0657-47f9-b94d-d166242e3bc0)
-![Vehicles Word Cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/5c15a5bd-1303-491d-8fec-820c6d17e2ab)
-![Vehicles Word Cloud in English](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/6678e5ec-9148-4b8a-84c6-c222f4969e12)
-![Grounds (Noun) Word Cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/c5e264e3-9d37-40c2-9d73-8836cc523ec3)
-![Grounds (Noun) Word Cloud in English](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/b930a5c9-dcab-432d-8494-7b6135fdcc9f)
-![Grounds (Adjective) Word Cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/d7ed51cb-14b8-4cbf-87e2-bbd1197740c9)
-![Grounds (Adjective) Word Cloud in English](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/1f9a1248-127b-40dd-939d-38ecd2ea7e46)
-
 ## :airplane: Large Language Models (LLM) Experiment Progress
 
 Progress status of various experiments with different models:
 
-- [X] OpenAI Models 🌐
-  - [X] ChatGPT 3.5 Turbo 🤖
+- [X] OpenAI Models🌐
+  - [X] ChatGPT 3.5 Turbo🤖
   - [X] ChatGPT 4.0 🤖
-- [X] ChatGLM 🤓
-- [X] Baichuan 🌊
-- [ ] Belle 🛎️
-- [ ] Tiger (Post-instruction tune) 🐅
-- [ ] Aquila 🦅
-- [ ] Claude 🎨
-- [ ] CPM-Bee 🐝
-- [ ] Linly 🎼
-- [ ] and more... 🔍
+- [X] ChatGLM🤓
+- [X] Baichuan🌊
+- [X] Belle🛎️
+- [X] WenXin🦅
+- [X] TigerBot🐅
+  - [X] TigerBot-7B-Chat🐾
+  - [X] TigerBot-13B-Chat🐾
+- [X] Chinese-alpaca🦙
+  - [X] Chinese-alpaca-7B🏮
+  - [X] Chinese-alpaca-13B🏮
+  - [X] Chinese-alpaca-33B🏮
+- [X] Chinese-alpaca-2🦙
+  - [X] Chinese-alpaca-2-7B🎏
+  - [X] Chinese-alpaca-2-13B🎏
+- [X] chinese-llama2-linly🦙
+  - [X] chinese-llama2-linly-7B🍃
+  - [X] chinese-llama2-linly-13B🍃
+- [X] Qwen-7B-Chat🌟
+- [X] Ziya-LLaMA-13B🌌
+
+
+💼**Model Selection Criteria：**
+- 🌏 Supports Chinese
+- 🔄 Uses the latest version as much as possible
+- 🧪 Engineering Can perform CoT and Prompt Engineering
+
+## 📜  Human evaluation progresss
+
+- [X] OpenAI Models🌐
+  - [X] ChatGPT 3.5 Turbo🤖
+  - [X] ChatGPT 4.0 🤖
+- [X] ChatGLM🤓
+- [X] Baichuan🌊
+- [X] Belle🛎️
+- [X] WenXin🦅
+- [X] TigerBot🐅
+  - [X] TigerBot-7B-Chat🐾
+  - [X] TigerBot-13B-Chat🐾
+- [X] Chinese-alpaca🦙
+  - [X] Chinese-alpaca-7B🏮
+  - [X] Chinese-alpaca-13B🏮
+  - [X] Chinese-alpaca-33B🏮
+- [X] Chinese-alpaca-2🦙
+  - [X] Chinese-alpaca-2-7B🎏
+  - [X] Chinese-alpaca-2-13B🎏
+- [X] chinese-llama2-linly🦙
+  - [X] chinese-llama2-linly-7B🍃
+  - [X] chinese-llama2-linly-13B🍃
+- [X] Qwen-7B-Chat🌟
+- [X] Ziya-LLaMA-13B🌌
 
 💼 **Model Selection Criteria**:
 - 🌏 Supports Chinese
@@ -82,6 +110,20 @@ Specifics regarding the tasks are as outlined:
 - 🖥️ **Code Samples**: The sample code to run experiments on OpenAI GPT-4 can be found under `Code\OpenAI Sample Code`. The specific CoT Prompt needs to be in Chinese. Prompts can be adjusted based on model outputs, but must remain informationally intact.
 - 📉 **Sample Results**: The results of the experiments with completed models are stored in the `Experiment_Results/Model_Name` directory. Each model's results are represented as six JSON files. They capture the prompts, outputs, and other data for the model across the six settings.
 
+## :sunrise: Visualization of Dataset Statistics
+
+Various word clouds depicting the frequency and variety of terms used in the dataset:
+
+![Tenors Word Cloud_word_cloud](Visualization/Tenors%20Word%20Cloud_word_cloud.png)
+![Tenors (English) Word Cloud_word_cloud](Visualization/Tenors%20(English)%20Word%20Cloud_word_cloud.png)
+![Vehicles Word Cloud_word_cloud](Visualization/Vehicles%20Word%20Cloud_word_cloud.png)
+![Vehicles (English) Word Cloud_word_cloud](Visualization/Vehicles%20(English)%20Word%20Cloud_word_cloud.png)
+![Grounds (Noun) Word Cloud_word_cloud](Visualization/Grounds%20(Noun)%20Word%20Cloud_word_cloud.png)
+![Grounds (Noun) (English) Word Cloud_word_cloud](Visualization/Grounds%20(Noun)%20(English)%20Word%20Cloud_word_cloud.png)
+![Grounds (Adjective) Word Cloud_word_cloud](Visualization/Grounds%20(Adjective)%20Word%20Cloud_word_cloud.png)
+![Grounds (Adjective) (English) Word Cloud_word_cloud](Visualization/Grounds%20(Adjective)%20(English)%20Word%20Cloud_word_cloud.png)
+
+<!-- 
 ## 🖋️ Reference
 
 If you utilize the code, data, or any models from this project, please cite the project as follows:
@@ -95,3 +137,4 @@ journal = {GitHub repository},
 howpublished = {\url{https://github.com/JasonShao55/Chinese_Metaphor_Explanation}},
 }
 ```
+ -->

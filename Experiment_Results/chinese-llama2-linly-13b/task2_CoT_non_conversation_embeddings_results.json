@@ -1,0 +1,1402 @@
+[
+    {
+        "tenor": "他的温柔",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "包容的能力",
+        "metaphor": "",
+        "sample_id": 0
+    },
+    {
+        "tenor": "现实",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "刺痛的感受",
+        "metaphor": "",
+        "sample_id": 1
+    },
+    {
+        "tenor": "语言",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "无情的伤害",
+        "metaphor": "",
+        "sample_id": 2
+    },
+    {
+        "tenor": "他的脚印",
+        "vehicle": "以下是一个例子，它描述了一个人的脚印，这个人的脚印是一个非常独特的东西，因为它的形状和大小都非常特别。这个人的脚印是一个非常特别的东西，因为它的形状和大小都非常独特。这个人的脚印是一个非常特别的东西，",
+        "ground": "繁多的数量",
+        "metaphor": "以下是一个例子，它描述了一个人的脚印，这个人的脚印是一个非常独特的东西，因为它的形状和大小都非常特别。这个人的脚印是一个非常特别的东西，因为它的形状和大小都非常独特。这个人的脚印是一个非常特别的东西，",
+        "sample_id": 3
+    },
+    {
+        "tenor": "你的监察",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "残酷的监察、无情的监察",
+        "metaphor": "",
+        "sample_id": 4
+    },
+    {
+        "tenor": "梭罗河",
+        "vehicle": "以下是一个例子，它描述了一个人如何在一个特定的情境下构思隐喻",
+        "ground": "美丽的风景",
+        "metaphor": "",
+        "sample_id": 5
+    },
+    {
+        "tenor": "说不出滋味的体会",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "苦涩的伪装",
+        "metaphor": "",
+        "sample_id": 6
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "下坠的动作",
+        "metaphor": "",
+        "sample_id": 7
+    },
+    {
+        "tenor": "燃尽的烟蒂",
+        "vehicle": "以下是一个例子，它描述了一个人如何在一个特定的情境下构思隐喻",
+        "ground": "自损八百的属性",
+        "metaphor": "",
+        "sample_id": 8
+    },
+    {
+        "tenor": "火星",
+        "vehicle": "以下是一个例子，它描述了一个人如何在火星上寻找闪亮美好的东西",
+        "ground": "闪亮美好的属性",
+        "metaphor": "",
+        "sample_id": 9
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "以下是一个爱情的隐喻",
+        "ground": "苦涩的体验",
+        "metaphor": "",
+        "sample_id": 10
+    },
+    {
+        "tenor": "事物",
+        "vehicle": "以下是一个例子，它描述了一个人如何在一个特定的情境下构思隐喻",
+        "ground": "可怕的感觉",
+        "metaphor": "",
+        "sample_id": 11
+    },
+    {
+        "tenor": "我得不到你的爱情",
+        "vehicle": "人。\n\n以翅膀作为本",
+        "ground": "得不到的爱情",
+        "metaphor": "",
+        "sample_id": 12
+    },
+    {
+        "tenor": "白云",
+        "vehicle": "以下是一个例子，它描述了一个隐喻的构思方法，并给出了一个具体的例子。\n\n在写作中，想构思隐喻（metaphor）时，有本体（tenor）和喻体（vehicle）的共性（ground）时就很容易构思对应的喻体，诸如由下述本体和共性构思隐",
+        "ground": "白色的外形",
+        "metaphor": "",
+        "sample_id": 13
+    },
+    {
+        "tenor": "你的身影",
+        "vehicle": "人。\n\n以翅膀作为本体（",
+        "ground": "漂浮的形态",
+        "metaphor": "",
+        "sample_id": 14
+    },
+    {
+        "tenor": "国王",
+        "vehicle": "以下是一个可能的答案",
+        "ground": "卑微的样子",
+        "metaphor": "以下是一个可能的答案：\n\n国王是一个可能的答案，因为他是一个可能的答案。",
+        "sample_id": 15
+    },
+    {
+        "tenor": "你的消息",
+        "vehicle": "山，以记载的",
+        "ground": "纪念的价值",
+        "metaphor": "",
+        "sample_id": 16
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "漫长的流淌",
+        "metaphor": "",
+        "sample_id": 17
+    },
+    {
+        "tenor": "成长",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "给人的奖励",
+        "metaphor": "",
+        "sample_id": 18
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "复杂的状态",
+        "metaphor": "",
+        "sample_id": 19
+    },
+    {
+        "tenor": "自己",
+        "vehicle": "云幕，以浪",
+        "ground": "乱跳的动作",
+        "metaphor": "我是一个孤独的人，像云幕一样飘荡在生活的浪涛中。",
+        "sample_id": 20
+    },
+    {
+        "tenor": "我心上",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "闪闪的发亮",
+        "metaphor": "",
+        "sample_id": 21
+    },
+    {
+        "tenor": "浮雪",
+        "vehicle": "以下是一个隐喻的例子，它的本体（tenor）是“雪花”，共性（ground）是“漂浮的景象”，对应的喻体（vehicle）是“人”。\n\n以下是一个隐喻的例子，它的本体（tenor）是“燕子”，共性（ground）是“守信的品质”，对应的喻体",
+        "ground": "漂浮的景象",
+        "metaphor": "",
+        "sample_id": 22
+    },
+    {
+        "tenor": "浮游心窝",
+        "vehicle": "浮游心窝\n共性（ground）",
+        "ground": "畅快的舞动",
+        "metaphor": "浮游心窝，如同一颗漂浮在海面上的心，\n\n共性（ground），则是那颗心的沉浮和波动。\n\n浮游心窝，如同一个人的心灵，\n\n共性（ground），则是那个人的情感和思想。\n\n浮游心窝，如同一个人的梦想，\n\n共性（ground），则是",
+        "sample_id": 23
+    },
+    {
+        "tenor": "兰花草",
+        "vehicle": "兰花草，甜美漂亮的样子。",
+        "ground": "甜美漂亮的样子",
+        "metaphor": "兰花草，甜美漂亮的样子。\n\n兰花草，甜美漂亮的样子。",
+        "sample_id": 24
+    },
+    {
+        "tenor": "擦拭尘土",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "轻柔的动作",
+        "metaphor": "",
+        "sample_id": 25
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "不一样的存在",
+        "metaphor": "",
+        "sample_id": 26
+    },
+    {
+        "tenor": "我",
+        "vehicle": "人。\n\n以翅膀作为本",
+        "ground": "流逝的生机",
+        "metaphor": "",
+        "sample_id": 27
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "失去生命的状态",
+        "metaphor": "",
+        "sample_id": 28
+    },
+    {
+        "tenor": "你不给我一颗赤心",
+        "vehicle": "无法触及的梦想。",
+        "ground": "得不到的痛苦",
+        "metaphor": "",
+        "sample_id": 29
+    },
+    {
+        "tenor": "坚忍",
+        "vehicle": "以下是一个例子，它描述了一个人如何在困境中坚持不懈，最终获得成功。\n\n本体（tenor）",
+        "ground": "掩盖的状态",
+        "metaphor": "",
+        "sample_id": 30
+    },
+    {
+        "tenor": "蓝蓝的天空",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "宽广的样子",
+        "metaphor": "",
+        "sample_id": 31
+    },
+    {
+        "tenor": "青年",
+        "vehicle": "本体（tenor）",
+        "ground": "挺立绷直的状态",
+        "metaphor": "",
+        "sample_id": 32
+    },
+    {
+        "tenor": "男人",
+        "vehicle": "海洋。\n\n海洋是一个广阔的空间，可以容纳无数的生物和物质，就像男人的胸襟一样宽阔。同时，海洋也是一个充满未知和危险的环境，就",
+        "ground": "宽阔的胸襟",
+        "metaphor": "海洋是一个广阔的空间，可以容纳无数的生物和物质，就像男人的胸襟一样宽阔。同时，海洋也是一个充满未知和危险的环境，就像男人的胸襟一样宽阔。",
+        "sample_id": 33
+    },
+    {
+        "tenor": "预告",
+        "vehicle": "以下是一个预告的例子",
+        "ground": "准确的时间",
+        "metaphor": "",
+        "sample_id": 34
+    },
+    {
+        "tenor": "落笔",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "流畅的感觉",
+        "metaphor": "",
+        "sample_id": 35
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "“我的心像一只被时间的流泪所淹没的小船，在无尽的海洋中漂浮。”",
+        "ground": "流泪的动作",
+        "metaphor": "我的心像一只被时间的流泪所淹没的小船，在无尽的海洋中漂浮。",
+        "sample_id": 36
+    },
+    {
+        "tenor": "你",
+        "vehicle": "危险的状态，如",
+        "ground": "危险的属性",
+        "metaphor": "",
+        "sample_id": 37
+    },
+    {
+        "tenor": "常态",
+        "vehicle": "本体（tenor）",
+        "ground": "平常的感觉",
+        "metaphor": "",
+        "sample_id": 38
+    },
+    {
+        "tenor": "我想到你",
+        "vehicle": "迷路的人。",
+        "ground": "着迷的状态",
+        "metaphor": "我想到你，就像迷路的人想到路标一样。",
+        "sample_id": 39
+    },
+    {
+        "tenor": "落满遗憾的城墙",
+        "vehicle": "以下是一个隐喻的例子，它的本体（tenor）是“城墙”，共性（ground）是“遗憾”，对应的喻体（vehicle）是“落满遗憾的城墙”。\n\n请参考我给你展示的例子的内容和格式，直接给出落满遗憾的城墙作为本体（tenor）和我不在",
+        "ground": "我不在乎的悲伤",
+        "metaphor": "",
+        "sample_id": 40
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "神秘的属性",
+        "metaphor": "",
+        "sample_id": 41
+    },
+    {
+        "tenor": "热闹的（场景）",
+        "vehicle": "以下是一个例子，它描述了一个人如何在一个下午的热闹场景中感到孤独。\n\n在写作中，想构思隐喻（metaphor）时，有本体（tenor）和喻体（vehicle）的共性（ground）时就很容易构思对应的喻体，诸如由下述本体和共性构思隐喻",
+        "ground": "热闹的下午",
+        "metaphor": "",
+        "sample_id": 42
+    },
+    {
+        "tenor": "十二个音",
+        "vehicle": "1. 钢琴声\n2. 小提琴声\n3. 大提琴声\n4. 长笛声\n5. 小号声\n6. 萨克斯声\n7. 鼓声\n8. 吉他声",
+        "ground": "动听的声响",
+        "metaphor": "以下是一个简短准确的含有关于十二个音和1. 钢琴声的中文句子：\n\n“钢琴声如同一个人在演奏一首曲子，每一个音符都像是他的心跳，每一个音符都像是他的呼吸，每一个音符都像是他的情感。”",
+        "sample_id": 43
+    },
+    {
+        "tenor": "表达孤单",
+        "vehicle": "以下是一个隐喻的例子，它描述了孤独的本体和堂堂正正的立场的共性之间的关系",
+        "ground": "堂堂正正的立场",
+        "metaphor": "",
+        "sample_id": 44
+    },
+    {
+        "tenor": "温柔",
+        "vehicle": "温柔的人，像一只小鸟，依偎在你的怀抱中。",
+        "ground": "依偎的行为",
+        "metaphor": "",
+        "sample_id": 45
+    },
+    {
+        "tenor": "你的眼睛",
+        "vehicle": "眼睛，因为眼睛是一个开放的状态，可以看到外面的世界，同时也是一个敏感的器官，可以感受到外界的刺激和情感。",
+        "ground": "开放的状态",
+        "metaphor": "眼睛，因为眼睛是一个开放的状态，可以看到外面的世界，同时也是一个敏感的器官，可以感受到外界的刺激和情感。",
+        "sample_id": 46
+    },
+    {
+        "tenor": "你我分离",
+        "vehicle": "人。\n\n以翅膀作为本",
+        "ground": "各自远去的背影",
+        "metaphor": "",
+        "sample_id": 47
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "保卫的功能",
+        "metaphor": "",
+        "sample_id": 48
+    },
+    {
+        "tenor": "酸雨",
+        "vehicle": "以下是一个例子，它描述了一个隐喻的构思方法，并给出了一个具体的例子。\n\n在写作中，想构思隐喻（metaphor）时，有本体（tenor）和喻体（vehicle）的共性（ground）时就很容易构思对应的喻体，诸如由下述本体和共性构思隐",
+        "ground": "危险的接触",
+        "metaphor": "",
+        "sample_id": 49
+    },
+    {
+        "tenor": "纸",
+        "vehicle": "以下是一个例子，它描述了一个隐喻的构思方法，并给出了一个具体的例子。\n\n在写作中，想构思隐喻（metaphor）时，有本体（tenor）和喻体（vehicle）的共性（ground）时就很容易构思对应的喻体，诸如由下述本体和共性构思隐",
+        "ground": "纸张的形状",
+        "metaphor": "",
+        "sample_id": 50
+    },
+    {
+        "tenor": "眼睛",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "闪烁明亮的动态",
+        "metaphor": "",
+        "sample_id": 51
+    },
+    {
+        "tenor": "他们",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "茫然的心理",
+        "metaphor": "",
+        "sample_id": 52
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "以下是一个例子，它描述了如何构思隐喻",
+        "ground": "快乐的样子",
+        "metaphor": "",
+        "sample_id": 53
+    },
+    {
+        "tenor": "恋情",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "恋情的含蓄",
+        "metaphor": "",
+        "sample_id": 54
+    },
+    {
+        "tenor": "相思",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "伤害的影响",
+        "metaphor": "",
+        "sample_id": 55
+    },
+    {
+        "tenor": "他们修复历史",
+        "vehicle": "以下是一个修复历史的例子",
+        "ground": "陈旧的样子",
+        "metaphor": "以下是一个修复历史的例子：\n\n修复历史就像修复一个破碎的玻璃，需要小心翼翼地处理每一个碎片，才能重新拼凑出完整的历史。",
+        "sample_id": 56
+    },
+    {
+        "tenor": "风",
+        "vehicle": "以下是一个隐喻的例子，它的本体（tenor）是“风”，共性（ground）是“裹挟的衣服”，对应的喻体（vehicle）是“人”。\n\n风吹过，裹挟着衣服的人在风中奔跑。",
+        "ground": "裹挟的衣服",
+        "metaphor": "",
+        "sample_id": 57
+    },
+    {
+        "tenor": "稀罕",
+        "vehicle": "以下是一个例子，它描述了一个人如何在一个特定的情境下使用隐喻来表达他的感受",
+        "ground": "伤人的能力",
+        "metaphor": "",
+        "sample_id": 58
+    },
+    {
+        "tenor": "人",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "野的属性",
+        "metaphor": "",
+        "sample_id": 59
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "快速的飞驰",
+        "metaphor": "",
+        "sample_id": 60
+    },
+    {
+        "tenor": "野性",
+        "vehicle": "野性如同一只猛兽，强烈的情感如同一只飞翔的鹰。",
+        "ground": "强烈的情感",
+        "metaphor": "野性如同一只猛兽，强烈的情感如同一只飞翔的鹰。",
+        "sample_id": 61
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "苍老的状态",
+        "metaphor": "",
+        "sample_id": 62
+    },
+    {
+        "tenor": "青春时期和爱情相遇",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "默契的遇见",
+        "metaphor": "",
+        "sample_id": 63
+    },
+    {
+        "tenor": "往事",
+        "vehicle": "以下是一个例子，它描述了一个人的生活经历，并以此为基础构思了一个隐喻。\n\n本体（tenor）",
+        "ground": "绚烂的甜美",
+        "metaphor": "",
+        "sample_id": 64
+    },
+    {
+        "tenor": "我和你",
+        "vehicle": "人。\n\n以翅膀作为本",
+        "ground": "遥远的距离",
+        "metaphor": "",
+        "sample_id": 65
+    },
+    {
+        "tenor": "《汇报》副刊的风格",
+        "vehicle": "以下是一个例子，它描述了一个人如何在写作中构思隐喻",
+        "ground": "另类的感觉",
+        "metaphor": "",
+        "sample_id": 66
+    },
+    {
+        "tenor": "迷茫",
+        "vehicle": "以下是一个例子，它描述了一个人的心情，并使用隐喻来表达这种心情。\n\n本体（tenor）",
+        "ground": "紧密的环绕",
+        "metaphor": "",
+        "sample_id": 67
+    },
+    {
+        "tenor": "人",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "呆滞的行为",
+        "metaphor": "",
+        "sample_id": 68
+    },
+    {
+        "tenor": "雷声",
+        "vehicle": "雷声如同咆哮的声音，就像一个人在大声喊叫一样。",
+        "ground": "咆哮的声音",
+        "metaphor": "雷声如同咆哮的声音，就像一个人在大声喊叫一样。",
+        "sample_id": 69
+    },
+    {
+        "tenor": "感受",
+        "vehicle": "本体（tenor）",
+        "ground": "甜美的内容",
+        "metaphor": "",
+        "sample_id": 70
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "生命，以你作为本体（tenor）和以短暂的存",
+        "ground": "短暂的存在",
+        "metaphor": "",
+        "sample_id": 71
+    },
+    {
+        "tenor": "上演的剧情",
+        "vehicle": "以下是一个可能的剧情",
+        "ground": "孤单的内心",
+        "metaphor": "以下是一个可能的剧情：\n\n在一个寒冷的冬天，一个孤独的人在街头徘徊，他的心灵被冰冻的寒冷所包围。突然，一个陌生人走过来，向他伸出了手，并说：“我们一起走吧，我会保护你。”这个人感到了一丝温暖，他们一起",
+        "sample_id": 72
+    },
+    {
+        "tenor": "声音挤进耳朵里",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "拥挤的状态",
+        "metaphor": "",
+        "sample_id": 73
+    },
+    {
+        "tenor": "太阳",
+        "vehicle": "炽热的火球。",
+        "ground": "光芒万丈的感觉",
+        "metaphor": "太阳是炽热的火球，就像你是我的心。",
+        "sample_id": 74
+    },
+    {
+        "tenor": "你晶莹的双眼",
+        "vehicle": "雪花。",
+        "ground": "闪耀的姿态",
+        "metaphor": "",
+        "sample_id": 75
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "思念的云彩。",
+        "ground": "弥漫的状态",
+        "metaphor": "思念的云彩，像是一个人在远方默默地凝视着你，而你却无法触及到他的心灵。",
+        "sample_id": 76
+    },
+    {
+        "tenor": "乘客的微笑",
+        "vehicle": "以下是一个例子，它描述了一个人如何通过隐喻来表达他的感受",
+        "ground": "温暖的感觉",
+        "metaphor": "",
+        "sample_id": 77
+    },
+    {
+        "tenor": "我",
+        "vehicle": "孩子。",
+        "ground": "愚蠢的样子",
+        "metaphor": "孩子是我的心灵之舟，我是孩子的引路人。",
+        "sample_id": 78
+    },
+    {
+        "tenor": "你的温柔",
+        "vehicle": "短暂的存在，如同一瞬间的闪光。",
+        "ground": "短暂的存在",
+        "metaphor": "短暂的存在，如同一瞬间的闪光。\n\n你的温柔，如同一瞬间的闪光。\n\n你的短暂存在，如同一瞬间的闪光。\n\n你的短暂存在，如同一瞬间的闪光。\n\n你的短暂存在，如同一瞬间的闪光。\n\n你的短暂存在，如同一瞬间的",
+        "sample_id": 79
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "沉默的状态",
+        "metaphor": "",
+        "sample_id": 80
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "以下是一个时间的隐喻（metaphor）的例子",
+        "ground": "真实的属性",
+        "metaphor": "",
+        "sample_id": 81
+    },
+    {
+        "tenor": "蒜苔",
+        "vehicle": "以下是一个例子，它描述了一个隐喻的构思方法，并给出了一个具体的例子",
+        "ground": "长长的形状",
+        "metaphor": "",
+        "sample_id": 82
+    },
+    {
+        "tenor": "力量",
+        "vehicle": "力量的支柱。",
+        "ground": "支撑的作用",
+        "metaphor": "力量的支柱，就像一个人的脊柱一样，支撑着他的身体和灵魂。",
+        "sample_id": 83
+    },
+    {
+        "tenor": "全不相干的东西偏有注定的缘分",
+        "vehicle": "以下是一个例子，它描述了一个隐喻的构思方法",
+        "ground": "天造地设的关系",
+        "metaphor": "",
+        "sample_id": 84
+    },
+    {
+        "tenor": "你心肠",
+        "vehicle": "心灵的窗户。",
+        "ground": "繁多的变化",
+        "metaphor": "心灵的窗户，是我们心灵的窗户，是我们心灵的窗户，是我们心灵的窗户。",
+        "sample_id": 85
+    },
+    {
+        "tenor": "职员说流利的意语",
+        "vehicle": "“我的心灵",
+        "ground": "流畅的感觉",
+        "metaphor": "",
+        "sample_id": 86
+    },
+    {
+        "tenor": "湖",
+        "vehicle": "湖面上的倒影。",
+        "ground": "朴素的样子",
+        "metaphor": "湖面上的倒影，就像是你的心灵映射。",
+        "sample_id": 87
+    },
+    {
+        "tenor": "你的脸",
+        "vehicle": "雪花。",
+        "ground": "鲜艳的外表",
+        "metaphor": "",
+        "sample_id": 88
+    },
+    {
+        "tenor": "诗句",
+        "vehicle": "人。\n\n以翅膀作为本",
+        "ground": "划破颜面的利刃",
+        "metaphor": "",
+        "sample_id": 89
+    },
+    {
+        "tenor": "瑞士人保护自己的方言",
+        "vehicle": "以下是一个隐喻的例子，它的本体（tenor）是瑞士人，共性（ground）是保护自己的方言，喻体（vehicle）是小心翼翼的呵护。\n\n瑞士人保护自己的方言，就像小心翼翼的呵护一样。",
+        "ground": "小心翼翼的呵护",
+        "metaphor": "瑞士人保护自己的方言，就像小心翼翼的呵护一样。\n\n瑞士人保护自己的方言，就像小心翼翼的呵护一样。",
+        "sample_id": 90
+    },
+    {
+        "tenor": "人",
+        "vehicle": "夜晚的黑暗，因为失眠的人通常会在夜晚感到更加的孤独和无助。",
+        "ground": "失眠的状态",
+        "metaphor": "夜晚的黑暗，因为失眠的人通常会在夜晚感到更加的孤独和无助。",
+        "sample_id": 91
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "心灵的牵引。",
+        "ground": "令人无法自拔的属性",
+        "metaphor": "心灵的牵引，如同一根细线，将你的思念紧紧地系在一起。",
+        "sample_id": 92
+    },
+    {
+        "tenor": "恩情",
+        "vehicle": "以下是一个例子，它描述了一个人如何感到恩情难以报答",
+        "ground": "难以报答的情感",
+        "metaphor": "恩情难以报答，如同一只小鸟被困在一个巨大的笼子里，它无法飞翔，也无法逃脱。",
+        "sample_id": 93
+    },
+    {
+        "tenor": "我",
+        "vehicle": "人。\n\n以翅膀作为本",
+        "ground": "灿烂的人生",
+        "metaphor": "",
+        "sample_id": 94
+    },
+    {
+        "tenor": "我的爱",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "无私奉献的爱",
+        "metaphor": "",
+        "sample_id": 95
+    },
+    {
+        "tenor": "我们错失的年华",
+        "vehicle": "以下是一个可能的回答",
+        "ground": "消逝的光芒",
+        "metaphor": "以下是一个可能的回答：\n\n我们错失的年华如同一场烟花，在短暂的闪耀后消逝了。",
+        "sample_id": 96
+    },
+    {
+        "tenor": "汉语",
+        "vehicle": "海洋，以你作为本体（tenor）和以 无",
+        "ground": "浩瀚的知识",
+        "metaphor": "",
+        "sample_id": 97
+    },
+    {
+        "tenor": "把你编剧情节",
+        "vehicle": "以下是一个可能的例子",
+        "ground": "浪漫的情节",
+        "metaphor": "以下是一个可能的例子：\n\n我是一个编剧，我的故事情节是关于一个人的，他的名字叫做“你”。我的故事情节是关于一个人的，他的名字叫做“你”。我的故事情节是关于一个人的，他的名字叫做“你”。我的故事情节是关",
+        "sample_id": 98
+    },
+    {
+        "tenor": "白帆",
+        "vehicle": "海鸥。",
+        "ground": "相似的颜色、漂浮的动作",
+        "metaphor": "",
+        "sample_id": 99
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "雪花。",
+        "ground": "蕴含希望的属性",
+        "metaphor": "回忆如同雪花，轻盈而又短暂，但它们却能在心中留下深刻的印象，让人感到温暖和美好。",
+        "sample_id": 100
+    },
+    {
+        "tenor": "心",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "寒冷的温度",
+        "metaphor": "",
+        "sample_id": 101
+    },
+    {
+        "tenor": "我的眼光",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "透彻的状态",
+        "metaphor": "",
+        "sample_id": 102
+    },
+    {
+        "tenor": "点点滴滴",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "不曾复原的状态",
+        "metaphor": "",
+        "sample_id": 103
+    },
+    {
+        "tenor": "你",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "正确的选择",
+        "metaphor": "",
+        "sample_id": 104
+    },
+    {
+        "tenor": "陶俑",
+        "vehicle": "以下是一个例子，它描述了一个人如何在写作中构思隐喻",
+        "ground": "圆且空的形态",
+        "metaphor": "",
+        "sample_id": 105
+    },
+    {
+        "tenor": "你",
+        "vehicle": "雪花。",
+        "ground": "矗立的状态",
+        "metaphor": "",
+        "sample_id": 106
+    },
+    {
+        "tenor": "褪色照片",
+        "vehicle": "以下是一个例子，它描述了如何构思隐喻",
+        "ground": "快乐的时光",
+        "metaphor": "",
+        "sample_id": 107
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "人。\n\n以翅膀作为本",
+        "ground": "永恒不绝的浮现",
+        "metaphor": "",
+        "sample_id": 108
+    },
+    {
+        "tenor": "生活",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "甜蜜美好的安定",
+        "metaphor": "",
+        "sample_id": 109
+    },
+    {
+        "tenor": "你",
+        "vehicle": "",
+        "ground": "小心翼翼的依偎",
+        "metaphor": "",
+        "sample_id": 110
+    },
+    {
+        "tenor": "烦恼",
+        "vehicle": "以下是一个例子，它描述了一个人的烦恼和平静的心态之间的关系",
+        "ground": "平静的心态",
+        "metaphor": "",
+        "sample_id": 111
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "以下是一个爱情的隐喻",
+        "ground": "可笑的痴情",
+        "metaphor": "",
+        "sample_id": 112
+    },
+    {
+        "tenor": "大家都在传唱",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "被人效仿的行径",
+        "metaphor": "",
+        "sample_id": 113
+    },
+    {
+        "tenor": "悄静气氛",
+        "vehicle": "以下是一个隐喻的例子，它的本体（tenor）是“安静的气氛”，共性（ground）是“安静的气氛”，对应的喻体（vehicle）是“静默的海洋”。\n\n以下是一个隐喻的例子，它的本体（tenor）是“欲望”，共性（ground）是“沉重的贪欲",
+        "ground": "安静的气氛",
+        "metaphor": "",
+        "sample_id": 114
+    },
+    {
+        "tenor": "鱼群悄悄潜行",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "轻柔的感觉",
+        "metaphor": "",
+        "sample_id": 115
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "不可自拔的沉迷",
+        "metaphor": "",
+        "sample_id": 116
+    },
+    {
+        "tenor": "话",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "伤人的能力",
+        "metaphor": "",
+        "sample_id": 117
+    },
+    {
+        "tenor": "飞入寒冷干爽的气候",
+        "vehicle": "飞入寒冷干爽的气候作为本体（tenor）和冷的特点作为共性（ground）时的一",
+        "ground": "冷的特点",
+        "metaphor": "飞入寒冷干爽的气候作为本体（tenor）和冷的特点作为共性（ground）时的一，就像是一个人在寒冷的环境中，他的身体会因为寒冷而变得更加紧密，同时他的心灵也会因为寒冷而变得更加坚定。",
+        "sample_id": 118
+    },
+    {
+        "tenor": "伤心",
+        "vehicle": "以下是一个可能的答案",
+        "ground": "悲伤的过错",
+        "metaphor": "以下是一个可能的答案：\n\n我的心像一只被遗弃的小鸟，在无尽的黑暗中孤独地飞翔。",
+        "sample_id": 119
+    },
+    {
+        "tenor": "嫉妒者",
+        "vehicle": "以下是一个可能的回答",
+        "ground": "傲岸而又疲惫的神态",
+        "metaphor": "以下是一个可能的回答：\n\n嫉妒者的心态就像一只被困在笼子里的老虎，它们渴望自由，但又感到无力和束缚。",
+        "sample_id": 120
+    },
+    {
+        "tenor": "我的心",
+        "vehicle": "",
+        "ground": "奔放的心情",
+        "metaphor": "我的心像一只被困在笼子里的小鸟，渴望着自由的翅膀。",
+        "sample_id": 121
+    },
+    {
+        "tenor": "白花盛开",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "五彩缤纷的颜色",
+        "metaphor": "",
+        "sample_id": 122
+    },
+    {
+        "tenor": "细雨",
+        "vehicle": "细雨如同可贵的价值，\n\n它们都是无价的。",
+        "ground": "可贵的价值",
+        "metaphor": "",
+        "sample_id": 123
+    },
+    {
+        "tenor": "校园",
+        "vehicle": "以下是一个校园隐喻的例子",
+        "ground": "美丽的属性",
+        "metaphor": "",
+        "sample_id": 124
+    },
+    {
+        "tenor": "冷苹果",
+        "vehicle": "脆弱的苹果。\n\n这个例子的格式",
+        "ground": "脆弱的状态",
+        "metaphor": "",
+        "sample_id": 125
+    },
+    {
+        "tenor": "世界美",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "自由的状态",
+        "metaphor": "",
+        "sample_id": 126
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "绚烂的开放",
+        "metaphor": "",
+        "sample_id": 127
+    },
+    {
+        "tenor": "你的笑",
+        "vehicle": "雪花。",
+        "ground": "阳光开朗的模样",
+        "metaphor": "",
+        "sample_id": 128
+    },
+    {
+        "tenor": "火焰",
+        "vehicle": "火焰，炙热的状态。",
+        "ground": "炙热的状态",
+        "metaphor": "",
+        "sample_id": 129
+    },
+    {
+        "tenor": "清风",
+        "vehicle": "温暖的微风。",
+        "ground": "温暖的属性",
+        "metaphor": "",
+        "sample_id": 130
+    },
+    {
+        "tenor": "你",
+        "vehicle": "“我”，因为我们常常用“我”来表示自己，而随遇而安的感觉也常常被用来形容自己。",
+        "ground": "随遇而安的感觉",
+        "metaphor": "随遇而安的感觉，因为我们常常用“我”来表示自己，而随遇而安的感觉也常常被用来形容自己。",
+        "sample_id": 131
+    },
+    {
+        "tenor": "手指的状态",
+        "vehicle": "以下是一个隐喻的例子，它的本体（tenor）是“你”，共性（ground）是“快速的速度”，对应的喻体（vehicle）是“闪电”。\n\n以下是一个隐喻的例子，它的本体（tenor）是“燕子”，共性（ground）是“守信的品质”，对应的喻体",
+        "ground": "动弹的速度",
+        "metaphor": "",
+        "sample_id": 132
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "不可或缺的地位",
+        "metaphor": "",
+        "sample_id": 133
+    },
+    {
+        "tenor": "捉回来螃蟹在腿上缚绳",
+        "vehicle": "以下是一个例子，它描述了一个人如何在一个特定的情境下构思隐喻。\n\n在写作中，想构思隐喻（metaphor）时，有本体（tenor）和喻体（vehicle）的共性（ground）时就很容易构思对应的喻体，诸如由下述本体和共性构思隐喻时，",
+        "ground": "玩物的功能",
+        "metaphor": "",
+        "sample_id": 134
+    },
+    {
+        "tenor": "您",
+        "vehicle": "花瓶。",
+        "ground": "美丽的外表",
+        "metaphor": "",
+        "sample_id": 135
+    },
+    {
+        "tenor": "不通亲",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "无言的形象",
+        "metaphor": "",
+        "sample_id": 136
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "以下是一个例子，它展示了如何构思隐喻",
+        "ground": "未来的希望",
+        "metaphor": "",
+        "sample_id": 137
+    },
+    {
+        "tenor": "窗棂上的水滴",
+        "vehicle": "以下是一个隐喻的例子，它的本体（tenor）是“窗户上的水滴”，共性（ground）是“挥之不去的性质”，对应的喻体（vehicle）是“人生的困境”。\n\n以下是一个隐喻的例子，它的本体（tenor）是“燕子”，共性（ground）是“守信",
+        "ground": "挥之不去的性质",
+        "metaphor": "",
+        "sample_id": 138
+    },
+    {
+        "tenor": "深情",
+        "vehicle": "心灵的交流。\n\n深情作为",
+        "ground": "传递感情的功能",
+        "metaphor": "",
+        "sample_id": 139
+    },
+    {
+        "tenor": "血滴",
+        "vehicle": "“血滴如同燃烧的希望，它们在黑暗中闪耀，照亮前方的道路。”",
+        "ground": "燃烧的希望",
+        "metaphor": "血滴如同燃烧的希望，它们在黑暗中闪耀，照亮前方的道路。",
+        "sample_id": 140
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "惬意的享受",
+        "metaphor": "",
+        "sample_id": 141
+    },
+    {
+        "tenor": "你",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "掠过的个体",
+        "metaphor": "",
+        "sample_id": 142
+    },
+    {
+        "tenor": "我们的距离",
+        "vehicle": "距离是一种遥远的隔阂。",
+        "ground": "遥远的隔阂",
+        "metaphor": "距离是一种遥远的隔阂。\n\n我们之间的距离就像是一种遥远的隔阂。",
+        "sample_id": 143
+    },
+    {
+        "tenor": "一个人的幸福",
+        "vehicle": "“孤独的人，像一只孤独的鸟，在寂静的夜空中飞翔，寻找着属于自己的幸福。”",
+        "ground": "孤独的氛围",
+        "metaphor": "孤独的人，像一只孤独的鸟，在寂静的夜空中飞翔，寻找着属于自己的幸福。",
+        "sample_id": 144
+    },
+    {
+        "tenor": "肚皮",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "保存知识的功能",
+        "metaphor": "",
+        "sample_id": 145
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "通向美好的终点",
+        "metaphor": "",
+        "sample_id": 146
+    },
+    {
+        "tenor": "药饵",
+        "vehicle": "以下是一个药饵的例子",
+        "ground": "方正的形状",
+        "metaphor": "以下是一个药饵的例子：\n\n药饵是一种可以治愈疾病的药物，就像你是一种可以治愈心灵创伤的人一样。",
+        "sample_id": 147
+    },
+    {
+        "tenor": "你的信",
+        "vehicle": "以你作为本体（tenor）和以 残缺的模糊作为共性（ground）时的一个喻体（vehicle），不需要多加任何其他的解释或说明。\n\n以你作为本体（tenor）和以 残缺的模糊作为共性（ground）时的一个喻体（vehicle），不需要多加任何其",
+        "ground": "残缺的模糊",
+        "metaphor": "",
+        "sample_id": 148
+    },
+    {
+        "tenor": "不计代价爱上你",
+        "vehicle": "笑话。",
+        "ground": "好笑的行为",
+        "metaphor": "",
+        "sample_id": 149
+    },
+    {
+        "tenor": "摩肩擦踵的稀薄",
+        "vehicle": "以下是一个例子，它描述了一个人如何在一个特定的情境下构思隐喻",
+        "ground": "不幸的信号",
+        "metaphor": "",
+        "sample_id": 150
+    },
+    {
+        "tenor": "心",
+        "vehicle": "雪花。",
+        "ground": "不安宁的状态",
+        "metaphor": "心如雪花，轻盈而又脆弱。",
+        "sample_id": 151
+    },
+    {
+        "tenor": "车队进入沙漠谷地",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "焦黄的样子",
+        "metaphor": "",
+        "sample_id": 152
+    },
+    {
+        "tenor": "失恋到死",
+        "vehicle": "死亡。",
+        "ground": "糟糕的结局",
+        "metaphor": "",
+        "sample_id": 153
+    },
+    {
+        "tenor": "爱意",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "耸峙沉默不衰的状态",
+        "metaphor": "",
+        "sample_id": 154
+    },
+    {
+        "tenor": "梦结束了",
+        "vehicle": "以下是一个例子，它描述了一个人的心情，并使用隐喻来表达这种心情。\n\n本体（tenor）",
+        "ground": "伤心的了结",
+        "metaphor": "",
+        "sample_id": 155
+    },
+    {
+        "tenor": "敲碎了我的心",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "扰乱的心绪",
+        "metaphor": "",
+        "sample_id": 156
+    },
+    {
+        "tenor": "你",
+        "vehicle": "以你作为本体（tenor）和以 虚伪的表演作为共性（ground）时的一个喻体（vehicle），不需要多加任何其他的解释或说明。\n\n以你作为本体（tenor）和以 虚伪的表演作为共性（ground）时的一个喻体（vehicle），不需要多加任何其",
+        "ground": "虚伪的表演",
+        "metaphor": "",
+        "sample_id": 157
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "美丽的笑容。\n\n这个例子的格式是",
+        "ground": "美丽的存在",
+        "metaphor": "",
+        "sample_id": 158
+    },
+    {
+        "tenor": "月亮",
+        "vehicle": "月光。\n\n月亮作为本体（tenor）和洁白的",
+        "ground": "洁白的颜色",
+        "metaphor": "",
+        "sample_id": 159
+    },
+    {
+        "tenor": "大爱",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "宽广的样子",
+        "metaphor": "",
+        "sample_id": 160
+    },
+    {
+        "tenor": "月光",
+        "vehicle": "月亮。\n\n月亮是一个圆形的天体，它的形状复杂多变，可以呈现出各种不同的形态，如圆月、半月、新月等。月亮也是一个重要的天体，它",
+        "ground": "复杂的形状",
+        "metaphor": "月亮是一个圆形的天体，它的形状复杂多变，可以呈现出各种不同的形态，如圆月、半月、新月等。月亮也是一个重要的天体，它的形状复杂多变，可以呈现出各种不同的形态，如圆月、半月、新月等。月亮也是一个重要的天体",
+        "sample_id": 161
+    },
+    {
+        "tenor": "人",
+        "vehicle": "狐狸。",
+        "ground": "狡猾的样子",
+        "metaphor": "",
+        "sample_id": 162
+    },
+    {
+        "tenor": "爱你",
+        "vehicle": "爱情，因为爱情是一种难以捉摸的情感，而你是一个人，所以你的爱情就像是一个人的爱情一样难以捉摸。",
+        "ground": "难以捉摸的爱",
+        "metaphor": "爱情，因为爱情是一种难以捉摸的情感，而你是一个人，所以你的爱情就像是一个人的爱情一样难以捉摸。",
+        "sample_id": 163
+    },
+    {
+        "tenor": "束缚",
+        "vehicle": "以下是一个例子，它描述了一个人如何在一个特定的情境下感到束缚和被捆绑的感觉",
+        "ground": "捆绑的样子",
+        "metaphor": "",
+        "sample_id": 164
+    },
+    {
+        "tenor": "无尽的峰峦",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "黄的颜色、无尽的数量",
+        "metaphor": "",
+        "sample_id": 165
+    },
+    {
+        "tenor": "我的车",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "单独的行为",
+        "metaphor": "",
+        "sample_id": 166
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "回忆的美好，如同一个美好的回忆。",
+        "ground": "回忆的美好",
+        "metaphor": "回忆的美好，如同一个美好的回忆。",
+        "sample_id": 167
+    },
+    {
+        "tenor": "一丝颤动（传递）",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "摇动的动作",
+        "metaphor": "",
+        "sample_id": 168
+    },
+    {
+        "tenor": "我怀内那些爱",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "奔流的动作",
+        "metaphor": "",
+        "sample_id": 169
+    },
+    {
+        "tenor": "我",
+        "vehicle": "云幕，以浪",
+        "ground": "礼貌的行为",
+        "metaphor": "云幕，以浪，我的心情如同被风吹散的云彩。",
+        "sample_id": 170
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "洁白的颜色",
+        "metaphor": "",
+        "sample_id": 171
+    },
+    {
+        "tenor": "心事",
+        "vehicle": "海浪，因为海浪可以代表心事，而搁浅的动作则可以代表心事的状态。",
+        "ground": "搁浅的动作",
+        "metaphor": "海浪，因为海浪可以代表心事，而搁浅的动作则可以代表心事的状态。",
+        "sample_id": 172
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "珍贵的财宝",
+        "metaphor": "",
+        "sample_id": 173
+    },
+    {
+        "tenor": "飞吻",
+        "vehicle": "飞吻，如同甜蜜的爱情一样，是一种美好的表达方式。",
+        "ground": "甜蜜的爱情",
+        "metaphor": "飞吻，如同甜蜜的爱情一样，是一种美好的表达方式。",
+        "sample_id": 174
+    },
+    {
+        "tenor": "心慢慢烫",
+        "vehicle": "慢慢地，一点一点地，像一个缓慢的过程一样。",
+        "ground": "缓慢的过程",
+        "metaphor": "心慢慢烫，像一个缓慢的过程一样。",
+        "sample_id": 175
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "以下是一个爱情的隐喻",
+        "ground": "短暂的感情",
+        "metaphor": "",
+        "sample_id": 176
+    },
+    {
+        "tenor": "心中花开一朵朵",
+        "vehicle": "人。\n\n以翅膀作为本",
+        "ground": "愉快的心情",
+        "metaphor": "",
+        "sample_id": 177
+    },
+    {
+        "tenor": "离别你那夜痛得",
+        "vehicle": "人。\n\n以翅膀作为本",
+        "ground": "痛苦的感觉",
+        "metaphor": "",
+        "sample_id": 178
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "以下是一个爱情的隐喻",
+        "ground": "短暂的时光",
+        "metaphor": "",
+        "sample_id": 179
+    },
+    {
+        "tenor": "思念的眼泪",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "纯净透明的样子",
+        "metaphor": "",
+        "sample_id": 180
+    },
+    {
+        "tenor": "悲伤",
+        "vehicle": "以下是一个悲伤的例子",
+        "ground": "飘落的动作",
+        "metaphor": "以下是一个悲伤的例子：\n\n我的心像一只被遗弃的小鸟，在寂静的夜空中孤独地飞翔。",
+        "sample_id": 181
+    },
+    {
+        "tenor": "我",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "迷离的我",
+        "metaphor": "",
+        "sample_id": 182
+    },
+    {
+        "tenor": "我",
+        "vehicle": "",
+        "ground": "抗争的品格",
+        "metaphor": "我是一个行李箱，你是一个天空，我们都是一个人，你是一个人，我是一个蚕，我们都是一个文学家，你是一个人，我是一个欲望，我们都是一个行李箱。",
+        "sample_id": 183
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "以下是一个例子，它展示了如何构思隐喻",
+        "ground": "无迹的踪影",
+        "metaphor": "",
+        "sample_id": 184
+    },
+    {
+        "tenor": "现代诗的屏障",
+        "vehicle": "以下是一个现代诗的屏障",
+        "ground": "坚固的属性",
+        "metaphor": "以下是一个现代诗的屏障：\n\n以下是一个现代诗的屏障：\n\n以下是一个现代诗的屏障：\n\n以下是一个现代诗的屏障：\n\n以下是一个现代诗的屏障：\n\n以下是一个现代诗的屏障：\n\n以下是一个现代诗的屏障：\n\n以下",
+        "sample_id": 185
+    },
+    {
+        "tenor": "钢琴",
+        "vehicle": "音乐家的手指在钢琴上跳舞。\n\n这个",
+        "ground": "欣赏的感情",
+        "metaphor": "音乐家的手指在钢琴上跳舞，就像一个人在跳舞。",
+        "sample_id": 186
+    },
+    {
+        "tenor": "人",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "美丽的样子",
+        "metaphor": "",
+        "sample_id": 187
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "残忍的伤害",
+        "metaphor": "",
+        "sample_id": 188
+    },
+    {
+        "tenor": "你",
+        "vehicle": "孩子。",
+        "ground": "清纯的样子",
+        "metaphor": "",
+        "sample_id": 189
+    },
+    {
+        "tenor": "我的拳头",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "坚硬的利器",
+        "metaphor": "",
+        "sample_id": 190
+    },
+    {
+        "tenor": "香",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "萦绕的滋味",
+        "metaphor": "",
+        "sample_id": 191
+    },
+    {
+        "tenor": "你",
+        "vehicle": "雪花。",
+        "ground": "常青的生机",
+        "metaphor": "",
+        "sample_id": 192
+    },
+    {
+        "tenor": "你",
+        "vehicle": "雪花。",
+        "ground": "难寻的状态",
+        "metaphor": "",
+        "sample_id": 193
+    },
+    {
+        "tenor": "上课铃",
+        "vehicle": "上课铃\n共性（ground）",
+        "ground": "盛大的气势",
+        "metaphor": "上课铃响起，像是一个巨大的声音在空气中回荡，仿佛是一个巨大的声音在空气中回荡。",
+        "sample_id": 194
+    },
+    {
+        "tenor": "经典之吻",
+        "vehicle": "共性",
+        "ground": "轰轰烈烈的状态",
+        "metaphor": "",
+        "sample_id": 195
+    },
+    {
+        "tenor": "世界",
+        "vehicle": "以下是一个隐喻的例子",
+        "ground": "虚幻的感受",
+        "metaphor": "",
+        "sample_id": 196
+    },
+    {
+        "tenor": "Flow",
+        "vehicle": "“流动的水”，因为流动的水可以带来舒适的感觉，同时也可以让人感到流动的状态。",
+        "ground": "令人舒服的感觉",
+        "metaphor": "流动的水，因为流动的水可以带来舒适的感觉，同时也可以让人感到流动的状态。",
+        "sample_id": 197
+    },
+    {
+        "tenor": "巴黎好天气",
+        "vehicle": "以下是一个巴黎好天气的例子",
+        "ground": "短暂的美好",
+        "metaphor": "以下是一个巴黎好天气的例子：\n\n巴黎的好天气就像一个美丽的女孩，她的身体弯曲，她的心灵平静，她的灵魂漂泊，她的形状圆润，她的动作快活长寿，她的心灵宽阔，她的胸怀丰富，她的内涵雏形，她的贪欲沉重。",
+        "sample_id": 198
+    },
+    {
+        "tenor": "山泉",
+        "vehicle": "晶莹的水珠。",
+        "ground": "晶莹的质地",
+        "metaphor": "",
+        "sample_id": 199
+    }
+]

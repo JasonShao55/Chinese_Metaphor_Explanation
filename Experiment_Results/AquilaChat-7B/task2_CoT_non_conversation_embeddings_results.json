@@ -1,0 +1,1402 @@
+[
+    {
+        "tenor": "他的温柔",
+        "vehicle": "</s>A",
+        "ground": "包容的能力",
+        "metaphor": "",
+        "sample_id": 0
+    },
+    {
+        "tenor": "现实",
+        "vehicle": "</s>A",
+        "ground": "刺痛的感受",
+        "metaphor": "答案：A就像一条毒蛇，它会在你放松警惕的时候突然咬你一口。\n</s>A就像一条毒蛇，它会在你放松警惕的时候突然咬你一口。\n</s>A就像一条毒蛇，它会在你放松警惕的时候突然咬你一口。\nA就像一条毒蛇，它会在你放松警惕的时候突然咬你一口。\nA就像一条毒蛇，它会在你放松警惕的时候突然咬你一口。\nA就像一条毒蛇",
+        "sample_id": 1
+    },
+    {
+        "tenor": "语言",
+        "vehicle": "</s>A",
+        "ground": "无情的伤害",
+        "metaphor": "答案：语言是思想的的外壳。\n</s>A：语言\n</s>A的共性：语言是思想的表达形式。\n</s>A的外壳：思想的外壳。\n</s>A的比喻义：语言是思想的外壳，它是我们用来表达思想的工具。\n</s>A的比喻手法：比喻是一种修辞手法，通过将一个事物与另一个事物进行比较，从而形象化地表达某种思想或情感。\n</s>A的比喻意义：语言是我们思考、表达和思考交流",
+        "sample_id": 2
+    },
+    {
+        "tenor": "他的脚印",
+        "vehicle": "</s>A",
+        "ground": "繁多的数量",
+        "metaphor": "",
+        "sample_id": 3
+    },
+    {
+        "tenor": "你的监察",
+        "vehicle": "</s>A",
+        "ground": "残酷的监察、无情的监察",
+        "metaphor": "",
+        "sample_id": 4
+    },
+    {
+        "tenor": "梭罗河",
+        "vehicle": "</s>A river is like a landscape painting. It has a unique character and beauty that can't be found in nature.\n</s>A river is like a landscape painting. It has a unique character and beauty that can't be found in nature.\n</s>A river is like a landscape painting. It has a unique character and beauty that can't be found in nature.\n</s>A river is like a landscape painting. It has a unique character and beauty that can't be found in nature.",
+        "ground": "美丽的风景",
+        "metaphor": "</s>A river is like a landscape painting. It has a unique character and beauty that can't be found in nature.\nA river is like a landscape painting. It has a unique character and beauty that can't be found in nature.\nA river is like a landscape painting. It has a unique character and beauty that can't be found in nature.\nA river is like a landscape painting. It has a unique character and beauty that can't be found in nature.\nA river",
+        "sample_id": 5
+    },
+    {
+        "tenor": "说不出滋味的体会",
+        "vehicle": "</s>A",
+        "ground": "苦涩的伪装",
+        "metaphor": "",
+        "sample_id": 6
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "</s>A爱是一种下坠的力量。\n</s>A爱是一种下坠的力量。\n</s>A爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。",
+        "ground": "下坠的动作",
+        "metaphor": "</s>A爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱是一种下坠的力量。\nA爱",
+        "sample_id": 7
+    },
+    {
+        "tenor": "燃尽的烟蒂",
+        "vehicle": "</s>A",
+        "ground": "自损八百的属性",
+        "metaphor": "",
+        "sample_id": 8
+    },
+    {
+        "tenor": "火星",
+        "vehicle": "</s>A. 以火星作为本体（tenor）和闪亮美好的属性作为共性（ground）时的一个喻体（vehicle）。\nB. 以火星作为本体（tenor）和明亮美丽的属性作为共性（ground）时的一个喻体（vehicle）。\nC. 以火星作为本体（tenor）和明亮美丽的属性作为共性（ground）时的一个喻体（vehicle）。\nD. 以火星作为本体（tenor）",
+        "ground": "闪亮美好的属性",
+        "metaphor": "",
+        "sample_id": 9
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "</s>A",
+        "ground": "苦涩的体验",
+        "metaphor": "答案：爱情就像A，有时美丽而温暖，有时却让人痛苦不堪。\n</s>A：爱情\n</s>A：美丽\nA：温暖\nA：痛苦\n</s>A：让人\nA：痛苦不堪\n</s>A：美丽而温暖\n</s>A：有时\nA：有时却\nA：让人痛苦\nA：让人痛苦不堪\nA：让人痛苦\nA：让人痛苦\nA：让人痛苦\nA：让人痛苦\nA：让人痛苦",
+        "sample_id": 10
+    },
+    {
+        "tenor": "事物",
+        "vehicle": "</s>A",
+        "ground": "可怕的感觉",
+        "metaphor": "",
+        "sample_id": 11
+    },
+    {
+        "tenor": "我得不到你的爱情",
+        "vehicle": "</s>A",
+        "ground": "得不到的爱情",
+        "metaphor": "回答：我像一只渴望爱的鸟，却始终无法到达你的爱情天空。\n</s>A：渴望\n</s>A：爱情天空\n</s>A：无法到达\n</s>A：爱情\n</s>A：渴望\nA：爱情天空\nA：无法到达\nA：爱情\n</s>A：渴望\nA：爱情天空\nA：无法到达\nA：爱情\nA：渴望\nA：爱情天空\nA：无法到达\nA：爱情\nA：渴望",
+        "sample_id": 12
+    },
+    {
+        "tenor": "白云",
+        "vehicle": "</s>A cloud is a white object that hovers in the sky.\n</s>A cloud is a white object that hovers in the sky.\n</s>A cloud is a white object that hovers in the sky.\nA cloud is a white object that hovers in the sky.\nA cloud is a white object that hovers in the sky.\nA cloud is a white object that hovers in the sky.\nA cloud is a white object that hovers in the sky",
+        "ground": "白色的外形",
+        "metaphor": "</s>A cloud is a white object that hovers in the sky.\nA cloud is a white object that hovers in the sky.\nA cloud is a white object that hovers in the sky.\nA cloud is a white object that hovers in the sky.\nA cloud is a white object that hovers in the sky.\nA cloud is a white object that hovers in the sky的翻译。\n</s>A cloud is a white object that hovers in the",
+        "sample_id": 13
+    },
+    {
+        "tenor": "你的身影",
+        "vehicle": "</s>A",
+        "ground": "漂浮的形态",
+        "metaphor": "回答：你的眼睛像A一样明亮，让我感到温暖。\n</s>A：A is a type of software that is used to manage and organize data.\n</s>A：A is a type of software that is used to manage and organize data.\n</s>A：A is a type of software that is used to manage and organize data.\nA：A is a type of software that is used to manage and organize data.\nA：A is a type of software that is",
+        "sample_id": 14
+    },
+    {
+        "tenor": "国王",
+        "vehicle": "</s>A",
+        "ground": "卑微的样子",
+        "metaphor": "答案：国王是A，而A是国王。\n</s>A是国王，国王是A。\n</s>A是国王，而国王不是A。\n</s>A是国王，而国王不是A。\n</s>A是国王，而国王不是A。\n</s>A是国王，而国王不是A。\nA是国王，而国王不是A。\nA是国王，而国王不是A。\nA是国王，而国王不是A。\nA是国王",
+        "sample_id": 15
+    },
+    {
+        "tenor": "你的消息",
+        "vehicle": "</s>A",
+        "ground": "纪念的价值",
+        "metaphor": "回答：我的生命就像一只翱翔的鹰，而A就像鹰爪下的猎物，我正在用力的抓住它，以便更好地掌握自己的命运。\n</s>A是一个物体或概念，它代表了一个具有挑战性的目标或挑战。在这个句子中，A代表了一个具体的猎物，而我的生命则被比喻成了鹰。鹰是一种猛禽，它的爪子非常锋利，能够轻易地抓住猎物。因此，这个句子表达了我对A的强烈渴望和追求。",
+        "sample_id": 16
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "</s>A",
+        "ground": "漫长的流淌",
+        "metaphor": "",
+        "sample_id": 17
+    },
+    {
+        "tenor": "成长",
+        "vehicle": "</s>A",
+        "ground": "给人的奖励",
+        "metaphor": "答案：成长就像A一样，需要不断地锻炼和学习，才能变得更加坚强和完美。\n</s>A代表一个物体或概念，成长则是指人的发展过程。这个句子通过比喻的方式，表达了成长需要不断地锻炼和学习，才能变得更加完美。\n</s>A还可以代表一种精神品质，成长则是指人的性格、思想、行为等方面的变化和发展。这个句子表达了成长需要不断地锻炼和学习，才能变得更加坚强和完美。\n</s>A还可以代表一种能力或技能，成长",
+        "sample_id": 18
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "</s>A",
+        "ground": "复杂的状态",
+        "metaphor": "答案：人生就像一场旅行，而A就像一只路标，指示着我们的方向。\n</s>A可以是任何事物，例如：生命、爱情、成功、幸福等等。这个句子表达了人生中的每一个阶段都需要有一个路标来指导我们前进，而路标可以是具体的物质实体，也可以是一种抽象的概念。这个句子也可以被用来描述人生中的每一个选择，都需要有一个明确的目标和方向。\n</s>A也可以是一种具有特殊意义的符号，例如：信仰、价值观",
+        "sample_id": 19
+    },
+    {
+        "tenor": "自己",
+        "vehicle": "</s>A",
+        "ground": "乱跳的动作",
+        "metaphor": "回答：我就像一只在沙滩上乱跳的螃蟹，虽然表面看起来活泼好动，但实际上内心却感到孤独和不安。\n</s>A就像一只在沙滩上乱跳的螃蟹，虽然表面看起来活泼好动，但实际上内心却感到孤独和不安。\n</s>A就像一只在沙滩上乱跳的螃蟹，虽然表面看起来活泼好动，但实际上内心却感到孤独和不安。\nA就像一只在沙滩上乱跳的螃蟹，虽然表面看起来活泼好动，",
+        "sample_id": 20
+    },
+    {
+        "tenor": "我心上",
+        "vehicle": "</s>A",
+        "ground": "闪闪的发亮",
+        "metaphor": "",
+        "sample_id": 21
+    },
+    {
+        "tenor": "浮雪",
+        "vehicle": "</s>A white snowflake is like a floating landscape.\n</s>A snowflake is like a piece of art.\n</s>A snowflake is like a work of art.\nA snowflake is like a work of art.\nA snowflake is like a work of art.\nA snowflake is like a work of art.\nA snowflake is like a work of art.\nA snowflake is like a work of art.",
+        "ground": "漂浮的景象",
+        "metaphor": "</s>A white snowflake is like a floating landscape.\nA snowflake is like a piece of art.\nA snowflake is like a work of art.\nA snowflake is like a work of art.\nA snowflake is like a work of art.\nA snowflake is like a work of art.\nA snowflake is like a work of art.\nA snowflake is like a work of art.\n</s>A",
+        "sample_id": 22
+    },
+    {
+        "tenor": "浮游心窝",
+        "vehicle": "</s>A. 请提供浮游心窝作为喻体（vehicle）和畅快的舞动作为喻体（vehicle）。\nB. 请提供浮游心窝作为喻体（vehicle）和畅快的舞动作为喻体（vehicle）。\nC. 请提供浮游心窝作为喻体（vehicle）和畅快的舞动作为喻体（vehicle）。\nD. 请提供浮游心窝作为喻体（vehicle",
+        "ground": "畅快的舞动",
+        "metaphor": "",
+        "sample_id": 23
+    },
+    {
+        "tenor": "兰花草",
+        "vehicle": "</s>A",
+        "ground": "甜美漂亮的样子",
+        "metaphor": "",
+        "sample_id": 24
+    },
+    {
+        "tenor": "擦拭尘土",
+        "vehicle": "</s>A. 请提供擦拭的动作\nB. 请提供轻柔的动作\nC. 请提供擦拭的动作和轻柔的动作\nD. 请提供轻柔的动作\nE. 请提供擦拭的动作和轻柔的动作\nF. 请提供轻柔的动作\nG. 请提供擦拭的动作\nH. 请提供轻柔的动作\nI. 请提供擦拭的动作\nJ. 请提供轻柔的动作\nK. 请提供擦拭的动作\nL. 请",
+        "ground": "轻柔的动作",
+        "metaphor": "</s>A. 请提供擦拭的动作\nB. 请提供轻柔的动作\nC. 请提供擦拭的动作和轻柔的动作\nD. 请提供轻柔的动作\nE. 请提供擦拭的动作和轻柔的动作\nF. 请提供轻柔的动作\nG. 请提供擦拭的动作\nH. 请提供轻柔的动作\nI. 请提供擦拭的动作\nJ. 请提供轻柔的动作\nK. 请提供擦拭的动作\nL. 请",
+        "sample_id": 25
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "不一样的存在",
+        "metaphor": "回答：我像A一样，有着坚定的信念和不屈不挠的精神。\n</s>A是一个比喻，指的是某种具有相似特征的事物或概念。在这个句子中，A代表的是“信念”和“精神”，而“我”则代表的是“坚定”和“不屈不挠”。因此，这个句子可以理解为“我像A一样坚定不屈不挠”。\n</s>A是一个抽象的概念，而“信念”和“精神”则更加具体。因此，这个",
+        "sample_id": 26
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "流逝的生机",
+        "metaphor": "回答：我像一只鸟，A像一只鸟笼。\n</s>A就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼",
+        "sample_id": 27
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "</s>A",
+        "ground": "失去生命的状态",
+        "metaphor": "答案：爱情就像A，它有着丰富的内涵，有时让人心醉神迷，有时让人痛苦不堪。\n</s>A：爱情。\n</s>A：爱情就像A，它有着丰富的内涵，有时让人心醉神迷，有时让人痛苦不堪。\n</s>A：爱情就像A，它有着丰富的内涵，有时让人心醉神迷，有时让人痛苦不堪。\nA：爱情就像A，它有着丰富的内涵，有时让人心醉神迷，有时",
+        "sample_id": 28
+    },
+    {
+        "tenor": "你不给我一颗赤心",
+        "vehicle": "</s>A",
+        "ground": "得不到的痛苦",
+        "metaphor": "回答：你的爱就像一颗赤心，让我感到温暖和幸福。\n</s>A：我的爱。\n</s>A：你的爱就像一颗赤心，让我感到温暖和幸福。\n</s>A：我的爱。\nA：你的爱就像一颗赤心，让我感到温暖和幸福。\nA：我的爱。\nA：你的爱就像一颗赤心，让我感到温暖和幸福。\nA：我的爱。\nA：你的爱就像一颗赤心",
+        "sample_id": 29
+    },
+    {
+        "tenor": "坚忍",
+        "vehicle": "</s>A. 请告诉我坚忍作为本体（tenor）和掩盖的状态作为共性（ground）时的一个喻体（vehicle）是什么？\nB. 请告诉我坚忍作为本体（tenor）和掩盖的状态作为共性（ground）时的一个喻体（vehicle）是什么？\nC. 请告诉我坚忍作为本体（tenor）和掩盖的状态作为共性（ground）时的一个喻体（vehicle）是什么？\nD. 请告诉我",
+        "ground": "掩盖的状态",
+        "metaphor": "",
+        "sample_id": 30
+    },
+    {
+        "tenor": "蓝蓝的天空",
+        "vehicle": "</s>A",
+        "ground": "宽广的样子",
+        "metaphor": "",
+        "sample_id": 31
+    },
+    {
+        "tenor": "青年",
+        "vehicle": "</s>A",
+        "ground": "挺立绷直的状态",
+        "metaphor": "答案：青年就像A，虽然开始的时候可能有些弯曲，但最终会挺立起来，变得强大而美丽。\n</s>A 可以是任何事物，比如：\n- 青年就像一株嫩绿的植物，虽然开始的时候可能有些弯曲，但最终会生长成一棵强大的植物。\n- 青年就像一只幼鸟，虽然开始的时候可能有些弯曲，但最终会学会飞翔，变得强大而美丽。\n- 青年就像一条弯曲的小路，虽然开始的时候",
+        "sample_id": 32
+    },
+    {
+        "tenor": "男人",
+        "vehicle": "</s>A man is like a vast ocean, with limitless depths and limitless possibilities.\n</s>A man is like a library, with knowledge and wisdom to share with others.\nA man is like a tree, with roots that run deep and branches that reach high.\nA man is like a river, with the power to move mountains and the ability to erode rocks.\nA man is like a mountain, with a strong will and a deep resolve.\nA man is like",
+        "ground": "宽阔的胸襟",
+        "metaphor": "A man is like a vast ocean, with limitless depths and limitless possibilities.\nA man is like a library, with knowledge and wisdom to share with others.\nA man is like a tree, with roots that run deep and branches that reach high.\nA man is like a river, with the power to move mountains and the ability to erode rocks.\nA man is like a mountain, with a strong will and a deep resolve.\n</s>A man is like的",
+        "sample_id": 33
+    },
+    {
+        "tenor": "预告",
+        "vehicle": "</s>A. 请提供以下信息",
+        "ground": "准确的时间",
+        "metaphor": "答案：A就像一只鸟，它飞向天空，却永远无法到达目的地。\n</s>A就像一只鸟，它飞向天空，却永远无法到达目的地。\n</s>A就像一只鸟，它飞向天空，却永远无法到达目的地。\nA就像一只鸟，它飞向天空，却永远无法到达目的地。\nA就像一只鸟，它飞向天空，却永远无法到达目的地。\nA就像一只鸟，它飞向天空，",
+        "sample_id": 34
+    },
+    {
+        "tenor": "落笔",
+        "vehicle": "</s>A",
+        "ground": "流畅的感觉",
+        "metaphor": "",
+        "sample_id": 35
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "</s>A",
+        "ground": "流泪的动作",
+        "metaphor": "答案：时间就像一条河流，不断地向前流逝，而A就像一条船，带领我们穿越这条河流。\n</s>A可以是任何事物，例如：时间、生命、爱情、成功等等。\n</s>A也可以是一个抽象的概念，例如：爱、自由、快乐等等。\n</s>A还可以是一个具体的物品，例如：手机、电脑、汽车等等。\n无论A是什么，这个句子都可以用来描述时间的重要性，以及时间是如何影响我们的生活的。\n</s>A也可以",
+        "sample_id": 36
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "危险的属性",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼里的鸟，虽然我们可以自由飞翔，但我们始终被限制在一个范围内。\n</s>A就像一只鸟，而我和A的关系就像一只鸟笼里的鸟。虽然我们可以自由飞翔，但我们始终被限制在一个范围内。鸟笼里的鸟虽然可以自由飞翔，但它们始终无法离开鸟笼的范围。我和A的关系也是如此，虽然我们可以互相理解和支持，但我们始终无法完全分离。\n</s>A就像一只鸟，而我和",
+        "sample_id": 37
+    },
+    {
+        "tenor": "常态",
+        "vehicle": "</s>A",
+        "ground": "平常的感觉",
+        "metaphor": "答案：A就像一条平静的河流，虽然不时会遇到石头，却始终保持着它原有的状态。\n</s>A就像一条平静的河流，虽然不时会遇到石头，却始终保持着它原有的状态。\n</s>A就像一条平静的河流，虽然不时会遇到石头，却始终保持着它原有的状态。\nA就像一条平静的河流，虽然不时会遇到石头，却始终保持着它原有的状态。\nA就像一条平静的河流，虽然不时会遇到",
+        "sample_id": 38
+    },
+    {
+        "tenor": "我想到你",
+        "vehicle": "</s>A",
+        "ground": "着迷的状态",
+        "metaphor": "",
+        "sample_id": 39
+    },
+    {
+        "tenor": "落满遗憾的城墙",
+        "vehicle": "</s>A",
+        "ground": "我不在乎的悲伤",
+        "metaphor": "",
+        "sample_id": 40
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "神秘的属性",
+        "metaphor": "回答：我像A一样，有着坚定的信念和不屈不挠的精神。\n</s>A代表的人或物可以是任何你熟悉或感兴趣的事物。\n</s>A代表的人或物可以是任何你熟悉或感兴趣的事物。\n</s>A代表的人或物可以是任何你熟悉或感兴趣的事物。\nA代表的人或物可以是任何你熟悉或感兴趣的事物。\nA代表的人或物可以是任何你熟悉或感兴趣的事物。\nA代表的人或物可以是任何你熟悉",
+        "sample_id": 41
+    },
+    {
+        "tenor": "热闹的（场景）",
+        "vehicle": "</s>A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.\n\n</s>A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.\n</s>A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.\n</s>A chat between a curious human and an",
+        "ground": "热闹的下午",
+        "metaphor": "",
+        "sample_id": 42
+    },
+    {
+        "tenor": "十二个音",
+        "vehicle": "</s>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n</s>A",
+        "ground": "动听的声响",
+        "metaphor": "答案：A是音乐中的C大调。\n</s>A是音乐中的C大调。\n</s>A是音乐中的C大调。\nA是音乐中的C大调。\nA是音乐中的C大调。\nA是音乐中的C大调。\nA是音乐中的C大调。\nA是音乐中的C大调。\nA是音乐中的C大调。\nA是音乐中的C大调。\n</s>A是音乐中的",
+        "sample_id": 43
+    },
+    {
+        "tenor": "表达孤单",
+        "vehicle": "</s>A",
+        "ground": "堂堂正正的立场",
+        "metaphor": "",
+        "sample_id": 44
+    },
+    {
+        "tenor": "温柔",
+        "vehicle": "</s>A",
+        "ground": "依偎的行为",
+        "metaphor": "答案：A就像一只温柔的小猫，总是让我感到舒适和安全。\n</s>A就像一只温柔的小猫，总是让我感到舒适和安全。\n</s>A就像一只温柔的小猫，总是让我感到舒适和安全。\nA就像一只温柔的小猫，总是让我感到舒适和安全。\nA就像一只温柔的小猫，总是让我感到舒适和安全。\nA就像一只温柔的小猫，总是让我感到舒适和安全。\nA就像一只温柔的小猫，总是让我感到舒适",
+        "sample_id": 45
+    },
+    {
+        "tenor": "你的眼睛",
+        "vehicle": "</s>A",
+        "ground": "开放的状态",
+        "metaphor": "答案：你的眼睛就像A一样，充满了渴望和能量。\n</s>A：渴望\n</s>A：能量\n</s>A：渴望能量\nA：能量渴望\nA：渴望能量\nA：能量渴望者\nA：渴望者能量\nA：能量渴望者\nA：渴望者能量者\nA：能量渴望者\nA：渴望者能量者\nA：能量渴望者\nA：渴望者能量者\nA：能量渴望者\nA：",
+        "sample_id": 46
+    },
+    {
+        "tenor": "你我分离",
+        "vehicle": "</s>A",
+        "ground": "各自远去的背影",
+        "metaphor": "答案：你就像A，虽然我很想拥有你，但我明白我们之间有着无法跨越的距离。\n</s>A是一个抽象的概念，它可以是任何事物，比如爱、自由、幸福等。在这个句子中，作者用“距离”来形容两人之间的距离，暗示了两人之间存在着无法跨越的距离。同时，“虽然我很想拥有你”这句话也表达了作者内心的渴望，表明作者希望与对方在一起，但又明白这种渴望是幻想。整句话的意思是，作者希望",
+        "sample_id": 47
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "</s>A",
+        "ground": "保卫的功能",
+        "metaphor": "例如：我们就像一只鸟，自由翱翔于天空之间。\n\n答案：我们就像一只鸟，自由翱翔于天空之间。\n</s>A就像一只鸟，自由翱翔于天空之间。\n</s>A就像一只鸟，自由翱翔于天空之间。\nA就像一只鸟，自由翱翔于天空之间。\nA就像一只鸟，自由翱翔于天空之间。\nA就像一只鸟，自由翱翔于天空之间。\nA就像一只鸟，自由翱翔",
+        "sample_id": 48
+    },
+    {
+        "tenor": "酸雨",
+        "vehicle": "定时炸弹，以你作为本体（tenor）和以 危险",
+        "ground": "危险的接触",
+        "metaphor": "",
+        "sample_id": 49
+    },
+    {
+        "tenor": "纸",
+        "vehicle": "</s>A",
+        "ground": "纸张的形状",
+        "metaphor": "答案：A就像一张纸，可以被用来写字、绘画或记录。\n</s>A就像一张纸，可以被用来写字、绘画或记录。\n</s>A就像一张纸，可以被用来写字、绘画或记录。\nA就像一张纸，可以被用来写字、绘画或记录。\nA就像一张纸，可以被用来写字、绘画或记录。\nA就像一张纸，可以被用来写字、绘画或记录。\nA就像一张纸，可以被用来写字、绘画或",
+        "sample_id": 50
+    },
+    {
+        "tenor": "眼睛",
+        "vehicle": "</s>A. 以眼睛作为本体（tenor）和闪烁明亮的动态作为共性（ground）时的一个喻体（vehicle）。\nB. 以眼睛作为本体（tenor）和闪烁明亮的动态作为共性（ground）时的一个喻体（vehicle）。\nC. 以眼睛作为本体（tenor）和闪烁明亮的动态作为共性（ground）时的一个喻体（vehicle）。\nD. 以眼睛作为本体（tenor）",
+        "ground": "闪烁明亮的动态",
+        "metaphor": "",
+        "sample_id": 51
+    },
+    {
+        "tenor": "他们",
+        "vehicle": "</s>A",
+        "ground": "茫然的心理",
+        "metaphor": "答案：他们就像A一样，虽然身处于不同的领域，却都致力于追求完美的艺术表现。\n</s>A：音乐中的音乐\n</s>A是一个音乐制作公司，主要制作音乐作品。他们致力于音乐创作、音乐制作、音乐推广等方面，旨在为音乐爱好者提供最好的音乐作品。\n</s>A的音乐作品风格多样，涵盖了流行、摇滚、电子音乐等多种类型。他们的音乐作品旋律优美，歌词深刻，音乐版权或其它问题请于作品发表后的充满感情，深受音乐爱好者的喜爱。",
+        "sample_id": 52
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "</s>A smile is like a warm sun, spreading joy and happiness to all who see it.\n</s>A smile is like a warm embrace, lighting up the room and bringing people together.\nA smile is like a beacon of hope, lighting up the darkest of days and bringing light to the situation.\nA smile is like a secret weapon, melting away stress and tension and leaving you feeling refreshed and renewed.\nA smile is like a warm blanket, wrapping you up in",
+        "ground": "快乐的样子",
+        "metaphor": "</s>A smile is like a warm sun, spreading joy and happiness to all who see it.\nA smile is like a warm embrace, lighting up the room and bringing people together.\nA smile is like a beacon of hope, lighting up the darkest of days and bringing light to the situation.\nA smile is like a secret weapon, melting away stress and tension and leaving you feeling refreshed and renewed.\nA smile is like a warm blanket, wrapping you up in的",
+        "sample_id": 53
+    },
+    {
+        "tenor": "恋情",
+        "vehicle": "</s>A",
+        "ground": "恋情的含蓄",
+        "metaphor": "答案：她的眼睛就像A一样，美丽而深情。\n</s>A的英文单词是\"",
+        "sample_id": 54
+    },
+    {
+        "tenor": "相思",
+        "vehicle": "</s>A",
+        "ground": "伤害的影响",
+        "metaphor": "答案：相思就像一条没有尽头的河流，永远在寻找着它失去的A。\n</s>A代表的是一个人、一件事物、一个概念等等，相思则是一种强烈的情感状态，它让人茶饭不思、夜不能寐，就像一条没有尽头的河流一样，不断地寻找着失去的东西。这个句子用形象生动的比喻，表达了相思的强烈和痛苦。\n</s>A代表的是一个人、一件事物、一个概念等等，相思则是一种强烈的情感状态，",
+        "sample_id": 55
+    },
+    {
+        "tenor": "他们修复历史",
+        "vehicle": "</s>A",
+        "ground": "陈旧的样子",
+        "metaphor": "答案：修复历史就像修复一件艺术品，需要耐心和细心。\n</s>A修复历史就像修复一件艺术品，需要耐心和细心。\n</s>A修复历史就像修复一件艺术品，需要耐心和细心。\n修复历史就像修复一件艺术品，需要耐心和细心。\n修复历史就像修复一件艺术品，需要耐心和细心。\n修复历史就像修复一件艺术品，需要耐心和细心。\n修复历史就像修复一件艺术品，需要耐心和细心。\n修复历史",
+        "sample_id": 56
+    },
+    {
+        "tenor": "风",
+        "vehicle": "</s>A",
+        "ground": "裹挟的衣服",
+        "metaphor": "答案：风像一只无形的手，不断地推动着A前进。\n</s>A可以是任何事物，例如：人、动物、植物、物品等等。风可以指自然界的任何风，例如：春风、秋风、西风等等。\n</s>A的推动力量可以是任何力量，例如：重力、电力、引力等等。风的颜色、形状、大小等特征也可以用来描述A的特点。\n</s>A的推动力量可以是任何力量，例如：重力、电力、",
+        "sample_id": 57
+    },
+    {
+        "tenor": "稀罕",
+        "vehicle": "</s>A",
+        "ground": "伤人的能力",
+        "metaphor": "答案：A就像一只稀有的动物，很难找到。\n</s>A就像一只稀有的动物，很难找到。\n</s>A就像一只稀有的动物，很难找到。\nA就像一只稀有的动物，很难找到。\nA就像一只稀有的动物，很难找到。\nA就像一只稀有的动物，很难找到。\nA就像一只稀有的动物，很难找到。\nA就像一只稀有的动物，很难找到。\nA就像一只稀有的动物，",
+        "sample_id": 58
+    },
+    {
+        "tenor": "人",
+        "vehicle": "</s>A",
+        "ground": "野的属性",
+        "metaphor": "",
+        "sample_id": 59
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "</s>A",
+        "ground": "快速的飞驰",
+        "metaphor": "答案：我们就像一只快乐的小鸟，在A的怀抱中自由翱翔。\n</s>A就像一只快乐的小鸟，在它的怀抱中自由翱翔。\n</s>A就像一只快乐的小鸟，在它的怀抱中自由翱翔。\nA就像一只快乐的小鸟，在它的怀抱中自由翱翔。\nA就像一只快乐的小鸟，在它的怀抱中自由翱翔。\nA就像一只快乐的小鸟，在它的怀抱中自由翱翔。\nA就像一只快乐",
+        "sample_id": 60
+    },
+    {
+        "tenor": "野性",
+        "vehicle": "</s>A",
+        "ground": "强烈的情感",
+        "metaphor": "答案：野性就像A，它永远无法被满足。\n</s>A：野性\n</s>A：野性\nA：野性\nA：野性\nA：野性\nA：野性\nA：野性\nA：野性\nA：野性\nA：野性\nA：野性\nA：野性\nA：野性\nA：野性\nA：野性\nA：野性\nA：野",
+        "sample_id": 61
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "</s>A",
+        "ground": "苍老的状态",
+        "metaphor": "回答：我们就像一只蚕，不断地吃桑叶，吐丝结茧，最终成为一只成熟的蚕蛾，破茧而出，追求自由。\n</s>A就像一只蚕，不断地吃桑叶，吐丝结茧，最终成为一只成熟的蚕蛾，破茧而出，追求自由。\n</s>A就像一只蚕，不断地吃桑叶，吐丝结茧，最终成为一只成熟的蚕蛾，破茧而出，追求自由。\nA就像一只蚕，",
+        "sample_id": 62
+    },
+    {
+        "tenor": "青春时期和爱情相遇",
+        "vehicle": "</s>A",
+        "ground": "默契的遇见",
+        "metaphor": "答案：青春时期就像一条河流，爱情就像其中一朵美丽的浪花。\n</s>A：爱\n</s>A：爱情\n</s>A：爱情之花的绽放\nA：美丽的浪花\nA：美丽的爱情之花的绽放\nA：美丽的爱情之花的绽放\nA：美丽的爱情之花的绽放\nA：美丽的爱情之花的绽放\nA：美丽的爱情之花的绽放\nA：美丽的爱情之花的绽放\nA：美丽的爱情之花的绽放\nA：美丽的爱情",
+        "sample_id": 63
+    },
+    {
+        "tenor": "往事",
+        "vehicle": "</s>A",
+        "ground": "绚烂的甜美",
+        "metaphor": "答案：A就像一场绚烂的梦，美好而短暂。\n</s>A就像一场绚烂的梦，美好而短暂。\n</s>A就像一场绚烂的梦，美好而短暂。\nA就像一场绚烂的梦，美好而短暂。\nA就像一场绚烂的梦，美好而短暂。\nA就像一场绚烂的梦，美好而短暂。\nA就像一场绚烂的梦，美好而短暂。\nA就像一场绚烂的梦，美好而短暂。",
+        "sample_id": 64
+    },
+    {
+        "tenor": "我和你",
+        "vehicle": "</s>A",
+        "ground": "遥远的距离",
+        "metaphor": "",
+        "sample_id": 65
+    },
+    {
+        "tenor": "《汇报》副刊的风格",
+        "vehicle": "</s>A\n</s>A\n</s>A\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA",
+        "ground": "另类的感觉",
+        "metaphor": "答案：A\n</s>A\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA",
+        "sample_id": 66
+    },
+    {
+        "tenor": "迷茫",
+        "vehicle": "</s>A",
+        "ground": "紧密的环绕",
+        "metaphor": "答案：A就像迷雾中的路标，指引着我前进的方向。\n</s>A就像迷雾中的路标，指引着我前进的方向。\n</s>A就像迷雾中的路标，指引着我前进的方向。\nA就像迷雾中的路标，指引着我前进的方向。\nA就像迷雾中的路标，指引着我前进的方向。\nA就像迷雾中的路标，指引着我前进的方向。\nA就像迷雾中的路标，指引着我前进",
+        "sample_id": 67
+    },
+    {
+        "tenor": "人",
+        "vehicle": "</s>A",
+        "ground": "呆滞的行为",
+        "metaphor": "答案：他像一只孤独的海鸥，在海边徘徊。\n</s>A：孤独\n</s>A：在海边徘徊\n</s>A：孤独的海鸥\n</s>A：在海边徘徊\n</s>A：孤独的海鸥\nA：在海边徘徊\nA：孤独的海鸥\nA：在海边徘徊\nA：孤独的海鸥\nA：在海边徘徊\nA：孤独的海鸥\nA：在海边徘徊\nA：孤独的海鸥\nA：在海边",
+        "sample_id": 68
+    },
+    {
+        "tenor": "雷声",
+        "vehicle": "</s>A",
+        "ground": "咆哮的声音",
+        "metaphor": "",
+        "sample_id": 69
+    },
+    {
+        "tenor": "感受",
+        "vehicle": "</s>A",
+        "ground": "甜美的内容",
+        "metaphor": "答案：A就像一只温柔的手，轻轻地抚摸着我的心灵。\n</s>A就像一只温柔的手，轻轻地抚摸着我的心灵。\n</s>A就像一只温柔的手，轻轻地抚摸着我的心灵。\nA就像一只温柔的手，轻轻地抚摸着我的心灵。\nA就像一只温柔的手，轻轻地抚摸着我的心灵。\nA就像一只温柔的手，轻轻地抚摸着我的心灵。\nA就像一只温柔的手，轻轻地抚摸着我的心灵。\nA就像一只温柔的手，轻轻地抚摸着我的心灵。",
+        "sample_id": 70
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "</s>A",
+        "ground": "短暂的存在",
+        "metaphor": "答案：人生就像一场旅行，而A就像一只路标，指示着我们的方向。\n</s>A可以是任何事物，例如：生命、爱情、成功、幸福等等。这个句子表达了人生中的路标的重要性，它帮助我们确定方向，指导我们前进。\n</s>A也可以是一个抽象的概念，例如：爱、希望、自由等等。在这种情况下，句子可能会变成：“爱就像一只路标，指示着我们的方向。”或者“自由就像一只路标，指示着",
+        "sample_id": 71
+    },
+    {
+        "tenor": "上演的剧情",
+        "vehicle": "</s>A",
+        "ground": "孤单的内心",
+        "metaphor": "",
+        "sample_id": 72
+    },
+    {
+        "tenor": "声音挤进耳朵里",
+        "vehicle": "</s>A",
+        "ground": "拥挤的状态",
+        "metaphor": "答案：声音像是有意拥挤在一起，想要挤进我的耳朵里。\n</s>A：挤进\n</s>A：声音\n</s>A：耳朵\n</s>A：意\nA：意指意愿，意志\nA：拥挤\nA：拥挤指人群聚集在一起。\n</s>A：意指声音想要进入我的耳朵。\n</s>A：挤进意指声音挤在一起进入耳朵。\n</s>A：意指声音拥挤在一起。\nA：意指",
+        "sample_id": 73
+    },
+    {
+        "tenor": "太阳",
+        "vehicle": "</s>A sun is a metaphor for a person who is radiant and full of light.\n</s>A person who is like a sun is someone who is warm and friendly, and who lights up a room with their presence. They are also often very successful and admired by others.\n</s>A person who is a metaphor for a sun is someone who is always positive and optimistic, and who brings joy and happiness to those around them. They are also often very charismatic and influential, and can",
+        "ground": "光芒万丈的感觉",
+        "metaphor": "</s>A person who is a metaphor for a sun is someone who is always positive and optimistic, and who brings joy and happiness to those around them. They are also often very charismatic and influential, and can light up a room with their presence.\n</s>A person who is like a sun is someone who is warm and friendly, and who lights up a room with their presence. They are also often very successful and admired by others.\n</s>A person who is a metaphor for a sun",
+        "sample_id": 74
+    },
+    {
+        "tenor": "你晶莹的双眼",
+        "vehicle": "</s>A",
+        "ground": "闪耀的姿态",
+        "metaphor": "",
+        "sample_id": 75
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "</s>A",
+        "ground": "弥漫的状态",
+        "metaphor": "答案：思念就像是一条没有尽头的河流，永远在不断地流淌着，而A就像是在这条河流中的一块石头，虽然无法改变河流的方向，但却可以在石头上留下深深的痕迹。\n</s>A的比喻可以是任何事物，比如人、动物、物品等等。在这个句子中，A是一个具体的物品，而思念则是一种抽象的概念。这个句子通过比喻的方式，将抽象的概念思念具象化，使得读者更容易理解思念的感觉和意义。\n</s>A的",
+        "sample_id": 76
+    },
+    {
+        "tenor": "乘客的微笑",
+        "vehicle": "</s>A",
+        "ground": "温暖的感觉",
+        "metaphor": "",
+        "sample_id": 77
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "愚蠢的样子",
+        "metaphor": "回答：我像一只鸟一样，自由翱翔在天空之中。\n</s>A像一只鸟一样，自由翱翔在天空之中。\n</s>A像一只鸟一样，自由翱翔在天空之中。\nA像一只鸟一样，自由翱翔在天空之中。\nA像一只鸟一样，自由翱翔在天空之中。\nA像一只鸟一样，自由翱翔在天空之中。\nA像一只鸟一样，自由翱翔在天空之中。\nA像一只鸟",
+        "sample_id": 78
+    },
+    {
+        "tenor": "你的温柔",
+        "vehicle": "</s>A",
+        "ground": "短暂的存在",
+        "metaphor": "回答：你的眼睛就像A一样，明亮而温暖，每次看到它们，我的内心都会感到平静和舒适。\n</s>A代表什么？请给出详细回答。\nA代表眼睛。眼睛是心灵的窗户，它们可以看到世界上的一切美好和黑暗。眼睛也可以传递情感，例如快乐、悲伤、愤怒等等。因此，眼睛也可以用来比喻人的内心情感状态。\n</s>A也可以代表一个物体，例如一种动物或植物。例如，“他的眼睛像鹰一样锐",
+        "sample_id": 79
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "</s>A",
+        "ground": "沉默的状态",
+        "metaphor": "回答：我们就像一只蚕，不断地吃桑叶，吐丝结茧，最终成为一只美丽的蚕蛹。\n</s>A就像一只蚕，不断地吃桑叶，吐丝结茧，最终成为一只美丽的蚕蛹。\n</s>A就像一只蚕，不断地吃桑叶，吐丝结茧，最终成为一只美丽的蚕蛹。\nA就像一只蚕，不断地吃桑叶，吐丝结茧，最终成为一只美丽的蚕蛹。\nA就像一只",
+        "sample_id": 80
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "</s>A",
+        "ground": "真实的属性",
+        "metaphor": "",
+        "sample_id": 81
+    },
+    {
+        "tenor": "蒜苔",
+        "vehicle": "</s>A",
+        "ground": "长长的形状",
+        "metaphor": "答案：蒜苔就像A，虽然看起来弱不禁风，却能在烹饪过程中发挥重要的作用。\n</s>A的英文单词是：\n答案：spice\n</s>A的英文单词是：\n答案：spice\n</s>A的英文单词是：\n答案：spice\nA的英文单词是：\n答案：spice\nA的英文单词是：\n答案：spice\nA的英文单词是：\n答案：spice\nA的英文",
+        "sample_id": 82
+    },
+    {
+        "tenor": "力量",
+        "vehicle": "力量就像一只鸟，帮助我们飞越困难和挑战。\nC. 以力量作为本体（tenor",
+        "ground": "支撑的作用",
+        "metaphor": "</s>A. 力量就像一只鸟，帮助我们飞越困难和挑战。\nB. 力量就像一只鸟，帮助我们飞越困难和挑战。\nC. 力量就像一只鸟，帮助我们飞越困难和挑战。\nD. 力量就像一只鸟，帮助我们飞越困难和挑战。\n</s>A. 力量就像一只鸟，帮助我们飞越困难和挑战。\nB. 力量就像一只鸟，帮助我们飞越困难和挑战。\nC. 力量就像一只鸟",
+        "sample_id": 83
+    },
+    {
+        "tenor": "全不相干的东西偏有注定的缘分",
+        "vehicle": "</s>A",
+        "ground": "天造地设的关系",
+        "metaphor": "回答：我们的相遇就像一场梦，但我们的关系却像一条无法断开的锁链，无论我们身在哪里，我们的心永远在一起。\n</s>A就像这条锁链，将我们连接在一起。我们的相遇是注定的缘分，我们的关系无法被切断。无论我们身在哪里，我们的心永远在一起。\n</s>A就像一条锁链，将我们连接在一起。我们的相遇是注定的缘分，我们的关系无法被切断。无论我们身在哪里，我们的心",
+        "sample_id": 84
+    },
+    {
+        "tenor": "你心肠",
+        "vehicle": "</s>A",
+        "ground": "繁多的变化",
+        "metaphor": "回答：我的内心就像一片草原，A就像一只快乐的小鸟，在草原上自由自在地飞翔。\n</s>A是一个快乐的人，他的心肠很好，总是能够带给周围的人快乐。我的内心也很快乐，但有时候也会感到孤独和迷茫。A就像一只快乐的小鸟，能够让我感受到快乐的力量，让我在孤独的时候感到不再孤单。他的快乐也感染了我，让我也能变得更加快乐。因此，我的内心就像一片草原，A就像一只快乐的小鸟",
+        "sample_id": 85
+    },
+    {
+        "tenor": "职员说流利的意语",
+        "vehicle": "</s>A",
+        "ground": "流畅的感觉",
+        "metaphor": "",
+        "sample_id": 86
+    },
+    {
+        "tenor": "湖",
+        "vehicle": "</s>Aquila\n</s>Aquila 是英语中的“鹰”的意思。\n</s>Aquila 是一个英语单词，指的是一种大型飞禽，通常被认为是天空中最美丽的动物之一。它有着美丽的羽毛和强大的翅膀，可以在空中飞行数英里。Aquila 也可以用来指代一种用于捕捉鸟类的工具，称为鹰网。\nAquila 也可以指代一种用于捕捉鸟类的工具，称为鹰网。这种网通常由多个",
+        "ground": "朴素的样子",
+        "metaphor": "Aquila 的中文意思为“鹰”，鹰是一种大型飞禽，通常被认为是天空中最美丽的动物之一。它有着美丽的羽毛和强大的翅膀，可以在空中飞行数英里。因此，Aquila 可以被用来比喻一种用于捕捉鸟类的工具，称为鹰网。\n</s>Aquila 的中文意思为“鹰”，鹰是一种大型飞禽，通常被认为是天空中最美丽的动物之一。它有着美丽的羽毛和强大的翅膀，可以在空中飞行数英里",
+        "sample_id": 87
+    },
+    {
+        "tenor": "你的脸",
+        "vehicle": "</s>A",
+        "ground": "鲜艳的外表",
+        "metaphor": "",
+        "sample_id": 88
+    },
+    {
+        "tenor": "诗句",
+        "vehicle": "</s>A菌落\n\nA菌落是指在一个平面上分布着相同种类微生物的群落。\n\nA菌落是指在一个平面上分布着相同种类微生物的群落。\n\nA菌落是指在一个平面上分布着相同种类微生物的群落。\n\nA菌落是指在一个平面上分布着相同种类微生物的群落。\n\nA菌落是指在一个平面上分布着相同种类微生物的群落。\n\nA菌落是指在一个平面上分布",
+        "ground": "划破颜面的利刃",
+        "metaphor": "",
+        "sample_id": 89
+    },
+    {
+        "tenor": "瑞士人保护自己的方言",
+        "vehicle": "</s>Abbasović, M. (2019). The protection of the Serb language in the Republic of Serbia. In",
+        "ground": "小心翼翼的呵护",
+        "metaphor": "",
+        "sample_id": 90
+    },
+    {
+        "tenor": "人",
+        "vehicle": "</s>A",
+        "ground": "失眠的状态",
+        "metaphor": "答案：他像一只猫一样，夜夜失眠。\n</s>A：猫\n</s>A：夜夜\n</s>A：失眠\n</s>A：他\n</s>A：像\n答案：他像一只猫一样，夜夜失眠。\n</s>A：猫\nA：夜夜\nA：失眠\nA：他\nA：像\n</s>A：一只\n答案：他像一只猫一样，夜夜失眠。\nA：猫\nA：夜",
+        "sample_id": 91
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "</s>A",
+        "ground": "令人无法自拔的属性",
+        "metaphor": "答案：思念就像一只永远无法抓住的A，永远在你身边，却永远无法拥有。\n</s>A的多种含义：\n1. 元素周期表中的第7周期元素，原子序数为7。\n2. 英文单词“air”的缩写，意为空气。\n3. 英文单词“apple”的缩写，意为苹果。\n4. 英文单词“aspect”的缩写，意为方面。\n5. 英文单词“age",
+        "sample_id": 92
+    },
+    {
+        "tenor": "恩情",
+        "vehicle": "</s>A",
+        "ground": "难以报答的情感",
+        "metaphor": "答案：恩情就像A，虽然难以报答，但一旦拥有，便价值连城。\n</s>A的多种解释：\n1. 感恩戴德之情\n2. 恩惠\n3. 好处\n4. 利益\n5. 帮助\n6. 支持\n7. 保护\n8. 尊重\n9. 关心\n10. 爱情\n</s>A的多种用法：\n1. 感恩戴德之情\n2.",
+        "sample_id": 93
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "灿烂的人生",
+        "metaphor": "回答：我像一只蚕，不断地吃桑叶，不断地生长，不断地吐丝，不断地构建自己的世界。\n</s>A就像一只鸟，不断地飞翔，不断地探索，不断地发掘自己的潜力。\n</s>A就像一只狮子，不断地奔跑，不断地成长，不断地展现自己的力量。\nA就像一只海豚，不断地游泳，不断地探索，不断地发掘自己的潜力。\nA就像一只老虎，不断地奔跑，不断地成长，不断地展现自己的力量。\nA就像一只大象",
+        "sample_id": 94
+    },
+    {
+        "tenor": "我的爱",
+        "vehicle": "</s>A",
+        "ground": "无私奉献的爱",
+        "metaphor": "回答：我的爱就像一只蚕，不断地吐丝结茧，直到把自己包裹成一个完美的茧。而我的爱人的心就像一只鸟，不断地在茧里筑巢，直到把我们的爱情变成一只美丽的鸟。\n</s>A就像这只蚕一样，不断地吐丝结茧，直到把自己包裹成一个完美的茧。A就像这只鸟一样，不断地在茧里筑巢，直到把我们的爱情变成一只美丽的鸟。\n</s>A就像这只蚕一样，不断地吐",
+        "sample_id": 95
+    },
+    {
+        "tenor": "我们错失的年华",
+        "vehicle": "</s>A",
+        "ground": "消逝的光芒",
+        "metaphor": "",
+        "sample_id": 96
+    },
+    {
+        "tenor": "汉语",
+        "vehicle": "</s>A",
+        "ground": "浩瀚的知识",
+        "metaphor": "",
+        "sample_id": 97
+    },
+    {
+        "tenor": "把你编剧情节",
+        "vehicle": "</s>A",
+        "ground": "浪漫的情节",
+        "metaphor": "",
+        "sample_id": 98
+    },
+    {
+        "tenor": "白帆",
+        "vehicle": "</s>Aquila\n</s>Aquila 是英语中的“鹰”的意思。\n</s>Aquila 是一个英语单词，指的是一种大型飞禽，通常被认为是天空中最美丽的动物之一。它有着美丽的羽毛和强大的翅膀，可以在空中飞行数英里。Aquila 也可以用来指代一种用于飞行表演和航空摄影的飞机。\nAquila 也可以指代一种用于飞行表演和航空摄影的飞机。这种飞机通常采用双发动机设计",
+        "ground": "相似的颜色、漂浮的动作",
+        "metaphor": "",
+        "sample_id": 99
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "</s>A",
+        "ground": "蕴含希望的属性",
+        "metaphor": "答案：A就像一条时光的河流，不断地向前流淌，却总有一些回忆在河岸上停留。\n</s>A就像一条时光的河流，不断地向前流淌，却总有一些回忆在河岸上停留。\n</s>A就像一条时光的河流，不断地向前流淌，却总有一些回忆在河岸上停留。\nA就像一条时光的河流，不断地向前流淌，却总有一些回忆在河岸上停留。\nA就像一条时光的河流，",
+        "sample_id": 100
+    },
+    {
+        "tenor": "心",
+        "vehicle": "</s>A",
+        "ground": "寒冷的温度",
+        "metaphor": "答案：A就像一颗冰冷的石头，让我感到心寒。\n</s>A就像一颗冰冷的石头，让我感到心寒。\n</s>A就像一颗冰冷的石头，让我感到心寒。\nA就像一颗冰冷的石头，让我感到心寒。\nA就像一颗冰冷的石头，让我感到心寒。\nA就像一颗冰冷的石头，让我感到心寒。\nA就像一颗冰冷的石头，让我感到心寒。\nA就像一颗冰",
+        "sample_id": 101
+    },
+    {
+        "tenor": "我的眼光",
+        "vehicle": "</s>A",
+        "ground": "透彻的状态",
+        "metaphor": "",
+        "sample_id": 102
+    },
+    {
+        "tenor": "点点滴滴",
+        "vehicle": "</s>A",
+        "ground": "不曾复原的状态",
+        "metaphor": "答案：A就像一条线，连接着我们的过去和未来。\n</s>A就像一条线，连接着我们的过去和未来。\n</s>A就像一条线，连接着我们的过去和未来。\nA就像一条线，连接着我们的过去和未来。\nA就像一条线，连接着我们的过去和未来。\nA就像一条线，连接着我们的过去和未来。\nA就像一条线，连接着我们的过去和未来。\nA就像一条线，连接着我们的过去和未来。",
+        "sample_id": 103
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "正确的选择",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼。\n</s>A就像一只鸟，而我和A的关系就像一只鸟和一只鸟笼。虽然我和A的关系很亲密，但是我们两个都是被限制在这个鸟笼里的鸟，无法完全地自由飞翔。\n</s>A就像一只鸟，有着自由翱翔的能力，而我和A的关系就像一只鸟笼，限制着A的行动自由。虽然我和A的关系很亲密，但是我们两个都是被限制在这个鸟笼里的鸟",
+        "sample_id": 104
+    },
+    {
+        "tenor": "陶俑",
+        "vehicle": "</s>A",
+        "ground": "圆且空的形态",
+        "metaphor": "",
+        "sample_id": 105
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "矗立的状态",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼。\n</s>A就像一只鸟，而我和A的关系就像一只鸟笼。虽然我和A的关系很亲密，但我们仍然需要保持一定的距离，就像一只鸟需要离开鸟笼一样。\n</s>A就像一只鸟，它可以在笼子里自由飞翔，但也需要离开鸟笼，去追求更高的天空。我和A的关系也可以比喻成鸟笼和鸟之间的关系。虽然我们在笼子里关系很好，但我们也需要保持",
+        "sample_id": 106
+    },
+    {
+        "tenor": "褪色照片",
+        "vehicle": "</s>A. 以褪色照片作为本体（tenor）和快乐的时光作为共性（ground）时的一个喻体（vehicle）。\nB. 以快乐时光作为本体（tenor）和褪色照片作为共性（ground）时的一个喻体（vehicle）。\nC. 以快乐时光作为本体（tenor）和快乐的时光作为共性（ground）时的一个喻体（vehicle）。\nD. 以快乐时光作为本体（tenor",
+        "ground": "快乐的时光",
+        "metaphor": "",
+        "sample_id": 107
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "</s>A",
+        "ground": "永恒不绝的浮现",
+        "metaphor": "答案：时间像一条河流，不断地向前流淌，而回忆就像河岸边的石头，虽然被时间磨去了棱角，却永远无法被时间磨去。\n</s>A：时间\n</s>A：回忆\n</s>A：磨去\nA：磨去\nA：时间\nA：时间\nA：磨去\nA：磨去\nA：回忆\nA：回忆\nA：磨去\nA：磨去\nA：时间\nA：时间",
+        "sample_id": 108
+    },
+    {
+        "tenor": "生活",
+        "vehicle": "</s>A",
+        "ground": "甜蜜美好的安定",
+        "metaphor": "答案：生活就像A，有时平静，有时波涛汹涌。\n</s>A：平静\n</s>A：波涛汹涌\n</s>A：平静\nA：波涛汹涌\nA：平静\nA：波涛汹涌\nA：平静\nA：波涛汹涌\nA：平静\nA：波涛汹涌\nA：平静\nA：波涛汹涌\nA：平静\nA：波涛汹涌\nA：平静\nA：波涛汹涌\nA",
+        "sample_id": 109
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "小心翼翼的依偎",
+        "metaphor": "",
+        "sample_id": 110
+    },
+    {
+        "tenor": "烦恼",
+        "vehicle": "</s>A",
+        "ground": "平静的心态",
+        "metaphor": "答案：烦恼就像一只A，它不断地生长着，不断地困扰着我们，直到我们最终能够摆脱它为止。\n</s>A的英文是anxiety，烦恼的英文是troubles。\n</s>A常常用来表示一种强烈的焦虑感，而烦恼则是指一种持续不断的焦虑感。\n烦恼和A的关系是，烦恼是A的一种形式，A是烦恼的原因。烦恼不断地生长着，不断地困扰着我们，直到我们最终能够摆脱它为止。\n</s>",
+        "sample_id": 111
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "</s>A",
+        "ground": "可笑的痴情",
+        "metaphor": "答案：爱情就像A，虽然有时候它看起来像是在下降，但实际上它是在上升。\n</s>A：下降\n爱情：上升\n</s>A：下降\n爱情：上升\nA：下降\n爱情：上升\nA：下降\n爱情：上升\nA：下降\n爱情：上升\nA：下降\n爱情：上升\nA：下降\n爱情：上升\nA：下降\n爱情：上升\nA：下降\n爱情：上升\nA：下降\n爱情",
+        "sample_id": 112
+    },
+    {
+        "tenor": "大家都在传唱",
+        "vehicle": "</s>A",
+        "ground": "被人效仿的行径",
+        "metaphor": "答案：A就像一只巨大的鸟，它的翅膀展开时，可以覆盖整个天空。\n</s>A就像一只巨大的鸟，它的翅膀展开时，可以覆盖整个天空。\n</s>A就像一只巨大的鸟，它的翅膀展开时，可以覆盖整个天空。\nA就像一只巨大的鸟，它的翅膀展开时，可以覆盖整个天空。\nA就像一只巨大的鸟，它的翅膀展开时，可以覆盖整个天空。\nA就像一只巨大的鸟，它的翅膀展开时",
+        "sample_id": 113
+    },
+    {
+        "tenor": "悄静气氛",
+        "vehicle": "</s>A 请参考我给你展示的例子的内容和格式，直接给出悄静气氛作为本体（tenor）和安静的气氛作为共性（ground）时的一个喻体（vehicle），不需要多加任何其他的解释或说明。\n</s>A 请参考我给你展示的例子的内容和格式，直接给出悄静气氛作为本体（tenor）和安静的气氛作为共性（ground）时的一个喻体（vehicle），不需要多加任何其他的解释或说明。\nA",
+        "ground": "安静的气氛",
+        "metaphor": "",
+        "sample_id": 114
+    },
+    {
+        "tenor": "鱼群悄悄潜行",
+        "vehicle": "</s>Aquaticus鱼群悄悄潜行\n</s>Aquaticus鱼群悄悄潜行\n</s>Aquaticus鱼群悄悄潜行\n</s>Aquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼",
+        "ground": "轻柔的感觉",
+        "metaphor": "</s>Aquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼群悄悄潜行\nAquaticus鱼\n</s>Aquaticus鱼\nAquaticus鱼",
+        "sample_id": 115
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "</s>A",
+        "ground": "不可自拔的沉迷",
+        "metaphor": "答案：A就像一只温柔的手，轻轻拂过你的面庞，让你感受到爱的温暖。\n</s>A就像一只温柔的手，轻轻拂过你的面庞，让你感受到爱的温暖。\n</s>A就像一只温柔的手，轻轻拂过你的面庞，让你感受到爱的温暖。\nA就像一只温柔的手，轻轻拂过你的面庞，让你感受到爱的温暖。\nA就像一只温柔的手，轻轻拂过你的面庞，让你感受到爱的温暖。",
+        "sample_id": 116
+    },
+    {
+        "tenor": "话",
+        "vehicle": "</s>A",
+        "ground": "伤人的能力",
+        "metaphor": "答案：A就像一只黑洞，不断地吞噬着我们的时间和精力。\n</s>A就像一只黑洞，不断地吞噬着我们的时间和精力。\n</s>A就像一只黑洞，不断地吞噬着我们的时间和精力。\nA就像一只黑洞，不断地吞噬着我们的时间和精力。\nA就像一只黑洞，不断地吞噬着我们的时间和精力。\nA就像一只黑洞，不断地吞噬着我们的时间和精力。\nA就像一只黑洞，不断地吞噬着我们的时间和精力。\nA就像一只黑洞，不断地吞噬着我们的时间和精力。",
+        "sample_id": 117
+    },
+    {
+        "tenor": "飞入寒冷干爽的气候",
+        "vehicle": "</s>A空气变得寒冷干燥，风呼啸着穿过街道。B冷风呼啸着穿过街道，空气变得寒冷干燥。C冷风呼啸着穿过街道，空气变得寒冷干燥。D冷风呼啸着穿过街道，空气变得寒冷干燥。E冷风呼啸着穿过街道，空气变得寒冷干燥。F冷风呼啸着穿过街道，空气变得寒冷干燥。G冷风呼啸着穿过街道，空气变得寒冷干燥。H",
+        "ground": "冷的特点",
+        "metaphor": "回答：空气变得寒冷干燥，风呼啸着穿过街道。冷风呼啸着穿过街道，空气变得寒冷干燥。冷风呼啸着穿过街道，空气变得寒冷干燥。冷风呼啸着穿过街道，空气变得寒冷干燥。冷风呼啸着穿过街道，空气变得寒冷干燥。冷风呼啸着穿过街道，空气变得寒冷干燥。冷风呼啸着穿过街道，空气变得寒冷干燥。冷风呼啸着穿过街道",
+        "sample_id": 118
+    },
+    {
+        "tenor": "伤心",
+        "vehicle": "</s>A",
+        "ground": "悲伤的过错",
+        "metaphor": "答案：A就像一条无法摆脱的绳子，将我束缚在过去。\n</s>A就像一条无法摆脱的绳子，将我束缚在过去。\n</s>A就像一条无法摆脱的绳子，将我束缚在过去。\nA就像一条无法摆脱的绳子，将我束缚在过去。\nA就像一条无法摆脱的绳子，将我束缚在过去。\nA就像一条无法摆脱的绳子，将我束缚在过去。\nA就像一条无法摆脱的绳子，将我束缚",
+        "sample_id": 119
+    },
+    {
+        "tenor": "嫉妒者",
+        "vehicle": "</s>A",
+        "ground": "傲岸而又疲惫的神态",
+        "metaphor": "答案：A就像一只饥饿的狼，不断地寻找着下一个目标来攻击。\n</s>A就像一只饥饿的狼，不断地寻找着下一个目标来攻击。\n</s>A就像一只饥饿的狼，不断地寻找着下一个目标来攻击。\nA就像一只饥饿的狼，不断地寻找着下一个目标来攻击。\nA就像一只饥饿的狼，不断地寻找着下一个目标来攻击。\nA就像一只饥饿的狼，不断地寻找着下一个目标来攻击。",
+        "sample_id": 120
+    },
+    {
+        "tenor": "我的心",
+        "vehicle": "</s>A",
+        "ground": "奔放的心情",
+        "metaphor": "回答：我的内心就像A一样奔放。\n</s>A是一个比喻，用来描述一种奔放的情感状态。我的内心状态也可以被比喻成A，表示我的内心充满了强烈的情感，例如快乐、激情等等。这个比喻强调了情感状态的高度表达和强烈程度。\n</s>A还可以用来描述一种奔放的行为方式。例如，一个人可能感到自己的内心像A一样奔放，所以会采取更加勇敢、大胆的行动，追求自己的目标。因此，这个比喻也可以",
+        "sample_id": 121
+    },
+    {
+        "tenor": "白花盛开",
+        "vehicle": "</s>A. 请提供以下示例",
+        "ground": "五彩缤纷的颜色",
+        "metaphor": "答案：白花盛开就像人生中的幸福时刻，虽然短暂却让人难以忘怀。\n</s>A. 请提供以下示例：\n答案：A. 请提供以下示例：\n答案：A. 请提供以下示例：\n</s>A. 请提供以下示例：\n答案：A. 请提供以下示例：\n答案：A. 请提供以下示例：\n答案：A. 请提供以下示例：\n答案：A.",
+        "sample_id": 122
+    },
+    {
+        "tenor": "细雨",
+        "vehicle": "</s>A",
+        "ground": "可贵的价值",
+        "metaphor": "",
+        "sample_id": 123
+    },
+    {
+        "tenor": "校园",
+        "vehicle": "</s>A",
+        "ground": "美丽的属性",
+        "metaphor": "答案：校园就像A，有着美丽的表面，却潜在着复杂的内在。\n</s>A：表面美丽，内在复杂。\n</s>A：表面美丽，内在复杂。\n</s>A：表面美丽，内在复杂。\nA：表面美丽，内在复杂。\nA：表面美丽，内在复杂。\nA：表面美丽，内在复杂。\nA：表面美丽，内在复杂。\nA：表面美丽，内在复杂。\nA：表面美丽，内在复杂",
+        "sample_id": 124
+    },
+    {
+        "tenor": "冷苹果",
+        "vehicle": "</s>A 请参考我给你展示的例子的内容和格式，直接给出冷苹果作为本体（tenor）和脆弱的状态作为共性（ground）时的一个喻体（vehicle），不需要多加任何其他的解释或说明。\n</s>A 请参考我给你展示的例子的内容和格式，直接给出冷苹果作为本体（tenor）和脆弱的状态作为共性（ground）时的一个喻体（vehicle），不需要多加任何其他的解释或说明。\n</s>A",
+        "ground": "脆弱的状态",
+        "metaphor": "",
+        "sample_id": 125
+    },
+    {
+        "tenor": "世界美",
+        "vehicle": "</s>A.世界美作为本体（tenor）和自由的状态作为共性（ground）时的一个喻体（vehicle）。\nB.世界美作为本体（tenor）和自由的状态作为共性（ground）时的一个喻体（vehicle）。\nC.世界美作为本体（tenor）和自由的状态作为共性（ground）时的一个喻体（vehicle）。\nD.世界美作为本体（tenor）和自由的状态作为共性（ground",
+        "ground": "自由的状态",
+        "metaphor": "",
+        "sample_id": 126
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "绚烂的开放",
+        "metaphor": "回答：我像一只鸟，A像一只鸟笼。\n</s>A就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼，将我困在其中。\nA就像是一个巨大的鸟笼",
+        "sample_id": 127
+    },
+    {
+        "tenor": "你的笑",
+        "vehicle": "</s>A",
+        "ground": "阳光开朗的模样",
+        "metaphor": "回答：他的笑就像阳光一样温暖，A就像他的阳光一样照耀着我。\n</s>A代表阳光，笑代表温暖。阳光可以给人带来温暖的感觉，所以他的笑就像阳光一样温暖。A则代表他的阳光，他的阳光照耀着我，所以我也感到温暖。\n</s>A还可以代表他的爱，他的爱就像阳光一样照耀着我，让我感到温暖和安全。因此，这个句子也可以表示他的爱给我带来了阳光一样的感觉。\n</s>A还可以代表他的",
+        "sample_id": 128
+    },
+    {
+        "tenor": "火焰",
+        "vehicle": "</s>A man is a walking fire.\n</s>A man is a walking fire.\n</s>A man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.",
+        "ground": "炙热的状态",
+        "metaphor": "</s>A man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man is a walking fire.\nA man",
+        "sample_id": 129
+    },
+    {
+        "tenor": "清风",
+        "vehicle": "</s>A warm breeze is like a warm embrace.\n</s>A warm breeze is like a warm embrace.\n</s>A warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a",
+        "ground": "温暖的属性",
+        "metaphor": "</s>A warm breeze is like a warm embrace.\n</s>A warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm embrace.\nA warm breeze is like a warm",
+        "sample_id": 130
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "随遇而安的感觉",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼里的鸟，虽然我们可以飞翔，但我们始终被限制在一个范围内。\n</s>A就像一只鸟，有着自由翱翔的能力，而我和A的关系就像一只鸟笼，限制着A的行动范围。虽然我们可以一起飞翔，但始终无法完全摆脱笼子的束缚。\n</s>A就像一只鸟，有着丰富的想象力，而我和A的关系就像一只鸟笼，限制着A的想象力。虽然我们可以一起飞翔，但始终",
+        "sample_id": 131
+    },
+    {
+        "tenor": "手指的状态",
+        "vehicle": "</s>A",
+        "ground": "动弹的速度",
+        "metaphor": "",
+        "sample_id": 132
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "</s>A爱是一种不可或缺的存在，它是我们生命中最重要的一部分。\n</s>A爱是一种无法替代的情感，它是我们内心深处的声音，是我们生命中最美好的体验。\nA爱是一种强大的力量，它可以让我们变得更加勇敢和坚定，让我们变得更加自信和坚定。\nA爱是一种美好的情感，它可以让我们感受到幸福和快乐，让我们感受到生命的美好和幸福。\nA爱是一种深刻的情感，它可以让我们感受到温暖和支持，让我们感受到生命的力量和希望。\nA爱是一种美好的",
+        "ground": "不可或缺的地位",
+        "metaphor": "</s>A爱是一种不可或缺的存在，它是我们生命中最重要的一部分。\nA爱是一种无法替代的情感，它是我们内心深处的声音，是我们生命中最美好的体验。\nA爱是一种强大的力量，它可以让我们变得更加勇敢和坚定，让我们变得更加自信和坚定。\nA爱是一种美好的情感，它可以让我们感受到幸福和快乐，让我们感受到生命的美好和幸福。\nA爱是一种深刻的情感，它可以让我们感受到温暖和支持，让我们感受到生命的力量和希望。\nA爱是一种美好的的",
+        "sample_id": 133
+    },
+    {
+        "tenor": "捉回来螃蟹在腿上缚绳",
+        "vehicle": "</s>A",
+        "ground": "玩物的功能",
+        "metaphor": "",
+        "sample_id": 134
+    },
+    {
+        "tenor": "您",
+        "vehicle": "</s>A",
+        "ground": "美丽的外表",
+        "metaphor": "回答：我就像一只快乐的小鸟，在天空翱翔，享受自由的感觉。\n</s>A就像一只快乐的小鸟，在天空翱翔，享受自由的感觉。\n</s>A就像一只快乐的小鸟，在天空翱翔，享受自由的感觉。\nA就像一只快乐的小鸟，在天空翱翔，享受自由的感觉。\nA就像一只快乐的小鸟，在天空翱翔，享受自由的感觉。\nA就像一只快乐的小鸟，在天空翱翔，享受自由的感觉。",
+        "sample_id": 135
+    },
+    {
+        "tenor": "不通亲",
+        "vehicle": "</s>A man is a machine that can beget machines.\n</s>A man is a machine that can beget machines.\n</s>A man is a machine that can beget machines.\nA man is a machine that can beget machines.\nA man is a machine that can beget machines.\nA man is a machine that can beget machines.\nA man is a machine that can beget machines.\nA man is a machine that can beget machines.",
+        "ground": "无言的形象",
+        "metaphor": "</s>A man is a machine that can beget machines.\nA man is a machine that can beget machines.\nA man is a machine that can beget machines.\nA man is a machine that can beget machines.\nA man is a machine that can beget machines.\nA man is a machine that can beget machines.\nA man is a machine that can beget machines.\nA man is a machine that can beget machines.\n</s>A",
+        "sample_id": 136
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "</s>A",
+        "ground": "未来的希望",
+        "metaphor": "答案：承诺就像A，虽然它可能无法实现，但它始终在那里，等待着我们去追求。\n</s>A：A是英文单词“Answer”的缩写，意为答案。\n</s>A：A还可以表示“Aboard”的缩写，意为在船上的意思。\n</s>A：A还可以表示“Access”的缩写，意为进入某地的意思。\nA：A还可以表示“Address”的缩写，意为地址。\nA：A还可以表示“",
+        "sample_id": 137
+    },
+    {
+        "tenor": "窗棂上的水滴",
+        "vehicle": "</s>A",
+        "ground": "挥之不去的性质",
+        "metaphor": "",
+        "sample_id": 138
+    },
+    {
+        "tenor": "深情",
+        "vehicle": "</s>A",
+        "ground": "传递感情的功能",
+        "metaphor": "答案：A就像我的灵魂伴侣，与我同甘共苦，与我一起经历人生的起起伏伏。\n</s>A就像我的灵魂伴侣，与我同甘共苦，与我一起经历人生的起起伏伏。\n</s>A就像我的灵魂伴侣，与我同甘共苦，与我一起经历人生的起起伏伏。\nA就像我的灵魂伴侣，与我同甘共苦，与我一起经历人生的起起伏伏。\nA就像我的灵魂伴侣，与我同甘共苦",
+        "sample_id": 139
+    },
+    {
+        "tenor": "血滴",
+        "vehicle": "</s>A",
+        "ground": "燃烧的希望",
+        "metaphor": "答案：血滴就像A一样，虽然看起来微不足道，但它们却是我们生命中的重要组成部分。\n</s>A：A在英文中指的是一个单词，表示“滴”的意思。血滴是指人体血液在血管中流动时留下的液体滴。血滴是生命活动中非常重要的一部分，它们为人体提供氧气和营养物质，同时帮助清除体内的废物和毒素。血滴的数量和形态可以反映出人体健康状况的变化。\n</s>A：血滴的数量和形态可以反映出人体健康状况",
+        "sample_id": 140
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "惬意的享受",
+        "metaphor": "回答：我和A的关系就像一只鸟和一只猫的关系一样。\n</s>A就像一只猫一样，它可以在我需要它的时候出现，给我带来快乐和安全感。而我也像一只鸟一样，可以在A需要我的时候出现，给他带来快乐和安全感。\n</s>A是我的朋友，我的伴侣，我的家人。它是我人生中最重要的人之一，而我也一样。我们之间有着深厚的感情，就像一只鸟和一只猫之间的感情一样。\n</s>A是我",
+        "sample_id": 141
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "掠过的个体",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼里的鸟，虽然我们可以飞翔，但我们始终被限制在一个范围内。\n</s>A就像一只鸟，有着自由翱翔的能力，而我也想成为一只鸟，有着自己的翅膀和天空。但是，由于某些原因，我不能像A那样飞翔，只能在这个范围内活动。虽然我很想自由飞翔，但我清楚自己被限制着。因此，我和A就像一只鸟和一只鸟笼里的鸟，虽然我们可以飞翔，但我们",
+        "sample_id": 142
+    },
+    {
+        "tenor": "我们的距离",
+        "vehicle": "</s>A",
+        "ground": "遥远的隔阂",
+        "metaphor": "",
+        "sample_id": 143
+    },
+    {
+        "tenor": "一个人的幸福",
+        "vehicle": "</s>A",
+        "ground": "孤独的氛围",
+        "metaphor": "答案：幸福就像一只小鸟，可以在A的枝头唱歌。\n</s>A就像一只小鸟，可以在幸福里唱歌。\n</s>A就像一只小鸟，可以在幸福里唱歌。\nA就像一只小鸟，可以在幸福里唱歌。\nA就像一只小鸟，可以在幸福里唱歌。\nA就像一只小鸟，可以在幸福里唱歌。\nA就像一只小鸟，可以在幸福里唱歌。\nA就像一只小鸟，可以在幸福里唱歌。\nA就像一只小鸟，",
+        "sample_id": 144
+    },
+    {
+        "tenor": "肚皮",
+        "vehicle": "</s>A",
+        "ground": "保存知识的功能",
+        "metaphor": "",
+        "sample_id": 145
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "</s>A爱是一种美好的情感，它让我们感到幸福快乐。B走向美好的终点需要爱，没有爱，我们就无法到达目的地。C爱是我们人生中最美好的礼物之一，它让我们感到被重视和被爱。D爱是一种强大的力量，它可以改变我们的生命轨迹，让我们变得更加勇敢和坚定。E爱是一种信仰，它让我们相信，我们可以改变世界，改变自己和他人的生活。F爱是一种美好的情感，它让我们感到幸福快乐。G走向美好的终点需要爱",
+        "ground": "通向美好的终点",
+        "metaphor": "",
+        "sample_id": 146
+    },
+    {
+        "tenor": "药饵",
+        "vehicle": "</s>A",
+        "ground": "方正的形状",
+        "metaphor": "答案：药饵就像A，虽然它们可能很常见，但只有当你需要它们时才会发现它们的价值。\n</s>A：药饵\n</s>A：常见\n药饵：常见的事物\n药饵：常见的事物\n药饵：常见的事物\n药饵：常见的事物\n药饵：常见的事物\n药饵：常见的事物\n药饵：常见的事物\n药饵：常见的事物\n药饵：常见的事物\n药饵：常见的事物\n药饵：",
+        "sample_id": 147
+    },
+    {
+        "tenor": "你的信",
+        "vehicle": "</s>A",
+        "ground": "残缺的模糊",
+        "metaphor": "回答：\n</s>A就像一只鸟，自由翱翔在天空中，不断追求更高的飞翔高度。\n</s>A就像一只鸟，不断追求更高的飞翔高度。\n</s>A就像一只鸟，不断追求更高的飞翔高度。\nA就像一只鸟，不断追求更高的飞翔高度。\nA就像一只鸟，不断追求更高的飞翔高度。\nA就像一只鸟，不断追求更高的飞翔高度。\nA就像一只鸟，不断追求更高的飞翔高度。\nA就像一只鸟",
+        "sample_id": 148
+    },
+    {
+        "tenor": "不计代价爱上你",
+        "vehicle": "</s>A",
+        "ground": "好笑的行为",
+        "metaphor": "回答：她就像A一样，让我无法自拔地爱上了她。\n</s>A是一个电影角色，由汤姆·汉克斯饰演。该电影讲述了一个普通男人爱上了一个神秘女孩的故事。\n</s>A是一个电影角色，由汤姆·汉克斯饰演。该电影讲述了一个普通男人爱上了一个神秘女孩的故事。\n</s>A是一个电影角色，由汤姆·汉克斯饰演。该电影讲述了一个普通男人爱上了一个神秘女孩的故事。\nA是一个电影角色，由",
+        "sample_id": 149
+    },
+    {
+        "tenor": "摩肩擦踵的稀薄",
+        "vehicle": "</s>A",
+        "ground": "不幸的信号",
+        "metaphor": "",
+        "sample_id": 150
+    },
+    {
+        "tenor": "心",
+        "vehicle": "</s>A",
+        "ground": "不安宁的状态",
+        "metaphor": "答案：A就像一只不安分的鸟，总是想要飞出巢穴。\n</s>A就像一只不安分的鸟，总是想要飞出巢穴。\n</s>A就像一只不安分的鸟，总是想要飞出巢穴。\nA就像一只不安分的鸟，总是想要飞出巢穴。\nA就像一只不安分的鸟，总是想要飞出巢穴。\nA就像一只不安分的鸟，总是想要飞出巢穴。\nA就像一只不安分的",
+        "sample_id": 151
+    },
+    {
+        "tenor": "车队进入沙漠谷地",
+        "vehicle": "</s>A",
+        "ground": "焦黄的样子",
+        "metaphor": "",
+        "sample_id": 152
+    },
+    {
+        "tenor": "失恋到死",
+        "vehicle": "</s>A",
+        "ground": "糟糕的结局",
+        "metaphor": "回答：她的心就像A一样，已经碎成了无数块，再也无法修复。\n</s>A：A是英语单词，表示“碎裂的”。\n</s>A的碎裂是指心碎裂了，无法修复。这句话的意思是她的心已经碎裂了，无法修复，比喻她的爱情已经彻底结束了，再也无法恢复。\n</s>A的碎裂原因可以是很多种，比如受到严重的伤害、感情破裂、感情结束等。这句话也可以用来形容",
+        "sample_id": 153
+    },
+    {
+        "tenor": "爱意",
+        "vehicle": "</s>A",
+        "ground": "耸峙沉默不衰的状态",
+        "metaphor": "答案：你的爱就像A，虽然沉默却震撼人心。\n</s>A可以是任何事物，比如：爱、音乐、艺术、运动等等。\n</s>A可以是抽象的概念，比如：爱是一种感觉、音乐是一种节奏感等等。\nA可以是具体的物品，比如：音乐是一种声音、艺术是一种作品等等。\nA可以是抽象的概念，比如：爱是一种感觉、音乐是一种节奏感等等。\nA可以是具体的物品，比如：音乐是一种声音、艺术是一种",
+        "sample_id": 154
+    },
+    {
+        "tenor": "梦结束了",
+        "vehicle": "</s>A",
+        "ground": "伤心的了结",
+        "metaphor": "",
+        "sample_id": 155
+    },
+    {
+        "tenor": "敲碎了我的心",
+        "vehicle": "</s>A",
+        "ground": "扰乱的心绪",
+        "metaphor": "",
+        "sample_id": 156
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "虚伪的表演",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼。\n</s>A就像一只鸟，而我和A的关系就像一只鸟笼。虽然我和A的关系很亲密，但我们之间始终有一道无法跨越的障碍，就像一只鸟无法进入一只鸟笼一样。\n</s>A就像一只自由翱翔的鸟，而我和A的关系就像一只被关在笼子里面的鸟。虽然我们可以在一起玩耍、聊天，但我们始终无法完全地释放自己，就像一只鸟无法完全",
+        "sample_id": 157
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "</s>A smile is a beautiful thing. It can light up a room and bring joy to everyone around it. It can also be a powerful tool for healing and transformation. When we smile at someone, we are showing them that we care about them and that we are happy to see them. This can help to build strong relationships and create a positive atmosphere. Smiling can also help to reduce stress and anxiety, as well as improve our mood and overall sense of well-being. So the next",
+        "ground": "美丽的存在",
+        "metaphor": "",
+        "sample_id": 158
+    },
+    {
+        "tenor": "月亮",
+        "vehicle": "</s>Astronomer",
+        "ground": "洁白的颜色",
+        "metaphor": "答案：月亮的表面就像一位天文观察家一样，永远关注着宇宙中的一切。\n</s>Astronomer观察月亮，就像一位永远关注宇宙的科学家一样。\n</s>Astronomer观察月亮时，就像一位永远关注宇宙的科学家一样。\n月亮的表面就像一位天文观察家一样永远关注着宇宙中的一切。\n</s>Astronomer观察月亮时，就像一位永远关注宇宙的科学家一样。\n</s>Astronomer观察",
+        "sample_id": 159
+    },
+    {
+        "tenor": "大爱",
+        "vehicle": "</s>A great love is like a vast landscape, with mountains and rivers, and a sky that stretches endlessly. It is a place of beauty and wonder, where you can lose yourself in the moment and forget about the world around you. It is a place of deep connection and understanding, where you can feel the love of another person in your bones. It is a place of joy and happiness, where you can find peace and contentment in the arms of your loved one. And it is",
+        "ground": "宽广的样子",
+        "metaphor": "回答：大爱是像一片广袤无垠的大地，有着山脉和江河，还有一片无尽的蓝天。它是美丽而神秘的领域，你可以在这里迷失自我，忘记周围的世界。它是深刻的理解与连接，你可以在这里感受到另一个人的爱，在你的骨骼里感受到它的存在。它是快乐和幸福的源泉，你可以在那里找到平静和满足，在爱人的怀抱中找到宁静。\n</s>A great love is like a vast landscape, with mountains and rivers, and a sky that",
+        "sample_id": 160
+    },
+    {
+        "tenor": "月光",
+        "vehicle": "</s>A. 以月光作为本体（tenor）和复杂的形状作为共性（ground）时的一个喻体（vehicle）。\nB. 以月光作为本体（tenor）和复杂的形状作为共性（ground）时的一个喻体（vehicle）。\nC. 以月光作为本体（tenor）和复杂的形状作为共性（ground）时的一个喻体（vehicle）。\nD. 以月光作为本体（tenor）和复杂的形状",
+        "ground": "复杂的形状",
+        "metaphor": "",
+        "sample_id": 161
+    },
+    {
+        "tenor": "人",
+        "vehicle": "</s>A",
+        "ground": "狡猾的样子",
+        "metaphor": "",
+        "sample_id": 162
+    },
+    {
+        "tenor": "爱你",
+        "vehicle": "</s>A",
+        "ground": "难以捉摸的爱",
+        "metaphor": "答案：你就像A，在我心中不断地生长着。\n</s>A是一个没有具体形象的抽象概念，它可以代表很多种事物，比如爱、自由、希望等等。在这个句子中，作者用“生长”来形容他对A的感觉，表明他对A的热爱是不断增长的，并且这种增长是不断的，永无止境的。\n</s>A也可以代表一种情感状态，比如爱、喜欢等等。在这个句子中，作者用“生长”来形容他对A的感觉，表明",
+        "sample_id": 163
+    },
+    {
+        "tenor": "束缚",
+        "vehicle": "</s>A",
+        "ground": "捆绑的样子",
+        "metaphor": "答案：A就像一条橡皮筋，被不断地拉伸着，无法摆脱束缚。\n</s>A就像一条橡皮筋，被不断地拉伸着，无法摆脱束缚。\n</s>A就像一条橡皮筋，被不断地拉伸着，无法摆脱束缚。\nA就像一条橡皮筋，被不断地拉伸着，无法摆脱束缚。\nA就像一条橡皮筋，被不断地拉伸着，无法摆脱束缚。\nA就像一条橡皮筋，被不断地拉伸着，无法摆脱束缚。",
+        "sample_id": 164
+    },
+    {
+        "tenor": "无尽的峰峦",
+        "vehicle": "</s>A. 请告诉我你希望我提供的喻体是什么？\nB. 请告诉我喻体的共性是什么？\nC. 请告诉我喻体的个性是什么？\nD. 请告诉我喻体的功能是什么？\nE. 请告诉我喻体的来源是什么？\nF. 请告诉我喻体的意义是什么？\nG. 请告诉我喻体的缺点是什么？\nH. 请告诉我喻体的优点是什么？\nI. 请告诉我喻体的",
+        "ground": "黄的颜色、无尽的数量",
+        "metaphor": "",
+        "sample_id": 165
+    },
+    {
+        "tenor": "我的车",
+        "vehicle": "</s>A",
+        "ground": "单独的行为",
+        "metaphor": "回答：我的车就像A一样，虽然它可能不是最好的，但它一直陪伴着我，为我服务，无论我走到哪里。\n</s>A是一个具体的物体或概念，我的车也是一个物体或概念。我的车就像A一样，表示我的车具有A的特点或功能。我的车不是最好的，但一直陪伴着我，为我服务，无论我走到哪里，表示我的车在我生活中有着重要的作用。因此，这个句子表达了我对车的感激之情。\n</s>A是一个抽象",
+        "sample_id": 166
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "</s>A",
+        "ground": "回忆的美好",
+        "metaphor": "答案：时间如同一条河流，不断地向前流淌，而回忆则是河岸上的风景，虽然美丽却难以捕捉。\n</s>A：时间\n</s>A：回忆\n</s>A：风景\nA：美丽\nA：难以捕捉\n</s>A：变化\nA：变化\nA：变化\nA：变化\nA：变化\nA：变化\nA：变化\nA：变化\nA：变化\nA：变化\nA：变化\nA：变化",
+        "sample_id": 167
+    },
+    {
+        "tenor": "一丝颤动（传递）",
+        "vehicle": "</s>A",
+        "ground": "摇动的动作",
+        "metaphor": "答案：他的心在颤动，像A一样。\n</s>A代表一种物体或概念，它可能具有一种独特的性质或特征。颤动是一种运动或状态，它可以用来描述一种不稳定的、不稳定的运动或状态。因此，这个句子表达了一种描述，即他的心不稳定，像A一样。\n</s>A可以是任何物体或概念，例如：\n- 风中的树叶：树叶在风中飘动，像A一样。\n- 雨",
+        "sample_id": 168
+    },
+    {
+        "tenor": "我怀内那些爱",
+        "vehicle": "</s>A",
+        "ground": "奔流的动作",
+        "metaphor": "回答：我的内心就像一条奔流的河流，里面充满了对你的爱和渴望。\n</s>A：河流\n</s>A：爱\nA：渴望\n</s>A：你\n</s>A：内心\nA：河流\nA：爱\nA：渴望\nA：你\nA：内心\nA：河流\nA：爱\nA：渴望\nA：你\nA：内心\nA：河流\nA：爱\nA：渴望\nA：你\nA：",
+        "sample_id": 169
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "礼貌的行为",
+        "metaphor": "回答：我像一只鸟一样，自由翱翔在天空之中。\n</s>A像一只鸟一样，自由翱翔在天空之中。\n</s>A像一只鸟一样，自由翱翔在天空之中。\nA像一只鸟一样，自由翱翔在天空之中。\nA像一只鸟一样，自由翱翔在天空之中。\nA像一只鸟一样，自由翱翔在天空之中。\nA像一只鸟一样，自由翱翔在天空之中。\nA像一只鸟",
+        "sample_id": 170
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "</s>A",
+        "ground": "洁白的颜色",
+        "metaphor": "答案：你的爱就像一张洁白的纸，让我在上面写下最真诚的字句。\n</s>A：爱\n</s>A：爱情\nA：爱情的力量\nA：爱情的力量很强大\nA：爱情的力量很强大\nA：爱情的力量很强大\nA：爱情的力量很强大\nA：爱情的力量很强大\nA：爱情的力量很强大\nA：爱情的力量很强大\nA：爱情的力量很强大\nA：爱情的力量很强大\nA：",
+        "sample_id": 171
+    },
+    {
+        "tenor": "心事",
+        "vehicle": "</s>A",
+        "ground": "搁浅的动作",
+        "metaphor": "答案：A就像一只心事的气球，随时可能爆炸。\n</s>A就像一只心事的气球，随时可能爆炸。\n</s>A就像一只心事的气球，随时可能爆炸。\nA就像一只心事的气球，随时可能爆炸。\nA就像一只心事的气球，随时可能爆炸。\nA就像一只心事的气球，随时可能爆炸。\nA就像一只心事的气球，随时可能爆炸。\nA就像一只心事的气球，随时可能爆炸。",
+        "sample_id": 172
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "</s>A",
+        "ground": "珍贵的财宝",
+        "metaphor": "答案：你的爱就像A，虽然平时看起来普普通通，但一旦失去，就会让我感到心碎。\n</s>A的多种含义：\n1. 爱（Love）\n2. 价值（Value）\n3. 价值连城（valuable）\n4. 价值连篇（valuable）\n5. 价值连城的爱（valuable love）\n</s>A还可以表示“价值连城的物品”的意思。\n</s>A还可以",
+        "sample_id": 173
+    },
+    {
+        "tenor": "飞吻",
+        "vehicle": "</s>A空气里弥漫着你的气息，像是在呼吸着甜蜜的爱情。\n</s>A你的微笑是我生命中最美好的风景，像是在欣赏一幅美丽的画卷。\nA你的眼睛是我心灵的窗户，像是在阅读一本深刻的书籍。\nA你的拥抱是我生命中最温暖的依靠，像是在拥抱一个亲爱的朋友。\nA你的声音是我生命中最动听的歌曲，像是在聆听一首优美的歌曲。\nA你的味道是我生命中最美味的食品，像是在品尝一道美味的",
+        "ground": "甜蜜的爱情",
+        "metaphor": "A你的味道是我生命中最美味的食品，像是在品尝一道美味的菜肴。\nA你的味道是我生命中最美味的食品，像是在品尝一道美味的食品。\nA你的味道是我生命中最美味的食品，像是在品尝一道美味的食品。\nA你的味道是我生命中最美味的食品，像是在品尝一道美味的食品。\nA你的味道是我生命中最美味的食品，像是在品尝一道美味的食品。\nA你的味道是我生命中最美味的食品，像是在品尝一道美味的",
+        "sample_id": 174
+    },
+    {
+        "tenor": "心慢慢烫",
+        "vehicle": "</s>A",
+        "ground": "缓慢的过程",
+        "metaphor": "答案：A就像一杯慢慢煮沸的水，需要时间才能完全煮熟。\n</s>A就像一杯慢慢煮沸的水，需要时间才能完全煮熟。\n</s>A就像一杯慢慢煮沸的水，需要时间才能完全煮熟。\nA就像一杯慢慢煮沸的水，需要时间才能完全煮熟。\nA就像一杯慢慢煮沸的水，需要时间才能完全煮熟。\nA就像一杯慢慢煮沸的水，需要时间才能完全煮熟。\nA就像一杯慢慢煮沸的水，需要时间才能完全",
+        "sample_id": 175
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "</s>A",
+        "ground": "短暂的感情",
+        "metaphor": "答案：爱情就像A，虽然有时它可能很美丽，但更多的时候它是实用的。\n</s>A：实用\n</s>A：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA：实用\nA",
+        "sample_id": 176
+    },
+    {
+        "tenor": "心中花开一朵朵",
+        "vehicle": "</s>A. 心中花开一朵朵\nB. 愉快的心情\nC. 花\nD. 人\nE. 路\nF. 风\nG. 雨\nH. 阳光\nI. 音乐\nJ. 电影\nK. 旅行\nL. 美食\nM. 宠物\nN. 工作\nO. 学习\nP. 健康\nQ. 朋友\nR. 家人\nS. 爱情",
+        "ground": "愉快的心情",
+        "metaphor": "回答：心中花开一朵朵，愉快的心情。\n</s>A. 心中花开一朵朵\nB. 愉快的心情\nC. 花\nD. 人\nE. 路\nF. 风\nG. 雨\nH. 阳光\nI. 音乐\nJ. 电影\nK. 旅行\nL. 美食\nM. 宠物\nN. 工作\nO. 学习\nP. 健康\nQ.",
+        "sample_id": 177
+    },
+    {
+        "tenor": "离别你那夜痛得",
+        "vehicle": "</s>A 请参考我给你展示的例子的内容和格式，直接给出离别你那夜痛得作为本体（tenor）和痛苦的感觉作为共性（ground）时的一个喻体（vehicle），不需要多加任何其他的解释或说明。\n</s>A 请参考我给你展示的例子的内容和格式，直接给出离别你那夜痛得作为本体（tenor）和痛苦的感觉作为共性（ground）时的一个喻体（vehicle），不需要多加任何其他的",
+        "ground": "痛苦的感觉",
+        "metaphor": "",
+        "sample_id": 178
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "</s>A",
+        "ground": "短暂的时光",
+        "metaphor": "答案：爱情就像一场A梦，美丽而短暂。\n</s>A梦是指一种睡眠状态，在这种状态下，人们可以经历各种奇幻版权或其它问题请于作品发表后的，包括飞行、时间旅行等。爱情也可以是一种奇幻的梦，美丽而短暂，让人充满幻想和期待，同时也带来幸福和挑战。\n</s>A梦的的特点之一是它的不稳定性。爱情中的幸福和痛苦都是短暂的，有时甚至转瞬即逝。就像A梦一样，爱情中的幸福和版权或其它问题请于作品发表后的很难被留住，",
+        "sample_id": 179
+    },
+    {
+        "tenor": "思念的眼泪",
+        "vehicle": "</s>A 请参考我给你展示的例子的内容和格式，直接给出思念的眼泪作为主体（主语），和纯净透明的样子作为喻体（喻词）时的一个喻体（喻词），不需要多加任何其他的解释或说明。\n</s>A 请参考我给你展示的例子的内容和格式，直接给出思念的眼泪作为主体（主语），和纯净透明的样子作为喻体（喻词）时的一个喻体（喻词），",
+        "ground": "纯净透明的样子",
+        "metaphor": "",
+        "sample_id": 180
+    },
+    {
+        "tenor": "悲伤",
+        "vehicle": "</s>A",
+        "ground": "飘落的动作",
+        "metaphor": "答案：A就像一只受伤的小鸟，在伤害中痛苦地挣扎着。\n</s>A就像一只受伤的小鸟，在伤害中痛苦地挣扎着。\n</s>A就像一只受伤的小鸟，在伤害中痛苦地挣扎着。\nA就像一只受伤的小鸟，在伤害中痛苦地挣扎着。\nA就像一只受伤的小鸟，在伤害中痛苦地挣扎着。\nA就像一只受伤的小鸟，在伤害中痛苦地挣扎着。",
+        "sample_id": 181
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "迷离的我",
+        "metaphor": "回答：我就像一只在沙滩上漫步的猫，而A就像一只在沙滩上奔跑的狗。\n</s>A就像一只在沙滩上奔跑的狗。\n</s>A就像一只在沙滩上奔跑的狗。\nA就像一只在沙滩上奔跑的狗。\nA就像一只在沙滩上奔跑的狗。\nA就像一只在沙滩上奔跑的狗。\nA就像一只在沙滩上奔跑的狗。\nA就像一只在沙滩上奔跑",
+        "sample_id": 182
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "抗争的品格",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼里的鸟，虽然我们可以飞翔，但我们无法摆脱鸟笼的束缚。\n</s>A就像鸟笼，而我是那只无法越狱的鸟。虽然我可以自由飞翔，但我无法摆脱鸟笼的束缚。\n</s>A就像鸟笼，而我是那只渴望飞翔的鸟。虽然我可以自由飞翔，但我渴望着能够摆脱鸟笼的束缚。\nA就像鸟笼，而我是那只渴望自由的鸟。虽然",
+        "sample_id": 183
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "</s>A",
+        "ground": "无迹的踪影",
+        "metaphor": "答案：承诺就像A，虽然它可能无法实现，但它始终在那里，等待着我们去追求。\n</s>A：A是英文单词“抽象”（abstraction）的首字母缩写。抽象是指将具体的事物转化为概念或形式的过程。\n</s>A：A是英文单词“抽象”（abstraction）的首字母缩写。抽象是指将具体的事物转化为概念或形式的过程。\n</s>A：A是英文单词“抽象”（abstraction）",
+        "sample_id": 184
+    },
+    {
+        "tenor": "现代诗的屏障",
+        "vehicle": "</s>A. 请提供现代诗的屏障作为喻体。\nB. 请提供喻体的共性作为喻体。\nC. 请提供喻体的个性作为喻体。\nD. 请提供喻体的功能作为喻体。\nE. 请提供喻体的情感色彩作为喻体。\nF. 请提供喻体的象征意义作为喻体。\nG. 请提供喻体的比喻意义作为喻体。\nH.",
+        "ground": "坚固的属性",
+        "metaphor": "",
+        "sample_id": 185
+    },
+    {
+        "tenor": "钢琴",
+        "vehicle": "</s>A. 以钢琴作为本体（tenor），欣赏的感情作为共性（ground）时的一个喻体（vehicle）。\nB. 以钢琴作为本体（tenor），欣赏的感情作为共性（ground）时的一个喻体（vehicle）。\nC. 以钢琴作为本体（tenor），欣赏的感情作为共性（ground）时的一个喻体（vehicle）。\nD. 以钢琴作为本体（tenor），欣赏的感情",
+        "ground": "欣赏的感情",
+        "metaphor": "",
+        "sample_id": 186
+    },
+    {
+        "tenor": "人",
+        "vehicle": "</s>A",
+        "ground": "美丽的样子",
+        "metaphor": "答案：他像一只狼一样敏锐地观察着周围的环境，像一只鹰一样敏锐地捕捉着每一个机会。\n</s>A：狼\n</s>A：鹰\n</s>A：人\n</s>A：人\n</s>A：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人",
+        "sample_id": 187
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "</s>A",
+        "ground": "残忍的伤害",
+        "metaphor": "答案：她的心就像A一样，虽然美丽却充满痛苦。\n</s>A的多种解释：\n1. 爱（love）\n2. 伤害（hurt）\n3. 渴望（yearn）\n4. 渴望（long）\n5. 渴望（desire）\n6. 渴望（spss）\n7. 渴望（appetite）\n8. 渴望（thirst）\n9. 渴望（hunger",
+        "sample_id": 188
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "清纯的样子",
+        "metaphor": "回答：我和A就像天空中的云彩，虽然彼此分离，却始终保持着联系。\n</s>A就像天空中的一朵云彩，变化多端，让我感到神秘而美丽。每当我需要的时候，她总是能够给我带来帮助和支持。而我也像天空中的另一朵云彩，在她需要的时候，也会及时出现，为她遮风挡雨。虽然我们的距离很远，但我们的心却始终在一起。\n</s>A就像天空中的一片云彩，她的",
+        "sample_id": 189
+    },
+    {
+        "tenor": "我的拳头",
+        "vehicle": "</s>A",
+        "ground": "坚硬的利器",
+        "metaphor": "回答：我的拳头就像一把锋利的尖刀，能够轻松刺穿A的防御。\n</s>A的防御就像一层坚硬的铠甲，我的拳头刺进去就像是在攻击铠甲上的一个小孔，虽然疼痛，但是无法伤及其本源。\n我的拳头攻击A的防御就像是在攻击他的心脏，让他感到疼痛和恐惧。\n我的拳头攻击A就像是在攻击他的生命之源，让他感到恐惧和无助。\n我的拳头攻击A就像是在攻击",
+        "sample_id": 190
+    },
+    {
+        "tenor": "香",
+        "vehicle": "</s>A",
+        "ground": "萦绕的滋味",
+        "metaphor": "答案：A是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。\n</s>A是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。\n</s>A是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。\nA是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。\nA是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。\nA是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。",
+        "sample_id": 191
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "常青的生机",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼，虽然鸟笼保护着鸟，但鸟笼同时也限制着鸟的活动范围。\n</s>A就像一只鸟，而我和A的关系就像鸟笼。虽然鸟笼可以保护鸟的安全，但鸟笼同时也限制着鸟的活动范围。鸟虽然可以在笼子里活动，但它始终无法完全自由。我和A的关系也是如此，虽然我们可以在一起，但我们始终无法完全自由。\n</s>A就像一只鸟，而我和",
+        "sample_id": 192
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "难寻的状态",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼里的鸟，虽然我们可以自由飞翔，但我们始终被限制在一个范围内。\n</s>A就像一只鸟，而我和A的关系就像一只鸟笼里的鸟。虽然我们可以自由飞翔，但我们始终被限制在一个范围内。我们虽然可以相互了解，但我们的思想、行为和情感都被限制在一定的范围内。\n</s>A就像一只鸟，而我和A的关系就像一只鸟笼。鸟笼是一种限制，它限制了我们自由",
+        "sample_id": 193
+    },
+    {
+        "tenor": "上课铃",
+        "vehicle": "</s>A",
+        "ground": "盛大的气势",
+        "metaphor": "答案：上课铃就像A一样，总是按时响起。\n</s>A是一个名词，表示一种动物或昆虫。上课铃是一个名词短语，表示一种声音或信号，通常用于提醒学生上课。因此，这两个词之间有一定的相似性。在这个句子中，上课铃被用来比喻A，表示它总是按时响起。\n</s>A还可以用来比喻一种具有某种特征的人或事物。例如，“他的性格就像A一样，总是那么温和”。在这个句子中，“A",
+        "sample_id": 194
+    },
+    {
+        "tenor": "经典之吻",
+        "vehicle": "</s>A",
+        "ground": "轰轰烈烈的状态",
+        "metaphor": "答案：经典之吻就像A，虽然简单却充满深情。\n</s>A是一个常见的英语单词，意思是“第一流的”，也可以用来表示“最好的”。在这个句子中，A用来比喻经典之吻，表示它是非常特别、最好的接吻方式。\n</s>A还可以用来比喻某些具有经典意义的事物或事件，比如艺术、文化、音乐等等。例如，“音乐是艺术中的A”，意思是说音乐是一种具有经典意义的艺术形式。\n</s>A还可以用来",
+        "sample_id": 195
+    },
+    {
+        "tenor": "世界",
+        "vehicle": "</s>A",
+        "ground": "虚幻的感受",
+        "metaphor": "答案：A就像一条河流，不断流淌着，永不停息。\n</s>A就像一条河流，不断流淌着，永不停息。\n</s>A就像一条河流，不断流淌着，永不停息。\nA就像一条河流，不断流淌着，永不停息。\nA就像一条河流，不断流淌着，永不停息。\nA就像一条河流，不断流淌着，永不停息。\nA就像一条河流，不断流淌着，永不停",
+        "sample_id": 196
+    },
+    {
+        "tenor": "Flow",
+        "vehicle": "</s>A",
+        "ground": "令人舒服的感觉",
+        "metaphor": "答案：Flow就像A，流畅而自然。\n</s>A 是指一种流畅、自然、和谐的感觉，就像在流畅的流动中产生的舒适感。在这个句子中，Flow 是指一种流畅的感觉，而A则是指这种流畅的感觉所带来的舒适感。\n</s>A 还可以表示一种和谐的感觉，就像音乐中的和谐一样。在这个句子中，Flow 也可以表示流畅的感觉，而A则是指流畅的感觉所带来的和谐感。\n</s>A 还可以表示",
+        "sample_id": 197
+    },
+    {
+        "tenor": "巴黎好天气",
+        "vehicle": "</s>A warm and beautiful day in Paris.\n</s>A warm and beautiful day in Paris.\n</s>A warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in",
+        "ground": "短暂的美好",
+        "metaphor": "</s>A warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in的比喻（simile）的中文句子。",
+        "sample_id": 198
+    },
+    {
+        "tenor": "山泉",
+        "vehicle": "</s>Aqueducts are the body of water that run through the mountains and provide water to the people in the valley below. They are like the blood vessels that run through the body, bringing life-giving blood to all parts of the body.\n</s>Aqueducts are also like the lifeblood of a plant, providing it with the water it needs to grow and thrive. They are essential for the survival of all living things, and they are a testament to the ing",
+        "ground": "晶莹的质地",
+        "metaphor": "</s>Aqueducts are the body of water that run through the mountains and provide water to the people in the valley below. They are like the blood vessels that run through the body, bringing life-giving blood to all parts of the body.\nAqueducts are also like the lifeblood of a plant, providing it with the water it needs to grow and thrive. They are essential for the survival of all living things, and they are a testament to the importance of",
+        "sample_id": 199
+    }
+]

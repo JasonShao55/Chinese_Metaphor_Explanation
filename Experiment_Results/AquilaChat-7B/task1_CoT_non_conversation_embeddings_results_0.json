@@ -1,0 +1,122 @@
+[
+    {
+        "tenor": "他的温柔",
+        "vehicle": "海洋",
+        "ground": "</s>A. 温柔的海水\nB. 蓝色的海水\nC. 平静的海水\nD. 温暖的海水\nE. 美丽的海水\nF. 宁静的海水\nG. 清新的海水\nH. 温暖的阳光\nI. 美丽的沙滩\nJ. 宁静的沙滩\nK. 柔软的沙滩\nL. 美丽的海浪\nM. 温暖的海浪\nN. 平静的海浪\nO. 美丽的海鸥\nP.",
+        "metaphor": ""
+    },
+    {
+        "tenor": "现实",
+        "vehicle": "箭",
+        "ground": "</s>A. 美丽的花\nB. 巨大的山\nC. 强烈的情感\nD. 强烈的欲望\nE. 强烈的渴望\nF. 强烈的恐惧\nG. 强烈的愤怒\nH. 强烈的悲伤\nI. 强烈的快乐\nJ. 强烈的幸福\nK. 强烈的孤独\nL. 强烈的希望\nM. 强烈的绝望\nN. 强烈的愤怒\nO. 强烈的悲伤\nP. 强烈的快乐\nQ.",
+        "metaphor": "答案：箭如雨般射向目标，目标却如同一座美丽的花。\n</s>A. 美丽的花\nB. 巨大的山\nC. 强烈的情感\nD. 强烈的欲望\nE. 强烈的渴望\nF. 强烈的恐惧\nG. 强烈的愤怒\nH. 强烈的悲伤\nI. 强烈的快乐\nJ. 强烈的幸福\nK. 强烈的孤独\nL. 强烈的希望\nM. 强烈的绝望\nN"
+    },
+    {
+        "tenor": "语言",
+        "vehicle": "刀",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 勇敢的\nE. 快乐的\nF. 聪明的\nG. 美丽的\nH. 巨大的\nI. 冰冷的\nJ. 勇敢的\nK. 快乐的\nL. 聪明的\nM. 美丽的\nN. 巨大的\nO. 冰冷的\nP. 勇敢的\nQ. 快乐的\nR. 聪明的\nS. 美丽的",
+        "metaphor": "答案：刀是语言的锋利工具，锋利的刀能切割万物。\n</s>A. 美丽的 \nB. 巨大的 \nC. 冰冷的 \nD. 勇敢的 \nE. 快乐的 \nF. 聪明的 \nG. 美丽的 \nH. 巨大的 \nI. 冰冷的 \nJ. 勇敢的 \nK. 快乐的 \nL. 聪明的 \nM. 美丽的 \nN"
+    },
+    {
+        "tenor": "他的脚印",
+        "vehicle": "落叶",
+        "ground": "</s>A footprint in the snow is a print left by a person's shoes.\nA footprint in the snow is a print left by a person's shoes.\n</s>A print left by a person's shoes is a footprint in the snow.\n</s>A print left by a person's shoes is a footprint in the snow.\nA print left by a person's shoes is a footprint in the snow.\nA print left by a person's shoes is a footprint in the snow.",
+        "metaphor": "回答：他的脚印就像一片落叶，被风儿吹散在雪地上。\n</s>A print left by a person's shoes is like a fallen leaf, blown away by the wind on the snow.\n</s>A print left by a person's shoes is like a fallen leaf, blown away by the wind on the snow.\nA print left by a person's shoes is like a fallen leaf, blown away by the wind on the snow.\nA print left by a person's"
+    },
+    {
+        "tenor": "你的监察",
+        "vehicle": "潜望镜",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 美丽的\nH. 巨大的\nI. 冰冷的\nJ. 快乐的\nK. 勇敢的\nL. 聪明的\nM. 美丽的\nN. 巨大的\nO. 冰冷的\nP. 快乐的\nQ. 勇敢的\nR. 聪明的\nS. 美丽的",
+        "metaphor": ""
+    },
+    {
+        "tenor": "梭罗河",
+        "vehicle": "画",
+        "ground": "梭罗河和画的一个共性可以是：'一条清澈见底的河流'。\n</s>A river is a body of water that flows over the surface of the Earth. It is typically a narrow, winding stream that is used for transportation, irrigation, and other purposes. Many rivers are also popular for their natural beauty and are considered to be some of the most important sources of water for human use.\n画是一种绘画形式，它使用颜料、油彩等工具在纸上或布上",
+        "metaphor": ""
+    },
+    {
+        "tenor": "说不出滋味的体会",
+        "vehicle": "我微笑着流泪",
+        "ground": "</s>A: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了却没有任何的感觉。\nB: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了却没有任何的感觉。\n</s>A: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了",
+        "metaphor": "B: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了却没有任何的感觉。\nA: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了却没有任何的感觉。\nB: 你的文章让我感觉就像是一杯温吞吞的白开水，虽然无色无味，却让人喝得下去，但是喝多了却没有任何"
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "雨滴",
+        "ground": "</s>A爱如雨滴。\n</s>A爱如雨滴。\n</s>A爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴",
+        "metaphor": "回答：A爱如雨滴。\n</s>A爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴。\nA爱如雨滴"
+    },
+    {
+        "tenor": "燃尽的烟蒂",
+        "vehicle": "抽身的代价",
+        "ground": "</s>A. 烟蒂的烟蒂\nB. 烟蒂的烟蒂的烟蒂\nC. 烟蒂的烟蒂的烟蒂的烟蒂\nD. 烟蒂的烟蒂的烟蒂的烟蒂的烟蒂\nE. 烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂\nF. 烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂",
+        "metaphor": "答案：烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟蒂的烟"
+    },
+    {
+        "tenor": "火星",
+        "vehicle": "泪滴",
+        "ground": "</s>A. 透明\nB. 巨大的\nC. 美丽的\nD. 快乐的\nE. 冰冷的\nF. 勇敢的\nG. 聪明的\nH. 温暖的\nI. 巨大的\nJ. 快乐的\nK. 冰冷的\nL. 勇敢的\nM. 聪明的\nN. 温暖的\nO. 巨大的\n答案：透明\n</s>A. 透明\nB. 巨大的\nC. 美丽的\nD",
+        "metaphor": "答案：火星上的泪滴，像巨大的珍珠一样美丽。\n</s>A. 透明\nB. 巨大的\nC. 美丽的\nD. 快乐的\nE. 冰冷的\nF. 勇敢的\nG. 聪明的\nH. 温暖的\nI. 巨大的\nJ. 快乐的\nK. 冰冷的\nL. 勇敢的\nM. 聪明的\nN. 温暖的\nO. 巨大的\n答案：透明\n</s>A."
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "苦咖啡",
+        "ground": "</s>A: 爱情是美好的，苦咖啡是苦涩的。\nB: 爱情是甜蜜蜜的，苦咖啡是酸涩涩的。\nC: 爱情是快乐的，苦咖啡是难过的。\nD: 爱情是激情的，苦咖啡是平静的。\nE: 爱情是神秘的，苦咖啡是清晰的。\nF: 爱情是美好的，苦咖啡是难喝的。\nG: 爱情是美好的，苦咖啡是",
+        "metaphor": "答案：爱情就像一杯苦咖啡，虽然苦涩，但越品越香。\n</s>A: 爱情是美好的，苦咖啡是苦涩的。\nB: 爱情是甜蜜蜜的，苦咖啡是酸涩涩的。\nC: 爱情是快乐的，苦咖啡是难过的。\nD: 爱情是激情的，苦咖啡是平静的。\nE: 爱情是神秘的，苦咖啡是清晰的。\nF: 爱情是美好的"
+    },
+    {
+        "tenor": "事物",
+        "vehicle": "梦魇",
+        "ground": "</s>A. 请告诉我你的答案。\nB. 请告诉我你的答案。\nC. 请告诉我你的答案。\nD. 请告诉我你的答案。\nE. 请告诉我你的答案。\nF. 请告诉我你的答案。\nG. 请告诉我你的答案。\nH. 请告诉我你的答案。\nI. 请告诉我你的答案。\nJ. 请告诉我你的答案。\nK. 请告诉我你的答案。",
+        "metaphor": "</s>A. 答案：答案。\nB. 答案：答案。\nC. 答案：答案。\nD. 答案：答案。\nE. 答案：答案。\nF. 答案：答案。\nG. 答案：答案。\nH. 答案：答案。\nI. 答案：答案。\nJ. 答案：答案。\nK. 答案：答案。\n</s>A. 答案：答案。\nB"
+    },
+    {
+        "tenor": "我得不到你的爱情",
+        "vehicle": "春花没有雨淋",
+        "ground": "</s>A. 爱情是美好的情感，春花是美丽的花卉。\nB. 爱情是美好的情感，春花是美丽的花卉。\nC. 爱情是美好的情感，春花是美丽的花卉。\nD. 爱情是美好的情感，春花是美丽的花卉。\nE. 爱情是美好的情感，春花是美丽的花卉。\nF. 爱情是美好的情感，春花是美丽的花卉。\nG. 爱情是美好的情感，",
+        "metaphor": "</s>A. 爱情是美好的情感，春花是美丽的花卉。\nB. 爱情是美好的情感，春花是美丽的花卉。\nC. 爱情是美好的情感，春花是美丽的花卉。\nD. 爱情是美好的情感，春花是美丽的花卉。\nE. 爱情是美好的情感，春花是美丽的花卉。\nF. 爱情是美好的情感，春花是美丽的花卉。\nG. 爱情是美好的情感，"
+    },
+    {
+        "tenor": "白云",
+        "vehicle": "棉花糖",
+        "ground": "</s>A. 轻盈的。\nB. 柔软的。\nC. 蓬松的。\nD. 雪白的。\nE. 香甜的。\nF. 口感丰富的。\nG. 口感松软的。\nH. 口感浓郁的。\nI. 口感鲜美的。\nJ. 口感细腻的。\nK. 口感鲜活的。\nL. 口感丰富的。\nM. 口感松软的。\nN. 口感",
+        "metaphor": "答案：白云像棉花糖一样轻盈柔软。\n</s>A. 轻盈的。\nB. 柔软的。\nC. 蓬松的。\nD. 雪白的。\nE. 香甜的。\nF. 口感丰富的。\nG. 口感松软的。\nH. 口感浓郁的。\nI. 口感鲜美的。\nJ. 口感细腻的。\nK. 口感鲜活的。\nL. 口感丰富的。\nM"
+    },
+    {
+        "tenor": "你的身影",
+        "vehicle": "水草",
+        "ground": "</s>Aquatic plant 水草\n</s>Aquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nA",
+        "metaphor": "</s>Aquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAquatic plant 水草\nAqu"
+    },
+    {
+        "tenor": "国王",
+        "vehicle": "牧师的奴隶",
+        "ground": "</s>A. 被剥夺了自由的人\nB. 受苦受难的人\nC. 受尽压迫和剥削的人\nD. 缺乏自由意志的人\nE. 缺乏自我决定能力的人\nF. 缺乏自我管理能力的人\nG. 缺乏自我尊重的人\nH. 缺乏自我认同的人\nI. 缺乏自我表达的人\nJ. 缺乏自我发展的人\nK. 缺乏自我提升的能力\nL. 缺乏自我",
+        "metaphor": "答案：国王和牧师是奴隶的主宰者，他们掌握着他们的命运。\n</s>A. 被剥夺了自由的人\nB. 受苦受难的人\nC. 受尽压迫和剥削的人\nD. 缺乏自由意志的人\nE. 缺乏自我决定能力的人\nF. 缺乏自我管理能力的人\nG. 缺乏自我尊重的人\nH. 缺乏自我认同的人\nI. 缺乏自我表达的人\nJ."
+    },
+    {
+        "tenor": "你的消息",
+        "vehicle": "被回顾的事物",
+        "ground": "</s>A: 你好，我想问一下，你最近有什么有趣的事情发生吗？\nB: 嗨，最近我在学习一门新的编程语言，感觉很有趣。\nA: 哇，听起来很有趣！你学的是哪种语言？\nB: 我学的是Python。\nA: 真的吗？我也学的是Python，你学的是哪个版本？\nB: 我学的是Python 3.x版本。\nA: 哦，那很好啊",
+        "metaphor": "B: Python 3.x版本是我最近学习的编程语言，感觉很有趣。\n</s>A: Python 3.x版本是我最近学习的编程语言，感觉很有趣。\n</s>A: Python 3.x版本是我最近学习的编程语言，感觉很有趣。\nB: Python 3.x版本是我最近学习的编程语言，感觉很有趣。\nA: Python 3.x版本是我最近学习的编程语言，感觉很有趣。\nB: Python 3.x版本是我最近学习的编程语言"
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "河",
+        "ground": "</s>A. 时间： 时间是一个抽象的概念，它表示一段时间的长度。时间可以是过去的时间，也可以是未来的时间。时间可以是小时、分钟、秒等长度单位。时间可以是具体的日期和时间，也可以是抽象的概念，如现在的时间。\nB. 河： 河是一种自然的水体，它通常是由雨水、雪水、地下水等水源形成的。河可以是宽度不同的河流，也可以是宽度相同的渠道。河可以是具体的河流名称，也可以是抽象的概念，如",
+        "metaphor": "C. 人： 人是一种具有思维能力的生物，通常是指人类。人可以是具体的生物名称，也可以是抽象的概念，如人类。人可以是具体的姓名或名称，也可以是抽象的概念，如人类。\nD. 音乐： 音乐是一种通过声音来表达情感和思想的艺术形式。音乐可以是具体的歌曲名称，也可以是抽象的概念，如音乐。音乐可以是具体的乐器名称，也可以是抽象的概念，如音乐。\nE. 城市： 城市是一种由人口聚集"
+    },
+    {
+        "tenor": "成长",
+        "vehicle": "奖赏",
+        "ground": "</s>A. 成长的过程是一个不断试错的过程，需要不断地尝试新的方法、新的思路，才能找到最适合自己发展的道路。\nB. 成长的过程是一个充满挑战的过程，需要不断地克服自己的恐惧和不安，才能不断地超越自己，实现更高的目标。\nC. 成长的过程是一个充满机遇的过程，需要不断地寻找机会，勇敢地尝试，才能发现更多的可能性，实现更大的价值。\nD. 成长的过程是一个充满快乐的过程，需要不断地享受过程中的",
+        "metaphor": "答案：成长的过程就像一场旅行，奖赏就是过程中的风景。\n</s>A. 成长的过程是一个不断试错的过程，需要不断地尝试新的方法、新的思路，才能找到最适合自己发展的道路。\nB. 成长的过程是一个充满挑战的过程，需要不断地克服自己的恐惧和不安，才能不断地超越自己，实现更高的目标。\nC. 成长的过程是一个充满机遇的过程，需要不断地寻找机会，勇敢地尝试，才能发现更多的可能性，实现更大的价值。"
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "象棋",
+        "ground": "</s>A. 人生就像一场游戏，需要不断挑战自我，不断超越自己。\nB. 人生就像一场比赛，需要不断超越对手，不断突破自我。\nC. 人生就像一场旅行，需要不断发现美景，不断体验人生。\nD. 人生就像一场电影，需要不断感受情感，不断体验人生。\nE. 人生就像一场游戏，需要不断挑战自我，不断超越自己。\nF. 人生就像一场比赛，",
+        "metaphor": "答案：人生就像一场象棋比赛，需要不断超越对手，不断突破自我。\n</s>A. 人生就像一场游戏，需要不断挑战自我，不断超越自己。\nB. 人生就像一场比赛，需要不断超越对手，不断突破自我。\nC. 人生就像一场旅行，需要不断发现美景，不断体验人生。\nD. 人生就像一场电影，需要不断感受情感，不断体验人生。\nE. 人生就像一场游戏，"
+    }
+]

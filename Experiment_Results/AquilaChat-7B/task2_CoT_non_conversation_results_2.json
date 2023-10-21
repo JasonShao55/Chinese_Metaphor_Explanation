@@ -1,0 +1,122 @@
+[
+    {
+        "tenor": "落满遗憾的城墙",
+        "vehicle": "</s>A",
+        "ground": "我不在乎的悲伤",
+        "metaphor": ""
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "神秘的属性",
+        "metaphor": "回答：我像A一样，有着神秘的属性。\n</s>A是一个神秘的人，有着许多不为人知的一面。\n我就像A一样，有着许多不为人知的一面。\n</s>A是一个谜团，有着许多让人无法理解的行为。\n我就像A一样，有着许多让人无法理解的行为。\nA是一个谜团，让人无法理解的行为。\n我就像A一样，有着神秘的属性。\n</s>A是一个谜团，让人无法理解的行为。\n我就像"
+    },
+    {
+        "tenor": "热闹的（场景）",
+        "vehicle": "</s>A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.\n\n</s>A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.\n</s>A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.\n</s>A chat between a curious human and an",
+        "ground": "热闹的下午",
+        "metaphor": ""
+    },
+    {
+        "tenor": "十二个音",
+        "vehicle": "</s>A 请参考以下示例",
+        "ground": "动听的声响",
+        "metaphor": "答案：A就像一条河流，十二个音就像河流中的石头，它们一起构成了A的音乐世界。\n</s>A请参考以下示例：请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请参考以下示例请"
+    },
+    {
+        "tenor": "表达孤单",
+        "vehicle": "</s>A",
+        "ground": "堂堂正正的立场",
+        "metaphor": "答案：A就像一条孤独的小鱼，在水中独自游荡。\n</s>A就像一条孤独的小鱼，在水中独自游荡。\n</s>A就像一条孤独的小鱼，在水中独自游荡。\nA就像一条孤独的小鱼，在水中独自游荡。\nA就像一条孤独的小鱼，在水中独自游荡。\nA就像一条孤独的小鱼，在水中独自游荡。\nA就像一条孤独的小鱼，在水中独自游荡。\nA就像一条孤独"
+    },
+    {
+        "tenor": "温柔",
+        "vehicle": "</s>A",
+        "ground": "依偎的行为",
+        "metaphor": "答案：A就像一只温柔的小猫，总是让我感到舒适和安全。\n</s>A就像一只温柔的小猫，总是让我感到舒适和安全。\n</s>A就像一只温柔的小猫，总是让我感到舒适和安全。\nA就像一只温柔的小猫，总是让我感到舒适和安全。\nA就像一只温柔的小猫，总是让我感到舒适和安全。\nA就像一只温柔的小猫，总是让我感到舒适和安全。\nA就像一只温柔的小猫，总是让我感到舒适"
+    },
+    {
+        "tenor": "你的眼睛",
+        "vehicle": "</s>A",
+        "ground": "开放的状态",
+        "metaphor": "答案：她的眼睛就像A一样，充满了智慧和温柔。\n</s>A：A is a type of software that is used to manage and analyze data.\n</s>A是一个用于管理和分析数据的软件类型。\n</s>A：A is a type of software that is used to create and edit digital images.\nA是一个用于创建和管理数字图像的软件类型。\nA：A is a type of software that is used to create and edit video files.\nA是一个用于"
+    },
+    {
+        "tenor": "你我分离",
+        "vehicle": "</s>A",
+        "ground": "各自远去的背影",
+        "metaphor": "回答：分别时，你像一阵风，轻轻地吹过我的身体，留下一阵短暂的温暖。\n</s>A：一阵风\n</s>A：轻轻地吹过我的身体\nA：留下一阵短暂的温暖\n</s>A：分别时\nA：你\nA：像一阵风\nA：轻轻地吹过我的身体\nA：留下一阵短暂的温暖\n</s>A：一阵风\nA：轻轻地吹过我的身体\nA：留下一阵短暂的温暖\nA：分别"
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "</s>A",
+        "ground": "保卫的功能",
+        "metaphor": ""
+    },
+    {
+        "tenor": "酸雨",
+        "vehicle": "</s>A heavy rain is like a toxic cloud, spreading its influence over everything in its path.\n</s>A heavy rain is like a toxic cloud, spreading its influence over everything in its path.\n</s>A heavy rain is like a toxic cloud, spreading its influence over everything in its path.\n</s>A heavy rain is like a toxic cloud, spreading its influence over everything in its path.\nA heavy rain is like a toxic cloud, spreading its influence over everything in its path.",
+        "ground": "危险的接触",
+        "metaphor": "</s>A heavy rain is like a toxic cloud, spreading its influence over everything in its path.\n</s>A heavy rain is like a toxic cloud, spreading its influence over everything in its path.\nA heavy rain is like a toxic cloud, spreading its influence over everything in its path.\nA heavy rain is like a toxic cloud, spreading its influence over everything in its path.\nA heavy rain is like a toxic cloud, spreading its influence over everything in its path.\nA heavy"
+    },
+    {
+        "tenor": "纸",
+        "vehicle": "</s>A",
+        "ground": "纸张的形状",
+        "metaphor": "答案：A就像一张白纸，等待着我们去描绘它。\n</s>A就像一张白纸，等待着我们去描绘它。\n</s>A就像一张白纸，等待着我们去描绘它。\nA就像一张白纸，等待着我们去描绘它。\nA就像一张白纸，等待着我们去描绘它。\nA就像一张白纸，等待着我们去描绘它。\nA就像一张白纸，等待着我们去描绘它。\nA就像一张白纸，等待着我们去描绘它。"
+    },
+    {
+        "tenor": "眼睛",
+        "vehicle": "</s>A. 以眼睛作为本体（tenor）和闪烁明亮的动态作为共性（ground）时的一个喻体（vehicle）。\nB. 以眼睛作为本体（tenor）和闪烁明亮的动态作为共性（ground）时的一个喻体（vehicle）。\nC. 以眼睛作为本体（tenor）和闪烁明亮的动态作为共性（ground）时的一个喻体（vehicle）。\nD. 以眼睛作为本体（tenor）",
+        "ground": "闪烁明亮的动态",
+        "metaphor": ""
+    },
+    {
+        "tenor": "他们",
+        "vehicle": "</s>A",
+        "ground": "茫然的心理",
+        "metaphor": "答案：他们就像一只只迷途的鸟，在A的引力场中迷失了方向。\n</s>A：一种物理概念，指引力场。\n</s>A：一种物理概念，指引力场。\n</s>A：一种物理概念，指引力场。\nA：一种物理概念，指引力场。\nA：一种物理概念，指引力场。\nA：一种物理概念，指引力场。\nA：一种物理概念，指引力"
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "</s>A smile is a vehicle for happiness.\n</s>A smile is a vehicle for happiness.\n</s>A smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for",
+        "ground": "快乐的样子",
+        "metaphor": "</s>A smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness.\nA smile is a vehicle for happiness."
+    },
+    {
+        "tenor": "恋情",
+        "vehicle": "</s>A",
+        "ground": "恋情的含蓄",
+        "metaphor": "答案：她的眼睛就像A一样，美丽而深情。\n</s>A的英文单词是\""
+    },
+    {
+        "tenor": "相思",
+        "vehicle": "</s>A",
+        "ground": "伤害的影响",
+        "metaphor": "答案：相思就像一条没有尽头的河流，永远在寻找着它失去的A。\n</s>A代表的是一个人、一件事物、一个概念等等，相思则是一种强烈的情感状态，它让人茶饭不思、夜不能寐，就像一条没有尽头的河流一样，不断地寻找着失去的东西。这个句子用形象生动的比喻，表达了相思的强烈和痛苦。\n</s>A代表的是一个人、一件事物、一个概念等等，相思则是一种强烈的情感状态，"
+    },
+    {
+        "tenor": "他们修复历史",
+        "vehicle": "</s>A",
+        "ground": "陈旧的样子",
+        "metaphor": "答案：修复历史就像修复一幅古画，需要耐心和专注。\n</s>A修复历史就像修复一幅古画，需要耐心和专注。\n</s>A修复历史就像修复一幅古画，需要耐心和专注。\n修复历史就像修复一幅古画，需要耐心和专注。\n修复历史就像修复一幅古画，需要耐心和专注。\n修复历史就像修复一幅古画，需要耐心和专注。\n修复历史就像修复一幅古画，需要"
+    },
+    {
+        "tenor": "风",
+        "vehicle": "</s>A",
+        "ground": "裹挟的衣服",
+        "metaphor": ""
+    },
+    {
+        "tenor": "稀罕",
+        "vehicle": "</s>A",
+        "ground": "伤人的能力",
+        "metaphor": "答案：A就像一只狮子，它的存在让周围的一切都变得不同寻常。\n</s>A就像一只狮子，它的存在让周围的一切都变得不同寻常。\n</s>A就像一只狮子，它的存在让周围的一切都变得不同寻常。\nA就像一只狮子，它的存在让周围的一切都变得不同寻常。\nA就像一只狮子，它的存在让周围的一切都变得不同寻常。\nA就像一只狮子，它的存在让周围的一切都变得不同寻常。"
+    },
+    {
+        "tenor": "人",
+        "vehicle": "</s>A",
+        "ground": "野的属性",
+        "metaphor": "答案：他就像A一样，总是那么自信。\n</s>A：自信\n</s>A：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA：自信\nA"
+    }
+]

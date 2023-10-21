@@ -1,0 +1,122 @@
+[
+    {
+        "tenor": "回忆",
+        "vehicle": "种子",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 快乐的\nD. 勇敢的\nE. 聪明的\nF. 美丽的\nG. 巨大的\nH. 快乐的\nI. 勇敢的\nJ. 聪明的\nK. 美丽的\nL. 巨大的\nM. 快乐的\nN. 勇敢的\nO. 聪明的\n答案：美丽的\n</s>A. 美丽的\nB. 巨大的\nC. 快乐的\nD.",
+        "metaphor": "答案：种子破土而出，回忆涌上心头。\n</s>A. 美丽的\nB. 巨大的\nC. 快乐的\nD. 勇敢的\nE. 聪明的\nF. 美丽的\nG. 巨大的\nH. 快乐的\nI. 勇敢的\nJ. 聪明的\nK. 美丽的\nL. 巨大的\nM. 快乐的\nN. 勇敢的\nO. 聪明的\n</s>A. 美丽的\nB. 巨大的"
+    },
+    {
+        "tenor": "心",
+        "vehicle": "冰",
+        "ground": "</s>A. 透明\nB. 寒冷\nC. 快乐\nD. 快乐\nE. 快乐\nF. 快乐\nG. 快乐\nH. 快乐\nI. 快乐\nJ. 快乐\nK. 快乐\nL. 快乐\nM. 快乐\nN. 快乐\nO. 快乐\nP. 快乐\nQ. 快乐\nR. 快乐\nS. 快乐\nT.",
+        "metaphor": ""
+    },
+    {
+        "tenor": "我的眼光",
+        "vehicle": "蔚蓝",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 温暖的\nH. 勇敢的\nI. 美丽的\nJ. 巨大的\nK. 冰冷的\nL. 快乐的\nM. 勇敢的\nN. 聪明的\nO. 温暖的\n答案：美丽的\n</s>A. 美丽的\nB. 巨大的\nC. 冰冷的",
+        "metaphor": "答案：我的眼睛就像一片蔚蓝的天空，充满了美丽和智慧。\n</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 温暖的\nH. 勇敢的\nI. 美丽的\nJ. 巨大的\nK. 冰冷的\nL. 快乐的\nM. 勇敢的\nN. 聪明的\nO. 温暖的\n答案：我的眼睛就像"
+    },
+    {
+        "tenor": "点点滴滴",
+        "vehicle": "伤口",
+        "ground": "</s>A. 请描述一下你的感情经历。\nB. 请描述一下你的性格特征。\nC. 请描述一下你的兴趣爱好。\nD. 请描述一下你的工作/学习经历。\nE. 请描述一下你的家庭背景。\nF. 请描述一下你的理想和目标。\nG. 请描述一下你的缺点和优点。\nH. 请描述一下你的消费习惯。\nI. 请描述一下你的生活方式",
+        "metaphor": "</s>A. 我的感情经历就像一条曲折的小溪，虽然有时平静有时汹涌，却始终离不开它的源头发源处。\nB. 我的性格特征就像一座高耸的山峰，虽然高不可攀，却永远无法被征服。\nC. 我的兴趣爱好就像一片广袤的草原，虽然广阔无垠，却永远无法被完全占据。\nD. 我的工作/学习经历就像一片广袤的草原，虽然有时"
+    },
+    {
+        "tenor": "你",
+        "vehicle": "答案",
+        "ground": "</s>A. 你的性格很温和。\nB. 你的声音很温柔。\nC. 你的态度很温和。\nD. 你的行为很温和。\nE. 你的心灵很温和。\nF. 你的性格很温和。\nG. 你的声音很温柔。\nH. 你的态度很温和。\nI. 你的行为很温和。\nJ. 你的心灵很温和。\nK. 你的性格很温和。",
+        "metaphor": "我的答案：你的心灵很温和，就像春天里的阳光一样温暖。\n</s>A. 你的性格很温和。 - 你的性格就像春天里的阳光一样温暖。\nB. 你的声音很温柔。 - 你的声音就像春天里的微风一样温柔。\nC. 你的态度很温和。 - 你的态度就像春天里的温度一样温和。\nD. 你的行为很温和。 - 你的行为就像春天里的植物一样温和。\nE."
+    },
+    {
+        "tenor": "陶俑",
+        "vehicle": "器皿的盖子",
+        "ground": "</s>A. 陶俑的盖子是陶制的。\nB. 器物的盖子是金属做的。\nC. 杯子的盖子是塑料做的。\nD. 碗的盖子是玻璃做的。\nE. 花瓶的盖子是石头做的。\nF. 锅的盖子是陶瓷做的。\nG. 茶壶的盖子是玻璃做的。\nH. 咖啡杯的盖子是金属做的。\nI. 烤面包机的盖子",
+        "metaphor": "答案：陶俑的盖子是陶制的，就像陶器一样。\n</s>A. 器物的盖子是金属做的，就像金质容器一样。\nB. 杯子的盖子是塑料做的，就像塑料杯一样。\nC. 碗的盖子是玻璃做的，就像玻璃碗一样。\nD. 锅的盖子是陶瓷做的，就像陶瓷锅一样。\nE. 花瓶的盖子是石头做的，就像石头花瓶一样。\nF"
+    },
+    {
+        "tenor": "你",
+        "vehicle": "树桩",
+        "ground": "</s>A: 你像一棵树桩，坚定而稳定。\nB: 树桩像你一样坚定而稳定。\n</s>A: 你像一棵树桩，坚定而稳定。\nB: 树桩像你一样坚定而稳定。\nA: 你像一棵树桩，坚定而稳定。\nB: 树桩像你一样坚定而稳定。\nA: 你像一棵树桩，坚定而稳定。\nB:",
+        "metaphor": "答案：你像一棵树桩，坚定而稳定。树桩像你一样坚定而稳定。你像一棵树桩，坚定而稳定。树桩像你一样坚定而稳定。你像一棵树桩，坚定而稳定。树桩像你一样坚定而稳定。你像一棵树桩，坚定而稳定。树桩像你一样坚定而稳定。\n</s>A: 你像一棵树桩，坚定而稳定。\nB: 树桩"
+    },
+    {
+        "tenor": "褪色照片",
+        "vehicle": "花",
+        "ground": "</s>A. 照片上的景色变得模糊不清了。\nB. 照片上的花朵变得枯萎了。\nC. 照片上的景色变得单调了。\nD. 照片上的花朵变得凋谢了。\nE. 照片上的景色变得平静了。\nF. 照片上的花朵变得凋零了。\nG. 照片上的景色变得平静而单调。\nH. 照片上的花朵变得凋零而枯萎。\nI. 照片",
+        "metaphor": ""
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "心头火",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 美丽的\nH. 巨大的\nI. 冰冷的\nJ. 快乐的\nK. 勇敢的\nL. 聪明的\nM. 美丽的\nN. 巨大的\nO. 冰冷的\nP. 快乐的\nQ. 勇敢的\nR. 聪明的\nS. 美丽的",
+        "metaphor": "答案：她的美丽像一朵怒放的鲜花，她的快乐像一只快乐的小鸟，她的聪明像一位智慧的老人，她的美丽像一朵怒放的鲜花，她的快乐像一只快乐的小鸟，她的聪明像一位智慧的老人。\n</s>A. 美丽的 \nB. 巨大的 \nC. 冰冷的 \nD. 快乐的 \nE. 勇敢的 \nF. 聪明的 \nG. 美丽的 \nH. 巨大的"
+    },
+    {
+        "tenor": "生活",
+        "vehicle": "蜜",
+        "ground": "</s>A. 生活就像一杯酒，有苦有甜。\nB. 生活就像一场梦，有时快乐，有时悲伤。\nC. 生活就像一首歌，有节奏，有旋律。\nD. 生活就像一场戏，有开始，有结束。\nE. 生活就像一场梦，有时清晰，有时模糊。\nF. 生活就像一场比赛，有胜利，有失败。\nG. 生活就像一场电影，有",
+        "metaphor": "</s>A. 生活就像一杯酒，有苦有甜。\nB. 生活就像一场梦，有时快乐，有时悲伤。\nC. 生活就像一首歌，有节奏，有旋律。\nD. 生活就像一场戏，有开始，有结束。\nE. 生活就像一场梦，有时清晰，有时模糊。\nF. 生活就像一场比赛，有胜利，有失败。\nG. 生活就像一场电影，有"
+    },
+    {
+        "tenor": "你",
+        "vehicle": "一只小鸟",
+        "ground": "</s>A: 你的眼睛像星星一样明亮。\nB: 他的声音像鸟鸣一样清脆。\nC: 她的微笑像阳光一样温暖。\nD: 他的性格像猫一样独立。\nE: 她的眼睛像月亮一样温柔。\nF: 他的声音像风一样温柔。\nG: 她的性格像狮子一样勇敢。\nH: 他的眼睛像星星一样明亮。\nI: 她的微笑像阳光一样温暖",
+        "metaphor": "</s>A: 你的眼睛像星星一样明亮。\nB: 他的声音像鸟鸣一样清脆。\nC: 她的微笑像阳光一样温暖。\nD: 他的性格像猫一样独立。\nE: 她的眼睛像月亮一样温柔。\nF: 他的声音像风一样温柔。\nG: 她的性格像狮子一样勇敢。\nH: 他的眼睛像星星一样明亮。\nI: 她的微笑像阳光一样温暖"
+    },
+    {
+        "tenor": "烦恼",
+        "vehicle": "菩提",
+        "ground": "烦恼：我总感到自己很孤独，菩提：我总感到自己很快乐。烦恼：我总感到自己很无助，菩提：我总感到自己很自信。烦恼：我总感到自己很疲惫，菩提：我总感到自己很轻松。烦恼：我总感到自己很焦虑，菩提：我总感到自己很平静。烦恼：我总感到自己很愤怒，菩提：我总感到自己很喜悦。烦恼：我总感到自己很恐惧，菩提",
+        "metaphor": "烦恼：我总感到自己很孤独，菩提：我总感到自己很快乐。烦恼：我总感到自己很无助，菩提：我总感到自己很自信。烦恼：我总感到自己很疲惫，菩提：我总感到自己很轻松。烦恼：我总感到自己很焦虑，菩提：我总感到自己很平静。烦恼：我总感到自己很愤怒，菩提：我总感到自己很喜悦。烦恼：我总感到自己很恐惧，菩提"
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "笑话",
+        "ground": "</s>A: 爱情和笑话的一个共性是什么？\nB: 爱情和笑话的一个共性是它们都可以让人发笑。\n</s>A: 发笑的原因是什么？\nB: 发笑的原因是因为它们都包含了幽默的因素。\nA: 幽默的因素是什么？\nB: 幽默的因素包括语言、情节、人物性格等。\nA: 语言方面有哪些特点？\nB: 语言方面，爱情和笑话都有一些幽默的语言元素，",
+        "metaphor": "B: 爱情就像一场游戏，需要双方的不断努力才能玩得好；而笑话则像一面哈哈镜，能够让人在最短的时间内感受到欢乐。\nA: 语言方面有哪些特点？\nB: 语言方面，爱情和笑话都有一些幽默的语言元素，比如爱情中的“情话”，笑话中的“冷笑话”。\nA: 情节方面有哪些特点？\nB: 情节方面，爱情和笑话都有一些意外和反转的情节元素，让人"
+    },
+    {
+        "tenor": "大家都在传唱",
+        "vehicle": "爱德华的小说",
+        "ground": "</s>A. 美丽的\nB. 勇敢的\nC. 聪明的\nD. 善良的\nE. 勇敢的\nF. 美丽的\nG. 聪明的\nH. 善良的\nI. 美丽的\nJ. 勇敢的\nK. 聪明的\nL. 善良的\nM. 勇敢的\nN. 美丽的\nO. 聪明的\nP. 善良的\nQ. 勇敢的\nR. 美丽的\nS. 聪明的\nT.",
+        "metaphor": ""
+    },
+    {
+        "tenor": "悄静气氛",
+        "vehicle": "关了灯",
+        "ground": "</s>A. 灯下的悄悄声\nB. 灯下的宁静\nC. 灯下的沉默\nD. 灯下的安详\nE. 灯下的平静\nF. 灯下的宁谧\nG. 灯下的静谧\nH. 灯下的宁静\nI. 灯下的安详\nJ. 灯下的平静\nK. 灯下的宁谧\nL. 灯下的静谧\nM. 灯下的宁静\n答案：",
+        "metaphor": "</s>A. 灯下的悄悄声\nB. 灯下的宁静\nC. 灯下的沉默\nD. 灯下的安详\nE. 灯下的平静\nF. 灯下的宁谧\nG. 灯下的静谧\nH. 灯下的宁静\nI. 灯下的安详\nJ. 灯下的平静\nK. 灯下的宁谧\nL. 灯下的静谧\nM. 灯下的宁静\n</s>A"
+    },
+    {
+        "tenor": "鱼群悄悄潜行",
+        "vehicle": "在一个做梦少女怀中",
+        "ground": "</s>Aquaticus 鱼群\n\nAquaticus is a collective noun that refers to a group of fish swimming in the water.\n</s>Aquaticus is a collective noun that refers to a group of fish swimming in the water.\n</s>Aquaticus is a collective noun that refers to a group of fish swimming in the water.\n\nAquaticus is a collective noun that refers to a group of fish swimming in the water.\n</s>A",
+        "metaphor": "回答：\nAquaticus is a collective noun that refers to a group of fish swimming in the water. \n鱼群悄悄潜行，在一个做梦少女怀中。\n</s>Aquaticus is a collective noun that refers to a group of fish swimming in the water. \n鱼群悄悄潜行，在一个做梦少女怀中。\n</s>Aquaticus is a collective noun that refers to a group of fish swimming in the water. \n鱼群"
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "残忍有毒的甜品",
+        "ground": "</s>A sweet treat can be both delicious and toxic.\n</s>A toxic sweet treat can be both delicious and harmful.\nA harmful sweet treat can be both delicious and dangerous.\nA dangerous sweet treat can be both delicious and deadly.\nA deadly sweet treat can be both delicious and fatal.\nA fatal sweet treat can be both delicious and unbearable.\nA unbearable sweet treat can be both delicious and unappetizing.\nA unappetizing sweet treat",
+        "metaphor": "回答：一个有毒的甜蜜食品，既美味又危险。\n</s>A toxic sweet treat can be both delicious and harmful.\n</s>A harmful sweet treat can be both delicious and dangerous.\nA dangerous sweet treat can be both delicious and deadly.\nA deadly sweet treat can be both delicious and fatal.\nA fatal sweet treat can be both delicious and unbearable.\nA unbearable sweet treat can be both delicious and unappetizing.\n</s>A unapp"
+    },
+    {
+        "tenor": "话",
+        "vehicle": "嘲笑",
+        "ground": "</s>A: 你看看你，一天天的，就像个神经病一样。\nB: 神经病？你才神经病呢！\nA: 你看看你，一天天的，就像个神经病一样。\nB: 神经病？你才神经病呢！\n回答：神经病。\n</s>A: 你看看你，一天天的，就像个神经病一样。\nB: 神经病？你才神经病呢！\n回答",
+        "metaphor": "回答：你就像一只神经病一样一天到晚都在发神经。\n</s>A: 你看看你，一天天的，就像一只神经病一样。\nB: 神经病？你才神经病呢！\n回答：你就像一只神经病一样一天到晚都在发神经。\n</s>A: 你看看你，一天天的，就像一只神经病一样。\nB: 神经病？你才神经病呢！\n回答：你就像一只神经病"
+    },
+    {
+        "tenor": "飞入寒冷干爽的气候",
+        "vehicle": "重践北美大陆",
+        "ground": "</s>A. 干爽的气候\nB. 寒冷的季节\nC. 广袤的大地\nD. 巨大的山脉\nE. 美丽的风景\nF. 良好的天气\nG. 良好的路况\nH. 良好的氛围\nI. 良好的心情\nJ. 良好的状态\nK. 良好的健康\nL. 良好的关系\nM. 良好的习惯\nN. 良好的性格\nO. 良好的文化\nP.",
+        "metaphor": "</s>A. 干爽的气候\nB. 寒冷的季节\nC. 广袤的大地\nD. 巨大的山脉\nE. 美丽的风景\nF. 良好的天气\nG. 良好的路况\nH. 良好的氛围\nI. 良好的心情\nJ. 良好的状态\nK. 良好的健康\nL. 良好的关系\nM. 良好的习惯\nN. 良好的性格\nO. 良好的文化\nP."
+    },
+    {
+        "tenor": "伤心",
+        "vehicle": "罪",
+        "ground": "伤心和罪的一个共性可以是：。\n</s>A. 伤心的感觉\nB. 罪孽的感觉\nC. 悲伤的感觉\nD. 痛苦的感觉\nE. 版权或其它问题请于作品发表后的的感觉\nF. 恐惧的感觉\nG. 焦虑的感觉\nH. 孤独的感觉\nI. 绝望的感觉\nJ. 愤怒的感觉\nK. 版权或其它问题请于作品发表后的的感觉\nL. 恐惧的感觉\nM. 焦虑的感觉\nN. 孤独",
+        "metaphor": "</s>A. 伤心的感觉就像一只受伤的小鸟，它无法飞翔，只能等待人们的关爱。\nB. 罪孽的感觉就像一只吃人的野兽，它让人无法摆脱内心的恐惧，只能不断逃避。\nC. 悲伤的感觉就像一片黑暗的海洋，让人无法自拔，只能等待阳光的出现。\nD. 痛苦的感觉就像一把锋利的刀子，不断地切割着人的身体和内心，让人无法承受。\nE. 日内与新浪网联系的感觉就像"
+    }
+]

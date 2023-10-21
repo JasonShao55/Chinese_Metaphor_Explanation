@@ -1,0 +1,122 @@
+[
+    {
+        "tenor": "思念的眼泪",
+        "vehicle": "我爱着你的心",
+        "ground": "思念的眼泪和爱你的心的共性（ground）可以是：温柔的情感。",
+        "metaphor": "思念的眼泪和爱你的心，如同温柔的情感，在心中流淌。"
+    },
+    {
+        "tenor": "悲伤",
+        "vehicle": "枯叶",
+        "ground": "悲伤和枯叶的共性（ground）：枯萎的气息。",
+        "metaphor": "枯叶飘落，仿佛悲伤的眼泪在空中飘荡。"
+    },
+    {
+        "tenor": "我",
+        "vehicle": "梦幻",
+        "ground": "虚幻的美好。",
+        "metaphor": "我沉浸在梦幻般的虚幻之中，宛如身处一个美妙的梦境。"
+    },
+    {
+        "tenor": "我",
+        "vehicle": "雨中的火",
+        "ground": "孤独的寂静。",
+        "metaphor": "我和雨中的火，孤独的寂静。"
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "空气",
+        "ground": "承诺和空气的共性（ground）：承诺的坚定。",
+        "metaphor": "承诺就像空气一样，它坚定而无声地支持着我们的生活。"
+    },
+    {
+        "tenor": "现代诗的屏障",
+        "vehicle": "国防",
+        "ground": "屏障和国防的共性（ground）：坚固的堡垒。",
+        "metaphor": "现代诗的屏障和国防，坚固的堡垒。"
+    },
+    {
+        "tenor": "钢琴",
+        "vehicle": "人",
+        "ground": "钢琴和人的共性（ground）：音符的流动。",
+        "metaphor": "钢琴的音符流动，就像人的情感在心中起伏。"
+    },
+    {
+        "tenor": "人",
+        "vehicle": "花儿",
+        "ground": "人和花儿的共性（ground）：美丽。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "刀",
+        "ground": "爱和刀的共性（ground）：锋利的。",
+        "metaphor": "爱就像一把锋利的刀，可以割破心扉，也可以雕刻出美丽的图案。"
+    },
+    {
+        "tenor": "你",
+        "vehicle": "百合花",
+        "ground": "美丽和芳香的。",
+        "metaphor": "我如同百合花一样美丽和芳香。"
+    },
+    {
+        "tenor": "我的拳头",
+        "vehicle": "铁",
+        "ground": "拳头和铁的共性（ground）：坚固的质地。",
+        "metaphor": "我的拳头和铁一样坚固，就像钢铁般。"
+    },
+    {
+        "tenor": "香",
+        "vehicle": "朝露闪烁绕风中",
+        "ground": "香和朝露闪烁绕风中的共性（ground）：芬芳的气息。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "你",
+        "vehicle": "梅花",
+        "ground": "梅花的清香。",
+        "metaphor": "梅花的清香，就像你温柔的微笑。"
+    },
+    {
+        "tenor": "你",
+        "vehicle": "躲于地心",
+        "ground": "躲于地心的共性（ground）：黑暗的幽静。",
+        "metaphor": "我躲于地心，沉浸在黑暗的幽静中。"
+    },
+    {
+        "tenor": "上课铃",
+        "vehicle": "暴雨",
+        "ground": "上课铃和暴雨的共性（ground）可以是：响亮的。",
+        "metaphor": "上课铃响起，就像暴雨般响亮。"
+    },
+    {
+        "tenor": "经典之吻",
+        "vehicle": "雪崩地陷",
+        "ground": "经典之吻和雪崩地陷的共性（ground）可以是：激情的冲击。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "世界",
+        "vehicle": "做梦",
+        "ground": "世界和做梦的共性（ground）：虚幻的场景。",
+        "metaphor": "世界就像一个巨大的梦境，虚幻的场景在不断地变换着。"
+    },
+    {
+        "tenor": "Flow",
+        "vehicle": "小步舞曲",
+        "ground": "Flow和小步舞曲的共性（ground）：轻盈的舞步。",
+        "metaphor": "他的舞步轻盈如流，仿佛在小步舞曲中飞舞。"
+    },
+    {
+        "tenor": "巴黎好天气",
+        "vehicle": "昙花一现",
+        "ground": "短暂的美好。",
+        "metaphor": "巴黎好天气就像昙花一现，短暂而美好。"
+    },
+    {
+        "tenor": "山泉",
+        "vehicle": "水晶帘",
+        "ground": "清澈的透明。",
+        "metaphor": "山泉的清澈透明就像水晶帘一般，透过它可以看到世界的另一面。"
+    }
+]

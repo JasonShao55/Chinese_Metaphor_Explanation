@@ -1,0 +1,1402 @@
+[
+    {
+        "tenor": "他的温柔",
+        "vehicle": "海洋",
+        "ground": "温柔的形态，",
+        "metaphor": "他像海浪一样温柔。",
+        "sample_id": 0
+    },
+    {
+        "tenor": "现实",
+        "vehicle": "箭",
+        "ground": "",
+        "metaphor": "",
+        "sample_id": 1
+    },
+    {
+        "tenor": "语言",
+        "vehicle": "刀",
+        "ground": "1. 刀的共性（ground）：锋利的刀刃\n2. 语言的共性（ground）：表达思想的工具",
+        "metaphor": "语言是思想的刀刃，可以切开迷雾，揭示真相。",
+        "sample_id": 2
+    },
+    {
+        "tenor": "他的脚印",
+        "vehicle": "落叶",
+        "ground": "脚印和落叶的共性（ground）可以是：痕迹",
+        "metaphor": "",
+        "sample_id": 3
+    },
+    {
+        "tenor": "你的监察",
+        "vehicle": "潜望镜",
+        "ground": "监察和潜望镜的共性（ground）可以是：观察的功能。",
+        "metaphor": "",
+        "sample_id": 4
+    },
+    {
+        "tenor": "梭罗河",
+        "vehicle": "画",
+        "ground": "梭罗河和画都具有美丽（beautiful）的属性。",
+        "metaphor": "梭罗河和画都具有美丽（beautiful）的属性。",
+        "sample_id": 5
+    },
+    {
+        "tenor": "说不出滋味的体会",
+        "vehicle": "我微笑着流泪",
+        "ground": "滋味的体会和我微笑着流泪的共性（ground）是：\n\n感性的状态",
+        "metaphor": "",
+        "sample_id": 6
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "雨滴",
+        "ground": "爱和雨滴的共性（ground）可以是：滋润的感觉。",
+        "metaphor": "",
+        "sample_id": 7
+    },
+    {
+        "tenor": "燃尽的烟蒂",
+        "vehicle": "抽身的代价",
+        "ground": "燃尽的烟蒂和抽身的代价的共性（ground）可以是：痛苦的感觉。",
+        "metaphor": "",
+        "sample_id": 8
+    },
+    {
+        "tenor": "火星",
+        "vehicle": "泪滴",
+        "ground": "火星和泪滴的共性（ground）可以是：灼热的状态。",
+        "metaphor": "",
+        "sample_id": 9
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "苦咖啡",
+        "ground": "苦咖啡的苦涩味道和爱情的苦涩感觉有共性。",
+        "metaphor": "",
+        "sample_id": 10
+    },
+    {
+        "tenor": "事物",
+        "vehicle": "梦魇",
+        "ground": "1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坦然的形态\n3. 薄薄笼罩的功能",
+        "metaphor": "",
+        "sample_id": 11
+    },
+    {
+        "tenor": "我得不到你的爱情",
+        "vehicle": "春花没有雨淋",
+        "ground": "得不到你的爱情和春花没有雨淋的共性（ground）是：没有得到想要的东西。",
+        "metaphor": "",
+        "sample_id": 12
+    },
+    {
+        "tenor": "白云",
+        "vehicle": "棉花糖",
+        "ground": "白云和棉花糖的共性（ground）可以是：柔软的形态。",
+        "metaphor": "",
+        "sample_id": 13
+    },
+    {
+        "tenor": "你的身影",
+        "vehicle": "水草",
+        "ground": "例：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）作为本体（tenor）和 诗作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：美好的事物，坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（",
+        "metaphor": "我的身影在水草中摇曳，就像一条鱼在海浪中穿梭。",
+        "sample_id": 14
+    },
+    {
+        "tenor": "国王",
+        "vehicle": "牧师的奴隶",
+        "ground": "国王和牧师的奴隶的共性（ground）可以是：被奴役的状态。",
+        "metaphor": "",
+        "sample_id": 15
+    },
+    {
+        "tenor": "你的消息",
+        "vehicle": "被回顾的事物",
+        "ground": "1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坦然的形态\n3. 心作为本体（ten",
+        "metaphor": "",
+        "sample_id": 16
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "河",
+        "ground": "时间作为本体（tenor）和 河作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：流动的状态",
+        "metaphor": "时间像一条河，在生命的长河中，我们像一艘船，在时间的河流中漂泊。",
+        "sample_id": 17
+    },
+    {
+        "tenor": "成长",
+        "vehicle": "奖赏",
+        "ground": "成长和奖赏的共性（ground）可以是：令人愉悦的体验。",
+        "metaphor": "",
+        "sample_id": 18
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "象棋",
+        "ground": "人生如棋，棋如人生。人生和象棋的共性（ground）是：博弈。",
+        "metaphor": "",
+        "sample_id": 19
+    },
+    {
+        "tenor": "自己",
+        "vehicle": "神经病",
+        "ground": "神经病：\n1. 疯狂的\n2. 难以理解的\n3. 难以预测的\n4. 难以控制的\n5. 难以忍受的\n6. 难以忍受的\n7. 难以忍受的\n8. 难以忍受的\n9. 难以忍受的\n10. 难以忍受的\n11. 难以忍受的\n12. 难以忍受的\n13. 难以忍受的\n14. 难以",
+        "metaphor": "我像一只被关在笼子里的鸟，神经病就像笼子，让我无法自由飞翔。",
+        "sample_id": 20
+    },
+    {
+        "tenor": "我心上",
+        "vehicle": "飞象",
+        "ground": "例：\n缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）作为本体（tenor）和 诗作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：美好的事物，坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体",
+        "metaphor": "",
+        "sample_id": 21
+    },
+    {
+        "tenor": "浮雪",
+        "vehicle": "流浪的人",
+        "ground": "浮雪和流浪的人的共性（ground）可以是：飘零的状态",
+        "metaphor": "",
+        "sample_id": 22
+    },
+    {
+        "tenor": "浮游心窝",
+        "vehicle": "人",
+        "ground": "浮游心窝和人的一个共性（ground）可以是：漂浮的状态，浮游心窝和人的一个共性（ground）可以是：漂浮的状态，浮游心窝和人的一个共性（ground）可以是：漂浮的状态，浮游心窝和人的一个共性（ground）可以是：漂浮的状态，浮游心窝和人的一个共性（ground）可以是：漂浮的状态，浮游心窝和人的一个共性（",
+        "metaphor": "",
+        "sample_id": 23
+    },
+    {
+        "tenor": "兰花草",
+        "vehicle": "你的微笑",
+        "ground": "兰花草和微笑的共性是：美好的事物",
+        "metaphor": "",
+        "sample_id": 24
+    },
+    {
+        "tenor": "擦拭尘土",
+        "vehicle": "抚摸爱情的伤口",
+        "ground": "擦拭尘土和抚摸爱情的伤口的共性（ground）可以是：温柔的抚摸",
+        "metaphor": "",
+        "sample_id": 25
+    },
+    {
+        "tenor": "我",
+        "vehicle": "烟火",
+        "ground": "共性（ground）：绚烂的，烟花作为本体（tenor）和 少女的爱情作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：纯净的属性，烟花作为本体（tenor）和 薄纱作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：薄薄笼罩的功能，烟花作为本体（tenor）和 哀思作为喻体（veh",
+        "metaphor": "我和烟火就像薄纱笼罩的少女的爱情，绚烂而纯净。",
+        "sample_id": 26
+    },
+    {
+        "tenor": "我",
+        "vehicle": "没有根的植物",
+        "ground": "没有根的植物和孤独的人的共性（ground）可以是：漂泊的状态。",
+        "metaphor": "",
+        "sample_id": 27
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "人",
+        "ground": "爱情和人的一个共性（ground）可以是：脆弱的形态，爱情和花的一个共性（ground）可以是：美好的属性，爱情和风的一个共性（ground）可以是：飘忽的状态，爱情和梦的一个共性（ground）可以是：虚幻的感觉，爱情和花的一个共性（ground）可以是：美好的属性，爱情和风的一个共性（ground）可以是：飘忽的状态，爱情和梦的一个共性（ground）可以是：虚",
+        "metaphor": "",
+        "sample_id": 28
+    },
+    {
+        "tenor": "你不给我一颗赤心",
+        "vehicle": "黑夜里找不到踪影",
+        "ground": "1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坦然的形态\n3. 心作为本体（ten",
+        "metaphor": "",
+        "sample_id": 29
+    },
+    {
+        "tenor": "坚忍",
+        "vehicle": "外衣",
+        "ground": "坚忍作为本体（tenor）和 外衣作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：保护的属性，坚忍作为本体（tenor）和 面具作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：掩饰的属性，坚忍作为本体（tenor）和 盔甲作为喻体（vehicle）构成隐喻时，它们的共性",
+        "metaphor": "",
+        "sample_id": 30
+    },
+    {
+        "tenor": "蓝蓝的天空",
+        "vehicle": "大海",
+        "ground": "共性（ground）：广阔的",
+        "metaphor": "蓝蓝的天空和大海，就像一个广阔的舞台，让每个人都可以尽情地展现自己的才华。",
+        "sample_id": 31
+    },
+    {
+        "tenor": "青年",
+        "vehicle": "树",
+        "ground": "青年和树可以构成隐喻，它们的共性（ground）可以是：蓬勃的生命力。",
+        "metaphor": "",
+        "sample_id": 32
+    },
+    {
+        "tenor": "男人",
+        "vehicle": "海洋",
+        "ground": "男人和海洋的共性（ground）可以是：广阔的属性，男人和海洋的共性（ground）可以是：深邃的属性，男人和海洋的共性（ground）可以是：汹涌的属性，男人和海洋的共性（ground）可以是：神秘的属性，男人和海洋的共性（ground）可以是：未知的属性，男人和海洋的共性（ground）可以是：危险的属性，男人和海洋的共性（ground）可以是",
+        "metaphor": "",
+        "sample_id": 33
+    },
+    {
+        "tenor": "预告",
+        "vehicle": "预言",
+        "ground": "预告和预言的共性（ground）是：对未来的预测。",
+        "metaphor": "",
+        "sample_id": 34
+    },
+    {
+        "tenor": "落笔",
+        "vehicle": "行云流水",
+        "ground": "落笔和行云流水的共性（ground）是：流畅的状态。",
+        "metaphor": "",
+        "sample_id": 35
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "人",
+        "ground": "时间：流逝的\n人：有思想的",
+        "metaphor": "时间：流逝的\n人：有思想的\n\n时间：流逝的\n人：有思想的\n\n时间：流逝的\n人：有思想的\n\n时间：流逝的\n人：有思想的\n\n时间：流逝的\n人：有思想的\n\n时间：流逝的\n人：有思想的\n\n时间：流逝的\n人：有思想的\n\n时间：流逝的\n人：有思想的\n\n时间：流逝的\n人：有思想的\n\n时间",
+        "sample_id": 36
+    },
+    {
+        "tenor": "你",
+        "vehicle": "毒蛇",
+        "ground": "毒蛇作为本体（tenor）和 毒作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：致命的属性，毒蛇作为本体（tenor）和 蛇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：令人恐惧的形态，毒蛇作为本体（tenor）和 毒液作为喻体（vehicle）构成隐喻时，它们的共",
+        "metaphor": "我像毒蛇一样，毒液随时准备喷射。",
+        "sample_id": 37
+    },
+    {
+        "tenor": "常态",
+        "vehicle": "寻常口味",
+        "ground": "常态和寻常口味的共性（ground）可以是：平淡的感觉。",
+        "metaphor": "",
+        "sample_id": 38
+    },
+    {
+        "tenor": "我想到你",
+        "vehicle": "失眠",
+        "ground": "失眠作为本体（tenor）和 恶魔作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：折磨的感觉，失眠作为本体（tenor）和 幽灵作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：恐惧的感觉，失眠作为本体（tenor）和 毒蛇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：",
+        "metaphor": "",
+        "sample_id": 39
+    },
+    {
+        "tenor": "落满遗憾的城墙",
+        "vehicle": "你心中的慌",
+        "ground": "落满遗憾的城墙和你心中的慌的共性（ground）可以是：荒凉的感觉",
+        "metaphor": "",
+        "sample_id": 40
+    },
+    {
+        "tenor": "我",
+        "vehicle": "夜",
+        "ground": "夜，作为本体（tenor）和 旅店老板作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：分享各自故事的经历，感性作为本体（tenor）和 超支作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：不喜欢的感觉",
+        "metaphor": "",
+        "sample_id": 41
+    },
+    {
+        "tenor": "热闹的（场景）",
+        "vehicle": "下午两点的场景",
+        "ground": "热闹的（场景）和下午两点的场景的共性（ground）可以是：午后的阳光。",
+        "metaphor": "",
+        "sample_id": 42
+    },
+    {
+        "tenor": "十二个音",
+        "vehicle": "流星飞",
+        "ground": "1. 音作为本体（tenor）和 流星飞作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：短暂的状态，\n2. 音作为本体（tenor）和 流星飞作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：明亮的状态，\n3. 音作为本体（tenor）和 流星飞作为喻体（vehicle）",
+        "metaphor": "",
+        "sample_id": 43
+    },
+    {
+        "tenor": "表达孤单",
+        "vehicle": "宣言",
+        "ground": "例：\n1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n3",
+        "metaphor": "",
+        "sample_id": 44
+    },
+    {
+        "tenor": "温柔",
+        "vehicle": "人",
+        "ground": "温柔作为本体（tenor）和 人作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：温暖的感觉，",
+        "metaphor": "",
+        "sample_id": 45
+    },
+    {
+        "tenor": "你的眼睛",
+        "vehicle": "窗",
+        "ground": "眼睛和窗的共性（ground）可以是：明亮的视野。",
+        "metaphor": "",
+        "sample_id": 46
+    },
+    {
+        "tenor": "你我分离",
+        "vehicle": "鸟",
+        "ground": "我分离和鸟的共性（ground）可以是：自由的状态，我分离和鸟的共性（ground）可以是：飞翔的状态，我分离和鸟的共性（ground）可以是：轻盈的状态，我分离和鸟的共性（ground）可以是：自由的感觉，我分离和鸟的共性（ground）可以是：飞翔的感觉，我分离和鸟的共性（ground）可以是：轻盈的感觉，我分离和鸟的共性（ground）",
+        "metaphor": "",
+        "sample_id": 47
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "救世主",
+        "ground": "",
+        "metaphor": "",
+        "sample_id": 48
+    },
+    {
+        "tenor": "酸雨",
+        "vehicle": "危险的事物",
+        "ground": "酸雨和危险事物的共性（ground）可以是：腐蚀性的，酸雨和危险事物的共性（ground）可以是：有害的，酸雨和危险事物的共性（ground）可以是：破坏性的，酸雨和危险事物的共性（ground）可以是：有毒的，酸雨和危险事物的共性（ground）可以是：致命的，酸雨和危险事物的共性（ground）可以是：危险的，酸雨和危险事物的共性（ground）可以是",
+        "metaphor": "",
+        "sample_id": 49
+    },
+    {
+        "tenor": "纸",
+        "vehicle": "一张符咒",
+        "ground": "纸和一张符咒的共性（ground）可以是：神秘的属性，纸和一张符咒的共性（ground）可以是：脆弱的属性，纸和一张符咒的共性（ground）可以是：薄薄的属性，纸和一张符咒的共性（ground）可以是：脆弱的属性，纸和一张符咒的共性（ground）可以是：薄薄的属性，纸和一张符咒的共性（ground）可以是：脆弱的属性",
+        "metaphor": "",
+        "sample_id": 50
+    },
+    {
+        "tenor": "眼睛",
+        "vehicle": "星星",
+        "ground": "眼睛和星星的共性（ground）可以是：闪烁的，明亮的，闪耀的，璀璨的，闪耀的，明亮的，闪烁的，明亮的，闪耀的，璀璨的，闪耀的，明亮的，闪烁的，明亮的，闪耀的，璀璨的，闪耀的，明亮的，闪烁的，明亮的，闪耀的，璀璨的，闪耀的，明亮的，闪烁的，明亮的，闪耀的，璀璨的，闪耀的，明亮的",
+        "metaphor": "",
+        "sample_id": 51
+    },
+    {
+        "tenor": "他们",
+        "vehicle": "风中的叶子",
+        "ground": "风作为本体（tenor）和 叶子作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：飘逸的状态，风作为本体（tenor）和 叶子作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：摇摆的状态，风作为本体（tenor）和 叶子作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：",
+        "metaphor": "",
+        "sample_id": 52
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "阳光",
+        "ground": "阳光作为本体（tenor）和 笑容作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：温暖的感觉",
+        "metaphor": "阳光是笑容的化身，温暖如春。",
+        "sample_id": 53
+    },
+    {
+        "tenor": "恋情",
+        "vehicle": "沉默的风",
+        "ground": "沉默的风和恋情的共性是：\n\n沉默的风，是寂静的，\n\n恋情，是沉默的。",
+        "metaphor": "恋情，是沉默的风，\n\n是寂静的，\n\n是沉默的。",
+        "sample_id": 54
+    },
+    {
+        "tenor": "相思",
+        "vehicle": "传染病",
+        "ground": "相思和传染病的共性（ground）可以是：传染的属性，相思作为本体（tenor）和 传染病作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：传染的属性，相思作为本体（tenor）和 传染病作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：传染的属性，相思作为本体（tenor）和 传染病作为喻体（ve",
+        "metaphor": "",
+        "sample_id": 55
+    },
+    {
+        "tenor": "他们修复历史",
+        "vehicle": "修复远年的故事",
+        "ground": "修复历史和修复远年的故事的共性（ground）是：对过去的修复和重建。",
+        "metaphor": "",
+        "sample_id": 56
+    },
+    {
+        "tenor": "风",
+        "vehicle": "外衣",
+        "ground": "风作为本体（tenor）和 外衣作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：飘动的状态",
+        "metaphor": "",
+        "sample_id": 57
+    },
+    {
+        "tenor": "稀罕",
+        "vehicle": "慢性服毒",
+        "ground": "稀罕：\n慢性服毒：\n共性：\n\n参考例句：\n稀罕：稀罕的宝藏\n慢性服毒：慢性服毒的毒药\n共性：慢性服毒的毒药",
+        "metaphor": "稀罕的宝藏，慢性服毒的毒药。",
+        "sample_id": 58
+    },
+    {
+        "tenor": "人",
+        "vehicle": "门前的崖上的野鹞子",
+        "ground": "共性（ground）： \n\n野性",
+        "metaphor": "",
+        "sample_id": 59
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "双翼的神马",
+        "ground": "共性（ground）：飞翔的状态",
+        "metaphor": "我们像双翼的神马一样飞翔。",
+        "sample_id": 60
+    },
+    {
+        "tenor": "野性",
+        "vehicle": "浪漫的事情",
+        "ground": "野性和浪漫的事情的一个共性（ground）可以是：自由的感觉，",
+        "metaphor": "",
+        "sample_id": 61
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "水草",
+        "ground": "共性（ground）：缠绵",
+        "metaphor": "水草缠绵，如我们缠绵。",
+        "sample_id": 62
+    },
+    {
+        "tenor": "青春时期和爱情相遇",
+        "vehicle": "搭乘列车遇见爱情",
+        "ground": "青春时期和爱情相遇的共性（ground）可以是：美好的感觉，搭乘列车遇见爱情的共性（ground）可以是：浪漫的感觉",
+        "metaphor": "",
+        "sample_id": 63
+    },
+    {
+        "tenor": "往事",
+        "vehicle": "彩虹",
+        "ground": "往事和彩虹的共性（ground）可以是：美好的回忆，彩虹作为本体（tenor）和 彩虹作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：美好的回忆，往事作为本体（tenor）和 往事作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：美好的回忆，往事作为本体（tenor）和 彩虹作为喻体（vehicle）",
+        "metaphor": "",
+        "sample_id": 64
+    },
+    {
+        "tenor": "我和你",
+        "vehicle": "河两岸",
+        "ground": "1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坦然的形态\n3. 心作为本体（ten",
+        "metaphor": "我和你，就像河两岸，彼此相望，却无法靠近。",
+        "sample_id": 65
+    },
+    {
+        "tenor": "《汇报》副刊的风格",
+        "vehicle": "德国哲学",
+        "ground": "《汇报》副刊的风格：\n1. 感性的\n2. 独特的\n3. 敏锐的\n4. 细腻的\n5. 丰富的\n6. 诗意的\n7. 浪漫的\n8. 感性的\n9. 独特的\n10. 敏锐的\n11. 细腻的\n12. 丰富的\n13. 诗意的\n14. 浪漫的\n15. 感性的",
+        "metaphor": "《汇报》副刊的风格就像德国哲学，它们都充满了感性的、独特的、敏锐的、细腻的、丰富的、诗意的、浪漫的、感性的、独特的、敏锐的、细腻的、丰富的、诗意的、浪漫的、感性的、独特的、敏锐的、细腻的、丰富的、诗意的、浪漫的、感性的、独特的、敏锐的、细腻的、丰富的、诗意的、浪漫的、感性的、独特的、敏锐的、细腻的、",
+        "sample_id": 66
+    },
+    {
+        "tenor": "迷茫",
+        "vehicle": "飞沙",
+        "ground": "迷茫作为本体（tenor）和 飞沙作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷离的状态，",
+        "metaphor": "飞沙如迷茫的思绪，在空中飘荡。",
+        "sample_id": 67
+    },
+    {
+        "tenor": "人",
+        "vehicle": "木偶",
+        "ground": "木偶：\n1. 脆弱的\n2. 容易损坏的\n3. 容易受伤的\n4. 容易受控制的\n5. 容易操纵的\n6. 容易受摆布的\n7. 容易受摆布的\n8. 容易受摆布的\n9. 容易受摆布的\n10. 容易受摆布的\n11. 容易受摆布的\n12. 容易受",
+        "metaphor": "1. 人类就像木偶一样，容易被外界所控制。\n2. 人类就像木偶一样，容易被情感所摆布。\n3. 人类就像木偶一样，容易被欲望所操纵。\n4. 人类就像木偶一样，容易被环境所影响。\n5. 人类就像木偶一样，容易被命运所摆布。\n6. 人类就像木偶一样，容易被他人所控制。\n7. 人类就像木偶一样",
+        "sample_id": 68
+    },
+    {
+        "tenor": "雷声",
+        "vehicle": "猛兽",
+        "ground": "雷声和猛兽的共性（ground）可以是：震慑的感觉",
+        "metaphor": "",
+        "sample_id": 69
+    },
+    {
+        "tenor": "感受",
+        "vehicle": "诗",
+        "ground": "例：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）作为本体（tenor）和 诗作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：美好的事物，坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（",
+        "metaphor": "",
+        "sample_id": 70
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "瞬间",
+        "ground": "人生和瞬间的共性（ground）可以是：短暂的状态，人生和瞬间的共性（ground）可以是：美好的感觉，人生和瞬间的共性（ground）可以是：难忘的回忆，人生和瞬间的共性（ground）可以是：珍贵的经历，人生和瞬间的共性（ground）可以是：难忘的瞬间，人生和瞬间的共性（ground）可以是：美好的回忆，人生和瞬间的共性（ground）可以是：难忘的瞬间",
+        "metaphor": "人生就像瞬间，短暂而美好，留下难忘的回忆和珍贵的经历。",
+        "sample_id": 71
+    },
+    {
+        "tenor": "上演的剧情",
+        "vehicle": "你",
+        "ground": "例1：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n\n例2：注意你作为本体（tenor）和 战役作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：紧张的氛围\n\n例3：失落作为本体（tenor）和 火",
+        "metaphor": "",
+        "sample_id": 72
+    },
+    {
+        "tenor": "声音挤进耳朵里",
+        "vehicle": "身躯挤进小木盒里",
+        "ground": "声音挤进耳朵里和身躯挤进小木盒里的一个共性（ground）是：被挤压的状态。",
+        "metaphor": "",
+        "sample_id": 73
+    },
+    {
+        "tenor": "太阳",
+        "vehicle": "人",
+        "ground": "太阳和 人的 共性（ground）可以是：温暖的存在",
+        "metaphor": "",
+        "sample_id": 74
+    },
+    {
+        "tenor": "你晶莹的双眼",
+        "vehicle": "星星",
+        "ground": "例：\n\n晶莹的双眼和星星的共性（ground）可以是：闪烁的形态\n\n你的晶莹的双眼和星星的共性（ground）可以是：闪烁的形态",
+        "metaphor": "我的眼睛像星星一样闪烁。",
+        "sample_id": 75
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "流沙",
+        "ground": "思念和流沙的共性（ground）可以是：流逝的状态，思念作为本体（tenor）和 岁月作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：流逝的状态，思念作为本体（tenor）和 岁月作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：流逝的状态，思念作为本体（tenor）和 岁月作为喻体（vehicle",
+        "metaphor": "",
+        "sample_id": 76
+    },
+    {
+        "tenor": "乘客的微笑",
+        "vehicle": "亲人的抚照",
+        "ground": "乘客的微笑和亲人的抚照的共性（ground）可以是：温暖的感觉。",
+        "metaphor": "",
+        "sample_id": 77
+    },
+    {
+        "tenor": "我",
+        "vehicle": "傻瓜",
+        "ground": "共性（ground）：",
+        "metaphor": "",
+        "sample_id": 78
+    },
+    {
+        "tenor": "你的温柔",
+        "vehicle": "日出",
+        "ground": "温柔的日出，共性（ground）：柔和的光芒。",
+        "metaphor": "我的温柔就像日出，柔和的光芒照耀着每一个需要温暖的人。",
+        "sample_id": 79
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "无声演员",
+        "ground": "共性（ground）：沉默的形态",
+        "metaphor": "",
+        "sample_id": 80
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "最真的情话",
+        "ground": "时间作为本体（tenor）和 最真的情话作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：珍贵的属性，",
+        "metaphor": "时间如同最真的情话，珍贵而难以忘怀。",
+        "sample_id": 81
+    },
+    {
+        "tenor": "蒜苔",
+        "vehicle": "青箭",
+        "ground": "蒜苔和青箭的共性（ground）可以是：青翠的形态",
+        "metaphor": "",
+        "sample_id": 82
+    },
+    {
+        "tenor": "力量",
+        "vehicle": "有力臂膀",
+        "ground": "力量和有力臂膀的共性（ground）可以是：强大的属性，",
+        "metaphor": "",
+        "sample_id": 83
+    },
+    {
+        "tenor": "全不相干的东西偏有注定的缘分",
+        "vehicle": "母猪和癞象",
+        "ground": "例：\n1. 母猪作为本体（tenor）和 癞象作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：丑陋的样子，\n2. 母猪作为本体（tenor）和 癞象作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：丑陋的样子，\n3. 母猪作为本体（tenor）和 癞象",
+        "metaphor": "",
+        "sample_id": 84
+    },
+    {
+        "tenor": "你心肠",
+        "vehicle": "今晚月亮",
+        "ground": "心肠和今晚月亮的共性（ground）可以是：柔软的状态，心肠和今晚月亮的共性（ground）可以是：明亮的状态，心肠和今晚月亮的共性（ground）可以是：纯洁的状态，心肠和今晚月亮的共性（ground）可以是：美好的感觉，心肠和今晚月亮的共性（ground）可以是：清澈的感觉，心肠和今晚月亮的共性（ground）可以是：纯洁的感觉，心肠和今晚",
+        "metaphor": "",
+        "sample_id": 85
+    },
+    {
+        "tenor": "职员说流利的意语",
+        "vehicle": "唱歌",
+        "ground": "职员说流利的意语和唱歌的共性（ground）可以是：表达的流畅性。",
+        "metaphor": "",
+        "sample_id": 86
+    },
+    {
+        "tenor": "湖",
+        "vehicle": "真理",
+        "ground": "湖和真理的共性（ground）可以是：清澈的属性，湖和真理的共性（ground）可以是：深邃的属性，湖和真理的共性（ground）可以是：平静的状态，湖和真理的共性（ground）可以是：深邃的属性，湖和真理的共性（ground）可以是：清澈的属性，湖和真理的共性（ground）可以是：深邃的属性，湖和真理的共性（ground",
+        "metaphor": "",
+        "sample_id": 87
+    },
+    {
+        "tenor": "你的脸",
+        "vehicle": "年轻的羽毛",
+        "ground": "年轻作为本体（tenor）和 羽毛作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：轻盈的状态，",
+        "metaphor": "我的脸像轻盈的羽毛，在年轻时飞翔。",
+        "sample_id": 88
+    },
+    {
+        "tenor": "诗句",
+        "vehicle": "钢刀",
+        "ground": "钢刀的共性（ground）可以是：锋利的状态，\n诗句的共性（ground）可以是：优美的状态，\n钢刀的共性（ground）可以是：坚硬的状态，\n诗句的共性（ground）可以是：优美的状态，\n钢刀的共性（ground）可以是：锋利的状态，\n诗句的共性（ground）可以是：优美的状态，\n钢刀的共性（ground）可以是：坚硬的状态，",
+        "metaphor": "",
+        "sample_id": 89
+    },
+    {
+        "tenor": "瑞士人保护自己的方言",
+        "vehicle": "园丁保护玻璃房里的奇花异草",
+        "ground": "瑞士人保护自己的方言和园丁保护玻璃房里的奇花异草的共性（ground）可以是：珍视",
+        "metaphor": "",
+        "sample_id": 90
+    },
+    {
+        "tenor": "人",
+        "vehicle": "古人",
+        "ground": "1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坦然的形态\n3. 心作为本体（ten",
+        "metaphor": "",
+        "sample_id": 91
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "海水",
+        "ground": "思念和海水的共性（ground）可以是：绵延不绝的属性，思念作为本体（tenor）和 海水作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：绵延不绝的感觉，思念作为本体（tenor）和 海水作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：绵延不绝的感觉，思念作为本体（tenor）和 海水作为",
+        "metaphor": "思念如同海水，绵延不绝。",
+        "sample_id": 92
+    },
+    {
+        "tenor": "恩情",
+        "vehicle": "日",
+        "ground": "恩情作为本体（tenor）和 日作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：温暖的感觉，恩情作为本体（tenor）和 日作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：明亮的感觉，恩情作为本体（tenor）和 日作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：明亮",
+        "metaphor": "恩情如同太阳，温暖明亮。",
+        "sample_id": 93
+    },
+    {
+        "tenor": "我",
+        "vehicle": "花朵",
+        "ground": "共性（ground）：美丽的形态",
+        "metaphor": "",
+        "sample_id": 94
+    },
+    {
+        "tenor": "我的爱",
+        "vehicle": "翅膀",
+        "ground": "爱和翅膀的共性（ground）可以是：自由的状态，爱和翅膀的共性（ground）可以是：飞翔的状态，爱和翅膀的共性（ground）可以是：轻盈的状态，爱和翅膀的共性（ground）可以是：美好的感觉，爱和翅膀的共性（ground）可以是：飞翔的感觉，爱和翅膀的共性（ground）可以是：轻盈的感觉，爱和翅膀的共性（ground）可以是：美好的感觉，爱和",
+        "metaphor": "",
+        "sample_id": 95
+    },
+    {
+        "tenor": "我们错失的年华",
+        "vehicle": "日落晚霞",
+        "ground": "错失的年华和日落晚霞的共性（ground）可以是：绚烂的色彩，",
+        "metaphor": "",
+        "sample_id": 96
+    },
+    {
+        "tenor": "汉语",
+        "vehicle": "书房",
+        "ground": "汉语作为本体（tenor）和 书房作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：安静的状态，汉语作为本体（tenor）和 书房作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：安静的状态，汉语作为本体（tenor）和 书房作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：安静",
+        "metaphor": "汉语是书房的灵魂，书房是汉语的栖息地。",
+        "sample_id": 97
+    },
+    {
+        "tenor": "把你编剧情节",
+        "vehicle": "偶像剧",
+        "ground": "1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坦然的形态\n3. 心作为本体（ten",
+        "metaphor": "",
+        "sample_id": 98
+    },
+    {
+        "tenor": "白帆",
+        "vehicle": "云儿",
+        "ground": "白帆和云儿可以构成隐喻，它们的共性（ground）可以是：飘逸的形态。",
+        "metaphor": "",
+        "sample_id": 99
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "种子",
+        "ground": "回忆和种子的共性（ground）可以是：美好的事物",
+        "metaphor": "",
+        "sample_id": 100
+    },
+    {
+        "tenor": "心",
+        "vehicle": "冰",
+        "ground": "心作为本体（tenor）和 冰作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：纯净的属性，",
+        "metaphor": "心是冰，纯净的属性。",
+        "sample_id": 101
+    },
+    {
+        "tenor": "我的眼光",
+        "vehicle": "蔚蓝",
+        "ground": "共性（ground）： \n- 令人愉悦的体验\n- 令人感到轻松和舒适的环境\n- 令人感到放松和愉悦的氛围\n- 令人感到舒适和放松的场所\n- 令人感到愉悦和放松的场所\n- 令人感到轻松和愉悦的场所\n- 令人感到舒适和愉悦的场所\n- 令人感到轻松和舒适的环境\n- 令人感到愉悦和放松的环境\n- 令人感到舒适和愉悦的环境",
+        "metaphor": "我的眼光和蔚蓝构成了一幅令人愉悦的景象，就像在令人感到轻松和舒适的环境中，令人感到放松和愉悦的氛围，令人感到舒适和愉悦的场所，令人感到愉悦和放松的场所，令人感到轻松和舒适的环境，令人感到愉悦和放松的环境，令人感到舒适和愉悦的环境。",
+        "sample_id": 102
+    },
+    {
+        "tenor": "点点滴滴",
+        "vehicle": "伤口",
+        "ground": "点点滴滴和伤口的共性（ground）可以是：疼痛的感觉。",
+        "metaphor": "",
+        "sample_id": 103
+    },
+    {
+        "tenor": "你",
+        "vehicle": "答案",
+        "ground": "1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坦然的形态\n3. 心作为本体（ten",
+        "metaphor": "",
+        "sample_id": 104
+    },
+    {
+        "tenor": "陶俑",
+        "vehicle": "器皿的盖子",
+        "ground": "陶俑和器皿的盖子都具有'保护'的属性。",
+        "metaphor": "陶俑和器皿的盖子都具有'保护'的属性。",
+        "sample_id": 105
+    },
+    {
+        "tenor": "你",
+        "vehicle": "树桩",
+        "ground": "共性（ground）：",
+        "metaphor": "",
+        "sample_id": 106
+    },
+    {
+        "tenor": "褪色照片",
+        "vehicle": "花",
+        "ground": "褪色照片和花有一个共性，那就是它们都具有“褪色”的属性。",
+        "metaphor": "",
+        "sample_id": 107
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "心头火",
+        "ground": "回忆和心头火都具有“灼热”的属性。",
+        "metaphor": "回忆和心头火都具有“灼热”的属性。",
+        "sample_id": 108
+    },
+    {
+        "tenor": "生活",
+        "vehicle": "蜜",
+        "ground": "生活作为本体（tenor）和 蜜作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：甜蜜的感觉",
+        "metaphor": "生活就像蜜一样，甜蜜而美好。",
+        "sample_id": 109
+    },
+    {
+        "tenor": "你",
+        "vehicle": "一只小鸟",
+        "ground": "小鸟作为本体（tenor）和 浪花作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：轻盈的状态，小鸟作为本体（tenor）和 薄纱作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：薄薄笼罩的功能，小鸟作为本体（tenor）和 少女的爱情作为喻体（vehicle）构成隐喻时，它们的共性（",
+        "metaphor": "",
+        "sample_id": 110
+    },
+    {
+        "tenor": "烦恼",
+        "vehicle": "菩提",
+        "ground": "烦恼和菩提的共性（ground）可以是：觉悟的状态，烦恼作为本体（tenor）和 菩提作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：觉悟的状态，烦恼作为本体（tenor）和 菩提作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：觉悟的状态，烦恼作为本体（tenor）和 菩提作为喻体（ve",
+        "metaphor": "",
+        "sample_id": 111
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "笑话",
+        "ground": "爱情和笑话的共性（ground）可以是：轻松的感觉，",
+        "metaphor": "",
+        "sample_id": 112
+    },
+    {
+        "tenor": "大家都在传唱",
+        "vehicle": "爱德华的小说",
+        "ground": "例：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）作为本体（tenor）和 诗作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：美好的事物，坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（",
+        "metaphor": "",
+        "sample_id": 113
+    },
+    {
+        "tenor": "悄静气氛",
+        "vehicle": "关了灯",
+        "ground": "悄静气氛和关了灯的一个共性（ground）可以是：黑暗的状态。",
+        "metaphor": "",
+        "sample_id": 114
+    },
+    {
+        "tenor": "鱼群悄悄潜行",
+        "vehicle": "在一个做梦少女怀中",
+        "ground": "鱼群悄悄潜行和在一个做梦少女怀中的一个共性（ground）可以是：安静的状态，",
+        "metaphor": "",
+        "sample_id": 115
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "残忍有毒的甜品",
+        "ground": "爱和残忍有毒的甜品的共性（ground）可以是：甜蜜的诱惑",
+        "metaphor": "爱和残忍有毒的甜品，就像一个甜蜜的诱惑，让人欲罢不能。",
+        "sample_id": 116
+    },
+    {
+        "tenor": "话",
+        "vehicle": "嘲笑",
+        "ground": "1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坦然的形态\n3. 心作为本体（ten",
+        "metaphor": "",
+        "sample_id": 117
+    },
+    {
+        "tenor": "飞入寒冷干爽的气候",
+        "vehicle": "重践北美大陆",
+        "ground": "共性（ground）：干燥的气候",
+        "metaphor": "飞入寒冷干爽的气候，重践北美大陆，就像一只鸟儿飞入寒冷干爽的气候，重践北美大陆。",
+        "sample_id": 118
+    },
+    {
+        "tenor": "伤心",
+        "vehicle": "罪",
+        "ground": "伤心和罪的共性（ground）可以是：痛苦的状态，",
+        "metaphor": "",
+        "sample_id": 119
+    },
+    {
+        "tenor": "嫉妒者",
+        "vehicle": "勇士",
+        "ground": "嫉妒者：嫉妒者是那些对别人的成功或幸福感到不满的人。他们可能会表现出敌意或攻击性，试图破坏别人的成功或幸福。\n勇士：勇士是那些勇敢面对挑战和困难的人。他们可能会表现出坚韧和毅力，不屈不挠地追求自己的目标。\n\n共性：勇士和嫉妒者都具有强烈的情感反应。",
+        "metaphor": "勇士和嫉妒者都像火焰，勇士是燃烧的火焰，嫉妒者是熄灭的火焰。",
+        "sample_id": 120
+    },
+    {
+        "tenor": "我的心",
+        "vehicle": "烈火",
+        "ground": "共性（ground）：燃烧的状态",
+        "metaphor": "我的心像烈火一样燃烧。",
+        "sample_id": 121
+    },
+    {
+        "tenor": "白花盛开",
+        "vehicle": "花园",
+        "ground": "白花盛开和花园的共性（ground）可以是：美丽的景象",
+        "metaphor": "",
+        "sample_id": 122
+    },
+    {
+        "tenor": "细雨",
+        "vehicle": "梨花泪",
+        "ground": "细雨和梨花泪的共性（ground）可以是：凄美的感觉",
+        "metaphor": "",
+        "sample_id": 123
+    },
+    {
+        "tenor": "校园",
+        "vehicle": "祖国",
+        "ground": "校园和祖国的共性（ground）可以是：孕育希望的地方，校园和祖国的共性（ground）可以是：孕育梦想的地方，校园和祖国的共性（ground）可以是：孕育未来的地方，校园和祖国的共性（ground）可以是：孕育希望的地方，校园和祖国的共性（ground）可以是：孕育梦想的地方，校园和祖国的共性（ground）可以是：孕育未来的地方，校园和祖国的共性（ground）可以是",
+        "metaphor": "校园和祖国就像一艘承载着希望的船，在孕育梦想的港湾里，孕育着未来的希望。",
+        "sample_id": 124
+    },
+    {
+        "tenor": "冷苹果",
+        "vehicle": "你的轮廓",
+        "ground": "冷苹果和轮廓的共性（ground）可以是：模糊的形态",
+        "metaphor": "",
+        "sample_id": 125
+    },
+    {
+        "tenor": "世界美",
+        "vehicle": "鸟儿在飞翔",
+        "ground": "世界美和鸟儿在飞翔的共性（ground）可以是：自由的状态。",
+        "metaphor": "",
+        "sample_id": 126
+    },
+    {
+        "tenor": "我",
+        "vehicle": "花",
+        "ground": "共性（ground）：美丽的花",
+        "metaphor": "",
+        "sample_id": 127
+    },
+    {
+        "tenor": "你的笑",
+        "vehicle": "春天的阳光",
+        "ground": "笑和春天的阳光的共性（ground）可以是：温暖的感觉",
+        "metaphor": "",
+        "sample_id": 128
+    },
+    {
+        "tenor": "火焰",
+        "vehicle": "盛开的玫瑰",
+        "ground": "火焰和盛开的玫瑰的共性（ground）可以是：绚烂的形态",
+        "metaphor": "",
+        "sample_id": 129
+    },
+    {
+        "tenor": "清风",
+        "vehicle": "温柔的叮咛",
+        "ground": "清风和温柔的叮咛的共性（ground）可以是：轻柔的感觉。",
+        "metaphor": "",
+        "sample_id": 130
+    },
+    {
+        "tenor": "你",
+        "vehicle": "一片落在天上的叶子",
+        "ground": "共性（ground）：飘落的状态",
+        "metaphor": "我和一片落在天上的叶子，共同飘落。",
+        "sample_id": 131
+    },
+    {
+        "tenor": "手指的状态",
+        "vehicle": "发报",
+        "ground": "手指的状态：紧张的，发报的：紧张的",
+        "metaphor": "手指的状态：紧张的，发报的：紧张的\n\n手指的状态：紧张的，发报的：紧张的\n\n手指的状态：紧张的，发报的：紧张的\n\n手指的状态：紧张的，发报的：紧张的\n\n手指的状态：紧张的，发报的：紧张的\n\n手指的状态：紧张的，发报的：紧张的\n\n手指的状态：紧张的，发报的：紧张的\n\n手指的状态",
+        "sample_id": 132
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "空气",
+        "ground": "爱和空气的共性（ground）可以是：生命的必需品",
+        "metaphor": "",
+        "sample_id": 133
+    },
+    {
+        "tenor": "捉回来螃蟹在腿上缚绳",
+        "vehicle": "擒到松鼠",
+        "ground": "捉回来螃蟹在腿上缚绳和擒到松鼠的一个共性（ground）是：被束缚的状态。",
+        "metaphor": "",
+        "sample_id": 134
+    },
+    {
+        "tenor": "您",
+        "vehicle": "花瓶",
+        "ground": "花瓶作为本体（tenor）和 少女的爱情作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：纯净的属性，爱情作为本体（tenor）和 参演的事物作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：生动的样子，这夜这处境作为本体（tenor）和 满途引诱作为喻体（vehicle）构成隐喻时，",
+        "metaphor": "",
+        "sample_id": 135
+    },
+    {
+        "tenor": "不通亲",
+        "vehicle": "哑巴",
+        "ground": "1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坦然的形态\n3. 心作为本体（ten",
+        "metaphor": "",
+        "sample_id": 136
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "种子",
+        "ground": "承诺和种子的共性（ground）可以是：希望的种子。",
+        "metaphor": "",
+        "sample_id": 137
+    },
+    {
+        "tenor": "窗棂上的水滴",
+        "vehicle": "你",
+        "ground": "窗棂上的水滴和'透明的'的'水滴'构成隐喻时，它们的共性（ground）可以是：透明的形态，窗棂上的水滴和'晶莹的'的'水滴'构成隐喻时，它们的共性（ground）可以是：晶莹剔透的形态，窗棂上的水滴和'圆润的'的'水滴'构成隐喻时，它们的共性（ground）可以是：圆润的形态，窗棂上的水滴和'饱满的",
+        "metaphor": "",
+        "sample_id": 138
+    },
+    {
+        "tenor": "深情",
+        "vehicle": "鸿雁",
+        "ground": "深情和鸿雁的共性（ground）可以是：思念的载体。",
+        "metaphor": "",
+        "sample_id": 139
+    },
+    {
+        "tenor": "血滴",
+        "vehicle": "火种",
+        "ground": "血滴和火种的共性（ground）可以是：红色的属性。",
+        "metaphor": "",
+        "sample_id": 140
+    },
+    {
+        "tenor": "我",
+        "vehicle": "风中急速着梦",
+        "ground": "共性（ground）：飘逸的状态",
+        "metaphor": "我和风中急速着梦，飘逸的状态。",
+        "sample_id": 141
+    },
+    {
+        "tenor": "你",
+        "vehicle": "红尘",
+        "ground": "共性（ground）：",
+        "metaphor": "",
+        "sample_id": 142
+    },
+    {
+        "tenor": "我们的距离",
+        "vehicle": "一光年",
+        "ground": "距离和一光年的共性（ground）是：遥远的距离",
+        "metaphor": "",
+        "sample_id": 143
+    },
+    {
+        "tenor": "一个人的幸福",
+        "vehicle": "叮嘱",
+        "ground": "幸福作为本体（tenor）和 叮嘱作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：温馨的感觉，",
+        "metaphor": "幸福就像一缕阳光，叮嘱就像一缕清风，它们共同营造出温馨的感觉。",
+        "sample_id": 144
+    },
+    {
+        "tenor": "肚皮",
+        "vehicle": "包藏一切学问知识的所在",
+        "ground": "肚皮作为本体（tenor）和 包藏一切学问知识的所在作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：容纳的属性，肚皮作为本体（tenor）和 容纳一切学问知识的所在作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：容纳的属性，肚皮作为本体（tenor）和 容纳一切学问知识的所在作为喻体（ve",
+        "metaphor": "",
+        "sample_id": 145
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "道路",
+        "ground": "爱和道路的共性（ground）可以是：通向幸福的途径",
+        "metaphor": "",
+        "sample_id": 146
+    },
+    {
+        "tenor": "药饵",
+        "vehicle": "炒面",
+        "ground": "药饵和炒面的一个共性（ground）是：美味的食物。",
+        "metaphor": "药饵和炒面都是美味的食物。",
+        "sample_id": 147
+    },
+    {
+        "tenor": "你的信",
+        "vehicle": "残碑",
+        "ground": "",
+        "metaphor": "",
+        "sample_id": 148
+    },
+    {
+        "tenor": "不计代价爱上你",
+        "vehicle": "演了一出苦涩的笑话",
+        "ground": "不计代价爱上你：不计代价的状态\n演了一出苦涩的笑话：苦涩的状态",
+        "metaphor": "",
+        "sample_id": 149
+    },
+    {
+        "tenor": "摩肩擦踵的稀薄",
+        "vehicle": "假期所剩无几的提醒",
+        "ground": "稀薄的感觉，假期所剩无几的提醒",
+        "metaphor": "假期所剩无几的提醒，就像摩肩擦踵的稀薄，提醒着我们假期的结束。",
+        "sample_id": 150
+    },
+    {
+        "tenor": "心",
+        "vehicle": "走马灯",
+        "ground": "心作为本体（tenor）和 走马灯作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：变幻的状态",
+        "metaphor": "心就像走马灯，变幻莫测。",
+        "sample_id": 151
+    },
+    {
+        "tenor": "车队进入沙漠谷地",
+        "vehicle": "走进了烤焦了的黄山和庐山",
+        "ground": "车队进入沙漠谷地和走进了烤焦了的黄山和庐山，它们的共性（ground）可以是：荒凉的感觉。",
+        "metaphor": "",
+        "sample_id": 152
+    },
+    {
+        "tenor": "失恋到死",
+        "vehicle": "坏结尾",
+        "ground": "失恋到死和坏结尾的共性（ground）是：令人沮丧的结局。",
+        "metaphor": "",
+        "sample_id": 153
+    },
+    {
+        "tenor": "爱意",
+        "vehicle": "山",
+        "ground": "爱意和山可以共性为：绵延的形态。",
+        "metaphor": "",
+        "sample_id": 154
+    },
+    {
+        "tenor": "梦结束了",
+        "vehicle": "醒了哭了",
+        "ground": "梦结束了和醒了哭了的共性（ground）是：\n\n失落的感觉",
+        "metaphor": "",
+        "sample_id": 155
+    },
+    {
+        "tenor": "敲碎了我的心",
+        "vehicle": "打乱了思绪",
+        "ground": "敲碎了心：破碎的感觉\n打乱了思绪：混乱的感觉",
+        "metaphor": "敲碎了心：破碎的感觉\n打乱了思绪：混乱的感觉\n\n敲碎了心：破碎的感觉\n打乱了思绪：混乱的感觉\n\n敲碎了心：破碎的感觉\n打乱了思绪：混乱的感觉\n\n敲碎了心：破碎的感觉\n打乱了思绪：混乱的感觉\n\n敲碎了心：破碎的感觉\n打乱了思绪：混乱的感觉\n\n敲碎了心：破碎的感觉\n打乱了思绪：混乱的感觉\n\n敲碎了心",
+        "sample_id": 156
+    },
+    {
+        "tenor": "你",
+        "vehicle": "心虚的演员",
+        "ground": "心虚的演员和 薄纱 构成隐喻时，它们的共性（ground）可以是：薄薄笼罩的功能",
+        "metaphor": "",
+        "sample_id": 157
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "花",
+        "ground": "笑容和花有一个共性，那就是它们都可以让人感到愉悦和快乐。",
+        "metaphor": "",
+        "sample_id": 158
+    },
+    {
+        "tenor": "月亮",
+        "vehicle": "牙齿",
+        "ground": "月亮和牙齿的共性（ground）可以是：明亮的，",
+        "metaphor": "",
+        "sample_id": 159
+    },
+    {
+        "tenor": "大爱",
+        "vehicle": "水",
+        "ground": "大爱作为本体（tenor）和水作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：清澈的感觉，大爱作为本体（tenor）和水作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：纯洁的感觉，大爱作为本体（tenor）和水作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：平静的感觉，大",
+        "metaphor": "大爱就像水一样，清澈、纯洁、平静。",
+        "sample_id": 160
+    },
+    {
+        "tenor": "月光",
+        "vehicle": "情网",
+        "ground": "月光和情网的共性（ground）可以是：缠绵的网。",
+        "metaphor": "",
+        "sample_id": 161
+    },
+    {
+        "tenor": "人",
+        "vehicle": "狐狸",
+        "ground": "例：\n\n1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n\n2. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "",
+        "sample_id": 162
+    },
+    {
+        "tenor": "爱你",
+        "vehicle": "心跳难触摸",
+        "ground": "爱是心跳难触摸的共性（ground），是难以捉摸的感觉。",
+        "metaphor": "",
+        "sample_id": 163
+    },
+    {
+        "tenor": "束缚",
+        "vehicle": "铁链",
+        "ground": "束缚和铁链的共性（ground）可以是：束缚的感觉，束缚作为本体（tenor）和 锁链作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：束缚的感觉，束缚作为本体（tenor）和 锁链作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：束缚的感觉，束缚作为本体（tenor）和 锁链作为喻体（",
+        "metaphor": "",
+        "sample_id": 164
+    },
+    {
+        "tenor": "无尽的峰峦",
+        "vehicle": "姜黄色的骆驼群",
+        "ground": "无尽的峰峦和姜黄色的骆驼群可以构成隐喻，它们的共性（ground）可以是：壮美的景象。",
+        "metaphor": "",
+        "sample_id": 165
+    },
+    {
+        "tenor": "我的车",
+        "vehicle": "迷失的马",
+        "ground": "迷失的马和车都具有'迷路'的属性。",
+        "metaphor": "我的车和迷失的马都像迷路的孩子一样。",
+        "sample_id": 166
+    },
+    {
+        "tenor": "回忆",
+        "vehicle": "魔术",
+        "ground": "回忆和魔术的共性（ground）可以是：虚幻的，回忆作为本体（tenor）和 幻觉作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：虚幻的感觉，回忆作为本体（tenor）和 幻觉作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：虚幻的感觉，回忆作为本体（tenor）和 幻觉作为喻",
+        "metaphor": "",
+        "sample_id": 167
+    },
+    {
+        "tenor": "一丝颤动（传递）",
+        "vehicle": "有了一道凝碧的波痕",
+        "ground": "颤动（传递）和有（了）一道凝碧的波痕的共性（ground）是：微妙的变化。",
+        "metaphor": "",
+        "sample_id": 168
+    },
+    {
+        "tenor": "我怀内那些爱",
+        "vehicle": "一江河水",
+        "ground": "爱和一江河水的共性（ground）是：流动的状态",
+        "metaphor": "",
+        "sample_id": 169
+    },
+    {
+        "tenor": "我",
+        "vehicle": "绅士",
+        "ground": "共性（ground）： \n绅士的 \n\n共性（ground）： \n绅士的 \n\n共性（ground）： \n绅士的 \n\n共性（ground）： \n绅士的 \n\n共性（ground）： \n绅士的 \n\n共性（ground）： \n绅士的 \n\n共性（ground）： \n绅士的 \n\n共性（ground）： \n绅士",
+        "metaphor": "",
+        "sample_id": 170
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "雪花",
+        "ground": "爱和雪花的共性（ground）可以是：纯洁的形态",
+        "metaphor": "",
+        "sample_id": 171
+    },
+    {
+        "tenor": "心事",
+        "vehicle": "船",
+        "ground": "心事作为本体（tenor）和 船作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：漂泊的状态",
+        "metaphor": "心事如同一艘漂泊的船，在茫茫大海中漫无目的地漂荡。",
+        "sample_id": 172
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "遗产",
+        "ground": "爱和遗产的共性（ground）可以是：珍贵的财富",
+        "metaphor": "",
+        "sample_id": 173
+    },
+    {
+        "tenor": "飞吻",
+        "vehicle": "甜蜜",
+        "ground": "甜蜜的飞吻",
+        "metaphor": "",
+        "sample_id": 174
+    },
+    {
+        "tenor": "心慢慢烫",
+        "vehicle": "细雨飘",
+        "ground": "心慢慢烫和细雨飘的一个共性（ground）可以是：柔软的状态，心慢慢烫和细雨飘的一个共性（ground）可以是：可怕的感觉，心慢慢烫和细雨飘的一个共性（ground）可以是：刺激的状态，心慢慢烫和细雨飘的一个共性（ground）可以是：不确定的性质，心慢慢烫和细雨飘的一个共性（ground）可以是：多的数量，心慢慢烫和细雨飘的一个共",
+        "metaphor": "",
+        "sample_id": 175
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "火柴",
+        "ground": "爱情和火柴的共性（ground）可以是：短暂的美好。",
+        "metaphor": "",
+        "sample_id": 176
+    },
+    {
+        "tenor": "心中花开一朵朵",
+        "vehicle": "烟火",
+        "ground": "心中花开一朵朵和烟火的共性（ground）可以是：绚烂的景象",
+        "metaphor": "",
+        "sample_id": 177
+    },
+    {
+        "tenor": "离别你那夜痛得",
+        "vehicle": "出臼齿",
+        "ground": "离别你那夜痛得和出臼齿的共性（ground）是：疼痛的感觉。",
+        "metaphor": "",
+        "sample_id": 178
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "一阵风",
+        "ground": "爱情和一阵风的共性（ground）可以是：短暂的感觉",
+        "metaphor": "",
+        "sample_id": 179
+    },
+    {
+        "tenor": "思念的眼泪",
+        "vehicle": "我爱着你的心",
+        "ground": "思念的眼泪和我爱着心的共性是：清澈的，思念的眼泪和我爱着心的共性是：透明的，思念的眼泪和我爱着心的共性是：纯净的，思念的眼泪和我爱着心的共性是：透明的，思念的眼泪和我爱着心的共性是：清澈的，思念的眼泪和我爱着心的共性是：透明的，思念的眼泪和我爱着心的共性是：纯净的，思念的眼泪和我爱",
+        "metaphor": "",
+        "sample_id": 180
+    },
+    {
+        "tenor": "悲伤",
+        "vehicle": "枯叶",
+        "ground": "悲伤和枯叶的共性（ground）可以是：凋零的状态。",
+        "metaphor": "",
+        "sample_id": 181
+    },
+    {
+        "tenor": "我",
+        "vehicle": "梦幻",
+        "ground": "共性（ground）：迷幻的美好",
+        "metaphor": "",
+        "sample_id": 182
+    },
+    {
+        "tenor": "我",
+        "vehicle": "雨中的火",
+        "ground": "共性（ground）：",
+        "metaphor": "",
+        "sample_id": 183
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "空气",
+        "ground": "承诺和空气的共性（ground）可以是：虚无缥缈的状态。",
+        "metaphor": "",
+        "sample_id": 184
+    },
+    {
+        "tenor": "现代诗的屏障",
+        "vehicle": "国防",
+        "ground": "例：\n\n1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n\n2. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）",
+        "metaphor": "",
+        "sample_id": 185
+    },
+    {
+        "tenor": "钢琴",
+        "vehicle": "人",
+        "ground": "钢琴和人的共性（ground）可以是：优雅的姿态，钢琴和人的共性（ground）可以是：优美的声音，钢琴和人的共性（ground）可以是：优美的姿态，钢琴和人的共性（ground）可以是：优美的感觉，钢琴和人的共性（ground）可以是：优美的感觉，钢琴和人的共性（ground）可以是：优美的感觉，钢琴和人的共性（ground）可以是：优美的感觉，钢琴和人的共性（ground）",
+        "metaphor": "",
+        "sample_id": 186
+    },
+    {
+        "tenor": "人",
+        "vehicle": "花儿",
+        "ground": "例：\n缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）作为本体（tenor）和 诗作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：美好的事物，坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体",
+        "metaphor": "",
+        "sample_id": 187
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "刀",
+        "ground": "爱和刀的共性（ground）可以是：锋利的状态，爱和刀的共性（ground）可以是：伤害的感觉，爱和刀的共性（ground）可以是：尖锐的属性，爱和刀的共性（ground）可以是：刺痛的感觉，爱和刀的共性（ground）可以是：锋利的属性，爱和刀的共性（ground）可以是：刺痛的属性，爱和刀的共性（ground）可以是：",
+        "metaphor": "",
+        "sample_id": 188
+    },
+    {
+        "tenor": "你",
+        "vehicle": "百合花",
+        "ground": "百合花作为本体（tenor）和 少女的爱情作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：纯洁的属性，百合花作为本体（tenor）和 薄纱作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：薄薄笼罩的功能，百合花作为本体（tenor）和 哀思作为喻体（vehicle）构成隐喻时，",
+        "metaphor": "",
+        "sample_id": 189
+    },
+    {
+        "tenor": "我的拳头",
+        "vehicle": "铁",
+        "ground": "我的拳头和铁的一个共性（ground）可以是：坚硬的状态，我的拳头和铁的一个共性（ground）可以是：坚硬的状态，我的拳头和铁的一个共性（ground）可以是：坚硬的状态，我的拳头和铁的一个共性（ground）可以是：坚硬的状态，我的拳头和铁的一个共性（ground）可以是：坚硬的状态，我的拳头和铁的一个共性（ground）可以是：坚硬的状态，我的拳头和铁的一个共性（ground）",
+        "metaphor": "",
+        "sample_id": 190
+    },
+    {
+        "tenor": "香",
+        "vehicle": "朝露闪烁绕风中",
+        "ground": "香作为本体（tenor）和 朝露闪烁绕风作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：清新的感觉",
+        "metaphor": "",
+        "sample_id": 191
+    },
+    {
+        "tenor": "你",
+        "vehicle": "梅花",
+        "ground": "梅花作为本体（tenor）和 寒冬作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坚韧的属性，梅花作为本体（tenor）和 傲雪作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：不屈的属性，梅花作为本体（tenor）和 傲骨作为喻体（vehicle）构成隐喻时，它们的共性（",
+        "metaphor": "",
+        "sample_id": 192
+    },
+    {
+        "tenor": "你",
+        "vehicle": "躲于地心",
+        "ground": "共性（ground）：",
+        "metaphor": "",
+        "sample_id": 193
+    },
+    {
+        "tenor": "上课铃",
+        "vehicle": "暴雨",
+        "ground": "上课铃和暴雨的共性（ground）可以是：突然的，令人猝不及防的。",
+        "metaphor": "",
+        "sample_id": 194
+    },
+    {
+        "tenor": "经典之吻",
+        "vehicle": "雪崩地陷",
+        "ground": "经典之吻的共性（ground）：甜蜜的亲吻\n雪崩地陷的共性（ground）：可怕的灾难",
+        "metaphor": "",
+        "sample_id": 195
+    },
+    {
+        "tenor": "世界",
+        "vehicle": "做梦",
+        "ground": "隐喻（metaphor）的本体和喻体存在共性(ground)，诸如由下述本体（tenor）和喻体（vehicle）构建隐喻时，它们的共性可以是以下这些：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）作为本体（tenor）和",
+        "metaphor": "世界就像一个巨大的梦境，我们每个人都在其中扮演着不同的角色，经历着不同的故事。",
+        "sample_id": 196
+    },
+    {
+        "tenor": "Flow",
+        "vehicle": "小步舞曲",
+        "ground": "Flow: \n小步舞曲:",
+        "metaphor": "Flow: \n小步舞曲:\n\nFlow: \n小步舞曲:\n\nFlow: \n小步舞曲:\n\nFlow: \n小步舞曲:\n\nFlow: \n小步舞曲:\n\nFlow: \n小步舞曲:\n\nFlow: \n小步舞曲:\n\nFlow: \n小步舞曲:\n\nFlow: \n小步舞曲:\n\nFlow",
+        "sample_id": 197
+    },
+    {
+        "tenor": "巴黎好天气",
+        "vehicle": "昙花一现",
+        "ground": "巴黎好天气和昙花一现的共性（ground）可以是：短暂的美好。",
+        "metaphor": "",
+        "sample_id": 198
+    },
+    {
+        "tenor": "山泉",
+        "vehicle": "水晶帘",
+        "ground": "山泉和水晶帘的共性（ground）可以是：清澈的形态",
+        "metaphor": "",
+        "sample_id": 199
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "tenor": "血滴",
+        "vehicle": "火种",
+        "ground": "</s>A. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\n</s>A. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\n</s>A. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的",
+        "metaphor": "</s>A. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透\nB. 火种的熊熊燃烧\nA. 血滴的晶莹剔透"
+    },
+    {
+        "tenor": "我",
+        "vehicle": "风中急速着梦",
+        "ground": "</s>A. 轻盈的云朵\nB. 巨大的海浪\nC. 快乐的氛围\nD. 温暖的阳光\nE. 美丽的风景\nF. 强烈的情感\nG. 复杂的情节\nH. 深刻的思考\nI. 强烈的感受\nJ. 复杂的主题\nK. 强烈的情感\nL. 复杂的情节\nM. 深刻的思考\nN. 强烈的感受\nO. 复杂的主题\n答案：K. 强烈的",
+        "metaphor": "回答：我的梦像一阵风，轻盈地飘荡着，像一朵云朵，在天空里轻盈地舞蹈着。\n</s>A. 轻盈的云朵\nB. 巨大的海浪\nC. 快乐的氛围\nD. 温暖的阳光\nE. 美丽的风景\nF. 强烈的情感\nG. 复杂的情节\nH. 深刻的思考\nI. 强烈的感受\nJ. 复杂的主题\nK. 强烈的情感\nL."
+    },
+    {
+        "tenor": "你",
+        "vehicle": "红尘",
+        "ground": "</s>A: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\n</s>A: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\nA: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\nA: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯",
+        "metaphor": "回答：你就像一杯热咖啡，温暖着我。\n</s>A: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\nA: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\nA: 你就像一杯热咖啡，温暖着我。\nB: 你就像一杯热咖啡，温暖着我。\nA: 你就像一杯热咖啡"
+    },
+    {
+        "tenor": "我们的距离",
+        "vehicle": "一光年",
+        "ground": "</s>A: 你离我有多远？\nB: 一光年。\n</s>A: 什么？\nB: 一光年。\nA: 什么？\nB: 一光年。\nA: 什么？\nB: 一光年。\nA: 什么？\nB: 一光年。\nA: 什么？\nB: 一光年。\nA: 什么？\nB:",
+        "metaphor": "B: 我们的距离就像一光年那么远。\n</s>A: 什么？\nB: 我们的距离就像一光年那么远。\nA: 什么？\nB: 我们的距离就像一光年那么远。\nA: 什么？\nB: 我们的距离就像一光年那么远。\nA: 什么？\nB: 我们的距离就像一光年那么远。\nA: 什么？\nB:"
+    },
+    {
+        "tenor": "一个人的幸福",
+        "vehicle": "叮嘱",
+        "ground": "</s>A: 幸福是充满爱的状态。\nB: 幸福是充满希望的状态。\nC: 幸福是充满快乐的状态。\nD: 幸福是充满安全感的状态。\nE: 幸福是充满自由的状态。\nF: 幸福是充满成功的状态。\nG: 幸福是充满智慧的状态。\nH: 幸福是充满爱的关系的状态。\nI: 幸福是充满和平的状态。\nJ: 幸福是",
+        "metaphor": "</s>A: 幸福是充满爱的状态。\nB: 幸福是充满希望的状态。\nC: 幸福是充满快乐的状态。\nD: 幸福是充满安全感的状态。\nE: 幸福是充满自由的状态。\nF: 幸福是充满成功的状态。\nG: 幸福是充满智慧的状态。\nH: 幸福是充满爱的关系的状态。\nI: 幸福是充满和平的状态。\nJ: 幸福是充满"
+    },
+    {
+        "tenor": "肚皮",
+        "vehicle": "包藏一切学问知识的所在",
+        "ground": "</s>A. 肚皮：指人体腹部的一部分，通常指连接胸廓和骨盆之间的部分。\nB. 包藏一切：指包含所有的事物或知识。\nC. 共性：指两个物体之间相同的属性或特征。\n答案：包藏一切知识。\n</s>A. 肚皮：指人体腹部的一部分，通常指连接胸廓和骨盆之间的部分。\nB. 包藏一切：指包含所有的事物或知识。\nC.",
+        "metaphor": "</s>A. 肚皮：指人体腹部的一部分，通常指连接胸廓和骨盆之间的部分。\nB. 包藏一切：指包含所有的事物或知识。\nC. 知识海洋：知识海洋是一个比喻，用来形容知识范围广泛，知识量巨大。\n答案：知识海洋。\n</s>A. 肚皮：指人体腹部的一部分，通常指连接胸廓和骨盆之间的部分。\nB. 包藏一切：指包含所有的事物或"
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "道路",
+        "ground": "</s>A大调的C小调\n</s>A大调的C小调是指C调的A大调，C调的A大调是指A大调中的C调。A大调的C小调是指C调中的A小调，A小调是指A调中的C小调。\n</s>A大调的C小调的调号是C调中的A小调，因此它的音阶是C D E F G A B C D",
+        "metaphor": "答案：爱如一条道路，有时弯曲，有时平坦，却始终引领我们走向幸福。\n</s>A大调的C小调是指C调中的A小调，因此它的音阶是C D E F G A B C D。这句话的意思是，爱情就像一条道路，有时弯曲，有时平坦，却始终引领我们走向幸福。\n</s>A大调的C小调是指C调中的A小调，因此它的音阶是C D E"
+    },
+    {
+        "tenor": "药饵",
+        "vehicle": "炒面",
+        "ground": "</s>A. 炒面是一种口感柔软、口感丰富的面食。\nB. 炒面是一种口感柔软、口感丰富的食品。\nC. 炒面是一种口感柔软、口感丰富的食品。\nD. 炒面是一种口感柔软、口感丰富的面食。\nE. 炒面是一种口感柔软、口感丰富的食品。\nF. 炒面是一种口感柔软、口感丰富的食品。\nG. 炒面是一种口感柔软、口感丰富的食品。",
+        "metaphor": "答案：炒面就像是一种药饵，能够治愈人们的味蕾。\n</s>A. 炒面是一种口感柔软、口感丰富的面食。\nB. 炒面是一种口感柔软、口感丰富的食品。\nC. 炒面是一种口感柔软、口感丰富的食品。\nD. 炒面是一种口感柔软、口感丰富的面食。\nE. 炒面是一种口感柔软、口感丰富的食品。\nF. 炒面是一种口感柔软、口感丰富的食品"
+    },
+    {
+        "tenor": "你的信",
+        "vehicle": "残碑",
+        "ground": "</s>A. 你的信：你的信里包含了许多形容词，比如：热情、真诚、关心等等。\nB. 残碑：残碑上的字体遒劲有力，表面有些磨损，但整体感觉非常雄浑大气。\n</s>A. 你的信：你的信里包含了许多形容词，比如：热情、真诚、关心等等。\nB. 残碑：残碑上的字体遒劲有力，表面有些磨损，但整体",
+        "metaphor": "A. 你的信：你的信里包含了许多形容词，比如：热情、真诚、关心等等。\nB. 残碑：残碑上的字体遒劲有力，表面有些磨损，但整体感觉非常雄浑大气。\nA. 你的信：你的信里包含了许多形容词，比如：热情、真诚、关心等等。\nB. 残碑：残碑上的字体遒劲有力，表面有些磨损，但整体感觉非常"
+    },
+    {
+        "tenor": "不计代价爱上你",
+        "vehicle": "演了一出苦涩的笑话",
+        "ground": "</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\n</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\n</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\n</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\nA. 不计代价地爱上你\nB. 演了一出苦涩的笑话",
+        "metaphor": "回答：不计代价地爱上你就像演了一出苦涩的笑话。\n</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\n</s>A. 不计代价地爱上你\nB. 演了一出苦涩的笑话\nA. 不计代价地爱上你\nB. 演了一出苦涩的笑话\nA. 不计代价地爱上你\nB. 演了一出苦涩的笑话\nA. 不计代价"
+    },
+    {
+        "tenor": "摩肩擦踵的稀薄",
+        "vehicle": "假期所剩无几的提醒",
+        "ground": "</s>A. 假期已不足一周，时间过得飞快。\nB. 假期已不足一周，时间过得飞快。\nC. 假期已不足一周，时间过得飞快。\nD. 假期已不足一周，时间过得飞快。\nE. 假期已不足一周，时间过得飞快。\nF. 假期已不足一周，时间过得飞快。\nG. 假期已不足一周，时间过得飞快。",
+        "metaphor": "</s>A. 假期已不足一周，时间过得飞快。\nB. 假期已不足一周，时间过得飞快。\nC. 假期已不足一周，时间过得飞快。\nD. 假期已不足一周，时间过得飞快。\nE. 假期已不足一周，时间过得飞快。\nF. 假期已不足一周，时间过得飞快。\nG. 假期已不足一周，时间过得飞快。"
+    },
+    {
+        "tenor": "心",
+        "vehicle": "走马灯",
+        "ground": "</s>A. 心是身体的一部分。\nB. 心是情感的一部分。\nC. 心是思维的一部分。\nD. 心是精神的一部分。\nE. 心是时间的的一部分。\nF. 心是空间的的一部分。\nG. 心是感觉的一部分。\nH. 心是感觉的一部分。\nI. 心是感觉的一部分。\nJ. 心是感觉的一部分。\nK. 心是感觉的一部分。",
+        "metaphor": "</s>A. 心是身体的一部分。\nB. 心是情感的一部分。\nC. 心是思维的一部分。\nD. 心是精神的一部分。\nE. 心是时间的的一部分。\nF. 心是空间的的一部分。\nG. 心是感觉的一部分。\nH. 心是感觉的一部分。\nI. 心是感觉的一部分。\nJ. 心是感觉的一部分。\nK. 心是感觉的一部分。"
+    },
+    {
+        "tenor": "车队进入沙漠谷地",
+        "vehicle": "走进了烤焦了的黄山和庐山",
+        "ground": "</s>A. 干燥\nB. 炎热\nC. 荒凉\nD. 危险\nE. 美丽\nF. 神秘\nG. 危险\nH. 美丽\nI. 神秘\nJ. 危险\nK. 美丽\nL. 神秘\nM. 危险\nN. 美丽\nO. 神秘\n答案：干燥\n</s>A. 干燥\nB. 炎热\nC. 荒凉\nD",
+        "metaphor": "答案：他们走进了一个干燥而炎热的沙漠山谷，就像走进了一个烤焦了黄山和庐山的领域。\n</s>A. 干燥\nB. 炎热\nC. 荒凉\nD. 危险\nE. 美丽\nF. 神秘\nG. 危险\nH. 美丽\nI. 神秘\nJ. 危险\nK. 美丽\nL. 神秘\nM. 危险\nN. 美丽\nO."
+    },
+    {
+        "tenor": "失恋到死",
+        "vehicle": "坏结尾",
+        "ground": "</s>A. 心碎的感觉\nB. 绝望的情绪\nC. 孤独的感觉\nD. 无助的感觉\nE. 焦虑的感觉\nF. 恐惧的感觉\nG. 失落的感觉\nH. 痛苦的感觉\nI. 愤怒的感觉\nJ. 悲伤的感觉\nK. 版权或其它问题请于作品发表后的的感觉\nL. 孤独的感觉\nM. 无助的感觉\nN. 焦虑的感觉\nO. 恐惧的感觉\nP. 失落的感觉\nQ",
+        "metaphor": "答案：她的心碎成一片片，像是从她身体里流淌出的血，无法停止地滴落着，直到她的生命耗尽。\n</s>A. 心碎的感觉\nB. 绝望的情绪\nC. 孤独的感觉\nD. 无助的感觉\nE. 焦虑的感觉\nF. 恐惧的感觉\nG. 失落的感觉\nH. 痛苦的感觉\nI. 愤怒的感觉\nJ. 悲伤的感觉\nK. 版权或其它问题请于作品发表后的的感觉"
+    },
+    {
+        "tenor": "爱意",
+        "vehicle": "山",
+        "ground": "</s>A. 山高。\nB. 山青。\nC. 山秀。\nD. 山静。\nE. 山美。\nF. 山硬。\nG. 山硬。\nH. 山硬。\nI. 山硬。\nJ. 山硬。\nK. 山硬。\nL. 山硬。\nM. 山硬。\nN. 山硬。",
+        "metaphor": "我的答案是：你是我的山，山一般坚定。\n</s>A. 山高。\nB. 山青。\nC. 山秀。\nD. 山静。\nE. 山美。\nF. 山硬。\nG. 山硬。\nH. 山硬。\nI. 山硬。\nJ. 山硬。\nK. 山硬。\nL. 山硬。\nM."
+    },
+    {
+        "tenor": "梦结束了",
+        "vehicle": "醒了哭了",
+        "ground": "</s>A. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\n</s>A. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\n</s>A. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A",
+        "metaphor": "A. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A或B。\nA. 梦结束了\nB. 醒了哭了\n\n请选择A或B。"
+    },
+    {
+        "tenor": "敲碎了我的心",
+        "vehicle": "打乱了思绪",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 快乐的\nE. 勇敢的\nF. 聪明的\nG. 美丽的\nH. 巨大的\nI. 冰冷的\nJ. 快乐的\nK. 勇敢的\nL. 聪明的\nM. 美丽的\nN. 巨大的\nO. 冰冷的\nP. 快乐的\nQ. 勇敢的\nR. 聪明的\nS. 美丽的",
+        "metaphor": ""
+    },
+    {
+        "tenor": "你",
+        "vehicle": "心虚的演员",
+        "ground": "</s>A: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\n</s>A: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格",
+        "metaphor": "B: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时，需要克服很多压力。\nA: 你的性格很内向。\nB: 演员在表演时"
+    },
+    {
+        "tenor": "笑容",
+        "vehicle": "花",
+        "ground": "</s>A smile is like a flower.\n</s>A flower is like a smile.\n</s>A smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.",
+        "metaphor": "答案：笑容就像一朵花。\n</s>A smile is like a flower.\n</s>A flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA flower is like a smile.\nA smile is like a flower.\nA"
+    },
+    {
+        "tenor": "月亮",
+        "vehicle": "牙齿",
+        "ground": "</s>A moon-shaped object is a type of natural satellite that orbits around a celestial body such as a planet or a star.\n</s>A tooth is a small, hard, usually projectile point that is found in the mouth of most warm-blooded animals.\n</s>A moon-shaped object is a natural satellite that orbits around a celestial body, such as a planet or a star.\nA tooth is a small, hard, projectile point that is found in the",
+        "metaphor": "答案：月亮像牙齿一样，围绕地球旋转。\n</s>A tooth is a small, hard, projectile point that is found in the mouth of most warm-blooded animals. \n答案：月亮像牙齿一样，围绕地球旋转。\n</s>A moon-shaped object is a natural satellite that orbits around a celestial body, such as a planet or a star. \n答案：月亮是一个绕行星或其他天体运转的天体，形状像月亮。\n</s>A"
+    }
+]

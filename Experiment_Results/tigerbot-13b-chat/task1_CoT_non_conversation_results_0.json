@@ -1,0 +1,122 @@
+[
+    {
+        "tenor": "他的温柔",
+        "vehicle": "海洋",
+        "ground": "温柔的形态，",
+        "metaphor": "他像海浪一样温柔。"
+    },
+    {
+        "tenor": "现实",
+        "vehicle": "箭",
+        "ground": "",
+        "metaphor": ""
+    },
+    {
+        "tenor": "语言",
+        "vehicle": "刀",
+        "ground": "1. 刀的共性（ground）：锋利的刀刃\n2. 语言的共性（ground）：表达思想的工具",
+        "metaphor": "语言是思想的刀刃，可以切开迷雾，揭示真相。"
+    },
+    {
+        "tenor": "他的脚印",
+        "vehicle": "落叶",
+        "ground": "脚印和落叶的共性（ground）可以是：痕迹",
+        "metaphor": ""
+    },
+    {
+        "tenor": "你的监察",
+        "vehicle": "潜望镜",
+        "ground": "监察和潜望镜的共性（ground）可以是：观察的功能。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "梭罗河",
+        "vehicle": "画",
+        "ground": "梭罗河和画都具有美丽（beautiful）的属性。",
+        "metaphor": "梭罗河和画都具有美丽（beautiful）的属性。"
+    },
+    {
+        "tenor": "说不出滋味的体会",
+        "vehicle": "我微笑着流泪",
+        "ground": "滋味的体会和我微笑着流泪的共性（ground）是：\n\n感性的状态",
+        "metaphor": ""
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "雨滴",
+        "ground": "爱和雨滴的共性（ground）可以是：滋润的感觉。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "燃尽的烟蒂",
+        "vehicle": "抽身的代价",
+        "ground": "燃尽的烟蒂和抽身的代价的共性（ground）可以是：痛苦的感觉。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "火星",
+        "vehicle": "泪滴",
+        "ground": "火星和泪滴的共性（ground）可以是：灼热的状态。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "爱情",
+        "vehicle": "苦咖啡",
+        "ground": "苦咖啡的苦涩味道和爱情的苦涩感觉有共性。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "事物",
+        "vehicle": "梦魇",
+        "ground": "1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坦然的形态\n3. 薄薄笼罩的功能",
+        "metaphor": ""
+    },
+    {
+        "tenor": "我得不到你的爱情",
+        "vehicle": "春花没有雨淋",
+        "ground": "得不到你的爱情和春花没有雨淋的共性（ground）是：没有得到想要的东西。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "白云",
+        "vehicle": "棉花糖",
+        "ground": "白云和棉花糖的共性（ground）可以是：柔软的形态。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "你的身影",
+        "vehicle": "水草",
+        "ground": "例：缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）作为本体（tenor）和 诗作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：美好的事物，坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（",
+        "metaphor": "我的身影在水草中摇曳，就像一条鱼在海浪中穿梭。"
+    },
+    {
+        "tenor": "国王",
+        "vehicle": "牧师的奴隶",
+        "ground": "国王和牧师的奴隶的共性（ground）可以是：被奴役的状态。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "你的消息",
+        "vehicle": "被回顾的事物",
+        "ground": "1. 缠绵作为本体（tenor）和 梦作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：迷幻的美好，浪花推动金色泡沫（的情景）\n2. 坦然哺乳的形态作为本体（tenor）和 三四十年前的村妇作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：坦然的形态\n3. 心作为本体（ten",
+        "metaphor": ""
+    },
+    {
+        "tenor": "时间",
+        "vehicle": "河",
+        "ground": "时间作为本体（tenor）和 河作为喻体（vehicle）构成隐喻时，它们的共性（ground）可以是：流动的状态",
+        "metaphor": "时间像一条河，在生命的长河中，我们像一艘船，在时间的河流中漂泊。"
+    },
+    {
+        "tenor": "成长",
+        "vehicle": "奖赏",
+        "ground": "成长和奖赏的共性（ground）可以是：令人愉悦的体验。",
+        "metaphor": ""
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "象棋",
+        "ground": "人生如棋，棋如人生。人生和象棋的共性（ground）是：博弈。",
+        "metaphor": ""
+    }
+]

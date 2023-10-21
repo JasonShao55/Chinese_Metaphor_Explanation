@@ -1,27 +1,16 @@
 
 # CMDAG: A Chinese Metaphor Dataset with Annotated Grounds 附带标注共性的中文隐喻数据集
+
+This dataset provides a meticulously annotated and rigorously formatted collection of Chinese metaphors (~28k entries). The dataset has undergone expert quality checks and demonstrates universal characteristics. This makes it especially suitable for applications such as pre-training large-scale models.
+
 这是一个经过精心标注、严格格式化的中文隐喻数据集（~28k），该数据集经过专家的质量检查并具有普遍性特征，适合用于大规模模型预训练等应用场景。
 
-This is a meticulously annotated, rigorously formatted Chinese metaphor dataset (~28k) that's been expertly quality-checked and exhibits universal characteristics, making it suitable for applications such as large-scale model pre-training.
-
-*🔍 Read this in [English](README_en.md).*
-
+***🔍 Read this in [English](README_en.md).***
 ## 💹 统计 Statistics
 
 - 平均句子长度 Average sentence length: 59.137
 - 本体-喻体对数量 Number of tenor-vehicle pairs: 36002
 - 总文本数量 Number of total contexts: 27989
-
-## :sunrise: 数据集统计信息可视化 **Visualization:** 
-
-![Tenors Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/14e9a9e3-1d3c-4fea-bf38-f963c6d3ad18)
-![Tenors (English) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/a507d29c-0657-47f9-b94d-d166242e3bc0)
-![Vehicles Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/5c15a5bd-1303-491d-8fec-820c6d17e2ab)
-![Vehicles (English) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/6678e5ec-9148-4b8a-84c6-c222f4969e12)
-![Grounds (Noun) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/c5e264e3-9d37-40c2-9d73-8836cc523ec3)
-![Grounds (Noun) (English) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/b930a5c9-dcab-432d-8494-7b6135fdcc9f)
-![Grounds (Adjective) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/d7ed51cb-14b8-4cbf-87e2-bbd1197740c9)
-![Grounds (Adjective) (English) Word Cloud_word_cloud](https://github.com/JasonShao55/Chinese_Metaphor_Explanation/assets/61415289/1f9a1248-127b-40dd-939d-38ecd2ea7e46)
 
 ## :airplane: 大模型（LLM）实验进度 Large Language Models (LLM) Experiment Progress
 - [X] OpenAI Models🌐
@@ -29,23 +18,62 @@ This is a meticulously annotated, rigorously formatted Chinese metaphor dataset 
   - [X] ChatGPT 4.0 🤖
 - [X] ChatGLM🤓
 - [X] Baichuan🌊
-- [ ] Belle🛎️
-- [ ] Tiger(After instruction tune)🐅
-- [ ] Aquila🦅
-- [ ] Claude🎨
-- [ ] CPM-Bee🐝
-- [ ] Linly🎼
-- [ ] and more...🔍
+- [X] Belle🛎️
+- [X] WenXin🦅
+- [X] TigerBot🐅
+  - [X] TigerBot-7B-Chat🐾
+  - [X] TigerBot-13B-Chat🐾
+- [X] Chinese-alpaca🦙
+  - [X] Chinese-alpaca-7B🏮
+  - [X] Chinese-alpaca-13B🏮
+  - [X] Chinese-alpaca-33B🏮
+- [X] Chinese-alpaca-2🦙
+  - [X] Chinese-alpaca-2-7B🎏
+  - [X] Chinese-alpaca-2-13B🎏
+- [X] chinese-llama2-linly🦙
+  - [X] chinese-llama2-linly-7B🍃
+  - [X] chinese-llama2-linly-13B🍃
+- [X] Qwen-7B-Chat🌟
+- [X] Ziya-LLaMA-13B🌌
 
-💼**模型挑选规则**：
+
+💼**模型挑选规则 Model Selection Criteria：**
 - 🌏 支持中文 Supports Chinese
 - 🔄 版本尽可能新 Uses the latest version as much as possible
 - 🧪 可以进行CoT和Prompt Engineering Can perform CoT and Prompt Engineering
 
-**Model Selection Criteria**
-- Supports Chinese.
-- Uses the latest version as much as possible.
-- Can perform CoT and Prompt Engineering.
+## 📜 人工质检进度 Human evaluation progresss
+
+- [X] OpenAI Models🌐
+  - [X] ChatGPT 3.5 Turbo🤖
+  - [X] ChatGPT 4.0 🤖
+- [X] ChatGLM🤓
+- [X] Baichuan🌊
+- [X] Belle🛎️
+- [X] WenXin🦅
+- [X] TigerBot🐅
+  - [X] TigerBot-7B-Chat🐾
+  - [X] TigerBot-13B-Chat🐾
+- [X] Chinese-alpaca🦙
+  - [X] Chinese-alpaca-7B🏮
+  - [X] Chinese-alpaca-13B🏮
+  - [X] Chinese-alpaca-33B🏮
+- [X] Chinese-alpaca-2🦙
+  - [X] Chinese-alpaca-2-7B🎏
+  - [X] Chinese-alpaca-2-13B🎏
+- [X] chinese-llama2-linly🦙
+  - [X] chinese-llama2-linly-7B🍃
+  - [X] chinese-llama2-linly-13B🍃
+- [X] Qwen-7B-Chat🌟
+- [X] Ziya-LLaMA-13B🌌
+
+💼 **人工质检规则 Human evaluation Criteria：**
+Evaluators rated the output on:
+- Clarity
+- Creativity
+- Idiomatic Expression
+
+And a final score is calculated to determine the quality of the model's output.
 
 ## :earth_asia: 大模型实验细节
 ### 🎯实验目的 Purpose of the Experiment
@@ -98,6 +126,19 @@ To demonstrate that this well-annotated Chinese metaphor dataset, especially wit
     },
 ```
 
+## :sunrise: 数据集统计信息可视化 **Visualization:** 
+
+![Tenors Word Cloud_word_cloud](Visualization/Tenors%20Word%20Cloud_word_cloud.png)
+![Tenors (English) Word Cloud_word_cloud](Visualization/Tenors%20(English)%20Word%20Cloud_word_cloud.png)
+![Vehicles Word Cloud_word_cloud](Visualization/Vehicles%20Word%20Cloud_word_cloud.png)
+![Vehicles (English) Word Cloud_word_cloud](Visualization/Vehicles%20(English)%20Word%20Cloud_word_cloud.png)
+![Grounds (Noun) Word Cloud_word_cloud](Visualization/Grounds%20(Noun)%20Word%20Cloud_word_cloud.png)
+![Grounds (Noun) (English) Word Cloud_word_cloud](Visualization/Grounds%20(Noun)%20(English)%20Word%20Cloud_word_cloud.png)
+![Grounds (Adjective) Word Cloud_word_cloud](Visualization/Grounds%20(Adjective)%20Word%20Cloud_word_cloud.png)
+![Grounds (Adjective) (English) Word Cloud_word_cloud](Visualization/Grounds%20(Adjective)%20(English)%20Word%20Cloud_word_cloud.png)
+
+
+<!-- 
 ## 🖋️ 引用 Reference
 
 如果使用本项目的代码、数据或模型，请引用本项目。
@@ -114,4 +155,4 @@ If you were to use this project's code, dataset, or model please refer to it as 
   howpublished = {\url{https://github.com/JasonShao55/Chinese_Metaphor_Explanation}},
 }
 ```
-
+ -->

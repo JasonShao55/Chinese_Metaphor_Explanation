@@ -1,0 +1,122 @@
+[
+    {
+        "tenor": "思念的眼泪",
+        "vehicle": "</s>A 请参考我给你展示的例子的内容和格式，直接给出思念的眼泪作为主体（主语），和纯净透明的样子作为喻体（喻词）时的一个喻体（喻词），不需要多加任何其他的解释或说明。\n</s>A 请参考我给你展示的例子的内容和格式，直接给出思念的眼泪作为主体（主语），和纯净透明的样子作为喻体（喻词）时的一个喻体（喻词），",
+        "ground": "纯净透明的样子",
+        "metaphor": ""
+    },
+    {
+        "tenor": "悲伤",
+        "vehicle": "</s>A",
+        "ground": "飘落的动作",
+        "metaphor": "答案：A就像一只受伤的小鸟，在伤害中痛苦地挣扎着。\n</s>A就像一只受伤的小鸟，在伤害中痛苦地挣扎着。\n</s>A就像一只受伤的小鸟，在伤害中痛苦地挣扎着。\nA就像一只受伤的小鸟，在伤害中痛苦地挣扎着。\nA就像一只受伤的小鸟，在伤害中痛苦地挣扎着。\nA就像一只受伤的小鸟，在伤害中痛苦地挣扎着。"
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "迷离的我",
+        "metaphor": "回答：我就像一只在沙滩上漫步的猫，而A就像一只在沙滩上奔跑的狗。\n</s>A就像一只在沙滩上奔跑的狗。\n</s>A就像一只在沙滩上奔跑的狗。\nA就像一只在沙滩上奔跑的狗。\nA就像一只在沙滩上奔跑的狗。\nA就像一只在沙滩上奔跑的狗。\nA就像一只在沙滩上奔跑的狗。\nA就像一只在沙滩上奔跑"
+    },
+    {
+        "tenor": "我",
+        "vehicle": "</s>A",
+        "ground": "抗争的品格",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼里的鸟，虽然我们可以飞翔，但我们无法摆脱鸟笼的束缚。\n</s>A就像鸟笼，而我是那只无法越狱的鸟。虽然我可以自由飞翔，但我无法摆脱鸟笼的束缚。\n</s>A就像鸟笼，而我是那只渴望飞翔的鸟。虽然我可以自由飞翔，但我渴望着能够摆脱鸟笼的束缚。\nA就像鸟笼，而我是那只渴望自由的鸟。虽然"
+    },
+    {
+        "tenor": "承诺",
+        "vehicle": "</s>A",
+        "ground": "无迹的踪影",
+        "metaphor": "答案：承诺就像A，虽然它可能无法实现，但它始终在那里，等待着我们去追求。\n</s>A：A是英文单词“抽象”（abstraction）的首字母缩写。抽象是指将具体的事物转化为概念或形式的过程。\n</s>A：A是英文单词“抽象”（abstraction）的首字母缩写。抽象是指将具体的事物转化为概念或形式的过程。\n</s>A：A是英文单词“抽象”（abstraction）"
+    },
+    {
+        "tenor": "现代诗的屏障",
+        "vehicle": "</s>A. 请提供现代诗的屏障作为喻体。\nB. 请提供喻体的共性作为喻体。\nC. 请提供喻体的个性作为喻体。\nD. 请提供喻体的功能作为喻体。\nE. 请提供喻体的情感色彩作为喻体。\nF. 请提供喻体的象征意义作为喻体。\nG. 请提供喻体的比喻意义作为喻体。\nH.",
+        "ground": "坚固的属性",
+        "metaphor": ""
+    },
+    {
+        "tenor": "钢琴",
+        "vehicle": "</s>A. 以钢琴作为本体（tenor），欣赏的感情作为共性（ground）时的一个喻体（vehicle）。\nB. 以钢琴作为本体（tenor），欣赏的感情作为共性（ground）时的一个喻体（vehicle）。\nC. 以钢琴作为本体（tenor），欣赏的感情作为共性（ground）时的一个喻体（vehicle）。\nD. 以钢琴作为本体（tenor），欣赏的感情",
+        "ground": "欣赏的感情",
+        "metaphor": ""
+    },
+    {
+        "tenor": "人",
+        "vehicle": "</s>A",
+        "ground": "美丽的样子",
+        "metaphor": "答案：他像一只狼一样敏锐地观察着周围的环境，像一只鹰一样敏锐地捕捉着每一个机会。\n</s>A：狼\n</s>A：鹰\n</s>A：人\n</s>A：人\n</s>A：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人\nA：人"
+    },
+    {
+        "tenor": "爱",
+        "vehicle": "</s>A",
+        "ground": "残忍的伤害",
+        "metaphor": "答案：她的心就像A一样，虽然美丽却充满痛苦。\n</s>A的多种解释：\n1. 爱（love）\n2. 伤害（hurt）\n3. 渴望（yearn）\n4. 渴望（long）\n5. 渴望（desire）\n6. 渴望（spss）\n7. 渴望（appetite）\n8. 渴望（thirst）\n9. 渴望（hunger"
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "清纯的样子",
+        "metaphor": "回答：我和A就像天空中的云彩，虽然彼此分离，却始终保持着联系。\n</s>A就像天空中的一朵云彩，变化多端，让我感到神秘而美丽。每当我需要的时候，她总是能够给我带来帮助和支持。而我也像天空中的另一朵云彩，在她需要的时候，也会及时出现，为她遮风挡雨。虽然我们的距离很远，但我们的心却始终在一起。\n</s>A就像天空中的一片云彩，她的"
+    },
+    {
+        "tenor": "我的拳头",
+        "vehicle": "</s>A",
+        "ground": "坚硬的利器",
+        "metaphor": "回答：我的拳头就像一把锋利的尖刀，能够轻松刺穿A的防御。\n</s>A的防御就像一层坚硬的铠甲，我的拳头刺进去就像是在攻击铠甲上的一个小孔，虽然疼痛，但是无法伤及其本源。\n我的拳头攻击A的防御就像是在攻击他的心脏，让他感到疼痛和恐惧。\n我的拳头攻击A就像是在攻击他的生命之源，让他感到恐惧和无助。\n我的拳头攻击A就像是在攻击"
+    },
+    {
+        "tenor": "香",
+        "vehicle": "</s>A",
+        "ground": "萦绕的滋味",
+        "metaphor": "答案：A是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。\n</s>A是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。\n</s>A是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。\nA是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。\nA是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。\nA是一种浓郁的香气，它充满了我的房间，让我感到舒适和安全。"
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "常青的生机",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼，虽然鸟笼保护着鸟，但鸟笼同时也限制着鸟的活动范围。\n</s>A就像一只鸟，而我和A的关系就像鸟笼。虽然鸟笼可以保护鸟的安全，但鸟笼同时也限制着鸟的活动范围。鸟虽然可以在笼子里活动，但它始终无法完全自由。我和A的关系也是如此，虽然我们可以在一起，但我们始终无法完全自由。\n</s>A就像一只鸟，而我和"
+    },
+    {
+        "tenor": "你",
+        "vehicle": "</s>A",
+        "ground": "难寻的状态",
+        "metaphor": "回答：我和A就像一只鸟和一只鸟笼里的鸟，虽然我们可以自由飞翔，但我们始终被限制在一个范围内。\n</s>A就像一只鸟，而我和A的关系就像一只鸟笼里的鸟。虽然我们可以自由飞翔，但我们始终被限制在一个范围内。我们虽然可以相互了解，但我们的思想、行为和情感都被限制在一定的范围内。\n</s>A就像一只鸟，而我和A的关系就像一只鸟笼。鸟笼是一种限制，它限制了我们自由"
+    },
+    {
+        "tenor": "上课铃",
+        "vehicle": "</s>A",
+        "ground": "盛大的气势",
+        "metaphor": "答案：上课铃就像A一样，总是按时响起。\n</s>A是一个名词，表示一种动物或昆虫。上课铃是一个名词短语，表示一种声音或信号，通常用于提醒学生上课。因此，这两个词之间有一定的相似性。在这个句子中，上课铃被用来比喻A，表示它总是按时响起。\n</s>A还可以用来比喻一种具有某种特征的人或事物。例如，“他的性格就像A一样，总是那么温和”。在这个句子中，“A"
+    },
+    {
+        "tenor": "经典之吻",
+        "vehicle": "</s>A",
+        "ground": "轰轰烈烈的状态",
+        "metaphor": "答案：经典之吻就像A，虽然简单却充满深情。\n</s>A是一个常见的英语单词，意思是“第一流的”，也可以用来表示“最好的”。在这个句子中，A用来比喻经典之吻，表示它是非常特别、最好的接吻方式。\n</s>A还可以用来比喻某些具有经典意义的事物或事件，比如艺术、文化、音乐等等。例如，“音乐是艺术中的A”，意思是说音乐是一种具有经典意义的艺术形式。\n</s>A还可以用来"
+    },
+    {
+        "tenor": "世界",
+        "vehicle": "</s>A",
+        "ground": "虚幻的感受",
+        "metaphor": "答案：A就像一条河流，不断流淌着，永不停息。\n</s>A就像一条河流，不断流淌着，永不停息。\n</s>A就像一条河流，不断流淌着，永不停息。\nA就像一条河流，不断流淌着，永不停息。\nA就像一条河流，不断流淌着，永不停息。\nA就像一条河流，不断流淌着，永不停息。\nA就像一条河流，不断流淌着，永不停"
+    },
+    {
+        "tenor": "Flow",
+        "vehicle": "</s>A",
+        "ground": "令人舒服的感觉",
+        "metaphor": "答案：Flow就像A，流畅而自然。\n</s>A 是指一种流畅、自然、和谐的感觉，就像在流畅的流动中产生的舒适感。在这个句子中，Flow 是指一种流畅的感觉，而A则是指这种流畅的感觉所带来的舒适感。\n</s>A 还可以表示一种和谐的感觉，就像音乐中的和谐一样。在这个句子中，Flow 也可以表示流畅的感觉，而A则是指流畅的感觉所带来的和谐感。\n</s>A 还可以表示"
+    },
+    {
+        "tenor": "巴黎好天气",
+        "vehicle": "</s>A warm and beautiful day in Paris.\n</s>A warm and beautiful day in Paris.\n</s>A warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in",
+        "ground": "短暂的美好",
+        "metaphor": "</s>A warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in Paris.\nA warm and beautiful day in的比喻（simile）的中文句子。"
+    },
+    {
+        "tenor": "山泉",
+        "vehicle": "</s>Aqueducts are the body of water that run through the mountains and provide water to the people in the valley below. They are like the blood vessels that run through the body, bringing life-giving blood to all parts of the body.\n</s>Aqueducts are also like the lifeblood of a plant, providing it with the water it needs to grow and thrive. They are essential for the survival of all living things, and they are a testament to the ing",
+        "ground": "晶莹的质地",
+        "metaphor": "</s>Aqueducts are the body of water that run through the mountains and provide water to the people in the valley below. They are like the blood vessels that run through the body, bringing life-giving blood to all parts of the body.\nAqueducts are also like the lifeblood of a plant, providing it with the water it needs to grow and thrive. They are essential for the survival of all living things, and they are a testament to the importance of"
+    }
+]

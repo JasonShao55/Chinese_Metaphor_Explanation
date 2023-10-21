@@ -1,0 +1,122 @@
+[
+    {
+        "tenor": "我们",
+        "vehicle": "双翼的神马",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 强大的\nD. 温暖的\nE. 冰冷的\nF. 柔软的\nG. 坚定的\nH. 快乐的\nI. 悲伤的\nJ. 勇敢的\nK. 聪明的\nL. 愚蠢的\nM. 可爱的\nN. 难看的\nO. 好玩的\nP. 无聊的\nQ. 聪明的\nR. 笨拙的",
+        "metaphor": ""
+    },
+    {
+        "tenor": "野性",
+        "vehicle": "浪漫的事情",
+        "ground": "</s>A. 野性的（ground）：野性的。\nB. 浪漫的（ground）：浪漫的。\nC. 可爱的（ground）：可爱的。\nD. 可爱的（ground）：可爱的。\nE. 美丽的（ground）：美丽的。\nF. 美丽的（ground）：美丽的。\nG. 快乐的（ground）：快乐的。\nH. 快乐的（ground）：快乐的。\nI. 神秘的（ground）：",
+        "metaphor": ""
+    },
+    {
+        "tenor": "我们",
+        "vehicle": "水草",
+        "ground": "</s>Aquatic plants are green and lush.\n</s>Aquatic plants are green and lush.\n</s>Aquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and l",
+        "metaphor": "回答：水草是水上的植物，它们像植物一样生长着，但它们的颜色是绿色的，而且非常茂盛。\n</s>Aquatic plants are green and lush.\n</s>Aquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants are green and lush.\nAquatic plants"
+    },
+    {
+        "tenor": "青春时期和爱情相遇",
+        "vehicle": "搭乘列车遇见爱情",
+        "ground": "</s>A. 青春时期遇见爱情时，内心感到幸福和满足。\nB. 青春时期遇见爱情时，内心感到幸福满足，感到爱情是生命中最美好的事情。\nC. 青春时期遇见爱情时，内心感到幸福满足，感到爱情是生命中最美好的事情之一。\nD. 青春时期遇见爱情时，内心感到幸福满足，感到爱情是生命中最美好的事情之一。\nE. 青春时期遇见爱情时，内心感到",
+        "metaphor": "答案：青春时期遇见爱情时，内心感到就像乘坐一辆快速行驶的爱情列车，幸福满足的感觉像是在车窗外不断错过的风景。\n</s>A. 青春时期遇见爱情时，内心感到幸福满足，感到爱情是生命中最美好的事情。\nB. 青春时期遇见爱情时，内心感到幸福满足，感到爱情是生命中最美好的事情之一。\nC. 青春时期遇见爱情时，内心感到幸福满足，感到爱情是生命中最美好的事情"
+    },
+    {
+        "tenor": "往事",
+        "vehicle": "彩虹",
+        "ground": "</s>A: 往事是美好的，而彩虹则是美丽的。\nB: 往事是难忘的，而彩虹则是美丽的。\nC: 往事是美好的，而彩虹则是迷人的。\nD: 往事是美好的，而彩虹则是美丽的。\nE: 往事是美好的，而彩虹则是美丽的。\nF: 往事是美好的，而彩虹则是迷人的。\nG: 往事是美好的，而彩虹则是美丽的。\nH: 往事是美好的，",
+        "metaphor": "答案：往事是美好的，而彩虹则是美丽的。\n</s>A: 往事是美好的，而彩虹则是美丽的。\nB: 往事是难忘的，而彩虹则是美丽的。\nC: 往事是美好的，而彩虹则是迷人的。\nD: 往事是美好的，而彩虹则是美丽的。\nE: 往事是美好的，而彩虹则是美丽的。\nF: 往事是美好的，而彩虹则是迷人的。\nG: 往事是美好的，而"
+    },
+    {
+        "tenor": "我和你",
+        "vehicle": "河两岸",
+        "ground": "</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 温暖的\nE. 有趣的\nF. 无聊的\nG. 好玩的\nH. 难玩的\nI. 好用的\nJ. 版权或其它问题请于作品发表后的的\nK. 好学的\nL. 难学的\nM. 好做的\nN. 难做的\nO. 好吃的\nP. 难吃的\nQ. 好喝的",
+        "metaphor": "回答：河两岸的风景就像我和你之间的关系，美丽而巨大，冰冷的河水则像我们的差异和分歧。\n</s>A. 美丽的\nB. 巨大的\nC. 冰冷的\nD. 温暖的\nE. 有趣的\nF. 无聊的\nG. 好玩的\nH. 难玩的\nI. 好用的\nJ. 领导交办的事项\nK. 好学的\nL. 难学的\nM. 好做的"
+    },
+    {
+        "tenor": "《汇报》副刊的风格",
+        "vehicle": "德国哲学",
+        "ground": "</s>Aufgabe:\n\n请根据以下德国哲学家的思想观点，用的形式，描述他们的思想观点。\n\n1. 康德：认为人类理性具有绝对性和先验性，理性活动是一种绝对命令，理性命令人们应该做什么，而不是人们应该做什么。\n\n2. 黑格尔：认为人类理性是一种绝对命令的力量，理性命令人们应该做什么，而不是人们应该做什么。\n\n3.",
+        "metaphor": ""
+    },
+    {
+        "tenor": "迷茫",
+        "vehicle": "飞沙",
+        "ground": "</s>A. 迷茫的沙漠\nB. 飞沙走石\nC. 风起云涌\nD. 风起云涌的沙漠\nE. 风起云涌的沙漠中的迷茫\nF. 风起云涌的沙漠中的迷茫中的飞沙走石\nG. 风起云涌的沙漠中的迷茫中的飞沙走石中的风起云涌\nH. 风起云涌的沙漠中的迷茫中的飞沙",
+        "metaphor": "</s>A. 我就像在沙漠中迷失了方向一样迷茫。\nB. 风起云涌的沙漠中，我像一只迷途的鸟一样。\nC. 沙漠中的风起云涌让我感到恐惧，就像是在飞沙走石中迷失了方向一样。\nD. 沙漠中的风起云涌让我感到无助，就像是在飞沙走石中迷失了方向一样。\nE. 沙漠中的风起云涌让我"
+    },
+    {
+        "tenor": "人",
+        "vehicle": "木偶",
+        "ground": "</s>A. 美丽的。\nB. 巨大的。\nC. 冰冷的。\nD. 巨大的。\nE. 美丽的。\nF. 冰冷的。\nG. 巨大的。\nH. 美丽的。\nI. 冰冷的。\nJ. 巨大的。\nK. 美丽的。\nL. 冰冷的。\nM. 巨大的。\n答案：A. 美丽的。\n</s>A. 美丽的。\n</s>",
+        "metaphor": "答案：人如同一只美丽的蝴蝶，虽然短暂，却拥有美丽的翅膀。\n</s>A. 美丽的。\nB. 巨大的。\nC. 冰冷的。\nD. 巨大的。\nE. 美丽的。\nF. 冰冷的。\nG. 巨大的。\nH. 美丽的。\nI. 冰冷的。\nJ. 巨大的。\nK. 美丽的。\nL. 冰冷的。\nM. 巨大的"
+    },
+    {
+        "tenor": "雷声",
+        "vehicle": "猛兽",
+        "ground": "</s>Avalon\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\n</s>Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿",
+        "metaphor": "Avalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。\nAvalon是一个英语单词，意思是“阿瓦隆岛”，是英国的一个岛屿。"
+    },
+    {
+        "tenor": "感受",
+        "vehicle": "诗",
+        "ground": "</s>A. 请用一句话描述感受。\nB. 请用一句话描述感受。\nC. 请用一句话描述感受。\nD. 请用一句话描述感受。\nE. 请用一句话描述感受。\nF. 请用一句话描述感受。\nG. 请用一句话描述感受。\nH. 请用一句话描述感受。\nI. 请用一句话描述感受。\nJ. 请用一句话描述感受",
+        "metaphor": "K. 请用一句话描述感受。\nL. 请用一句话描述感受。\nM. 请用一句话描述感受。\nN. 请用一句话描述感受。\nO. 请用一句话描述感受。\nP. 请用一句话描述感受。\nQ. 请用一句话描述感受。\nR. 请用一句话描述感受。\nS. 请用一句话描述感受。\nT. 请用一句话描述感受。"
+    },
+    {
+        "tenor": "人生",
+        "vehicle": "瞬间",
+        "ground": "</s>A. 瞬间\nB. 人生\n</s>A. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB. 人生\nA. 瞬间\nB.",
+        "metaphor": "</s>A. 人生就像一场电影，而瞬间则是电影中的场景。\nB. 人生就像一场梦，而瞬间则是梦中最重要的时刻。\nA. 人生就像一条河流，而瞬间则是其中美丽的浪花。\nB. 人生就像一场旅行，而瞬间则是其中的风景。\nA. 人生就像一场比赛，而瞬间则是其中的机会。\nB. 人生就像一场考试，而瞬间则是其中的答案。\nA. 人生就像"
+    },
+    {
+        "tenor": "上演的剧情",
+        "vehicle": "你",
+        "ground": "</s>A: 他突然感到一阵恐惧，仿佛有什么东西正在跟踪他。\nB: 他感到一阵恐惧，仿佛有什么东西正在跟踪他。\n</s>A: 他感到一阵恐惧，仿佛有什么东西正在跟踪他。\nB: 他感到一阵恐惧，仿佛有什么东西正在跟踪他。\nA: 他感到一阵恐惧，仿佛有什么东西正在跟踪他。\nB: 他感到一阵恐惧，仿佛有什么东西正在跟踪他。",
+        "metaphor": "A: 他感到一阵恐惧，仿佛有什么东西正在跟踪他。\nB: 他感到一阵恐惧，仿佛有什么东西正在跟踪他。\nA: 他感到一阵恐惧，仿佛有什么东西正在跟踪他。\nB: 他感到一阵恐惧，仿佛有什么东西正在跟踪他。\nA: 他感到一阵恐惧，仿佛有什么东西正在跟踪他。\nB: 他感到一阵恐惧，仿佛有什么东西正在跟踪他。\nA:"
+    },
+    {
+        "tenor": "声音挤进耳朵里",
+        "vehicle": "身躯挤进小木盒里",
+        "ground": "</s>A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。\n</s>A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。",
+        "metaphor": "A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。\n</s>A: 声音挤进耳朵里，感觉就像是有无数根针在刺你的耳膜一样。\nB: 身躯挤进小木盒里，感觉就像是有无数根头发丝在勒你的皮肤一样。"
+    },
+    {
+        "tenor": "太阳",
+        "vehicle": "人",
+        "ground": "</s>Astronomy is the study of celestial objects and phenomena.\n</s>Astronomy is the study of celestial objects and phenomena.\n</s>Astronomy is the study of celestial objects and phenomena.\nAstronomy is the study of celestial objects and phenomena.\nAstronomy is the study of celestial objects and phenomena.\nAstronomy is the study of celestial objects and phenomena.\nAstronomy is the study of celestial objects and phenomena",
+        "metaphor": "回答：太阳就像一位温暖而强大的父亲，他的光芒照耀着地球，让生命得以生长。\n</s>Astronomy is the study of celestial objects and phenomena.\n</s>Astronomy is the study of celestial objects and phenomena.\nAstronomy is the study of celestial objects and phenomena.\nAstronomy is the study of celestial objects and phenomena.\nAstronomy is the study of celestial objects and phenomena.\nAstronomy is the"
+    },
+    {
+        "tenor": "你晶莹的双眼",
+        "vehicle": "星星",
+        "ground": "</s>A pair of clear eyes and a star's common ground are both adjectives that can be used to describe the eyes and the star.\n</s>A pair of clear eyes and a star's common ground are both nouns that can be used to describe the eyes and the star.\n</s>A pair of clear eyes and a star's common ground are both verbs that can be used to describe the eyes and the star.\nA pair of clear eyes and a star's common ground",
+        "metaphor": "回答：我的眼睛就像天上的星星一样晶莹剔透。\n</s>A pair of clear eyes and a star's common ground are both adjectives that can be used to describe the eyes and the star. \n我的眼睛就像天上的星星一样晶莹剔透。\n</s>A pair of clear eyes and a star's common ground are both nouns that can be used to describe the eyes and the star. \n我的眼睛就像天上的星星一样晶莹剔透。\nA pair of"
+    },
+    {
+        "tenor": "思念",
+        "vehicle": "流沙",
+        "ground": "思念和流沙的一个共性（ground）可以是：沙丘的。\n</s>A. 思念的沙丘\nB. 流沙的沙漠\nC. 流沙的海洋\nD. 思念的海洋\n\n答案：A. 思念的沙丘\n</s>A. 思念的沙丘\n</s>A. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘",
+        "metaphor": "</s>A. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘\nA. 思念的沙丘\nA."
+    },
+    {
+        "tenor": "乘客的微笑",
+        "vehicle": "亲人的抚照",
+        "ground": "</s>A. 乘客的微笑是美丽的。\nB. 亲人的抚照是温暖的。\nC. 美丽的微笑和温暖的抚照。\nD. 美丽的微笑和温暖的抚照。\nE. 美丽的微笑和温暖的抚照。\nF. 美丽的微笑和温暖的抚照。\nG. 美丽的微笑和温暖的抚照。\nH. 美丽的微笑和温暖的抚照。\nI. 美丽的微笑和温暖的抚照。\nJ",
+        "metaphor": "</s>A. 乘客的微笑是美丽的。\nB. 亲人的抚照是温暖的。\nC. 美丽的微笑和温暖的抚照。\nD. 美丽的微笑和温暖的抚照。\nE. 美丽的微笑和温暖的抚照。\nF. 美丽的微笑和温暖的抚照。\nG. 美丽的微笑和温暖的抚照。\nH. 美丽的微笑和温暖的抚照。\nI. 美丽的微笑和温暖的抚照。\nJ"
+    },
+    {
+        "tenor": "我",
+        "vehicle": "傻瓜",
+        "ground": "</s>A: 你是个傻瓜吗？\nB: 不是的，我是一个聪明的人。\nA: 哦，原来如此。\nB: 不，你并不是个聪明人。\nA: 为什么？\nB: 因为你总是说一些傻话。\nA: 哦，原来如此。\nB: 不，你并不是个聪明人。\nA: 为什么？\nB: 因为你总是说一些傻话。\n</s>A",
+        "metaphor": "答案：我就像个傻瓜一样，总是说一些傻话。\n</s>A: 你是个聪明人吗？\nB: 不是的，我是一个聪明人。\nA: 哦，原来如此。\nB: 不，你并不是个聪明人。\nA: 为什么？\nB: 因为你总是说一些傻话。\nA: 哦，原来如此。\nB: 不，你并不是个聪明人。\nA:"
+    },
+    {
+        "tenor": "你的温柔",
+        "vehicle": "日出",
+        "ground": "</s>A warm sunrise.\n</s>A warm sunrise.\n</s>A warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.\nA warm sunrise.",
+        "metaphor": "回答：\nA warm sunrise is like a gentle embrace, warming my heart and lighting up the day.\n</s>A warm sunrise is like a warm embrace, lighting up the sky and warming my heart.\nA warm sunrise is like a warm embrace, wrapping me in its gentle warmth and lighting up the day.\nA warm sunrise is like a warm embrace, filling me with its gentle warmth and lighting up the sky.\nA warm sunrise is like a warm embrace"
+    }
+]
