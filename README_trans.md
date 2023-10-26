@@ -138,13 +138,22 @@ To demonstrate that this well-annotated Chinese metaphor dataset, especially wit
 ![Grounds (Adjective) (English) Word Cloud_word_cloud](Visualization/Grounds%20(Adjective)%20(English)%20Word%20Cloud_word_cloud.png)
 
 
-<!-- 
+
 ## 🖋️ 引用 Reference
 
 如果使用本项目的代码、数据或模型，请引用本项目。
 
 If you were to use this project's code, dataset, or model please refer to it as following.
+```
+@inproceedings{cn_metaphor_yujie,
+    title     = {CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation},
+    year      = {2024},
+    booktitle = {Proceedings of the LREC-COLING 2024},
+    url       = {https://anonymous.4open.science/r/Chinese_Metaphor_Explanation-63F2},
+}
+```
 
+<!-- 
 ```
 @misc{cn_metaphor_yujie,
   author = {Yujie Shao*, Xinrong Yao*, Ge Zhang, Linyuan Zhang, Zijie Wang, Yifan Liu, Yaoyao Wu, Yunji Liu, Jie Fu+, Shi Wang+},
