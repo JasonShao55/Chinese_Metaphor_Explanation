@@ -130,7 +130,7 @@ Various word clouds depicting the frequency and variety of terms used in the dat
 If you utilize the code, data, or any models from this project, please cite the project as follows:
 ```
 @inproceedings{cn_metaphor_yujie,
-    author    = {Yujie Shao* and Xinrong Yao* and Xingwei Qu* and Chenghua Lin and Shi Wang and Wenhao Huang and Ge Zhang+ and Jie Fu+},
+    author    = {Yujie Shao*, Xinrong Yao*, Xingwei Qu*, Chenghua Lin, Shi Wang, Wenhao Huang, Ge Zhang+, Jie Fu+},
     title     = {CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation},
     year      = {2024},
     booktitle = {Proceedings of the LREC-COLING 2024},
