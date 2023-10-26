@@ -124,18 +124,16 @@ Various word clouds depicting the frequency and variety of terms used in the dat
 ![Grounds (Adjective) Word Cloud_word_cloud](Visualization/Grounds%20(Adjective)%20Word%20Cloud_word_cloud.png)
 ![Grounds (Adjective) (English) Word Cloud_word_cloud](Visualization/Grounds%20(Adjective)%20(English)%20Word%20Cloud_word_cloud.png)
 
-<!-- 
+
 ## 🖋️ Reference
 
 If you utilize the code, data, or any models from this project, please cite the project as follows:
 ```
-@misc{cn_metaphor_yujie,
-author = {Yujie Shao*, Xinrong Yao*, Ge Zhang, Linyuan Zhang, Zijie Wang, Yifan Liu, Yaoyao Wu, Yunji Liu, Jie Fu+, Shi Wang+},
-title = {CMDAG: A Chinese Metaphor Dataset with Annotated Grounds},
-year = {2023},
-publisher = {GitHub},
-journal = {GitHub repository},
-howpublished = {\url{https://github.com/JasonShao55/Chinese_Metaphor_Explanation}},
+@inproceedings{cn_metaphor_yujie,
+    author    = {Yujie Shao* and Xinrong Yao* and Xingwei Qu* and Chenghua Lin and Shi Wang and Wenhao Huang and Ge Zhang+ and Jie Fu+},
+    title     = {CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation},
+    year      = {2024},
+    booktitle = {Proceedings of the LREC-COLING 2024},
+    url       = {https://anonymous.4open.science/r/Chinese_Metaphor_Explanation-63F2},
 }
 ```
- -->
