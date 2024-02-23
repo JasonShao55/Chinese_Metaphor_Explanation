@@ -131,6 +131,7 @@ If you utilize the code, data, or any models from this project, please cite the 
 ```
 @inproceedings{cn_metaphor_yujie,
     title     = {CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation},
+    author    = {Yujie Shao and Xinrong Yao and Xingwei Qu and Chenghua Lin and Shi Wang and Stephen W. Huang and Ge Zhang and Jie Fu},
     year      = {2024},
     booktitle = {Proceedings of the LREC-COLING 2024},
     url       = {https://anonymous.4open.science/r/Chinese_Metaphor_Explanation-63F2},
